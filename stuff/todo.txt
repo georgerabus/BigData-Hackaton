@@ -1,19 +1,14 @@
-1. Excract basic statistics - number of conversations, lengths, frequency, etc.
+1. Research about emotional patterns e.g what is user sentiment, satisfaction etc. And how to train model based on it.
 
-2. Research about emotional patterns 
-e.g what is user sentiment, 
-stisfaction etc. And how to train 
-model based on it.
+2. How to use openai keys etc.
 
-3. Topic and Trends of Interest.
-Extract types of questions, topics, identify trends and other hidden patterns.
+3. Extract types of questions, topics, identify trends and other hidden patterns.
 Identify the most frequently asked questions or discussed topics.
 
-4. Halluciantions from assistant 
-detection.
+4. Prezent the data. For every log and a general raport for performance.
 
-5. Optimize chatbot / improve 
-responses such as which topics to 
+5. Halluciantions from assistant detection.
+
+6. Optimize chatbot / improve responses such as which topics to 
 expand, common sources of confusion for the chatbot, or features that could enhance user satisfaction, or other suggestions.
  
-6. Prezent the data.
