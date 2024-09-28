@@ -12,3 +12,4 @@ Identify the most frequently asked questions or discussed topics.
 6. Optimize chatbot / improve responses such as which topics to 
 expand, common sources of confusion for the chatbot, or features that could enhance user satisfaction, or other suggestions.
  
+7. Add something spicy (harisa)
