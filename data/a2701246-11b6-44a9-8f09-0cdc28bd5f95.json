@@ -1,0 +1,191 @@
+{
+    "client_id": "a2701246-11b6-44a9-8f09-0cdc28bd5f95",
+    "user_id": "38852da5-d4b5-48df-846e-17ce864f1ab8",
+    "details": "",
+    "name": "Luke's AI Assistant",
+    "context_summary": "Luke Scudder's blog, which aims to empower aspiring entrepreneurs with neurological diseases by offering resources, coaching, and community support. It highlights the unique challenges faced by disabled entrepreneurs, such as social isolation and the necessity for customized business strategies, while providing practical guides for launching digital products and balancing health with business activities.",
+    "chat_sessions": {
+        "8acb8802-165b-4f87-8ea9-ae01d626de94": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-12T15:50:32.355659",
+                    "message": "test",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T15:50:33.371993",
+                    "message": "Hey Luke! How can I assist you today? If you have any questions or need help with something, feel free to let me know. 😊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "8acb8802-165b-4f87-8ea9-ae01d626de94",
+            "timestamp": "2024-07-12T15:50:32.355659"
+        },
+        "abf35157-0257-4a67-908f-3c5b2e623681": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-12T16:20:28.963579",
+                    "message": "Who is Luke Scudder?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T16:20:36.159062",
+                    "message": "Luke Scudder is a dedicated life and business coach who specializes in empowering aspiring entrepreneurs managing chronic illnesses. His journey is marked by resilience and a deep commitment to helping others navigate challenging circumstances. Here are some key points about him:\n\n- **Background**: Luke stepped down from his role as Managing Director for an IT company in 2017 to care for his mother following her terminal cancer diagnosis. This experience reinforced his belief in the importance of empathy and support during difficult times.\n- **Education**: He returned to university in 2018 to study Business Management and completed his Higher National Certificate (HNC) in Business Management at the University of Gloucestershire.\n- **Health Challenges**: In 2019, Luke developed multiple neurological conditions, which took over six years to diagnose. Despite these challenges, he persevered and retrained as a life and business coach.\n- **Certifications**: He earned certifications from the American Board of Neuro-Linguistic Programming (ABNLP) and the International Coaching Federation (ICF).\n- **Current Role**: Luke runs LJS Coaching, where he specializes in helping individuals, particularly those managing chronic illnesses, achieve their personal and professional goals. His approach is rooted in empathy, resilience, and continuous growth.\n- **Services**: He offers personalized coaching sessions, workshops, and business development support. He also provides free resources through his online community, Limitless Ascend.\n\nFor more information, you can visit his [website](https://lukescudder.com/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "abf35157-0257-4a67-908f-3c5b2e623681",
+            "timestamp": "2024-07-12T16:20:28.963579"
+        },
+        "ab036fe7-bf54-4218-b008-eb272e7443be": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-12T16:21:57.871514",
+                    "message": "What free resources will help me?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T16:22:06.142259",
+                    "message": "Absolutely, Luke Scudder offers a variety of free resources designed to support aspiring entrepreneurs with chronic illnesses. Here are some of the key resources available:\n\n### Free Resources for Aspiring Entrepreneurs with Chronic Illnesses\n\n#### Webinars & Trainings\nLuke, along with occasional guest speakers, delivers webinars and trainings on various topics, including the importance of acceptance, developing a positive mindset, and building business systems and automations.\n- [View Webinars & Trainings](https://lukescudder.com/free-resources/webinars-trainings)\n\n#### Short Courses\nLuke has created a range of short courses aimed at helping you learn and master specific tasks or topics. These courses are intended to develop your understanding on a foundational level.\n- [View Short Courses](https://lukescudder.com/free-resources/short-courses)\n\n#### Guides & Checklists\nA wide range of guides and checklists are available for download, completely free of charge. These resources aim to help and guide you through particular issues or problems.\n- [View Guides & Checklists](https://lukescudder.com/free-resources/guides-checklists)\n\n#### Luke’s Blog\nThe blog contains articles on a wide range of topics relevant to both aspiring entrepreneurs and those living with chronic illnesses and diseases.\n- [Learn More](https://lukescudder.com/blog/)\n\n#### Limitless Ascend Community\nJoin Limitless Ascend, a free community founded to bring together aspiring entrepreneurs with chronic illnesses or diseases. This community offers networking opportunities, valuable resources, and support on your journey to success.\n- [Join the Community](https://out.lukescudder.com/community)\n\n### Additional Actions\n- **Join Luke’s Newsletter**: Gain access to practical tips, inspiring stories, and actionable strategies to help you build a thriving online business despite health challenges.\n- **Book a Free Clarity Call**: Schedule a free clarity call to discover how personalized coaching can help you thrive as an entrepreneur.\n  - [Book a Free Clarity Call](https://tidycal.com/lukescudder/clarity-call)\n\nFeel free to explore these resources and take advantage of the support and guidance offered by Luke Scudder. If you have any specific questions or need further assistance, don't hesitate to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "ab036fe7-bf54-4218-b008-eb272e7443be",
+            "timestamp": "2024-07-12T16:21:57.871514"
+        },
+        "eaf6bf94-2e5b-4aba-aaa7-bbecbd00b394": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-12T16:37:13.226047",
+                    "message": "Does Luke have any resources on acceptance?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T16:37:20.128993",
+                    "message": "Absolutely, Luke Scudder emphasizes the importance of acceptance and mindset in his coaching approach. He believes that acceptance is a vital component often overlooked in traditional business coaching, especially for those living with chronic illnesses. Addressing acceptance issues is essential to move forward and achieve entrepreneurial success.\n\nHere are some resources and strategies Luke offers on acceptance:\n\n### Acceptance & Mindset\n- **Cultivating a Positive Mindset**: Luke works on helping individuals cultivate a positive mindset and acceptance, enabling them to approach their entrepreneurial endeavors with clarity and confidence.\n- **Community Support**: Building a supportive network of individuals who understand your journey provides unparalleled support, inspiration, and motivation. This community aspect is crucial for fostering acceptance and a positive mindset.\n\n### Free Resources\nLuke provides various free resources that can help with acceptance and mindset, including:\n- **Webinars**\n- **Trainings**\n- **Short Courses**\n- **Guides**\n- **Checklists**\n- **Access to the Limitless Ascend Community**\n\nYou can explore these resources on his website:\n- [Free Resources](https://lukescudder.com/free-resources/)\n- [Join the Limitless Ascend Community](https://out.lukescudder.com/community)\n\n### Coaching Services\nFor more personalized support, Luke offers one-to-one coaching sessions where he can work closely with you to address acceptance and mindset issues. You can schedule a free clarity call to discuss how his coaching can help you thrive as an entrepreneur despite health challenges:\n- [Book a Free Clarity Call](https://tidycal.com/lukescudder/clarity-call)\n\nWould you like more information on any specific resource or service?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "eaf6bf94-2e5b-4aba-aaa7-bbecbd00b394",
+            "timestamp": "2024-07-12T16:37:13.226047"
+        },
+        "f5037cba-65e5-437c-af25-8123be8a6f66": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-12T20:07:40.457501",
+                    "message": "Who does Luke work with?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T20:07:43.531478",
+                    "message": "Luke Scudder works with aspiring entrepreneurs who are managing chronic illnesses. He specializes in empowering these individuals to achieve their personal and professional goals through personalized coaching sessions, workshops, and a supportive community. His approach is rooted in empathy, resilience, and a commitment to continuous growth, ensuring that each client receives the support and accountability they need to thrive despite their unique challenges.\n\nWould you like to know more about his coaching services or perhaps read some of his blog posts?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-12T20:08:25.087803",
+                    "message": "i like to know more about his coaching",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T20:08:34.556622",
+                    "message": "Absolutely! Luke Scudder offers personalized coaching services specifically designed for individuals with chronic illnesses who aspire to start their own businesses. Here’s a detailed overview of his coaching services:\n\n### **One-to-One Coaching**\nLuke provides tailored one-to-one coaching sessions that focus on your specific needs and business goals. His coaching is rooted in empathy and understanding, given his personal experience with multiple neurological diseases. Here’s what you can expect:\n\n- **Personalized Support:** Luke offers guidance that is specifically tailored to your unique health circumstances and business aspirations.\n- **Business Strategy:** With over a decade of experience in entrepreneurship, Luke helps you develop sustainable and flexible business strategies that can adapt to your fluctuating health conditions.\n- **Emotional Support:** Luke understands the physical and emotional hurdles faced by those with chronic illnesses and provides practical solutions to overcome these obstacles.\n- **Mindset and Acceptance:** He works with you to accept your condition, adjust your mindset, and understand that you can still achieve your dreams through adaptation.\n\n### **Group Coaching**\nEngage in group coaching sessions that offer collective problem-solving and peer support, guided by Luke. This setting allows you to connect with others who are on a similar journey, providing a sense of community and shared learning.\n\n### **Community Support**\nLuke emphasizes the importance of community. He founded **Limitless Ascend**, a free online community for aspiring entrepreneurs managing chronic illnesses. This community offers:\n\n- **Networking:** Connect with like-minded individuals who understand your journey.\n- **Support:** Receive continuous support and inspiration from peers.\n- **Exclusive Content:** Access to exclusive content and resources tailored to your needs.\n\n### **Workshops and Webinars**\nLuke also offers various workshops and webinars on topics such as:\n\n- **Acceptance and Mindset Development**\n- **Business Systems and Automations**\n- **Effective Stress Management Strategies**\n\n### **Digital Products and Courses**\nExplore digital products and courses designed for entrepreneurs with chronic illnesses, providing essential business skills and flexibility.\n\n### **How to Get Started**\n- **Join the Waitlist:** For group coaching and memberships, you can join the waitlist to be notified when spots become available.\n- **Contact Luke:** For personalized one-to-one coaching, you can learn more and get in touch through his [coaching services page](https://lukescudder.com/services/coaching/).\n\nWould you like to explore any specific aspect of his coaching services further?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-12T20:10:44.805728",
+                    "message": "does Luke have any resources to explore acceptance?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T20:10:58.966035",
+                    "message": "Yes, Luke Scudder offers several resources to help individuals explore acceptance, particularly in the context of managing chronic illnesses. Here are some of the key resources and approaches he provides:\n\n### **Blog Posts**\nLuke has written insightful blog posts that delve into the topic of acceptance and how it plays a crucial role in enhancing well-being. Here are a few notable posts:\n\n- **[Accepting a Diagnosis Isn’t Linear and Some Days Are Just Outright Sh*t!](https://lukescudder.com/accepting-a-diagnosis-isnt-linear-and-some-days-are-just-outright-sht/)** (July 4, 2024)\n  - This post discusses the non-linear journey of accepting a chronic illness, celebrating small wins, and seeking support when needed.\n\n- **[The Role of Acceptance and Psychological Interventions in Enhancing Well-Being](https://lukescudder.com/the-role-of-acceptance-and-psychological-interventions-in-enhancing-well-being/)** (July 3, 2024)\n  - This article explores how acceptance and psychological interventions can significantly improve well-being for those with chronic illnesses.\n\n### **Workshops and Webinars**\nLuke conducts workshops and webinars focused on acceptance and mindset development. These sessions are designed to help you:\n\n- **Understand and Accept Your Condition:** Learn strategies to come to terms with your diagnosis and its implications.\n- **Develop a Positive Mindset:** Cultivate a mindset that enables you to pursue your goals despite health challenges.\n\n### **Community Support**\nThe **Limitless Ascend** community offers a supportive environment where you can connect with others who are on a similar journey. This community provides:\n\n- **Peer Support:** Share experiences and strategies for acceptance with others who understand your challenges.\n- **Inspiration and Motivation:** Gain inspiration from the stories and successes of fellow community members.\n\n### **Personalized Coaching**\nIn his one-to-one coaching sessions, Luke works closely with clients to address acceptance and mindset issues. He helps you:\n\n- **Adjust Your Perspective:** Understand that you can still have hopes and dreams and work towards them through adaptation.\n- **Overcome Emotional Hurdles:** Provide practical solutions to overcome the emotional challenges posed by chronic illness.\n\n### **Free Resources**\nLuke offers various free resources, including:\n\n- **Guides and Checklists:** Practical tools to help you navigate the journey of acceptance.\n- **Short Courses:** Online courses that focus on acceptance and mindset development.\n\n### **How to Access These Resources**\n- **Visit the Blog:** Explore Luke’s blog for articles on acceptance and other related topics. [Visit Blog](https://lukescudder.com/blog/)\n- **Join the Community:** Become a part of the Limitless Ascend community for ongoing support and resources. [Join Community](https://out.lukescudder.com/community)\n- **Book a Clarity Call:** Schedule a free clarity call with Luke to discuss your needs and how his coaching can help you. [Book a Free Clarity Call](https://tidycal.com/lukescudder/clarity-call)\n\nWould you like to explore any specific resource or need further assistance?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-12T20:12:09.459550",
+                    "message": "Thank you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T20:12:20.676274",
+                    "message": "You're welcome! If you have any more questions or need further assistance, feel free to ask. Remember, taking steps towards acceptance and building a supportive community can make a significant difference in your journey. Have a great day!\n\nWould you like to explore anything else or perhaps join the Limitless Ascend community now?\n\n![Join Limitless Ascend](https://ce8f609cc.cloudimg.io/crop/1200x630/foil1.95/https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Furlshortener-f1125.appspot.com%2Fo%2Fimages%252Fpublic%252Flinks%252F2024-07-08T10%253A49%253A19.636Z%3Falt%3Dmedia%26token%3D017b0b01-729e-41ad-92ce-ecdcafae7b8b)\n\n[Join Limitless Ascend](https://out.lukescudder.com/community)",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f5037cba-65e5-437c-af25-8123be8a6f66",
+            "timestamp": "2024-07-12T20:07:40.457501"
+        },
+        "29dc51ed-a683-4cf6-b115-4587cfa43758": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-16T19:50:03.458728",
+                    "message": "Hi",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-16T19:50:04.135879",
+                    "message": "Hello! How can I assist you today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-16T19:50:21.909319",
+                    "message": "Talk to me about Luke and what he can do for me",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-16T19:50:37.115165",
+                    "message": "Luke Scudder is a dedicated life and business coach who specializes in empowering aspiring entrepreneurs, particularly those managing chronic illnesses. Here's a detailed look at what he can do for you:\n\n### About Luke Scudder\nLuke's journey is marked by resilience and a deep commitment to helping others navigate challenging circumstances. After stepping down from his role as Managing Director of an IT company to care for his terminally ill mother, Luke faced his own health challenges, developing multiple neurological conditions. Despite these obstacles, he pursued further education and retrained as a life and business coach.\n\n### Services Offered\nLuke offers a range of services designed to support entrepreneurs with chronic illnesses:\n\n1. **One-to-One Coaching**:\n   - Personalized coaching sessions to help clients identify their goals, challenges, and opportunities.\n   - Development of tailored action plans to achieve personal and professional objectives.\n   - Utilization of Neuro-Linguistic Programming (NLP) techniques to facilitate behavioral change and mindset shifts.\n\n2. **Workshops and Training**:\n   - Workshops on goal setting, time management, and overcoming limiting beliefs.\n   - Free training sessions and resources through the Limitless Ascend community.\n\n3. **Business Development**:\n   - Assistance in developing business strategies that align with clients' health conditions and personal circumstances.\n   - Guidance on implementing online strategies, software, systems, and automation to streamline business operations.\n\n4. **Support and Accountability**:\n   - Ongoing support and accountability to ensure clients stay on track with their action plans.\n   - Regular check-ins to monitor progress and adjust coaching strategies as needed.\n\n5. **Community Engagement**:\n   - Fostering a supportive network within the community by encouraging collaboration and sharing experiences.\n   - Engaging with community members through forums, social media, and other platforms for ongoing support and motivation.\n\n### Unique Approach\nLuke's approach is rooted in empathy, resilience, and a commitment to continuous growth. He focuses on three key areas:\n\n1. **Community**:\n   - Building a supportive network of individuals who understand the journey of managing chronic illnesses.\n\n2. **Acceptance & Mindset**:\n   - Working on acceptance and cultivating a positive mindset to overcome the emotional hurdles associated with chronic illnesses.\n\n3. **Ideation, Validation & Startup**:\n   - Identifying viable business ideas, validating them, and building solid foundations for sustainable businesses.\n\n### Free Resources\nLuke also provides a variety of free resources, including webinars, training sessions, short courses, guides, checklists, and access to the Limitless Ascend community.\n\n### Contact Information\n- **Email**: luke@scudder.co.uk\n- **Phone**: 07860225329\n- **Address**: 44 Fairway, Northway, Tewkesbury, Gloucestershire, GL20 8QD\n- **Website**: [lukescudder.com](https://lukescudder.com/)\n\n### Next Steps\nIf you're ready to transform your business dreams into reality despite health challenges, you can schedule a free clarity call with Luke to discover how personalized coaching can help you thrive as an entrepreneur.\n\n[Book a Free Clarity Call](https://tidycal.com/lukescudder/clarity-call)\n\nFeel free to explore more about Luke and his services on his [website](https://lukescudder.com/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-16T19:51:12.095076",
+                    "message": "where did you find his phone number",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-16T19:51:13.158127",
+                    "message": "I have access to specific information about Luke Scudder and his services, which includes his contact details. If you have any more questions or need further assistance, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-16T19:51:30.262057",
+                    "message": "fuck",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-16T19:51:31.538956",
+                    "message": "I'm here to help. If there's something specific you're frustrated about or need assistance with, please let me know.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-16T19:51:44.293640",
+                    "message": "How much is coaching",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-16T19:51:49.801071",
+                    "message": "The cost of coaching with Luke Scudder isn't explicitly listed in the available information. However, you can get more details and discuss your specific needs by scheduling a free clarity call with him. This initial call will help you understand the coaching process and discuss pricing based on your requirements.\n\nYou can book a free clarity call through this link: [Book a Free Clarity Call](https://tidycal.com/lukescudder/clarity-call).\n\nIf you have any other questions or need further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "29dc51ed-a683-4cf6-b115-4587cfa43758",
+            "timestamp": "2024-08-16T19:50:03.458728"
+        },
+        "5ac855f2-c8c3-4997-b5c7-4c9d27fd60fc": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-16T19:53:56.370406",
+                    "message": "What free resources will help me?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-16T19:54:05.061639",
+                    "message": "Here are some free resources that can help you, especially if you're an aspiring entrepreneur dealing with chronic illnesses:\n\n### Free Resources by Luke Scudder\n\n1. **Webinars & Trainings**\n   - Luke and guest speakers deliver webinars on various topics, including acceptance, mindset development, and building business systems.\n   - [View Webinars & Trainings](https://lukescudder.com/free-resources/webinars-trainings)\n\n2. **Short Courses**\n   - A range of short courses designed to help you master specific tasks or topics, providing foundational knowledge.\n   - [View Short Courses](https://lukescudder.com/free-resources/short-courses)\n\n3. **Guides & Checklists**\n   - Downloadable guides and checklists to help you navigate particular issues or problems.\n   - [View Guides & Checklists](https://lukescudder.com/free-resources/guides-checklists)\n\n4. **Luke’s Blog**\n   - Articles on a wide range of topics relevant to aspiring entrepreneurs and those living with chronic illnesses.\n   - [Learn More](https://lukescudder.com/blog/)\n\n5. **Limitless Ascend Community**\n   - A free community for aspiring entrepreneurs with chronic illnesses or diseases, offering networking opportunities and support.\n   - [Join The Community](https://out.lukescudder.com/community)\n\n### Additional Information\n\n- **Luke Scudder’s Approach**\n  - Focuses on community support, acceptance & mindset, and ideation, validation & startup.\n  - Offers personalized coaching services tailored to your specific needs and business goals.\n  - [Learn More](https://lukescudder.com/services/coaching/)\n\nThese resources are designed to provide you with the support, knowledge, and community you need to succeed in your entrepreneurial journey despite health challenges.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "5ac855f2-c8c3-4997-b5c7-4c9d27fd60fc",
+            "timestamp": "2024-08-16T19:53:56.370406"
+        }
+    }
+}

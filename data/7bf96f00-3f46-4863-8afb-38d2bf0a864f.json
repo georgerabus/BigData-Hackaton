@@ -1,0 +1,205 @@
+{
+    "client_id": "7bf96f00-3f46-4863-8afb-38d2bf0a864f",
+    "user_id": "c468c84d-b131-45c4-9c95-b36ae6a170ae",
+    "details": null,
+    "name": "Dani",
+    "context_summary": "Dr. Ignacio Díaz Sotres, a specialist in infertility and assisted reproduction at the Centro Médico de la Mujer Constitución in Monterrey, NL. The clinic offers treatments such as ICSI, artificial insemination, and in vitro fertilization, emphasizing personalized care and high success rates, along with gynecological services like routine exams and cancer screenings, operating on weekdays and Saturdays.",
+    "chat_sessions": {
+        "8ad8d273-9a01-410d-a062-0cef3890cc5f": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-09T19:55:04.920868",
+                    "message": "¿Qué servicios proporciona?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T19:55:11.777403",
+                    "message": "¿Qué servicios proporciona?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T19:55:13.855399",
+                    "message": "El Dr. Ignacio Díaz Sotres ofrece una amplia gama de servicios en el Centro Médico de la Mujer Constitución en Monterrey, NL. Aquí tienes un resumen de los servicios proporcionados:\n\n### Servicios de Infertilidad y Reproducción Asistida\n- **Fertilización in vitro (FIV)**\n- **Inseminación artificial**\n- **Banco de esperma y donantes de óvulos**\n- **Coito programado**\n\n### Servicios Ginecológicos\n- **Ultrasonido ginecológico y de embarazo**\n- **Atención del parto natural humanizado**\n- **Detección oportuna del cáncer de mama y papanicolaou**\n- **Tratamiento de la menopausia**\n- **Consulta de planificación familiar** (métodos anticonceptivos como píldoras, inyectables hormonales, parches, implantes subdérmicos, DIU, anillo vaginal, métodos definitivos)\n- **Histerectomía (retiro de matriz)** (convencional o por laparoscopia)\n- **Tratamiento quirúrgico de miomas o miomectomía**\n- **Colocación de cerclaje**\n- **Legrado uterino**\n- **Histeroscopia de consultorio y de hospital**\n- **Crioterapia**\n- **Tratamiento de trastornos ginecológicos**\n- **Alteraciones de la menstruación y sangrados anormales**\n- **Enfermedades de la mama**\n- **Consejo genético**\n\n### Horarios de Consulta\n- **Lunes a Viernes:** 10 am a 1 pm y de 3 pm a 8 pm\n- **Sábados:** 9:30 am a 2:00 pm\n\n### Contacto\n- **Teléfonos:** [(81) 1875-2278](tel:811875-2278), [(81) 1015-7344](tel:811015-7344)\n- **Redes Sociales:** [Facebook](https://www.facebook.com/doctorignaciodiaz/), [Instagram](https://www.instagram.com/dr_ignaciodiaz/), [WhatsApp](http://wa.link/mwfito)\n\nSi necesitas más información o deseas agendar una cita, no dudes en contactarlos a través de los medios mencionados.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T19:55:23.381552",
+                    "message": "El Dr. Ignacio Díaz Sotres ofrece una amplia gama de servicios en el Centro Médico de la Mujer Constitución en Monterrey, NL. Estos servicios incluyen:\n\n### Infertilidad y Reproducción Asistida\n- **Fertilización in vitro (FIV)**\n- **Inseminación artificial**\n- **Banco de esperma y donantes de óvulos**\n- **Coito programado**\n\n### Ginecología y Embarazo\n- **Ultrasonido ginecológico y de embarazo**\n- **Atención del parto natural humanizado**\n- **Detección oportuna del cáncer de mama y papanicolaou**\n- **Tratamiento de la menopausia**\n- **Consulta de planificación familiar** (métodos anticonceptivos como píldoras, inyectables hormonales, parches, implantes subdérmicos, DIU, anillo vaginal, métodos definitivos)\n- **Histerectomía (retiro de matriz)** (convencional o por laparoscopia)\n- **Tratamiento quirúrgico de miomas o miomectomía**\n- **Colocación de cerclaje**\n- **Legrado uterino**\n- **Histeroscopia de consultorio y de hospital**\n- **Crioterapia**\n- **Tratamiento de trastornos ginecológicos**\n- **Alteraciones de la menstruación y sangrados anormales**\n- **Enfermedades de la mama**\n- **Consejo genético**\n\n### Horarios de Consulta\n- **Lunes a Viernes:** 10 am a 1 pm y de 3 a 8 pm\n- **Sábados:** 9:30 am a 2:00 pm\n\nPara más información o para agendar una cita, puedes contactar al Centro Médico de la Mujer Constitución a través de los siguientes números:\n- Teléfonos: [(81) 1875-2278](tel:811875-2278), [(81) 1015-7344](tel:811015-7344)\n- [Facebook](https://www.facebook.com/doctorignaciodiaz/)\n- [Instagram](https://www.instagram.com/dr_ignaciodiaz/)\n- [WhatsApp](http://wa.link/mwfito)\n\n![Centro Médico de la Mujer Constitución](https://buscandounbebe.com.mx/wp-content/uploads/2020/09/centro-medico.jpg)",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "8ad8d273-9a01-410d-a062-0cef3890cc5f",
+            "timestamp": "2024-09-09T19:55:04.920868"
+        },
+        "d0c588f8-0240-4368-815b-80a7bf4ac7e8": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-09T19:57:04.844818",
+                    "message": "¿Qué servicios proporciona?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T19:57:13.902118",
+                    "message": "El Dr. Ignacio Díaz Sotres ofrece una amplia gama de servicios en el Centro Médico de la Mujer Constitución en Monterrey, NL. Aquí tienes un resumen de los servicios disponibles:\n\n### Servicios de Ginecología y Embarazo\n- **Ultrasonido ginecológico y de embarazo**: Diagnóstico de enfermedades del útero y ovarios, y valoración de la salud y crecimiento del bebé durante el embarazo.\n- **Atención del parto natural humanizado**: Parto natural o en agua, con control del embarazo normal y de alto riesgo.\n- **Detección oportuna del cáncer de mama y papanicolaou**: Prevención y diagnóstico temprano del cáncer de mama y cervicouterino.\n- **Tratamiento de la menopausia**: Manejo multidisciplinario para mejorar la calidad de vida durante la menopausia.\n- **Consulta de planificación familiar**: Métodos anticonceptivos como píldoras, inyectables hormonales, parches, implantes subdérmicos, DIU, anillo vaginal y métodos definitivos.\n- **Histerectomía (retiro de matriz)**: Realizada de forma convencional o por laparoscopia.\n\n### Tratamientos de Infertilidad y Reproducción Asistida\n- **Coito programado**: Evaluación y programación de la ovulación para optimizar las relaciones sexuales.\n- **Inseminación artificial**: Desarrollo de óvulos mediante medicina oral o inyectada, inducción de la ovulación y colocación del esperma preparado dentro de la matriz.\n- **Fertilización in vitro**: Tratamiento avanzado para lograr el embarazo.\n- **Banco de esperma y donantes de óvulos**: Solución para hombres que no producen esperma y mujeres que no poseen óvulos.\n\n### Otros Servicios\n- **Tratamiento quirúrgico de miomas o miomectomía**\n- **Colocación de cerclaje**\n- **Legrado uterino**\n- **Histeroscopia de consultorio y de hospital**\n- **Crioterapia**\n- **Tratamiento de trastornos ginecológicos**\n- **Alteraciones de la menstruación y sangrados anormales**\n- **Enfermedades de la mama**\n- **Consejo genético**\n\n### Información de Contacto\n- **Dirección**: Centro Médico de la Mujer Constitución, Ave. Constitución Pte. No. 1881, Col. Obispado, Consultorio 215, Monterrey, NL.\n- **Teléfonos**: (81) 1875-2278, (81) 1015-7344\n- **Redes Sociales**: [Facebook](https://www.facebook.com/doctorignaciodiaz/), [Instagram](https://www.instagram.com/dr_ignaciodiaz/), [WhatsApp](http://wa.link/mwfito)\n- **Horario de consulta**: Lunes a Viernes de 10 am a 1 pm y de 3 a 8 pm, Sábados de 9:30 am a 2:00 pm\n\n¿Hay algún servicio en particular que te interese más?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d0c588f8-0240-4368-815b-80a7bf4ac7e8",
+            "timestamp": "2024-09-09T19:57:04.844818"
+        },
+        "5d25d97f-df58-4e6d-b572-235e3dee1a9f": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-09T19:58:09.161241",
+                    "message": "¿Qué servicios proporciona?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T19:58:16.702123",
+                    "message": "En el Centro Médico de la Mujer Constitución, el Dr. Ignacio Díaz Sotres ofrece una amplia gama de servicios enfocados en la ginecología, la infertilidad y la reproducción asistida. Aquí tienes un resumen de los servicios disponibles:\n\n### Servicios de Ginecología\n- **Ultrasonido ginecológico y de embarazo**: Diagnóstico de enfermedades del útero y ovarios, y valoración de la salud y crecimiento del bebé durante el embarazo.\n- **Atención del parto natural humanizado**: Parto natural o en agua, con control del embarazo normal y de alto riesgo.\n- **Detección oportuna del cáncer de mama y papanicolaou**: Prevención y diagnóstico temprano del cáncer de mama y cervicouterino.\n- **Tratamiento de la menopausia**: Monitoreo y tratamiento multidisciplinario durante la menopausia.\n- **Consulta de planificación familiar**: Métodos anticonceptivos como píldoras, inyectables hormonales, parches, implantes subdérmicos, DIU, anillo vaginal y métodos definitivos.\n- **Histerectomía (retiro de matriz)**: Realizada de forma convencional o por laparoscopia, incluyendo tratamientos para la incontinencia urinaria.\n\n### Servicios de Infertilidad y Reproducción Asistida\n- **Tratamientos de Reproducción Asistida**: Coito programado, inseminación artificial y fertilización in vitro.\n- **Banco de esperma y donantes de óvulos**: Solución para problemas de producción de esperma en hombres y para mujeres que no poseen óvulos.\n- **Inseminación Artificial**: Desarrollo de óvulos mediante medicina oral o inyectada, inducción de la ovulación y colocación del esperma preparado dentro de la matriz.\n\n### Otros Servicios\n- **Tratamiento quirúrgico de miomas o miomectomía**\n- **Colocación de cerclaje**\n- **Legrado uterino**\n- **Histeroscopia de consultorio y de hospital**\n- **Crioterapia**\n- **Tratamiento de trastornos ginecológicos**\n- **Alteraciones de la menstruación y sangrados anormales**\n- **Enfermedades de la mama**\n- **Consejo genético**\n\nSi tienes alguna pregunta específica sobre alguno de estos servicios o necesitas más información, no dudes en preguntar. ¿Te gustaría agendar una cita para discutir tu situación en detalle?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T19:58:34.991410",
+                    "message": "No me siento muy bien",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T19:58:36.703810",
+                    "message": "Lamento escuchar que no te sientes bien. Es importante que recibas la atención adecuada para tu situación. ¿Podrías describirme un poco más sobre cómo te sientes o cuáles son tus síntomas? Esto me ayudará a orientarte mejor sobre el tipo de atención que podrías necesitar.\n\nSi prefieres, también podemos agendar una cita para que el Dr. Ignacio Díaz Sotres te evalúe personalmente y determine el mejor tratamiento para ti. ¿Te gustaría proceder con esto?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "5d25d97f-df58-4e6d-b572-235e3dee1a9f",
+            "timestamp": "2024-09-09T19:58:09.161241"
+        },
+        "91891253-bfde-4b6e-9e64-ee8f7fc2a179": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-09T20:00:06.460595",
+                    "message": "No me siento muy bien",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:00:07.293588",
+                    "message": "Lamento escuchar que no te sientes bien. ¿Podrías darme más detalles sobre cómo te sientes o los síntomas que estás experimentando? Así podré orientarte mejor.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "91891253-bfde-4b6e-9e64-ee8f7fc2a179",
+            "timestamp": "2024-09-09T20:00:06.460595"
+        },
+        "98132f0c-6656-4908-b537-8e05a185ac39": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-09T20:00:23.686271",
+                    "message": "¿Qué servicios proporciona?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:00:33.127223",
+                    "message": "En el Centro Médico de la Mujer Constitución, el Dr. Ignacio Díaz Sotres ofrece una amplia gama de servicios enfocados en la ginecología, el embarazo y la reproducción asistida. Aquí tienes un resumen de los servicios proporcionados:\n\n### Servicios de Ginecología\n- **Ultrasonido ginecológico y de embarazo**: Diagnóstico de enfermedades del útero y ovarios, y valoración de la salud y crecimiento del bebé durante el embarazo.\n- **Detección oportuna del cáncer de mama y papanicolaou**: Prevención y detección temprana del cáncer de mama y cervical.\n- **Tratamiento de la menopausia**: Manejo multidisciplinario para una vida plena durante la menopausia.\n- **Consulta de planificación familiar**: Métodos anticonceptivos como píldoras, inyectables hormonales, parches, implantes subdérmicos, DIU, anillo vaginal y métodos definitivos.\n- **Histerectomía (retiro de matriz)**: Realizada de forma convencional o por laparoscopia.\n- **Tratamiento quirúrgico de miomas o miomectomía**.\n- **Colocación de cerclaje**.\n- **Legrado uterino**.\n- **Histeroscopia de consultorio y de hospital**.\n- **Crioterapia**.\n- **Tratamiento de trastornos ginecológicos**.\n- **Alteraciones de la menstruación y sangrados anormales**.\n- **Enfermedades de la mama**.\n- **Consejo genético**.\n\n### Servicios de Reproducción Asistida\n- **Tratamientos de infertilidad**: Incluyen coito programado, inseminación artificial y fertilización in vitro.\n- **Banco de esperma y donantes de óvulos**: Para corregir problemas de infertilidad en hombres y mujeres.\n- **Atención del parto natural humanizado**: Parto natural o en agua, con control del embarazo normal y de alto riesgo.\n\n### Otros Servicios\n- **Tratamiento de la incontinencia urinaria**.\n\nSi tienes alguna pregunta específica o necesitas más detalles sobre algún servicio en particular, no dudes en preguntar. ¿Te gustaría agendar una cita para discutir tu situación más a fondo?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "98132f0c-6656-4908-b537-8e05a185ac39",
+            "timestamp": "2024-09-09T20:00:23.686271"
+        },
+        "76f1afeb-891f-4dfd-9720-32942a011986": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-09T20:01:51.973969",
+                    "message": "¿Qué servicios proporciona?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:02:00.031329",
+                    "message": "En el Centro Médico de la Mujer Constitución, el Dr. Ignacio Díaz Sotres ofrece una amplia gama de servicios enfocados en la ginecología, el embarazo y la infertilidad. Aquí tienes un resumen de los servicios proporcionados:\n\n### Servicios de Ginecología\n- **Ultrasonido ginecológico y de embarazo**: Diagnóstico de enfermedades del útero y ovarios, y valoración de la salud y crecimiento del bebé durante el embarazo.\n- **Atención del parto natural humanizado**: Parto natural o en agua, con control del embarazo normal y de alto riesgo.\n- **Detección oportuna del cáncer de mama y papanicolaou**: Prevención y diagnóstico temprano del cáncer de mama.\n- **Tratamiento de la menopausia**: Monitoreo y tratamiento multidisciplinario durante la menopausia.\n- **Consulta de planificación familiar**: Métodos anticonceptivos como píldoras, inyectables hormonales, parches, implantes subdérmicos, DIU, anillo vaginal y métodos definitivos.\n- **Histerectomía (retiro de matriz)**: Realizada de forma convencional o por laparoscopia, incluyendo tratamientos para la incontinencia urinaria.\n\n### Servicios de Infertilidad y Reproducción Asistida\n- **Tratamientos de Reproducción Asistida**: Coito programado, inseminación artificial y fertilización in vitro.\n- **Banco de esperma y donantes de óvulos**: Solución para hombres que no producen esperma y mujeres que no poseen óvulos, permitiendo la concepción a madres solteras y parejas con problemas de fertilidad.\n\n### Otros Servicios\n- **Tratamiento quirúrgico de miomas o miomectomia**\n- **Colocación de cerclaje**\n- **Legrado uterino**\n- **Histeroscopia de consultorio y de hospital**\n- **Crioterapia**\n- **Tratamiento de trastornos ginecológicos**\n- **Alteraciones de la menstruación y sangrados anormales**\n- **Enfermedades de la mama**\n- **Consejo genético**\n\nSi tienes alguna pregunta específica sobre alguno de estos servicios o deseas agendar una cita, estaré encantado de ayudarte. ¿Te gustaría reservar una cita para revisar tu situación a fondo?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T20:02:14.902814",
+                    "message": "No me siento muy bien",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:02:16.287598",
+                    "message": "Lamento escuchar que no te sientes bien. Es importante cuidar de tu salud y recibir la atención adecuada. ¿Podrías describirme un poco más sobre cómo te sientes o cuáles son tus síntomas? Esto me ayudará a orientarte mejor sobre el tipo de atención que podrías necesitar.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T20:02:32.420530",
+                    "message": "Mi menstruación es muy dolorosa",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:02:37.144148",
+                    "message": "Entiendo lo incómodo y preocupante que puede ser tener menstruaciones dolorosas. Este tipo de dolor, conocido como dismenorrea, puede tener varias causas y es importante abordarlo adecuadamente.\n\nEn el Centro Médico de la Mujer Constitución, el Dr. Ignacio Díaz Sotres puede ayudarte a identificar la causa de tu dolor menstrual y ofrecerte el tratamiento adecuado. Aquí hay algunas posibles causas y tratamientos que podrías considerar:\n\n### Posibles Causas de la Dismenorrea\n- **Endometriosis**: Tejido similar al revestimiento del útero crece fuera de él.\n- **Fibromas uterinos**: Tumores no cancerosos en el útero.\n- **Adenomiosis**: El tejido que recubre el útero crece dentro de sus paredes.\n- **Enfermedad inflamatoria pélvica**: Infección de los órganos reproductivos femeninos.\n- **Uso de dispositivos intrauterinos (DIU)**: Algunos tipos pueden causar dolor.\n\n### Tratamientos Disponibles\n- **Medicamentos para el dolor**: Analgésicos de venta libre o recetados.\n- **Terapias hormonales**: Anticonceptivos hormonales para reducir el dolor.\n- **Tratamientos quirúrgicos**: En casos de endometriosis o fibromas.\n- **Terapias alternativas**: Acupuntura, suplementos dietéticos, etc.\n\nTe recomiendo agendar una cita con el Dr. Ignacio para una evaluación completa y determinar el mejor plan de tratamiento para ti. ¿Te gustaría que te ayude a reservar una cita? Solo necesitaría tu nombre, teléfono y correo electrónico para proceder.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T20:03:48.552882",
+                    "message": "Alma Martínez",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:03:50.236704",
+                    "message": "¡Gracias, Alma! Para proceder con la reserva de tu cita, también necesitaría tu número de teléfono y tu correo electrónico. ¿Podrías proporcionármelos, por favor?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:00.082254",
+                    "message": "8120902422",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:01.046205",
+                    "message": "Perfecto, Alma. Solo me falta tu correo electrónico para completar la reserva de tu cita. ¿Podrías proporcionármelo, por favor?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:12.972859",
+                    "message": "alma.martinez22@gmail.com",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:14.685675",
+                    "message": "¡Gracias, Alma! Aquí tienes los datos que he recopilado para tu cita:\n\n- **Nombre:** Alma Martínez\n- **Teléfono:** 8120902422\n- **Correo electrónico:** alma.martinez22@gmail.com\n\nVoy a proceder a reservar tu cita con el Dr. Ignacio Díaz Sotres. Te contactaremos pronto para confirmar los detalles de tu cita. Si tienes alguna otra pregunta o necesitas más información, no dudes en decírmelo. ¡Espero que te sientas mejor pronto!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:29.015344",
+                    "message": "Se puede mañana a las 2?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:34.735079",
+                    "message": "El horario de consulta del Dr. Ignacio Díaz Sotres es de lunes a viernes de 10 am a 1 pm y de 3 pm a 8 pm, y los sábados de 9:30 am a 2:00 pm. \n\nLamentablemente, mañana a las 2 pm no es posible agendar una cita ya que no está dentro del horario de atención. ¿Te gustaría que busquemos otro horario disponible dentro de los horarios de consulta?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:46.928077",
+                    "message": "Sí",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:48.259173",
+                    "message": "¡Perfecto, Alma! Aquí tienes algunas opciones de horarios disponibles para mañana:\n\n- **Mañana:** Entre 10 am y 1 pm\n- **Tarde:** Entre 3 pm y 8 pm\n\nPor favor, indícame cuál de estos horarios te conviene más y procederé a reservar tu cita.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:57.146091",
+                    "message": "A las 3",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T20:04:59.286624",
+                    "message": "¡Excelente, Alma! He anotado tu preferencia para mañana a las 3 pm. Procederé a reservar tu cita con el Dr. Ignacio Díaz Sotres.\n\n### Detalles de la Cita:\n- **Fecha:** Mañana\n- **Hora:** 3:00 pm\n- **Lugar:** Centro Médico de la Mujer Constitución\n\nTe contactaremos pronto para confirmar los detalles de tu cita. Si necesitas algo más o tienes alguna otra pregunta, no dudes en decírmelo. ¡Nos vemos mañana y espero que te sientas mejor pronto!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "76f1afeb-891f-4dfd-9720-32942a011986",
+            "timestamp": "2024-09-09T20:01:51.973969"
+        }
+    }
+}

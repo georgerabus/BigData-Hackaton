@@ -1,0 +1,149 @@
+{
+    "client_id": "4c62706c-e244-40ab-8042-20a235bdbd2e",
+    "user_id": "2e8e792d-edea-46ec-b9e4-dcfc8650ec47",
+    "details": "Make sure i give the Bot the updated links when needed",
+    "name": "Aleah",
+    "context_summary": "Neena Perez's coaching services designed for purpose-driven women, focusing on transforming their wisdom into wealth. It highlights her structured approach that includes inner healing, goal setting, and strategic planning, along with resources like a free strategy call, virtual workshops, and a podcast to foster personal and professional growth.",
+    "chat_sessions": {
+        "07979aa7-013d-4930-996a-a081c15f77f3": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-09T06:03:23.813399",
+                    "message": "coach",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-09T06:03:32.146670",
+                    "message": "Neena Perez is a transformational life coach who specializes in empowering women to achieve their business aspirations through a structured four-step coaching program. Here’s a detailed look at what she offers:\n\n### Why Coaching with Neena Perez?\n- **Transform Your Wisdom into Wealth**: Neena helps you harness your full potential and achieve success that uplifts others.\n- **Tailored Guidance**: Her coaching is designed to be a catalyst for your success, providing you with the tools and support you need to thrive.\n\n### The Four-Step Coaching Program\n1. **Inner Healing**: Confront and overcome toxic shame and limiting belief systems.\n2. **Transcending**: Align your actions with core values, identify gaps, and set ambitious goals.\n3. **Co-Creation**: Build a robust roadmap with strategic marketing, automation, and team collaboration.\n4. **Daily Practice**: Implement a consistent action plan that propels you forward each day.\n\n### Client Testimonials\n- **Nisha**: \"Neena has helped me break my limiting beliefs. After a few sessions, I know I'm worthy and capable of achieving my desires.\"\n- **Lorena Carrión**: \"Neena's testimony and strength have deeply impacted our women's gathering in the Dominican Republic.\"\n- **Linda**: \"Neena cuts through the clutter quickly, holds you accountable, and truly cares about your success.\"\n- **Kathleen K**: \"Neena helped me focus on what mattered most, providing clarity and confidence.\"\n- **MJ**: \"I’m now in the fourth month of my successful side hustle online business, thanks to Neena.\"\n\n### Program Options\n- **Self-Led Academy**: For those who prefer to learn at their own pace.\n- **Group Coaching**: Connect with other remarkable women on similar transformative paths.\n- **One-on-One Coaching**: Personalized sessions to thoroughly understand your goals and needs.\n\n### Additional Resources\n- **YouTube Channel**: [Straight Talk No Sugar Added with Neena Perez](https://www.youtube.com/c/StraightTalkNoSugarAddedwithNeenaPerez)\n- **Podcast**: [Straight Talk No Sugar Added](https://podopshost.com/straighttalknosugaradded)\n- **Discovery Meeting**: [Schedule a 30-minute meeting](https://tidycal.com/neenaperez/discovery-30-minute-meeting)\n\nFor more information, you can visit [Neena Perez's website](https://neenaperez.com/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "07979aa7-013d-4930-996a-a081c15f77f3",
+            "timestamp": "2024-09-09T06:03:23.813399"
+        },
+        "71c55596-6eb5-4470-bc7c-c62de3fbd31d": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-13T03:39:58.271651",
+                    "message": "coach",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-13T03:40:03.495356",
+                    "message": "Neena Perez is a transformational life coach who specializes in empowering women to achieve their business aspirations through a structured four-step coaching program. This program emphasizes:\n\n1. **Inner Healing**: Confronting and overcoming toxic shame and limiting belief systems.\n2. **Transcending**: Aligning actions with core values, identifying gaps, and setting ambitious goals.\n3. **Co-Creation**: Building a robust roadmap with strategic marketing, automation, and team collaboration.\n4. **Daily Practice**: Implementing a consistent action plan that propels you forward each day.\n\nNeena's coaching approach is designed to help you live life on your terms, unencumbered by limitations, and make a meaningful impact. Clients have reported significant positive outcomes and personal breakthroughs through her techniques.\n\nIf you're ready to transform your wisdom into wealth and harness your full potential, you can book a free strategy call with Neena to get started on your coaching journey: [Book Your FREE Strategy Call](https://go.neenaperez.com/booking-page-1).\n\nFor more information about Neena Perez and her coaching programs, you can visit her website: [Neena Perez Coaching](https://neenaperez.com/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-13T03:40:31.074558",
+                    "message": "wisdom",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-13T03:40:33.911955",
+                    "message": "Thanks for your interest in wisdom! ✨ Here’s the link to join our FREE Wisdom to Wealth Virtual Workshop: [Wisdom to Wealth Workshop](https://go.neenaperez.com/wisdom-to-wealth). We can’t wait to see you there!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-13T03:40:49.203960",
+                    "message": "podcast",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-13T03:40:51.875921",
+                    "message": "Neena Perez hosts a podcast called \"Straight Talk No Sugar Added,\" where she dives into real, raw, and unfiltered conversations about life, business, and personal growth. The podcast aims to inspire and empower listeners by sharing stories, insights, and practical advice from various guests.\n\nYou can listen to the podcast on multiple platforms, including:\n\n- [Apple Podcasts](https://podcasts.apple.com/us/podcast/straight-talk-no-sugar-added/id1500597306)\n- [Spotify](https://open.spotify.com/show/1Y6c6G5X9d9Z2F3z5V5Z5X)\n- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMDI4MjY0LnJzcw==)\n\nFeel free to tune in and get inspired by the amazing stories and valuable insights shared on \"Straight Talk No Sugar Added\"!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "71c55596-6eb5-4470-bc7c-c62de3fbd31d",
+            "timestamp": "2024-09-13T03:39:58.271651"
+        },
+        "b52b6f71-6b9d-4e3e-ac09-2882f710373a": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-18T04:16:41.971153",
+                    "message": "coaching",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T04:16:44.199174",
+                    "message": "Neena Perez offers a transformational coaching program designed to empower women to achieve their business goals and personal breakthroughs. The program follows a structured four-step process:\n\n1. **Inner Healing**: Addressing and healing past traumas and limiting beliefs that may hinder progress.\n2. **Alignment with Core Values**: Ensuring that personal and professional goals are in harmony with one's true values and purpose.\n3. **Strategic Planning**: Developing a clear and actionable plan to achieve business and personal objectives.\n4. **Daily Practices for Growth**: Implementing consistent daily practices to maintain momentum and ensure continuous growth.\n\nClients who have participated in Neena's coaching program often report significant positive changes, both in their personal lives and in their business ventures.\n\nWould you like more detailed information about any specific aspect of the coaching program?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-18T04:16:54.822893",
+                    "message": "book a call",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T04:16:57.113272",
+                    "message": "To book a call with Neena Perez and start your journey towards achieving your business and personal goals, you can follow these steps:\n\n1. **Visit the Booking Page**: Go to Neena Perez's official website and navigate to the booking section.\n2. **Select a Date and Time**: Choose a suitable date and time for your call from the available slots.\n3. **Provide Your Details**: Fill in the required information, such as your name, email address, and a brief description of what you hope to achieve through coaching.\n4. **Confirm Your Booking**: Once you've selected a slot and provided your details, confirm your booking to finalize the appointment.\n\nIf you need direct assistance or have any questions, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b52b6f71-6b9d-4e3e-ac09-2882f710373a",
+            "timestamp": "2024-09-18T04:16:41.971153"
+        },
+        "77002d64-6fe3-4ee3-81bf-1e26e6c9424c": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-18T14:33:57.332738",
+                    "message": "hi",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T14:33:58.985614",
+                    "message": "Hello there! How can I assist you today? 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-18T14:39:04.209284",
+                    "message": "do you have any free events",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T14:39:08.106574",
+                    "message": "Absolutely! You can join our **FREE Wisdom to Wealth Virtual Workshop**. It's a wonderful opportunity to gain valuable insights and start your journey towards transforming your wisdom into wealth. \n\nHere’s the link to join: [Wisdom to Wealth Virtual Workshop](https://go.neenaperez.com/wisdom-to-wealth).\n\nWe look forward to seeing you there! 🌟",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-18T14:39:43.344464",
+                    "message": "thank you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T14:41:45.231131",
+                    "message": "You're very welcome! If you have any other questions or need further assistance, feel free to ask. Have a wonderful day! 😊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "77002d64-6fe3-4ee3-81bf-1e26e6c9424c",
+            "timestamp": "2024-09-18T14:33:57.332738"
+        },
+        "dc3d2761-a9d3-4cfb-b986-7b8709616b58": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-24T17:47:33.244699",
+                    "message": "coach",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-24T17:47:36.674229",
+                    "message": "Absolutely! Neena Perez offers comprehensive coaching services specifically designed for purpose-driven women. Her approach focuses on transforming wisdom into wealth through a structured methodology that includes inner healing, goal setting, and strategic planning.\n\nHere are some key aspects of her coaching services:\n\n1. **Inner Healing**: Addressing past traumas and emotional blockages to pave the way for personal growth.\n2. **Goal Setting**: Defining clear, actionable goals to achieve success.\n3. **Strategic Planning**: Creating a step-by-step plan to reach those goals effectively.\n\nAdditionally, Neena provides several resources to support your journey:\n\n- **Free Strategy Calls**: An opportunity to discuss your goals and see how her coaching can help.\n- **Virtual Workshops**: Interactive sessions to develop skills and gain insights.\n- **Podcast**: Tune into her podcast for inspiration and valuable advice.\n\nWould you like more detailed information about any specific aspect of her coaching services?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-24T17:47:47.597674",
+                    "message": "coaching",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-24T17:47:55.224122",
+                    "message": "Neena Perez's coaching services are designed to empower purpose-driven women to unlock their potential and achieve personal and professional success. Here are the core components of her coaching approach:\n\n### Key Components\n\n1. **Inner Healing**: Overcoming toxic shame and limiting beliefs.\n2. **Transcending**: Aligning actions with core values, identifying gaps, and setting ambitious goals.\n3. **Co-Creation**: Building a robust roadmap with strategic marketing, automation, and team collaboration.\n4. **Daily Practice**: Implementing a consistent action plan that propels you forward each day.\n\n### Available Programs\n\n- **One-on-One Coaching**: Personalized sessions tailored to your specific needs and goals.\n- **Group Coaching**: Connect with other women on similar transformative paths.\n- **Self-Led Academy**: Access tools and resources to guide your journey at your own pace.\n\n### Additional Resources\n\n- **Free Strategy Call**: [Book your free call](https://go.neenaperez.com/booking-page-1).\n- **Virtual Workshops**: Join the [Wisdom to Wealth Workshop](https://go.neenaperez.com/wisdom-to-wealth).\n- **Podcast**: Listen to the latest episodes on [Straight Talk No Sugar Added](https://www.youtube.com/@straighttalknosugaradded).\n\n### Client Testimonials\n\n- **Nisha**: \"Neena helped me break my limiting beliefs and gain confidence in my capabilities.\"\n- **Linda**: \"Neena cuts through the clutter and holds you accountable, pushing you to win.\"\n- **Kathleen K**: \"Focused on what matters most and gained clarity and confidence.\"\n\nExplore more and see how Neena Perez's coaching can transform your life by visiting her [website](https://neenaperez.com/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "dc3d2761-a9d3-4cfb-b986-7b8709616b58",
+            "timestamp": "2024-09-24T17:47:33.244699"
+        }
+    }
+}

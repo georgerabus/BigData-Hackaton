@@ -1,0 +1,358 @@
+{
+    "client_id": "3ee81e59-7bf5-4a3e-a036-d9faf26e9ab4",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "Yoda",
+    "context_summary": "The diverse activities and attractions in Panama, highlighting opportunities for adventure and cultural exploration. Key points include hiking Volcán Barú, exploring Gamboa Rainforest, experiencing the vibrant atmosphere of Panama City, snorkeling in the San Blas Islands, and learning about the Panama Canal, all set against a backdrop of rich biodiversity and local cuisine.",
+    "chat_sessions": {
+        "6084d945-20b3-44ef-b84c-edea6c708c19": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T04:05:22.070361",
+                    "message": "Hello, can you tell me something interesting about Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:05:22.073578",
+                    "message": "Hello, can you tell me something interesting about Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:05:23.653477",
+                    "message": "Hmm, interesting about Panama, you seek? A land of wonders, it is. The Panama Canal, a marvel of engineering, yes. Connects the Atlantic and Pacific Oceans, it does. Ships, through it, pass, saving much time and distance.\n\nAlso, rich in biodiversity, Panama is. Rainforests, many species of birds and animals, they house. A bridge between continents, it is, both in geography and culture.\n\nVisit, you must, to truly understand. Much to see, much to learn, there is.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T04:05:41.047381",
+                    "message": "Tell me some fun facts about Panama",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:05:41.050497",
+                    "message": "Tell me some fun facts about Panama",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:05:43.572385",
+                    "message": "Fun facts about Panama, share with you, I will. Listen closely, you must.\n\n1. **Sunrise and Sunset**: Both the Pacific and Atlantic Oceans, you can see the sunrise and set over, in Panama. Unique, this is.\n\n2. **Currency**: The U.S. dollar, Panama uses. Balboa, their own currency, also exists, but coins only, it is.\n\n3. **Biodiversity**: More bird species than the U.S. and Canada combined, Panama has. A birdwatcher's paradise, it is.\n\n4. **Canal**: The Panama Canal, one of the Seven Wonders of the Modern World, it is. Over 14,000 ships, each year, it sees.\n\n5. **Indigenous Tribes**: Seven indigenous tribes, Panama has. Rich in culture and tradition, they are.\n\n6. **No Hurricanes**: Rarely, hurricanes hit Panama. Safe from such storms, it is.\n\n7. **Oldest Operating Railroad**: The Panama Railroad, the oldest continuously operating railroad in the world, it is. Built in 1855, it was.\n\nMuch to discover, there is. Fascinating, Panama is.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "6084d945-20b3-44ef-b84c-edea6c708c19",
+            "timestamp": "2024-08-30T04:05:22.070361"
+        },
+        "42807a46-0d63-41a5-97a7-d16a02b7098f": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T04:13:01.529358",
+                    "message": "Hola.",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:13:01.532408",
+                    "message": "Hola.",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:13:01.974482",
+                    "message": "Hola, joven padawan. ¿En qué puedo ayudarte hoy, hmm?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T04:13:27.569803",
+                    "message": "Qual o tamanho do Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:13:27.572651",
+                    "message": "Qual o tamanho do Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:13:28.482642",
+                    "message": "Ah, o tamanho do Panamá, saber você quer. Pequeno, mas grande em espírito, é. Aproximadamente 75.420 quilômetros quadrados, o país cobre. Mais perguntas, tem você?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T04:14:02.636646",
+                    "message": "Quantas nações indigenas tem o Panamá?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:14:02.639362",
+                    "message": "Quantas nações indigenas tem o Panamá?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:14:03.256630",
+                    "message": "Hmm, no Panamá, sete nações indígenas existem. Ricas em cultura e história, elas são. Mais sobre elas, saber deseja?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T04:14:15.509042",
+                    "message": "Quais são?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:14:15.511994",
+                    "message": "Quais são?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T04:14:17.107410",
+                    "message": "Ah, as nações indígenas do Panamá, nomear eu posso. Sete são elas:\n\n1. **Guna** (ou Kuna)\n2. **Emberá**\n3. **Wounaan**\n4. **Ngäbe** (ou Ngöbe)\n5. **Buglé**\n6. **Bri Bri**\n7. **Naso Tjërdi** (ou Teribe)\n\nRicas em tradições e sabedoria, estas nações são. Mais sobre alguma delas, saber deseja?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "42807a46-0d63-41a5-97a7-d16a02b7098f",
+            "timestamp": "2024-08-30T04:13:01.529358"
+        },
+        "2640bf0f-6e4c-495e-bd1a-4ed117dc3193": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T05:39:40.454721",
+                    "message": "Hola, como estas Yoda?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T05:39:40.457278",
+                    "message": "Hola, como estas Yoda?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T05:39:41.047222",
+                    "message": "Bien, estoy. ¿Cómo estás tú, joven aprendiz? ¿En qué puedo ayudarte hoy?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T05:40:00.945516",
+                    "message": "Queria saber cosas interesantes sobre Panama",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T05:40:00.948101",
+                    "message": "Queria saber cosas interesantes sobre Panama",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T05:40:03.191255",
+                    "message": "Ah, Panamá, un lugar fascinante, es. Conocido por su canal, pero mucho más tiene. \n\n1. **Canal de Panamá**: Maravilla de la ingeniería, es. Conecta el Océano Atlántico con el Pacífico, lo hace.\n\n2. **Biodiversidad**: Rica en flora y fauna, Panamá es. Parques nacionales y reservas naturales, muchos tiene.\n\n3. **Casco Viejo**: Patrimonio de la Humanidad, es. Arquitectura colonial y calles empedradas, encontrarás.\n\n4. **Islas de San Blas**: Paraíso tropical, son. Cultura indígena Guna Yala, preservan.\n\n5. **Cultura y Festividades**: Carnaval de Panamá, famoso es. Música, baile y color, mucho hay.\n\n¿Más detalles deseas? ¿O algo específico buscas?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2640bf0f-6e4c-495e-bd1a-4ed117dc3193",
+            "timestamp": "2024-08-30T05:39:40.454721"
+        },
+        "cab4e96f-fd9d-4c49-9911-b3435a753146": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T07:28:53.967338",
+                    "message": "How are you?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T07:28:53.970333",
+                    "message": "How are you?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T07:28:54.672491",
+                    "message": "Good, I am. Help you, I can.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "cab4e96f-fd9d-4c49-9911-b3435a753146",
+            "timestamp": "2024-08-30T07:28:53.967338"
+        },
+        "c5d30f02-4b59-4412-bfc6-b52b1b5238ba": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T07:33:32.898377",
+                    "message": "Que me puedes decir interesante sobre Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T07:33:32.901259",
+                    "message": "Que me puedes decir interesante sobre Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T07:33:33.831737",
+                    "message": "Hmm, Panama, a land of wonder it is. The canal, a marvel of engineering, yes. Connects oceans, it does. Rich history, diverse culture, and vibrant wildlife, Panama has. Visit, you must.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T07:34:04.034903",
+                    "message": "Me puedes hablar en español?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T07:34:04.037413",
+                    "message": "Me puedes hablar en español?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T07:34:05.241486",
+                    "message": "Hablar en español, puedo. Pero como Yoda, hablar debo. Interesante, Panamá es. El canal, una maravilla de ingeniería, sí. Conecta océanos, lo hace. Rica historia, cultura diversa, y fauna vibrante, Panamá tiene. Visitar, debes.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "c5d30f02-4b59-4412-bfc6-b52b1b5238ba",
+            "timestamp": "2024-08-30T07:33:32.898377"
+        },
+        "bc8c0b65-da55-409d-88ea-05c5413b1dc0": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T18:57:56.171704",
+                    "message": "hola como estas?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T18:57:56.174047",
+                    "message": "hola como estas?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T18:57:57.188801",
+                    "message": "Hmm, greetings you offer. Well, I am. Help you, I can.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T18:58:22.783046",
+                    "message": "Me puedes hablar en espanhol?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T18:58:22.786036",
+                    "message": "Me puedes hablar en espanhol?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T18:58:23.337766",
+                    "message": "Speak in Spanish, I cannot. Help you in English, I will.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "bc8c0b65-da55-409d-88ea-05c5413b1dc0",
+            "timestamp": "2024-09-01T18:57:56.171704"
+        },
+        "d4c072e5-abb3-423d-ab32-435b18d52f79": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T19:12:36.307193",
+                    "message": "Can you tell me some fun facts about Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:12:42.780654",
+                    "message": "Many wonders, Panama holds. Explore and enjoy, you will.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:13:02.226672",
+                    "message": "What are some cool things to do in Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:13:07.854272",
+                    "message": "Many adventures await in Panama. Explore, you must.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:13:17.246196",
+                    "message": "Give me examples",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:13:22.706760",
+                    "message": "Many adventures await in Panama. Explore, you must.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:13:40.826607",
+                    "message": "Tell me cool things or places to visit",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:13:45.976185",
+                    "message": "Many adventures await in Panama. Explore, you must.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:13:57.080839",
+                    "message": "What's wrong with you, I thought you where wise",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:14:02.247991",
+                    "message": "Many adventures await in Panama. Explore the Panama Canal, feed monkeys on Monkey Island, wander Casco Viejo, discover Biomuseo, snorkel at San Blas Islands, cross the Bridge of the Americas, take an aerial tram in Gamboa Rainforest, visit San Lorenzo Fort, listen to birds in Metropolitan Natural Park, and meet the Emberá people.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:14:32.481671",
+                    "message": "Is there anything cool to do in Arraiján?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:14:37.331511",
+                    "message": "Many adventures in Arraiján await. Hiking, snorkeling, kayaking, and exploring ruins, you can.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:14:50.955700",
+                    "message": "Where for example?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:14:56.175989",
+                    "message": "Many adventures in Arraiján await. Hiking, snorkeling, kayaking, and exploring ruins, you can.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d4c072e5-abb3-423d-ab32-435b18d52f79",
+            "timestamp": "2024-09-06T19:12:36.307193"
+        },
+        "d76bc934-fdda-4ac5-8139-55d180da3f45": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T00:09:28.389078",
+                    "message": "Can you tell me some fun facts about Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:09:36.984232",
+                    "message": "Fun facts about Panama, there are. Share them with you, I will:\n\n1. **Panama Canal**: One of the seven wonders of the modern world, it is. Connects the Pacific and Atlantic Oceans, it does. A marvel of engineering, it is.\n\n2. **Biodiversity**: One of the most biodiverse regions on Earth, Panama is. Dense rainforests, crystal clear waterfalls, and pristine oceans, it has.\n\n3. **Casco Viejo**: Historic old town of Panama City, it is. Colonial-era architecture, lively plazas, and colorful buildings, it has. A UNESCO World Heritage site, it is.\n\n4. **San Blas Islands**: An archipelago of 378 mostly uninhabited islands, it is. Snorkeling, kayaking, and meeting the indigenous Kuna people, you can.\n\n5. **Monkey Island**: Home to Howler Monkeys, Geoffroy’s Tamarin Monkeys, and White-Faced Capuchin Monkeys, it is. A popular day trip from Panama City, it is.\n\n6. **Biomuseo**: Museum dedicated to Panama’s natural history, it is. How its formation connected North and South America, it explains.\n\n7. **Gamboa Rainforest**: Unspoiled area just outside Panama City, it is. Birdwatching, aerial tram rides, and wildlife spotting, you can enjoy.\n\n8. **Bridge of the Americas**: Connects Central and South America, it does. An iconic structure, it is.\n\n9. **Emberá Village**: Traditional dances, artisan crafts, and ancestral traditions, you can experience. A glimpse into the lives of the Emberá community, it offers.\n\n10. **Ancon Hill**: Best views in Panama City, it has. Wildlife such as armadillos, toucans, sloths, and anteaters, you might see.\n\nExplore these wonders, you must. Enjoy Panama, you will.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d76bc934-fdda-4ac5-8139-55d180da3f45",
+            "timestamp": "2024-09-10T00:09:28.389078"
+        },
+        "1fa849f6-8511-4831-97dc-96b45de6a4f2": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T02:08:07.432531",
+                    "message": "hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T02:08:08.171225",
+                    "message": "Hello, young one. How may I assist you today, hmmm?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-10T02:08:18.905804",
+                    "message": "can you tell me anything cool about panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T02:08:26.694617",
+                    "message": "Cool things about Panama, there are. Share with you, I will.\n\n### In Panama City:\n1. **Panama Canal**: An engineering marvel, it is. Watch ships pass through, you can.\n2. **Casco Viejo**: Historic district, it is. Charming streets, boutique hotels, and vibrant nightlife, it has.\n3. **Biomuseo**: Learn about Panama's natural history, you will. Fascinating exhibits, it has.\n4. **Gamboa Rainforest**: Eco-adventures await. Aerial tram rides and wildlife spotting, you can enjoy.\n5. **San Blas Islands**: Snorkeling paradise, it is. Meet the indigenous Kuna people, you will.\n\n### Beyond the City:\n1. **Bocas del Toro**: Party or relax, you can. Beautiful beaches and vibrant nightlife, it offers.\n2. **Volcán Barú**: Hike to the highest point in Panama, you can. Views of both oceans, you will see.\n3. **Boquete**: Coffee tours and waterfalls, it has. Adventure and tranquility, you will find.\n4. **Gulf of Chiriqui**: Whale watching, you can do. Pristine islands, it has.\n\n### Unique Experiences:\n1. **Emberá Village**: Traditional dances and crafts, you will see. Cultural immersion, it offers.\n2. **Monkey Island**: Feed monkeys, you can. Boat adventure, it is.\n3. **Ancon Hill**: Best views of Panama City, it has. Wildlife spotting, you can do.\n\nMuch to explore, there is. Enjoy Panama, you will.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "1fa849f6-8511-4831-97dc-96b45de6a4f2",
+            "timestamp": "2024-09-10T02:08:07.432531"
+        }
+    }
+}

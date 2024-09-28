@@ -1,0 +1,45 @@
+{
+    "client_id": "737e38f1-2c44-469d-bed9-9d2f16d6da10",
+    "user_id": "7a9c9115-e3fc-4bd9-b511-7f9e74807a49",
+    "details": null,
+    "name": "Mark",
+    "context_summary": "Search Boss, a digital marketing agency that specializes in SEO optimization, web development, social media marketing, and guest posting. The agency focuses on developing customized strategies to boost online visibility, increase traffic, and enhance ROI for businesses, while emphasizing high-quality content and ethical SEO practices to position brands as industry leaders.",
+    "chat_sessions": {
+        "931d18d3-78b8-40f2-876c-bd0e09258ed8": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-03T04:17:20.522050",
+                    "message": "Give me a cookie recipe",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:17:20.525787",
+                    "message": "Give me a cookie recipe",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:17:21.741798",
+                    "message": "It looks like I don't have any specific cookie recipes in my current context. However, I'd love to help you out! Could you please provide more details about the type of cookie you're interested in? For example, are you looking for chocolate chip cookies, oatmeal cookies, or something else?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T04:17:36.857585",
+                    "message": "chocolate chips",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:17:36.860743",
+                    "message": "chocolate chips",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:17:41.002607",
+                    "message": "Great choice! Here's a classic chocolate chip cookie recipe for you:\n\n### Classic Chocolate Chip Cookies\n\n#### Ingredients:\n- 1 cup (2 sticks) unsalted butter, softened\n- 3/4 cup granulated sugar\n- 3/4 cup packed brown sugar\n- 1 teaspoon vanilla extract\n- 2 large eggs\n- 2 1/4 cups all-purpose flour\n- 1 teaspoon baking soda\n- 1/2 teaspoon salt\n- 2 cups semi-sweet chocolate chips\n\n#### Instructions:\n1. **Preheat your oven** to 375°F (190°C).\n2. **Mix the wet ingredients**: In a large bowl, beat the softened butter, granulated sugar, brown sugar, and vanilla extract until creamy. Add the eggs one at a time, beating well after each addition.\n3. **Combine the dry ingredients**: In a separate bowl, combine the flour, baking soda, and salt. Gradually add this mixture to the wet ingredients, mixing well.\n4. **Add the chocolate chips**: Stir in the chocolate chips until evenly distributed.\n5. **Scoop the dough**: Drop rounded tablespoonfuls of dough onto ungreased baking sheets.\n6. **Bake**: Bake in the preheated oven for 9 to 11 minutes or until golden brown. Let the cookies cool on the baking sheets for a couple of minutes before transferring them to wire racks to cool completely.\n\nEnjoy your delicious homemade chocolate chip cookies! 🍪\n\nIf you have any other questions or need further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "931d18d3-78b8-40f2-876c-bd0e09258ed8",
+            "timestamp": "2024-09-03T04:17:20.522050"
+        }
+    }
+}

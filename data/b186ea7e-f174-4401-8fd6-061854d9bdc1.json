@@ -1,0 +1,61 @@
+{
+    "client_id": "b186ea7e-f174-4401-8fd6-061854d9bdc1",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "Lynne",
+    "context_summary": "HDS Panama Realty, which offers a comprehensive selection of real estate services in Panama City. The listings include a variety of properties for sale and rent, featuring different specifications and price ranges to accommodate both affordable and luxury options for clients.",
+    "chat_sessions": {
+        "39a29bab-3e82-4a3f-9005-7e7006b54723": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T19:43:27.078899",
+                    "message": "Hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:43:28.445412",
+                    "message": "Hello! How can I assist you today? Are you looking for information on real estate services in Panama City or something else related to HDS Panama Realty?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:43:46.767781",
+                    "message": "So you have any rentals available?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:43:51.204044",
+                    "message": "Yes, HDS Panama Realty has rental properties available. Here are some options:\n\n### Apartments for Rent\n1. **Apartment in Panama City**\n   - **Bedrooms:** 1\n   - **Parking:** 1\n   - **Bathrooms:** 1\n   - **Area:** 48 m²\n   - **Price:** Available for rent\n   - [More Details](https://hdspanamarealty.com/s/apartamento/alquiler?id_property_type=2&business_type%5B0%5D=for_rent)\n\nFor more detailed information or to explore more rental options, you can visit the [Alquiler section](https://hdspanamarealty.com/s/alquiler) on the HDS Panama Realty website.\n\nIs there anything specific you are looking for in a rental property?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:44:03.526977",
+                    "message": "Give me more options",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:44:12.105434",
+                    "message": "Sure, here are more rental options available through HDS Panama Realty:\n\n### Apartments for Rent\n\n1. **Apartment in Panama City**\n   - **Bedrooms:** 1\n   - **Parking:** 1\n   - **Bathrooms:** 1\n   - **Area:** 48 m²\n   - **Price:** Available for rent\n   - [More Details](https://hdspanamarealty.com/s/apartamento/alquiler?id_property_type=2&business_type%5B0%5D=for_rent)\n\n2. **Apartment in Panama City**\n   - **Bedrooms:** 2\n   - **Parking:** 1\n   - **Bathrooms:** 2\n   - **Area:** 77 m²\n   - **Price:** Available for rent\n   - [More Details](https://hdspanamarealty.com/s/apartamento/alquiler?id_property_type=2&business_type%5B0%5D=for_rent)\n\n3. **Apartment in Panama City**\n   - **Bedrooms:** 3\n   - **Parking:** 2\n   - **Bathrooms:** 2\n   - **Area:** 102 m²\n   - **Price:** Available for rent\n   - [More Details](https://hdspanamarealty.com/s/apartamento/alquiler?id_property_type=2&business_type%5B0%5D=for_rent)\n\n4. **Apartment in Panama City**\n   - **Bedrooms:** 2\n   - **Parking:** 1\n   - **Bathrooms:** 2\n   - **Area:** 51 m²\n   - **Price:** Available for rent\n   - [More Details](https://hdspanamarealty.com/s/apartamento/alquiler?id_property_type=2&business_type%5B0%5D=for_rent)\n\n5. **Apartment in Panama City**\n   - **Bedrooms:** 2\n   - **Parking:** 1\n   - **Bathrooms:** 2\n   - **Area:** 70 m²\n   - **Price:** Available for rent\n   - [More Details](https://hdspanamarealty.com/s/apartamento/alquiler?id_property_type=2&business_type%5B0%5D=for_rent)\n\nFor more detailed information or to explore additional rental options, you can visit the [Alquiler section](https://hdspanamarealty.com/s/alquiler) on the HDS Panama Realty website.\n\nIs there anything specific you are looking for in a rental property?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "39a29bab-3e82-4a3f-9005-7e7006b54723",
+            "timestamp": "2024-09-06T19:43:27.078899"
+        },
+        "d2f8c450-912a-40fb-96de-57cb104b62a3": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-12T16:44:34.173248",
+                    "message": "Do you have any apartments in Panama?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-12T16:44:44.728039",
+                    "message": "¡Claro! Aquí tienes algunas opciones de apartamentos disponibles en Ciudad de Panamá:\n\n1. **PH Coco Place**\n   - **Ubicación:** Ciudad de Panamá, Panamá\n   - **Recámaras:** 1\n   - **Estacionamiento:** 1\n   - **Baños:** 1\n   - **Área:** 48 m²\n   - **Precio:** $141,750\n   - [Más información](https://hdspanamarealty.com/apartamento-venta-coco-del-mar-ciudad-de-panama/6162528)\n\n2. **PH Carreras**\n   - **Ubicación:** Ciudad de Panamá, Panamá\n   - **Recámaras:** 3\n   - **Estacionamiento:** 1\n   - **Baños:** 2\n   - **Área:** 92 m²\n   - **Precio:** $240,000\n   - [Más información](https://hdspanamarealty.com/apartamento-venta-el-carmen-ciudad-de-panama/6162527)\n\n3. **Vista Horizontes**\n   - **Ubicación:** Ciudad de Panamá, Panamá\n   - **Recámaras:** 3\n   - **Estacionamiento:** 1\n   - **Baños:** 2\n   - **Área:** 94 m²\n   - **Precio:** $200,000\n   - [Más información](https://hdspanamarealty.com/apartamento-venta-vista-hermosa-ciudad-de-panama/6162526)\n\n4. **PH Pacific Park**\n   - **Ubicación:** Ciudad de Panamá, Panamá\n   - **Recámaras:** 2\n   - **Estacionamiento:** 1\n   - **Baños:** 2\n   - **Área:** 83 m²\n   - **Precio:** $160,000\n   - [Más información](https://hdspanamarealty.com/apartamento-venta-edison-park-ciudad-de-panama/6162523)\n\n5. **PH Pacific Park**\n   - **Ubicación:** Ciudad de Panamá, Panamá\n   - **Recámaras:** 2\n   - **Estacionamiento:** 1\n   - **Baños:** 2\n   - **Área:** 89 m²\n   - **Precio:** $234,100\n   - [Más información](https://hdspanamarealty.com/apartamento-venta-edison-park-ciudad-de-panama/6162522)\n\n6. **PH Oceana**\n   - **Ubicación:** Ciudad de Panamá, Panamá\n   - **Recámaras:** 3\n   - **Estacionamiento:** 2\n   - **Baños:** 4\n   - **Área:** 329 m²\n   - **Precio:** $900,000\n   - [Más información](https://hdspanamarealty.com/apartamento-venta-punta-paitilla-ciudad-de-panama/6684102)\n\nEstas son solo algunas de las opciones disponibles. Si necesitas más detalles o tienes alguna preferencia específica, no dudes en decírmelo. ¡Estoy aquí para ayudarte!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d2f8c450-912a-40fb-96de-57cb104b62a3",
+            "timestamp": "2024-09-12T16:44:34.173248"
+        }
+    }
+}

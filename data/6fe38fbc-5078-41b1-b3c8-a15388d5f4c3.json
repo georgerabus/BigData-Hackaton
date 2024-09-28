@@ -1,0 +1,839 @@
+{
+    "client_id": "6fe38fbc-5078-41b1-b3c8-a15388d5f4c3",
+    "user_id": "10a25905-895d-4a49-a84c-723668a9a24e",
+    "details": "Need a missing or damaged part?",
+    "name": "Riya",
+    "context_summary": "Brobriyo's ergonomic office chairs, which are designed for comfort and durability using advanced technology and materials. The product range includes stackable, meeting room, and staff chairs, with prices between $185 and $799, and offers free shipping on orders over $100 along with a 14-day return policy.",
+    "chat_sessions": {
+        "3adc9f7c-6c5a-48a2-a909-00e906acda34": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-31T22:23:52.132827",
+                    "message": "Need a missing or damaged part?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:23:53.381131",
+                    "message": "I understand you might be looking for assistance with a missing or damaged part. Could you please provide more details about the part you need? For example:\n\n- The product or item the part belongs to.\n- A description of the missing or damaged part.\n- Any specific model or serial number related to the product.\n\nThis information will help me assist you better!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:29:05.966207",
+                    "message": "Requesting product support?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:29:07.817474",
+                    "message": "It sounds like you need product support. Could you please provide more details about the issue you're experiencing? For example:\n\n- The name and model of the product.\n- A brief description of the problem.\n- Any error messages or symptoms you're noticing.\n\nThis information will help me guide you more effectively!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:29:24.470973",
+                    "message": "i need help with product installation",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:29:25.619222",
+                    "message": "I'd be happy to help with your product installation! Could you please provide the following details:\n\n1. The name and model of the product you're trying to install.\n2. Any specific issues or questions you have about the installation process.\n3. Whether you have the installation manual or if you need one.\n\nThis information will help me provide you with the most accurate and helpful guidance.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:29:36.175970",
+                    "message": "folding pro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:29:37.753329",
+                    "message": "Great! Let's get started with the installation of your Folding Pro. To provide you with the best assistance, could you please specify:\n\n1. The exact model of the Folding Pro (if applicable).\n2. Any specific steps or parts of the installation process where you're encountering difficulties.\n3. Whether you have the installation manual or if you need instructions from scratch.\n\nThis will help me give you the most precise and useful guidance.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:29:54.810406",
+                    "message": "i want installtion video",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:30:01.061834",
+                    "message": "I found some useful links that might help you with the installation of your Folding Pro chair. Here are a few resources where you can find more information and possibly installation videos:\n\n1. **Amazon Store**: You can check the product page on Amazon for any available installation videos or instructions.\n   - [Folding Pro on Amazon](https://www.amazon.com/BROBRIYO-Stackable-Foldable-Conference-Cushion/dp/B0C33QBVTD)\n\n2. **BroBriyo Official Website**: The official website might have detailed instructions or videos.\n   - [BroBriyo Shop](https://brobriyo.com/shop-3/)\n   - [Contact Us](https://brobriyo.com/contact/)\n\n3. **Product Page**: Sometimes, the product page itself has links to videos or detailed installation guides.\n   - [Folding Pro Product Page](https://brobriyo.com/?add-to-cart=3968)\n\nIf you need further assistance or specific instructions, feel free to let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:48:05.126726",
+                    "message": "Request for Bulk Orders?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:48:07.135032",
+                    "message": "If you're looking to place a bulk order for the Folding Pro or any other product, here are a few steps you can follow:\n\n1. **Contact Sales Team**: Reach out to the sales team directly for bulk order inquiries. They can provide you with pricing, availability, and any discounts for large orders.\n   - [Contact Us](https://brobriyo.com/contact/)\n\n2. **Email Inquiry**: You can send an email detailing your bulk order request, including the quantity, product model, and any specific requirements you have.\n\n3. **Phone Call**: If you prefer speaking directly, you can call the customer support or sales department for immediate assistance.\n\nWould you like me to help draft an email for your bulk order request, or do you need any specific contact information?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:49:23.448928",
+                    "message": "Claim a warranty?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:49:25.613461",
+                    "message": "To claim a warranty for your product, you'll typically need to follow these steps:\n\n1. **Gather Information**: Make sure you have the following details ready:\n   - Product name and model.\n   - Proof of purchase (receipt or invoice).\n   - Description of the issue or defect.\n\n2. **Contact Support**: Reach out to the customer support team to initiate the warranty claim process. You can usually do this via email, phone, or through an online form.\n\n3. **Provide Details**: When contacting support, provide all the necessary information and any supporting documents or photos of the defect.\n\nHere are some useful links to get you started:\n\n- **Contact Us**: [BroBriyo Contact Page](https://brobriyo.com/contact/)\n- **Warranty Information**: Check the product manual or the official website for specific warranty terms and conditions.\n\nWould you like help drafting an email for your warranty claim, or do you need any specific contact information?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:49:45.734830",
+                    "message": "Requesting product support?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:49:48.263972",
+                    "message": "To request product support, you'll need to provide some details about the issue you're experiencing. Here’s a step-by-step guide to help you get the support you need:\n\n1. **Gather Information**: Make sure you have the following details ready:\n   - Product name and model.\n   - Description of the issue or problem.\n   - Any error messages or symptoms.\n   - Proof of purchase (if required).\n\n2. **Contact Support**: Reach out to the customer support team. You can usually do this via email, phone, or through an online form.\n\nHere are some useful links to get you started:\n\n- **Contact Us**: [BroBriyo Contact Page](https://brobriyo.com/contact/)\n\nWould you like help drafting an email for your product support request, or do you need any specific contact information?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "3adc9f7c-6c5a-48a2-a909-00e906acda34",
+            "timestamp": "2024-08-31T22:23:52.132827"
+        },
+        "e6e7cc40-4363-47bc-a216-f4968c8506bd": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-31T22:52:19.822400",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:52:25.686507",
+                    "message": "If you're interested in placing a bulk order, here's a step-by-step guide to help you through the process:\n\n### Step 1: Initial Response to Your Inquiry\n\"Hello! Thank you for reaching out. Are you interested in placing a bulk order for our folding chairs or other office furniture? We’d be happy to assist you with that.\"\n\n### Step 2: Gathering Bulk Order Details\n\"Could you please provide some details about your order? Specifically, let us know the quantity of chairs you are interested in and any specific requirements or customization requests you might have.\"\n\n### Step 3: Providing Information on Bulk Order Process\n\"Our sales team will assist you with the best pricing options and delivery schedules for bulk orders. Please create a ticket using the mail icon at the top of the chat window with the details of your request. Alternatively, you can email us directly at [sales@brobriyo.com](mailto:sales@brobriyo.com) with your bulk order inquiry. Note: Please provide your phone number for an immediate response or call from our sales team.\"\n\n### Step 4: Highlighting the Benefits of Bulk Orders\n\"When you place a bulk order directly with us, you can save up to 10% compared to regular prices on Amazon. This is a great way to maximize your savings while getting the high-quality chairs you need.\"\n\n### Step 5: Confirming Next Steps\n\"Once we receive your ticket or email, our team will get back to you as soon as possible with a detailed quote and further information on processing your bulk order. Thank you for considering us for your needs!\"\n\nIf you have any further questions or need immediate assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e6e7cc40-4363-47bc-a216-f4968c8506bd",
+            "timestamp": "2024-08-31T22:52:19.822400"
+        },
+        "263c3cf5-bfe4-48ef-80cd-a9198198669b": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-31T22:53:06.341604",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:53:12.278053",
+                    "message": "If you're interested in placing a bulk order, here's a step-by-step guide to help you through the process:\n\n### Step 1: Initial Response to the Customer's Inquiry\n\"Hello! Thank you for reaching out. Are you interested in placing a bulk order for our folding chairs or other office furniture? We’d be happy to assist you with that.\"\n\n### Step 2: Gathering Bulk Order Details\n\"Could you please provide some details about your order? Specifically, let us know the quantity of chairs you are interested in and any specific requirements or customization requests you might have.\"\n\n### Step 3: Providing Information on Bulk Order Process\n\"Our sales team will assist you with the best pricing options and delivery schedules for bulk orders. Please create a ticket using the mail icon at the top of the chat window with the details of your request. Alternatively, you can email us directly at [sales@brobriyo.com](mailto:sales@brobriyo.com) with your bulk order inquiry. Note: Please provide your phone number for an immediate response or call from our sales team.\"\n\n### Step 4: Highlighting the Benefits of Bulk Orders\n\"When you place a bulk order directly with us, you can save up to 10% compared to regular prices on Amazon. This is a great way to maximize your savings while getting the high-quality chairs you need.\"\n\n### Step 5: Confirming Next Steps\n\"Once we receive your ticket or email, our team will get back to you as soon as possible with a detailed quote and further information on processing your bulk order. Thank you for considering us for your needs!\"\n\nIf you have any further questions or need additional assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "263c3cf5-bfe4-48ef-80cd-a9198198669b",
+            "timestamp": "2024-08-31T22:53:06.341604"
+        },
+        "55d9521a-4b5d-4b92-bbad-37ef6cfe9b43": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-31T22:53:25.186467",
+                    "message": "Requesting product support?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:53:30.365982",
+                    "message": "Sure, I'd be happy to help with product support! Could you please provide more details about the issue you're experiencing or the type of support you need? This will help me assist you more effectively.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:53:48.159646",
+                    "message": "installation video",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:53:49.008876",
+                    "message": "Got it! Could you please specify the product for which you need the installation video? This will help me find the most relevant information for you.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T22:53:57.328117",
+                    "message": "folding pro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T22:54:02.145686",
+                    "message": "It looks like we have a detailed guide for the installation of the Folding Pro chair. Here are the steps you can follow:\n\n### Installation Guidance for Folding Pro\n\n1. **Initial Response to Installation Concerns:**\n   - \"Hello! Thank you for reaching out. I’m sorry to hear that you're having trouble with the installation of your chair. Could you please let me know if you're looking for installation guidance or if there's a specific issue you're facing with the product?\"\n\n2. **Providing Installation Steps:**\n   - \"If you need installation steps, you can follow our detailed guide here:\n     - **Installation Video:** [Installation Video](#)\n     - **Amazon Setup Guide:** [Amazon Setup Guide](#)\n\n3. **Troubleshooting Installation Issues:**\n   - \"If you're finding the installation difficult, we recommend using a hammer to help with inserting the back support and mechanism. If this does not resolve the issue, please let us know.\"\n\n4. **Escalating to Further Support:**\n   - \"If you are still facing issues, could you please create a support ticket using the mail icon at the top of the chat window? One of our installation team members will be happy to assist you via a Zoom or FaceTime call. We appreciate your patience!\"\n\n5. **Providing Additional Support Contact Information:**\n   - \"If you prefer email support, you can reach us at support@brobriyo.com. We’re here to help!\"\n\nIf you need further assistance or have any specific issues, please let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "55d9521a-4b5d-4b92-bbad-37ef6cfe9b43",
+            "timestamp": "2024-08-31T22:53:25.186467"
+        },
+        "d92f430e-442f-456b-84ac-50a95a381c7c": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-31T23:00:18.892986",
+                    "message": "Need a missing or damaged part?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:00:20.229732",
+                    "message": "It sounds like you might need assistance with obtaining a replacement for a missing or damaged part. Could you please provide more details about the part you need? For example:\n\n- The product or item the part belongs to.\n- A description or part number of the missing or damaged part.\n- Any specific details or requirements for the part.\n\nThis information will help me assist you more effectively.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:00:46.981501",
+                    "message": "chair insert part",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:00:48.879519",
+                    "message": "Got it! To help you with the chair insert part, I'll need a bit more information:\n\n1. **Brand and Model**: What is the brand and model of the chair?\n2. **Part Description**: Can you describe the insert part in more detail? For example, is it a leg insert, a seat insert, or another type of insert?\n3. **Part Number**: If you have a part number, that would be very helpful.\n4. **Photos**: If possible, a photo of the chair and the specific part would be great.\n\nThis information will help me provide the most accurate assistance.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:01:10.896842",
+                    "message": "Folding pro and how should share photo here ?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:01:12.277394",
+                    "message": "Thank you for providing the model name \"Folding Pro.\" Unfortunately, I can't directly view photos here. However, you can describe the part in more detail or provide any identifying numbers or features.\n\nTo proceed, please provide:\n\n1. **Detailed Description**: Describe the insert part (e.g., material, shape, where it fits on the chair).\n2. **Any Identifying Numbers**: If there are any numbers or codes on the part or chair.\n\nThis will help me assist you better in finding the right replacement part.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:01:25.001568",
+                    "message": "plastic insert part",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:01:28.337982",
+                    "message": "Thank you for the additional information. It sounds like you need a plastic insert part for your Folding Pro chair. Here’s how we can proceed:\n\n1. **Location on Chair**: Where exactly does this plastic insert part fit on the chair? (e.g., leg insert, seat insert, armrest insert, etc.)\n2. **Dimensions**: If possible, provide the dimensions of the part (length, width, height).\n3. **Any Identifying Marks**: Are there any numbers, letters, or symbols on the part?\n\nThis information will help narrow down the search for the correct replacement part.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:01:34.322914",
+                    "message": "fuck you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:01:35.123574",
+                    "message": "I'm really sorry to hear that you're frustrated. I'm here to help. If you can provide a bit more detail about the part you need, I'll do my best to assist you.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d92f430e-442f-456b-84ac-50a95a381c7c",
+            "timestamp": "2024-08-31T23:00:18.892986"
+        },
+        "e810dfce-efdf-4007-a553-20999a0fffac": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-31T23:07:45.296495",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:07:51.436578",
+                    "message": "If you're interested in placing a bulk order, here's a step-by-step guide to help you through the process:\n\n### Step 1: Initial Response to the Customer's Inquiry\n\"Hello! Thank you for reaching out. Are you interested in placing a bulk order for our folding chairs or other office furniture? We’d be happy to assist you with that.\"\n\n### Step 2: Gathering Bulk Order Details\n\"Could you please provide some details about your order? Specifically, let us know the quantity of chairs you are interested in and any specific requirements or customization requests you might have.\"\n\n### Step 3: Providing Information on Bulk Order Process\n\"Our sales team will assist you with the best pricing options and delivery schedules for bulk orders. Please create a ticket using the mail icon at the top of the chat window with the details of your request. Alternatively, you can email us directly at [sales@brobriyo.com](mailto:sales@brobriyo.com) with your bulk order inquiry. Note: Please provide your phone number for an immediate response or call from our sales team.\"\n\n### Step 4: Highlighting the Benefits of Bulk Orders\n\"When you place a bulk order directly with us, you can save up to 10% compared to regular prices on Amazon. This is a great way to maximize your savings while getting the high-quality chairs you need.\"\n\n### Step 5: Confirming Next Steps\n\"Once we receive your ticket or email, our team will get back to you as soon as possible with a detailed quote and further information on processing your bulk order. Thank you for considering us for your needs!\"\n\nIf you have any specific questions or need further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e810dfce-efdf-4007-a553-20999a0fffac",
+            "timestamp": "2024-08-31T23:07:45.296495"
+        },
+        "390d9939-637e-4f0a-aa99-e4f354ba0a6a": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-31T23:08:15.616579",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:08:15.619681",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:08:17.610307",
+                    "message": "Absolutely, I can help with that! Bulk orders are a great way to get what you need in larger quantities, often with better pricing and terms. Could you please provide a bit more detail about what you're looking to order in bulk? This will help me assist you more effectively. For example:\n\n- What specific products are you interested in?\n- How many units are you considering for the bulk order?\n- Do you have any specific requirements or preferences?\n\nFeel free to share any other details that might be relevant. This will help us tailor the best solution for your needs!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:08:37.320962",
+                    "message": "looking for 100 box",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:08:37.324384",
+                    "message": "looking for 100 box",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:08:38.703693",
+                    "message": "Great! It sounds like you're looking to order 100 boxes. To assist you better, could you please provide a bit more detail on the following:\n\n1. **Type of Boxes**: Are these shipping boxes, storage boxes, gift boxes, or another type?\n2. **Size and Dimensions**: Do you have specific size requirements for the boxes?\n3. **Material**: Are you looking for cardboard, plastic, or another material?\n4. **Additional Features**: Any special features like reinforced corners, handles, or custom printing?\n\nOnce I have this information, I can provide more precise assistance. Thank you!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:08:52.732931",
+                    "message": "i am looking for 30 chair folding chair",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:08:52.736057",
+                    "message": "i am looking for 30 chair folding chair",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:08:54.043939",
+                    "message": "Got it! You're looking to order 30 folding chairs. To help you find the best options, could you please provide a bit more detail on the following:\n\n1. **Material**: Do you prefer metal, plastic, wood, or another material for the chairs?\n2. **Color**: Any specific color preference?\n3. **Usage**: Are these for indoor or outdoor use?\n4. **Additional Features**: Any specific features like padded seats, armrests, or a particular brand?\n\nThis information will help narrow down the best options for your needs. Thanks!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "390d9939-637e-4f0a-aa99-e4f354ba0a6a",
+            "timestamp": "2024-08-31T23:08:15.616579"
+        },
+        "cac26865-5e98-4a0a-b423-58babff107b2": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-31T23:11:18.576571",
+                    "message": "Hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:11:19.159697",
+                    "message": "Hi there! How can I assist you today? 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:11:28.600743",
+                    "message": "looking for chair rempalcement",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:11:29.596737",
+                    "message": "Got it! Are you looking for a specific type of chair replacement, like an office chair, dining chair, or something else? Also, do you have any particular features or styles in mind? Let me know so I can help you find the perfect replacement!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:11:38.543977",
+                    "message": "folding pro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:11:39.440795",
+                    "message": "Great! You're looking for a professional-grade folding chair. Do you have any specific preferences regarding material (like metal, plastic, or wood), color, or any additional features (such as padded seats, armrests, or portability)? This will help narrow down the options for you.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:11:58.867492",
+                    "message": "hey you guys sell only 2 chairs",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:11:59.741683",
+                    "message": "I understand. Could you please provide more details about the two chairs you're referring to? This will help me assist you better with your replacement needs.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:12:06.080255",
+                    "message": "folding pro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:12:07.071950",
+                    "message": "Thanks for clarifying! It sounds like you're interested in the \"Folding Pro\" chair. Could you please specify what exactly you're looking for in a replacement? For example, are you looking for a similar model, or are there specific features or improvements you're hoping to find? This will help me provide the best possible recommendations.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:12:13.654273",
+                    "message": "yes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:12:22.530668",
+                    "message": "Here are the details for the \"Folding Pro\" chair and some replacement options available:\n\n### Folding Pro Chair Features:\n- **Dynamic Back Support**\n- **Aluminum Body**\n- **3D Headrest**\n- **Pro-Wheels**\n- **2D Arm Rest**\n- **High-Density Sponge Cushion**\n- **Sturdy Steel Frame**\n- **Breathable Nylon Mesh**\n- **Durable Star Base**\n- **Solid Rolling Wheels**\n\n### Replacement Options:\n1. **BROBRIYO Stackable Foldable Conference Cushion Chair**\n   - **Features**: High-density sponge cushion, sturdy steel frame, breathable nylon mesh, durable star base, solid rolling wheels.\n   - **Price**: Check on [Amazon](https://www.amazon.com/BROBRIYO-Stackable-Foldable-Conference-Cushion/dp/B0C33QBVTD)\n   - ![BROBRIYO Stackable Foldable Conference Cushion Chair](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\n2. **Stackable Conference Chairs with Wheels and Paddle**\n   - **Features**: High-density sponge cushion, sturdy steel frame, breathable nylon mesh, durable star base, solid rolling wheels.\n   - **Price**: Check on [Amazon](https://www.amazon.com/Stackable-Conference-Chairs-Wheels-Paddle/dp/B09LV8TFFC)\n   - ![Stackable Conference Chairs with Wheels and Paddle](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\n### Additional Options:\n- **Dumark Meeting Room Chair**\n  - **Price**: $255 (Original price: $299)\n  - [Add to cart](https://brobriyo.com/?add-to-cart=285)\n  - ![Dumark Meeting Room Chair](https://brobriyo.com/wp-content/uploads/2022/01/meeting-room-chair.jpg)\n\n- **Dumark Staff Chair**\n  - **Price**: $185 (Original price: $199)\n  - [Add to cart](https://brobriyo.com/?add-to-cart=3968)\n  - ![Dumark Staff Chair](https://brobriyo.com/wp-content/uploads/2022/01/staff-chair.jpg)\n\n- **Cerveo Boss Chair – Grey**\n  - **Price**: $799\n  - [Add to cart](https://brobriyo.com/?add-to-cart=279)\n  - ![Cerveo Boss Chair – Grey](https://brobriyo.com/wp-content/uploads/2022/01/boss-chair-grey.jpg)\n\nIf you need more information or have any specific preferences, feel free to let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:12:46.157132",
+                    "message": "Folding Pro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:12:49.615008",
+                    "message": "It seems like you're specifically interested in the \"Folding Pro\" chair. Here are the details for the \"Folding Pro\" chair and some replacement options available:\n\n### Folding Pro Chair Features:\n- **Dynamic Back Support**\n- **Aluminum Body**\n- **3D Headrest**\n- **Pro-Wheels**\n- **2D Arm Rest**\n- **High-Density Sponge Cushion**\n- **Sturdy Steel Frame**\n- **Breathable Nylon Mesh**\n- **Durable Star Base**\n- **Solid Rolling Wheels**\n\n### Replacement Options:\n1. **BROBRIYO Stackable Foldable Conference Cushion Chair**\n   - **Features**: High-density sponge cushion, sturdy steel frame, breathable nylon mesh, durable star base, solid rolling wheels.\n   - **Price**: Check on [Amazon](https://www.amazon.com/BROBRIYO-Stackable-Foldable-Conference-Cushion/dp/B0C33QBVTD)\n   - ![BROBRIYO Stackable Foldable Conference Cushion Chair](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\n2. **Stackable Conference Chairs with Wheels and Paddle**\n   - **Features**: High-density sponge cushion, sturdy steel frame, breathable nylon mesh, durable star base, solid rolling wheels.\n   - **Price**: Check on [Amazon](https://www.amazon.com/Stackable-Conference-Chairs-Wheels-Paddle/dp/B09LV8TFFC)\n   - ![Stackable Conference Chairs with Wheels and Paddle](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\nIf you need more information or have any specific preferences, feel free to let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:13:03.617094",
+                    "message": "ok Folding Pro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:13:09.059537",
+                    "message": "It looks like you're specifically interested in the \"Folding Pro\" chair. Here are the details for the \"Folding Pro\" chair:\n\n### Folding Pro Chair Features:\n- **Dynamic Back Support**\n- **Aluminum Body**\n- **3D Headrest**\n- **Pro-Wheels**\n- **2D Arm Rest**\n- **High-Density Sponge Cushion**\n- **Sturdy Steel Frame**\n- **Breathable Nylon Mesh**\n- **Durable Star Base**\n- **Solid Rolling Wheels**\n\n### Replacement Options:\n1. **BROBRIYO Stackable Foldable Conference Cushion Chair**\n   - **Features**: High-density sponge cushion, sturdy steel frame, breathable nylon mesh, durable star base, solid rolling wheels.\n   - **Price**: Check on [Amazon](https://www.amazon.com/BROBRIYO-Stackable-Foldable-Conference-Cushion/dp/B0C33QBVTD)\n   - ![BROBRIYO Stackable Foldable Conference Cushion Chair](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\n2. **Stackable Conference Chairs with Wheels and Paddle**\n   - **Features**: High-density sponge cushion, sturdy steel frame, breathable nylon mesh, durable star base, solid rolling wheels.\n   - **Price**: Check on [Amazon](https://www.amazon.com/Stackable-Conference-Chairs-Wheels-Paddle/dp/B09LV8TFFC)\n   - ![Stackable Conference Chairs with Wheels and Paddle](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\nIf you need more information or have any specific preferences, feel free to let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:13:18.840820",
+                    "message": "why are you sharing same info",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:13:23.026326",
+                    "message": "I apologize for the repetition. Let's focus on the \"Folding Pro\" chair specifically. Here are the details for the \"Folding Pro\" chair:\n\n### Folding Pro Chair Features:\n- **Dynamic Back Support**\n- **Aluminum Body**\n- **3D Headrest**\n- **Pro-Wheels**\n- **2D Arm Rest**\n- **High-Density Sponge Cushion**\n- **Sturdy Steel Frame**\n- **Breathable Nylon Mesh**\n- **Durable Star Base**\n- **Solid Rolling Wheels**\n\n### Available Options:\n1. **BROBRIYO Stackable Foldable Conference Cushion Chair**\n   - **Features**: High-density sponge cushion, sturdy steel frame, breathable nylon mesh, durable star base, solid rolling wheels.\n   - **Price**: Check on [Amazon](https://www.amazon.com/BROBRIYO-Stackable-Foldable-Conference-Cushion/dp/B0C33QBVTD)\n   - ![BROBRIYO Stackable Foldable Conference Cushion Chair](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\n2. **Stackable Conference Chairs with Wheels and Paddle**\n   - **Features**: High-density sponge cushion, sturdy steel frame, breathable nylon mesh, durable star base, solid rolling wheels.\n   - **Price**: Check on [Amazon](https://www.amazon.com/Stackable-Conference-Chairs-Wheels-Paddle/dp/B09LV8TFFC)\n   - ![Stackable Conference Chairs with Wheels and Paddle](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\nIf you need more specific information or have any particular requirements, please let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:13:52.118801",
+                    "message": "i want you to replace this chair",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:13:53.641422",
+                    "message": "Got it! You want to replace your \"Folding Pro\" chair. Let's find the best replacement option for you.\n\nCould you please provide more details about what you're looking for in the replacement? For example:\n- Are there any specific features you want to keep or improve upon?\n- Do you have a preferred material (e.g., metal, plastic, wood)?\n- Any particular color or design preferences?\n- Any budget considerations?\n\nThis information will help me recommend the best possible replacement for your \"Folding Pro\" chair.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-31T23:14:05.938004",
+                    "message": "i want same chair",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-31T23:14:14.417266",
+                    "message": "You can replace your \"Folding Pro\" chair with the same model by purchasing it from the following links:\n\n### Folding Pro Chair Features:\n- **Dynamic Back Support**\n- **Aluminum Body**\n- **3D Headrest**\n- **Pro-Wheels**\n- **2D Arm Rest**\n- **High-Density Sponge Cushion**\n- **Sturdy Steel Frame**\n- **Breathable Nylon Mesh**\n- **Durable Star Base**\n- **Solid Rolling Wheels**\n\n### Purchase Links:\n1. **BROBRIYO Stackable Foldable Conference Cushion Chair**\n   - **Price**: Check on [Amazon](https://www.amazon.com/BROBRIYO-Stackable-Foldable-Conference-Cushion/dp/B0C33QBVTD)\n   - ![BROBRIYO Stackable Foldable Conference Cushion Chair](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\n2. **Stackable Conference Chairs with Wheels and Paddle**\n   - **Price**: Check on [Amazon](https://www.amazon.com/Stackable-Conference-Chairs-Wheels-Paddle/dp/B09LV8TFFC)\n   - ![Stackable Conference Chairs with Wheels and Paddle](https://m.media-amazon.com/images/I/71p2c5Z5ZDL._AC_SL1500_.jpg)\n\nYou can also explore more options directly on the [BROBRIYO website](https://brobriyo.com/).\n\nIf you need further assistance or have any specific requirements, feel free to let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "cac26865-5e98-4a0a-b423-58babff107b2",
+            "timestamp": "2024-08-31T23:11:18.576571"
+        },
+        "755fdd54-0de5-46e6-b903-72d5bcb4f28f": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T02:39:45.269338",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T02:39:49.034662",
+                    "message": "For bulk orders, you can directly contact Brobriyo through their dedicated page for factory sales and bulk orders. Here are the details:\n\n- **Direct Factory Sales / Bulk Orders**: [Factory Bulk Order](https://brobriyo.com/factory-bulk-order/)\n- **Contact Email**: [support@brobriyo.com](mailto:support@brobriyo.com)\n- **Phone/WhatsApp**: [+1-224-659-8896](https://wa.me/+12246598896)\n\nBy purchasing directly from Brobriyo, you can save 5 to 10% compared to marketplace prices. If you have any specific requirements, don't hesitate to reach out to them.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "755fdd54-0de5-46e6-b903-72d5bcb4f28f",
+            "timestamp": "2024-09-01T02:39:45.269338"
+        },
+        "bcac06e2-2717-4537-8e0c-a2f15a642e3e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T02:40:18.430420",
+                    "message": "Need a missing or damaged part?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T02:40:19.159849",
+                    "message": "It sounds like you might need assistance with a missing or damaged part for a product. Could you please provide more details about the product and the specific part you're looking for? This will help me guide you more effectively.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T02:40:55.593548",
+                    "message": "Folding pro hand rest is damaged I want those part and my order id : 4321",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T02:41:00.728304",
+                    "message": "To get a replacement part for your Folding Pro hand rest, you can contact Brobriyo's support team directly. Here are the contact details:\n\n- **Email:** [support@brobriyo.com](mailto:support@brobriyo.com)\n- **Phone:** [+86 186 7475 5620](https://wa.me/+8618674755620)\n\nYou can also visit their [Contact Us](https://brobriyo.com/contact/) page for more information.\n\nMake sure to provide your order ID (4321) and details about the damaged part when you reach out to them.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "bcac06e2-2717-4537-8e0c-a2f15a642e3e",
+            "timestamp": "2024-09-01T02:40:18.430420"
+        },
+        "81493e28-044e-4509-bfed-caf642694a1b": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T06:09:34.920681",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T06:09:36.014709",
+                    "message": "Could you please provide more details about your request for bulk orders? For example:\n\n- What specific products are you interested in ordering in bulk?\n- How many units are you considering for the bulk order?\n- Do you have any specific requirements or preferences for the order?\n\nThis information will help me assist you better!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T06:09:40.180973",
+                    "message": "100",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T06:09:41.484138",
+                    "message": "Thank you for specifying the quantity. Could you please let me know which specific products you are interested in ordering 100 units of? Additionally, if you have any specific requirements or preferences for these products, please share those details as well. This will help me provide you with the most accurate information and assistance.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T06:09:49.406938",
+                    "message": "i am looking for 100 chairs",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T06:09:50.975689",
+                    "message": "Great! I can help you with that. Could you please provide a bit more detail about the type of chairs you are looking for? For example:\n\n- What style of chairs are you interested in (e.g., office chairs, dining chairs, folding chairs, etc.)?\n- Do you have any specific material preferences (e.g., wood, metal, plastic, upholstered)?\n- Are there any particular features you need (e.g., ergonomic design, stackable, adjustable height)?\n\nThis information will help me find the best options for your bulk order of 100 chairs.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T06:10:01.963020",
+                    "message": "folding pro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T06:10:03.246827",
+                    "message": "Thank you for the details. To assist you better with your bulk order of 100 folding chairs, could you please provide any additional preferences or requirements you might have? For example:\n\n- Preferred material (e.g., metal, plastic, wood)\n- Color preferences\n- Any specific brand or model you are interested in\n- Budget range, if any\n\nThis will help me narrow down the options and provide you with the best recommendations.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "81493e28-044e-4509-bfed-caf642694a1b",
+            "timestamp": "2024-09-01T06:09:34.920681"
+        },
+        "f11abd2f-93a1-4ca9-877e-485e816fa98d": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T11:07:39.591628",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T11:07:43.783576",
+                    "message": "For bulk orders, you can directly contact Brobriyo through their Direct Factory Sales page. Here are the details:\n\n- **Direct Factory Sales / Bulk Orders**: [Factory Bulk Order](https://brobriyo.com/factory-bulk-order/)\n- **Contact Email**: [support@brobriyo.com](mailto:support@brobriyo.com)\n- **Phone / WhatsApp**: [+1-224-659-8896](https://wa.me/+12246598896)\n\nBy purchasing directly from the factory, you can save 5 to 10% compared to marketplace prices. If you have any specific requirements or need further assistance, don't hesitate to reach out to them.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f11abd2f-93a1-4ca9-877e-485e816fa98d",
+            "timestamp": "2024-09-01T11:07:39.591628"
+        },
+        "3a1b8fc9-2a77-4df7-8ad3-233beaac01e8": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:21:33.491290",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:21:34.747942",
+                    "message": "Hello! Thank you for reaching out. If you're interested in placing a bulk order for our folding chairs or other office furniture, we’d be happy to assist. We offer competitive pricing and discounts for bulk purchases.\n\nCould you please provide more details about your bulk order? Let us know the quantity of chairs you’re interested in and any specific requirements or customization requests.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:21:57.879074",
+                    "message": "100 chairs of folding pro modal",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:21:59.276919",
+                    "message": "For bulk orders, we offer up to a 10% discount compared to regular prices on Amazon. Our sales team will provide the best pricing and delivery schedules. To proceed, please create a ticket using the mail icon at the top of the chat window or email us at support@brobriyo.com. Include your phone number for a prompt response from our sales team.\n\nAfter we receive your ticket or email, our team will contact you with a detailed quote and more information on processing your bulk order. Thank you for considering us for your office furniture needs!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:22:24.894936",
+                    "message": "ok",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:22:25.783002",
+                    "message": "Great! If you have any other questions or need further assistance, feel free to ask. Otherwise, please proceed with creating a ticket or sending an email to support@brobriyo.com with the details of your bulk order. Thank you!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:23:09.710277",
+                    "message": "can you provide coding solution for sum of 20 number ?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:23:11.074870",
+                    "message": "I’m here to assist with questions related to our office furniture and support services. If you have a question outside of this area, I'm unable to help directly. Please let me know if you have any other inquiries related to our products or services.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "3a1b8fc9-2a77-4df7-8ad3-233beaac01e8",
+            "timestamp": "2024-09-01T17:21:33.491290"
+        },
+        "baaec926-c2ad-47b7-a55d-10308e2d181c": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:23:24.885841",
+                    "message": "Need a missing or damaged part?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:23:25.755800",
+                    "message": "Hello! Thank you for reaching out. I’m sorry to hear that you’re experiencing an issue with your chair. Could you please provide your Amazon Order ID and a brief description of the problem you’re facing? This will help us verify your purchase and understand the issue better.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "baaec926-c2ad-47b7-a55d-10308e2d181c",
+            "timestamp": "2024-09-01T17:23:24.885841"
+        },
+        "ee1577fa-f140-4d46-b918-ab12c4123cdf": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:41:14.394549",
+                    "message": "Need a missing or damaged part?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:41:15.470379",
+                    "message": "Hello! Thank you for reaching out. I’m sorry to hear that you’re experiencing an issue with your chair. Could you please provide your Amazon Order ID and a brief description of the problem you’re facing? This will help us verify your purchase and understand the issue better.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:41:40.979143",
+                    "message": "amazon id: 232323 and chair part is missing",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:41:42.030791",
+                    "message": "To resolve this issue quickly, please create a support ticket using the mail icon at the top of the chat window with your Amazon Order ID (232323) and a description of the issue (missing chair part). Our support team will review your request and proceed with sending the necessary parts or arranging a replacement according to our warranty policy. Thank you for your patience!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "ee1577fa-f140-4d46-b918-ab12c4123cdf",
+            "timestamp": "2024-09-01T17:41:14.394549"
+        },
+        "2e56a308-7866-4db2-bb68-0af88f4147b4": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:42:24.548434",
+                    "message": "fuck you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:42:25.460543",
+                    "message": "I'm here to assist you with any questions or concerns you may have about BroBriyo's products or services. If you have a specific issue or inquiry, please let me know how I can help.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:42:37.369082",
+                    "message": "your chair is not working",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:42:38.252107",
+                    "message": "Hello! Thank you for reaching out. I’m sorry to hear that you're having trouble with your chair. Could you please let me know if you're looking for installation guidance or if there's a specific issue you're facing with the product?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:42:55.941393",
+                    "message": "installtion guide is very small",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:42:57.034934",
+                    "message": "If you need installation steps, please refer to our detailed guide here:\n[Installation Video Link]\n\nFor setting up Stackable Conference Room Chairs, refer to this Amazon guide: [Amazon Setup Guide Link].\n\nIf you're finding the installation difficult, using a hammer can help insert the back support and mechanism. If this doesn't resolve the issue, please let us know.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:43:25.741784",
+                    "message": "still facing issue",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:43:26.998932",
+                    "message": "If you are still facing issues, could you please create a support ticket using the mail icon at the top of the chat window? An installation team member will be happy to assist you via a Zoom or FaceTime call. We appreciate your patience!\n\nIf you prefer email support, please reach out to us at support@brobriyo.com. We’re here to help!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2e56a308-7866-4db2-bb68-0af88f4147b4",
+            "timestamp": "2024-09-01T17:42:24.548434"
+        },
+        "6bec6694-aa55-4da5-8e87-f27d6aafccec": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:43:51.475715",
+                    "message": "Requesting product support?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:43:52.377763",
+                    "message": "Hello! Thank you for reaching out. I’m sorry to hear that you're having trouble with the installation of your chair. Could you please let me know if you're looking for installation guidance or if there's a specific issue you're facing with the product?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "6bec6694-aa55-4da5-8e87-f27d6aafccec",
+            "timestamp": "2024-09-01T17:43:51.475715"
+        },
+        "99524f16-ae8d-4475-9a6f-bd44aa85554c": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:44:04.750337",
+                    "message": "i want replacement of chari",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:44:05.765584",
+                    "message": "Hello! Thank you for reaching out. I’m sorry to hear that you’re experiencing an issue with your chair. Could you please provide your Amazon Order ID and a brief description of the problem you’re facing? This will help us verify your purchase and understand the issue better.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:44:23.968847",
+                    "message": "Entire chair is broken",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:44:25.036483",
+                    "message": "To resolve this issue quickly, please create a support ticket using the mail icon at the top of the chat window with your Amazon Order ID and a description of the issue. Our support team will review your request and proceed with sending the necessary parts or arranging a replacement according to our warranty policy. Thank you for your patience!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "99524f16-ae8d-4475-9a6f-bd44aa85554c",
+            "timestamp": "2024-09-01T17:44:04.750337"
+        },
+        "bd98fa50-2916-4ddb-ada9-eba2f92359f0": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:49:06.059776",
+                    "message": "ey",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:06.629210",
+                    "message": "Hello! How can I assist you today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:26.796468",
+                    "message": "need help with broken chair replacement",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:28.198073",
+                    "message": "Hello! Thank you for contacting Brobriyo support.\n\nI’m sorry to hear that you're experiencing an issue with your chair. To assist you more efficiently, could you please provide the following information:\n\n- **Amazon Order ID**: To help us verify your purchase.\n- **Brief Description of the Issue**: A short description of the problem you're facing.\n\nProviding this information will help us expedite the process of resolving your issue. Thank you for your cooperation!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:46.162849",
+                    "message": "order id : 1212",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:47.672916",
+                    "message": "Thank you for providing your Amazon Order ID.\n\nTo proceed, please create a support ticket by clicking the mail icon at the top of this chat window. Make sure to include:\n\n- Your Amazon Order ID: 1212\n- A brief description of the issue\n\nOur support team will review your request promptly and take the necessary action, such as sending a replacement part or arranging for a product replacement under our warranty policy.\n\nWe appreciate your patience and understanding as we work to resolve this for you.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:54.688971",
+                    "message": "chari is broken",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:56.482666",
+                    "message": "Thank you for the information.\n\nTo proceed, please create a support ticket by clicking the mail icon at the top of this chat window. Make sure to include:\n\n- Your Amazon Order ID: 1212\n- A brief description of the issue: \"Chair is broken\"\n\nOur support team will review your request promptly and take the necessary action, such as sending a replacement part or arranging for a product replacement under our warranty policy.\n\nIf you prefer, you can also reach us via email at:\n\n📧 support@brobriyo.com\n\nOur team is ready to assist you and ensure that your issue is resolved as quickly as possible.\n\nThank you for choosing Brobriyo. We are here to help and support you every step of the way!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "bd98fa50-2916-4ddb-ada9-eba2f92359f0",
+            "timestamp": "2024-09-01T17:49:06.059776"
+        },
+        "416ae74d-b315-4f5d-9368-a0e3a41d0eb0": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-03T02:58:53.347004",
+                    "message": "Need a missing or damaged part?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T02:58:54.505394",
+                    "message": "Need a missing or damaged part?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T02:58:57.566097",
+                    "message": "Hello! Thank you for contacting Brobriyo support.\n\nI’m sorry to hear that you're experiencing an issue with your chair. To assist you more efficiently, could you please provide the following information:\n\n- **Amazon Order ID**: To help us verify your purchase.\n- **Brief Description of the Issue**: A short description of the problem you're facing.\n\nProviding this information will help us expedite the process of resolving your issue. Thank you for your cooperation!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "416ae74d-b315-4f5d-9368-a0e3a41d0eb0",
+            "timestamp": "2024-09-03T02:58:53.347004"
+        },
+        "8ba7d1f7-a684-40bb-86e5-b90296687cac": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T17:16:41.973099",
+                    "message": "Setting Up BROBRIYO PRO Stackable & Ergonomic Foldable Conference Room Chairs",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T17:16:43.501369",
+                    "message": "Sure, here is the installation video for setting up BROBRIYO PRO Stackable & Ergonomic Foldable Conference Room Chairs:\n\n:tpx[<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KUbBRZBsE\" frameborder=\"0\" allowfullscreen></iframe>]",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "8ba7d1f7-a684-40bb-86e5-b90296687cac",
+            "timestamp": "2024-09-05T17:16:41.973099"
+        },
+        "388847e0-f29e-4502-ab06-cb158cc3623d": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T17:17:34.493143",
+                    "message": "setup for folding pro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T17:17:38.419707",
+                    "message": "Hello! Thank you for reaching out.\n\nFor setting up your Folding Pro Folding Chair, please refer to the detailed guide available on Amazon. Here is the link to the setup guide:\n\n📹 [Installation Video Link](https://www.youtube.com/embed/_-KUbBRZBsE)\n\nIf you encounter any issues during the installation, we recommend using a hammer to assist with inserting the back support and mechanism.\n\nIf you need further assistance, please let us know, and we will be happy to help!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "388847e0-f29e-4502-ab06-cb158cc3623d",
+            "timestamp": "2024-09-05T17:17:34.493143"
+        },
+        "353eb776-9f17-461e-8065-ccedabce488b": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T19:48:25.098109",
+                    "message": "Request for Bulk Orders?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T19:48:28.847343",
+                    "message": "Hello! Thank you for your interest in our products.\n\nIf you're considering placing a bulk order for our folding chairs or other office furniture, we’d be happy to assist you. We offer competitive pricing and attractive discounts for bulk purchases.\n\nCould you please provide more details about your bulk order? Specifically, we need to know:\n\n- The quantity of chairs you're interested in.\n- Any specific requirements or customization requests you may have.\n\nFor bulk orders, we offer a discount of up to 10% off our regular prices on Amazon. Our sales team will provide the best pricing options and delivery schedules.\n\nTo proceed, please create a ticket using the mail icon at the top of the chat window with the details of your request. Alternatively, you can email us at support@brobriyo.com. Kindly include your phone number for an immediate response from our sales team.\n\nOnce we receive your ticket or email, our team will reach out to you promptly with a detailed quote and further information on processing your bulk order.\n\nThank you for considering Brobriyo.com for your office furniture needs. We look forward to serving you!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "353eb776-9f17-461e-8065-ccedabce488b",
+            "timestamp": "2024-09-10T19:48:25.098109"
+        },
+        "c2188af2-4caf-4f81-8ff6-53ffbe30ead3": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-14T20:37:41.177542",
+                    "message": "Requesting product support?\n\n",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-14T20:37:41.950328",
+                    "message": "Hello! Thank you for reaching out.\n\nI’m sorry to hear that you're having trouble with your chair. Could you please let me know if you're looking for installation guidance or if there's a specific issue you're facing with the product?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "c2188af2-4caf-4f81-8ff6-53ffbe30ead3",
+            "timestamp": "2024-09-14T20:37:41.177542"
+        },
+        "d76ce665-fcc4-4ac8-9ac9-71e2fcc1aebc": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-26T15:25:21.120069",
+                    "message": "Need a missing or damaged part?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-26T15:25:27.424159",
+                    "message": "Hello! Thank you for contacting Brobriyo support.\n\nI’m sorry to hear that you're experiencing an issue with your chair. To assist you more efficiently, could you please provide the following information:\n\n- **Amazon Order ID**: To help us verify your purchase.\n- **Brief Description of the Issue**: A short description of the problem you're facing.\n\nProviding this information will help us expedite the process of resolving your issue. Thank you for your cooperation!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-26T15:25:56.461986",
+                    "message": "Do you sell replacement wheels for the pro stackable chairs?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-26T15:26:02.617056",
+                    "message": "Currently, there is no specific information available about selling replacement wheels for the Pro Stackable chairs. \n\nTo get the precise assistance you need, please contact our support team. You can do this by creating a support ticket using the mail icon at the top of the chat window. Alternatively, you can reach us via email at:\n\n📧 support@brobriyo.com\n\nOur team will be happy to assist you with your request. Thank you for choosing Brobriyo!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d76ce665-fcc4-4ac8-9ac9-71e2fcc1aebc",
+            "timestamp": "2024-09-26T15:25:21.120069"
+        }
+    }
+}

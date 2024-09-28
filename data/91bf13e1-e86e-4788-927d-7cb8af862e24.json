@@ -1,0 +1,75 @@
+{
+    "client_id": "91bf13e1-e86e-4788-927d-7cb8af862e24",
+    "user_id": "8abd55f8-2644-4b1f-b7b7-fa3c1f1ac7b0",
+    "details": "",
+    "name": "TriploBot",
+    "context_summary": "Triploca, a Warsaw-based company specializing in luxury property rentals in Bulgaria and Albania. Their website features services such as product reservations, secure payment options, and delivery information, along with a blog offering travel tips and insights into local attractions, enhancing the travel experience for visitors.",
+    "chat_sessions": {
+        "2dc253a0-fff6-4a95-966f-9e55bafdd027": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T16:46:48.152637",
+                    "message": "Cześć co umiesz?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:46:50.022791",
+                    "message": "Cześć! Jestem Vicky, wirtualna asystentka Triploca. Mogę pomóc Ci w wielu kwestiach, takich jak:\n\n- Odpowiadanie na pytania dotyczące produktów i usług oferowanych przez Triploca.\n- Pomoc w znalezieniu odpowiednich ofert podróży.\n- Udzielanie informacji na temat aktualnych promocji i zniżek.\n- Pomoc w procesie zakupu i rezerwacji.\n\nCzy jest coś konkretnego, w czym mogę Ci pomóc?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:47:18.326632",
+                    "message": "chciałbym lecieć do Wlory za 2 tygodnie",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:47:20.502643",
+                    "message": "Świetnie! Wlora to piękne miejsce na wakacje. Aby pomóc Ci znaleźć najlepsze opcje lotów i zakwaterowania, potrzebuję kilku dodatkowych informacji:\n\n1. Z jakiego miasta chciałbyś wylecieć?\n2. Czy masz preferencje co do linii lotniczych?\n3. Czy interesują Cię konkretne daty wylotu i powrotu?\n4. Czy potrzebujesz również zakwaterowania?\n\nDaj mi znać, a znajdę dla Ciebie najlepsze opcje!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:47:26.483686",
+                    "message": "z Warszawy",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:47:29.069999",
+                    "message": "Dziękuję za informację! Aby znaleźć najlepsze opcje lotów z Warszawy do Wlory za dwa tygodnie, potrzebuję jeszcze kilku szczegółów:\n\n1. Czy masz preferencje co do daty wylotu i powrotu?\n2. Czy interesują Cię loty bezpośrednie, czy mogą być z przesiadkami?\n3. Czy masz jakieś preferencje co do klasy lotu (ekonomiczna, biznesowa)?\n\nPodaj mi te informacje, a znajdę dla Ciebie najlepsze opcje!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:47:44.875167",
+                    "message": "nie mam, bezpośrednie, economy",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:47:56.277263",
+                    "message": "Aby dostać się do Wlory z Warszawy, musisz najpierw polecieć do Tirany, ponieważ nie ma bezpośrednich lotów do Wlory. Oto kilka opcji, jak możesz zorganizować swoją podróż:\n\n### Loty z Warszawy do Tirany\n- **Bezpośrednie loty**: Możesz znaleźć bezpośrednie loty z Warszawy do Tirany. Linie lotnicze takie jak LOT i Wizz Air często oferują takie połączenia.\n- **Klasa ekonomiczna**: Wybierz loty w klasie ekonomicznej, aby podróż była bardziej ekonomiczna.\n\n### Transport z lotniska w Tiranie do Wlory\n1. **Usługa Shuttle Hermes Airport**:\n   - **Cena**: 1.200 Albanian LEK (około 40 PLN) za jednorazowy przejazd busem, 1.500 LEK w godzinach nocnych.\n   - **Godziny odjazdów**: Z Tirany do Wlory busy odjeżdżają o różnych godzinach, np. 03:30, 11:00, 12:30, 14:00, 16:00, 18:00, 20:00, 22:15, 24:45.\n   - **Kontakt**: +355 676097542, reservation@hermesaeroport.com, [hermesaeroport.com](http://www.hermesaeroport.com/)\n\n2. **Transfer Prywatny**:\n   - Możesz skorzystać z taksówki lub prywatnego transferu, co może być bardziej komfortowe, zwłaszcza jeśli podróżujesz w grupie.\n\n3. **Wynajem Samochodu**:\n   - Wynajem samochodu na lotnisku w Tiranie to wygodna opcja, która daje Ci elastyczność w podróżowaniu po Albanii.\n\n### Zakwaterowanie we Wlorze\n- **Apartamenty**: Triploca oferuje apartamenty we Wlorze z widokiem na morze. Przykładowo, apartament dla 4-6 osób kosztuje około 260 PLN za noc.\n\n### Dodatkowe informacje\n- **Blog Triploca**: Możesz znaleźć więcej informacji na temat podróży do Wlory na blogu Triploca, np. [Jak dostać się z lotniska w Tiranie do Wlory](https://www.triploca.com/blog/jak-dostac-sie-z-lotniska-w-tiranie-do-wlory-n3).\n\nCzy chciałbyś, abym pomógł Ci zarezerwować loty lub zakwaterowanie?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:48:14.281914",
+                    "message": "Pomóż mi zarezerwować loty",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:48:16.679164",
+                    "message": "Świetnie! Aby pomóc Ci zarezerwować loty z Warszawy do Tirany, potrzebuję jeszcze kilku szczegółów:\n\n1. **Dokładne daty wylotu i powrotu**: Czy masz już konkretne daty na myśli?\n2. **Liczba pasażerów**: Ile osób będzie podróżować?\n3. **Preferencje dotyczące linii lotniczych**: Czy masz jakieś preferencje co do linii lotniczych, czy mogę szukać najtańszych opcji?\n\nPodaj mi te informacje, a znajdę dla Ciebie najlepsze opcje lotów!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:48:36.883393",
+                    "message": "Chciałbym lecieć wizzair pojutrze wylot, powrót 6.09",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:48:45.235194",
+                    "message": "### Loty Wizz Air z Warszawy do Tirany\n\n#### Wylot: 29 sierpnia 2024\n- **Linia lotnicza**: Wizz Air\n- **Lot bezpośredni**: Tak\n- **Klasa**: Ekonomiczna\n\n#### Powrót: 6 września 2024\n- **Linia lotnicza**: Wizz Air\n- **Lot bezpośredni**: Tak\n- **Klasa**: Ekonomiczna\n\n### Rezerwacja\nAby zarezerwować loty, możesz odwiedzić stronę Wizz Air i wyszukać loty na podane daty. Możesz również skorzystać z poniższego linku, aby przejść bezpośrednio do strony rezerwacji Wizz Air:\n\n[Rezerwacja lotów Wizz Air](https://wizzair.com/)\n\n### Dodatkowe informacje\n- **Transport z lotniska w Tiranie do Wlory**: Możesz skorzystać z usługi Shuttle Hermes Airport, prywatnego transferu lub wynajmu samochodu. Więcej informacji znajdziesz na blogu Triploca: [Jak dostać się z lotniska w Tiranie do Wlory](https://www.triploca.com/blog/jak-dostac-sie-z-lotniska-w-tiranie-do-wlory-n3).\n\nCzy chciałbyś, abym pomógł Ci z czymś jeszcze?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2dc253a0-fff6-4a95-966f-9e55bafdd027",
+            "timestamp": "2024-08-27T16:46:48.152637"
+        }
+    }
+}

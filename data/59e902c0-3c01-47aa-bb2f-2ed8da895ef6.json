@@ -1,0 +1,45 @@
+{
+    "client_id": "59e902c0-3c01-47aa-bb2f-2ed8da895ef6",
+    "user_id": "4c488913-0b8e-4a77-b238-7737b06b1f13",
+    "details": null,
+    "name": "ParkAlex",
+    "context_summary": "Lifetimo, the largest curator of lifetime tech deals, which offers over 700 live deals on various SaaS tools across categories like marketing, productivity, and design. It encourages users to subscribe for exclusive deal updates and fosters a community for sharing insights and experiences.",
+    "chat_sessions": {
+        "7e71528a-f35d-444d-8640-45dc72c138cd": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-12T15:12:22.743751",
+                    "message": "What is Lifetimo?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T15:12:26.524167",
+                    "message": "Lifetimo is a platform that curates lifetime tech deals from various sources, offering exclusive discounts in different categories to help users save money on SaaS tools and find the best deals without the fear of missing out. It is described as the largest curator of lifetime tech deals on the planet, with over 700 live deals from more than 35 deal sources. Lifetimo aims to save users significant amounts of money on business tools and services, allowing them to focus on growing their businesses or enjoying other activities.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-12T15:13:53.119536",
+                    "message": "Do you offer lifetime deal?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T15:13:59.829890",
+                    "message": "Yes, Lifetimo offers a variety of lifetime deals on different tech tools and services. Here are some examples of the lifetime deals available:\n\n1. **Hypertype**: An AI assistant for emails and query resolution.\n2. **Scrintal**: A tool for organizing thoughts and ideas visually with real-time collaboration.\n3. **Koofr**: Secure cloud storage with a 1TB lifetime plan.\n4. **BlogHunch**: A no-code blogging platform for creators.\n5. **JoinSecret**: A perks platform for founders with significant discounts and credits.\n6. **Hexowatch**: An AI sidekick for website monitoring.\n7. **Latenode**: A low-code platform for business process automation.\n8. **ScrapeLocal**: A tool for automating lead generation.\n9. **AahSheet**: A platform for unlimited AI-powered SEO content.\n10. **MakeStories**: A tool for creating and monetizing Google Web Stories.\n\nThese deals are designed to provide long-term value and savings for users. You can explore more deals on their website.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-12T15:14:14.512767",
+                    "message": "Are these deal valid?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-12T15:14:24.806580",
+                    "message": "Yes, the deals listed on Lifetimo are valid and active. Lifetimo curates these deals from various sources and offers them to users with exclusive discounts. Here are some of the current deals:\n\n1. **WooBase Lifetime Deal**: 20% off for WooCommerce management.\n2. **Hive Support Lifetime Deal**: 30% off for an AI ChatBot & Live Chat Plugin.\n3. **CodeSmash Lifetime Deal**: A no-code backend solution.\n4. **Infography Lifetime Deal**: AI-powered infographics tool.\n5. **FlexiSign Lifetime Deal**: 20% off for secure and compliant e-signatures.\n6. **OneSuite.io Lifetime Deal**: 20% off for agency management.\n7. **Hypertype Lifetime Deal**: AI assistant for emails.\n8. **Scrintal Lifetime Deal**: Visual organization tool.\n9. **Koofr Cloud Storage**: Secure 1TB lifetime plan with $40 off.\n10. **BlogHunch Lifetime Deal**: No-code blogging platform.\n11. **JoinSecret Lifetime Deal**: 60% off with additional credits.\n12. **Hexowatch Lifetime Deal**: Website monitoring tool.\n13. **Latenode Lifetime Deal**: Up to 15% off for business automations.\n14. **ScrapeLocal Lifetime Deal**: Lead generation tool.\n15. **AahSheet Lifetime Deal**: 60% off for AI SEO content.\n16. **MakeStories Lifetime Deal**: Tool for creating Google Web Stories.\n\nYou can find more details and explore additional deals on their website.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "7e71528a-f35d-444d-8640-45dc72c138cd",
+            "timestamp": "2024-07-12T15:12:22.743751"
+        }
+    }
+}

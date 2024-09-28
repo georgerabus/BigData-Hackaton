@@ -1,0 +1,175 @@
+{
+    "client_id": "4455bc62-10d2-40d4-b717-fcff4c2a704d",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": "",
+    "name": "Yoda",
+    "context_summary": "Danrricos Solutions, a marketing agency that specializes in digital solutions such as web design, SEO, and AI-driven content creation, particularly for the restaurant sector. The agency focuses on personalized strategies and innovative tools to enhance online presence and client engagement, recently integrating their discontinued Ascend service into Premium plans while introducing new email marketing options.",
+    "chat_sessions": {
+        "9495328a-a16f-4982-a16c-a2c3032eb958": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T23:40:39.297445",
+                    "message": "Hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:40:39.927894",
+                    "message": "Hello, young one. How may I assist you today, hmm?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T23:40:52.103922",
+                    "message": "I wanted to know more about Danrricos",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:40:53.347008",
+                    "message": "Danrricos, you seek knowledge of. Specific details, provide you must. What aspect of Danrricos interests you, hmm? Their services, history, or something else, perhaps?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "9495328a-a16f-4982-a16c-a2c3032eb958",
+            "timestamp": "2024-08-29T23:40:39.297445"
+        },
+        "be789160-c2ef-4bce-a5e9-18af812296df": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T23:43:58.072670",
+                    "message": "Voce pode me responder em portuguese?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:43:58.883847",
+                    "message": "Sim, responder em português eu posso. Como posso ajudar você hoje?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T23:44:15.191482",
+                    "message": "Me fala um pouco dos serviços da Danrricos",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:44:21.283432",
+                    "message": "Danrricos Solutions, uma agência de marketing, oferece uma gama de soluções digitais, incluindo design de sites, SEO, gestão de redes sociais e mais. Parceira da Wix, com mais de 3 anos de experiência, cria websites, plataformas de e-commerce e online personalizadas para seus clientes. Trabalham de perto com os clientes para entender suas metas e necessidades, entregando soluções sob medida.\n\n### Serviços Oferecidos:\n- **Design de Sites**: Especialistas em criar sites impressionantes e funcionais.\n- **SEO**: Otimização para motores de busca para aumentar a visibilidade online.\n- **Gestão de Redes Sociais**: Criação e gerenciamento de conteúdo para redes sociais.\n- **Criação de Conteúdo**: Desenvolvimento de histórias e conteúdos únicos para sites e redes sociais.\n- **Estratégia de Marketing**: Campanhas de marketing digital personalizadas.\n\n### Diferenciais:\n- **Histórias e Conteúdos Únicos**: Pesquisa sobre a indústria, concorrentes e público-alvo para criar uma narrativa única que destaque a identidade e valores da marca.\n- **Alta Qualidade**: Conteúdos informativos, educativos, e persuasivos, otimizados para SEO.\n- **Parcerias e Testemunhos**: Clientes satisfeitos destacam a comunicação rápida e a qualidade do trabalho.\n\n### Contato:\n- **Website**: [Danrricos Solutions](https://www.danrricossolutions.com/)\n- **Email**: [info@danrricos.online](mailto:info@danrricos.online)\n- **Telefone**: +1 847-886-4229\n\nPara mais detalhes ou para contratar os serviços, visite o site ou entre em contato diretamente.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "be789160-c2ef-4bce-a5e9-18af812296df",
+            "timestamp": "2024-08-29T23:43:58.072670"
+        },
+        "28b904de-545c-45c5-8f55-923689974f63": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T23:52:19.079994",
+                    "message": "Yeap. Please do it",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:52:19.649581",
+                    "message": "Clarify, you must. Do what, should I?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T23:53:06.040333",
+                    "message": "Send me english classes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:53:06.679939",
+                    "message": "Help you, I can. English classes, you seek? Online or in-person, prefer you do?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T23:53:27.216818",
+                    "message": "On line",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:53:27.908510",
+                    "message": "Online classes, hmm? Many options, there are. Specific type, you seek? Grammar, conversation, or business English, perhaps?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T23:54:08.964564",
+                    "message": "Conversation",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:54:09.854999",
+                    "message": "Conversation practice, you seek. Good choice, it is. Platforms, many there are. Recommendations, I can provide. \n\nInterested in free resources or paid courses, are you?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T23:54:55.217789",
+                    "message": "Free",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:54:56.531196",
+                    "message": "Free resources, hmm. Good options, there are. Websites and apps, useful they can be. \n\nTry these, you should:\n1. **Duolingo** - Fun and interactive, it is.\n2. **Tandem** - Practice with native speakers, you can.\n3. **HelloTalk** - Language exchange, it offers.\n4. **BBC Learning English** - Quality lessons, it provides.\n\nExplore these, you must. Improve, your conversation skills will.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T23:58:23.123135",
+                    "message": "Obrigado",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T23:58:23.715476",
+                    "message": "De nada. Ajuda, sempre aqui estou. Mais perguntas, tens?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "28b904de-545c-45c5-8f55-923689974f63",
+            "timestamp": "2024-08-29T23:52:19.079994"
+        },
+        "1fa9ff31-208e-40b3-a1e1-7ff94bec550a": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T16:39:56.456677",
+                    "message": "How are you?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T16:39:57.399426",
+                    "message": "Grateful for your inquiry, I am. Assist you, how may I?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "1fa9ff31-208e-40b3-a1e1-7ff94bec550a",
+            "timestamp": "2024-08-30T16:39:56.456677"
+        },
+        "22728f7e-80fb-4726-9328-92d5b14d3f4e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-13T17:31:01.959226",
+                    "message": "Yes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-13T17:31:02.759051",
+                    "message": "Mmm, a question you have, unclear it is. Clarify, you must. Help you, I can.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "22728f7e-80fb-4726-9328-92d5b14d3f4e",
+            "timestamp": "2024-09-13T17:31:01.959226"
+        },
+        "16e2f613-571b-4b39-bc87-d7c737df82b6": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-13T17:31:27.654323",
+                    "message": "I would like to schedule a call with Daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-13T17:31:29.311826",
+                    "message": "Schedule a call with Daniel, you can. Use this widget, you must. \n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "16e2f613-571b-4b39-bc87-d7c737df82b6",
+            "timestamp": "2024-09-13T17:31:27.654323"
+        }
+    }
+}

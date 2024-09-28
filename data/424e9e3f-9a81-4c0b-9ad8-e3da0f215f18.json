@@ -1,0 +1,677 @@
+{
+    "client_id": "424e9e3f-9a81-4c0b-9ad8-e3da0f215f18",
+    "user_id": "fde3d1bf-511c-4d53-8ba6-db8f3729b448",
+    "details": null,
+    "name": "Nikolas",
+    "context_summary": "TOEIC courses offered by a center, detailing various classes tailored for different skill levels in listening, reading, speaking, and writing, along with their schedules and fees. It highlights special discounts for group registrations, free trial classes, and a policy of free retakes for students who do not meet target scores, as well as guidance on registration, payment, and online learning options.",
+    "chat_sessions": {
+        "ee7c4d00-4c41-4cc0-8a51-2bdbb5240815": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T13:56:45.496130",
+                    "message": "lịch học lớp 1",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T13:56:50.709252",
+                    "message": "Hiện tại, tôi không tìm thấy thông tin cụ thể về lịch học lớp 1 trong cơ sở dữ liệu của chúng tôi. Bạn có thể cung cấp thêm chi tiết về trường học hoặc khu vực mà bạn quan tâm để tôi có thể hỗ trợ tốt hơn không? Hoặc bạn có thể liên hệ trực tiếp với trường học của con bạn để biết thông tin chi tiết về lịch học.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T15:24:37.536171",
+                    "message": "cho tôi biết về dịch vụ của fin",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:24:50.189061",
+                    "message": "FineGuide là một nền tảng cho phép các cá nhân hoặc chủ doanh nghiệp tích hợp trợ lý ảo AI vào trang web của họ. Dưới đây là một số dịch vụ chính của FineGuide:\n\n1. **Tạo Trợ Lý Ảo**:\n   - Chỉ mất 5 giây để tạo một trợ lý ảo.\n   - Cung cấp thông tin học tập cho trợ lý từ trang FAQ hoặc tệp PDF.\n\n2. **Tích Hợp Trợ Lý Vào Trang Web**:\n   - Dễ dàng tích hợp trợ lý vào trang web của bạn như chia sẻ video từ YouTube.\n\n3. **Hỗ Trợ Khách Hàng 24/7**:\n   - Trợ lý ảo có thể cung cấp hỗ trợ khách hàng suốt ngày đêm, trả lời các câu hỏi thường gặp và giải quyết các vấn đề phổ biến.\n\n4. **Truy Xuất Thông Tin**:\n   - Trợ lý có thể truy xuất thông tin từ cơ sở dữ liệu nội bộ hoặc nguồn bên ngoài, giúp nhân viên truy cập thông tin nhanh chóng.\n\n5. **Hỗ Trợ Onboarding Nhân Viên**:\n   - Trợ lý có thể hỗ trợ quá trình onboarding bằng cách cung cấp thông tin, trả lời các câu hỏi thường gặp và hướng dẫn nhân viên mới qua các thủ tục cần thiết.\n\n6. **Lên Lịch Sự Kiện và Cuộc Hẹn**:\n   - Trợ lý có thể giúp khách hàng tiềm năng lên lịch hẹn, cuộc họp hoặc sự kiện, giảm bớt gánh nặng hành chính cho nhân viên.\n\n7. **Tăng Doanh Số Thương Mại Điện Tử**:\n   - Trợ lý có thể phân tích sở thích và hành vi của khách hàng để đề xuất sản phẩm phù hợp, tăng doanh số và cải thiện trải nghiệm mua sắm.\n\n8. **Tạo và Đánh Giá Lead**:\n   - Trợ lý có thể đánh giá lead bằng cách đặt các câu hỏi định trước và thu thập thông tin cần thiết từ khách hàng tiềm năng, hỗ trợ các nỗ lực tiếp thị cá nhân hóa.\n\n### Các Tính Năng Nổi Bật:\n- **Giao Diện Chat Tùy Chỉnh**: Tùy chỉnh giao diện để phù hợp với phong cách thương hiệu của bạn.\n- **Hỗ Trợ Widget Tùy Chỉnh**: Tích hợp widget vào cuộc trò chuyện để cung cấp nội dung động và cá nhân hóa.\n- **Tích Hợp Tùy Chỉnh**: Dễ dàng tích hợp với nhiều công cụ và nền tảng khác nhau.\n- **Học Tập Tăng Cường**: Các thuật toán học tập tăng cường cho phép trợ lý tự cải thiện thông qua phản hồi và tương tác của người dùng.\n- **Giảm Thiểu Phản Hồi Sai**: Các thuật toán của chúng tôi giảm thiểu đáng kể việc tạo ra các phản hồi không chính xác hoặc vô nghĩa.\n- **Tối Ưu Hóa Ngữ Cảnh**: Cải thiện khả năng hiểu ngữ cảnh của trợ lý để có các tương tác chính xác hơn.\n- **Hỗ Trợ Chủ Động**: Cải thiện sự tương tác của khách hàng với hành vi chủ động và các câu hỏi theo dõi, tăng số lượng lead.\n- **Tùy Chỉnh Tính Cách**: Tùy chỉnh tính cách của trợ lý để phù hợp với giọng nói và giá trị thương hiệu của bạn.\n- **Thích Ứng Vai Trò Đa Dạng**: Gán vai trò để chuyên môn hóa và cung cấp các phản hồi liên quan đến ngữ cảnh.\n\nBạn có thể tìm hiểu thêm và đăng ký miễn phí tại [FineGuide](https://fineguide.ai/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T15:25:00.936642",
+                    "message": "cho mình thông tin về lịch khai giảng lớp 1",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:25:05.089416",
+                    "message": "Hiện tại, tôi không tìm thấy thông tin cụ thể về lịch khai giảng lớp 1 trong cơ sở dữ liệu của chúng tôi. Để biết thông tin chi tiết về lịch khai giảng lớp 1, bạn nên liên hệ trực tiếp với trường học của con bạn hoặc truy cập vào trang web của Sở Giáo dục và Đào tạo tại khu vực bạn sinh sống. \n\nNếu bạn cần thêm thông tin hoặc có câu hỏi khác, hãy cho tôi biết nhé!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T15:25:20.200662",
+                    "message": "học phí",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:25:24.659163",
+                    "message": "Hiện tại, tôi không tìm thấy thông tin cụ thể về học phí lớp 1 trong cơ sở dữ liệu của chúng tôi. Học phí lớp 1 có thể khác nhau tùy thuộc vào trường học và khu vực bạn sinh sống. Để biết thông tin chi tiết về học phí, bạn nên liên hệ trực tiếp với trường học của con bạn hoặc truy cập vào trang web của trường để có thông tin chính xác nhất.\n\nNếu bạn cần thêm thông tin hoặc có câu hỏi khác, hãy cho tôi biết nhé!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T15:25:30.349943",
+                    "message": "cách đăng ký",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:25:37.112344",
+                    "message": "Để đăng ký cho con vào lớp 1, bạn thường cần thực hiện các bước sau đây. Tuy nhiên, quy trình cụ thể có thể khác nhau tùy thuộc vào từng trường học và khu vực. Dưới đây là các bước chung mà bạn có thể tham khảo:\n\n1. **Tìm Hiểu Thông Tin Trường Học**:\n   - Tìm hiểu về các trường học trong khu vực của bạn, bao gồm cả trường công lập và tư thục.\n   - Kiểm tra các yêu cầu và tiêu chí tuyển sinh của từng trường.\n\n2. **Chuẩn Bị Hồ Sơ Đăng Ký**:\n   - Giấy khai sinh của con.\n   - Sổ hộ khẩu hoặc giấy tạm trú (nếu có yêu cầu).\n   - Giấy khám sức khỏe của con.\n   - Ảnh thẻ của con (thường là 3x4 cm).\n   - Các giấy tờ khác theo yêu cầu của trường (nếu có).\n\n3. **Nộp Hồ Sơ Đăng Ký**:\n   - Đến trực tiếp trường học để nộp hồ sơ đăng ký.\n   - Một số trường có thể cho phép đăng ký trực tuyến qua trang web của trường.\n\n4. **Tham Gia Phỏng Vấn hoặc Kiểm Tra**:\n   - Một số trường có thể yêu cầu con bạn tham gia phỏng vấn hoặc kiểm tra đầu vào.\n\n5. **Nhận Thông Báo Kết Quả**:\n   - Sau khi nộp hồ sơ và tham gia các bước kiểm tra (nếu có), bạn sẽ nhận được thông báo kết quả từ trường.\n\n6. **Hoàn Tất Thủ Tục Nhập Học**:\n   - Nếu con bạn được nhận vào trường, bạn sẽ cần hoàn tất các thủ tục nhập học, bao gồm việc đóng học phí và các khoản phí khác (nếu có).\n\n### Lưu Ý:\n- **Thời Gian Đăng Ký**: Thời gian đăng ký thường bắt đầu từ khoảng tháng 3 đến tháng 6 hàng năm, nhưng có thể khác nhau tùy theo từng trường.\n- **Liên Hệ Trường Học**: Để biết thông tin chi tiết và chính xác nhất, bạn nên liên hệ trực tiếp với trường học mà bạn quan tâm.\n\nNếu bạn cần thêm thông tin cụ thể về một trường học nào đó, hãy cho tôi biết để tôi có thể hỗ trợ bạn tốt hơn!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "ee7c4d00-4c41-4cc0-8a51-2bdbb5240815",
+            "timestamp": "2024-08-28T13:56:45.496130"
+        },
+        "df3d77b8-ebc9-4a73-8dfc-6f5a605eaa61": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T15:46:09.851831",
+                    "message": "lịch khai giảng lớp 1",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:46:14.035496",
+                    "message": "Để xem lịch khai giảng lớp 1, bạn có thể truy cập vào trang web của TOEIC Cô Sao Thầy Bảo tại [đây](https://toeiccosaothaybao.com/lich-kg). Trên trang này, bạn sẽ tìm thấy thông tin chi tiết về các lớp học và lịch khai giảng phù hợp với nhu cầu của bạn. \n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, bạn có thể liên hệ qua hotline: 0967 960 670 (zalo) hoặc email: toeiccosaothaybao@gmail.com.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T15:47:38.381309",
+                    "message": "lịch lớp 2",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:47:43.807956",
+                    "message": "Hiện tại, tôi không tìm thấy thông tin cụ thể về lịch khai giảng lớp 2. Bạn có thể truy cập vào trang web của TOEIC Cô Sao Thầy Bảo tại [đây](https://toeiccosaothaybao.com/lich-kg) để xem thông tin chi tiết về các lớp học và lịch khai giảng.\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, bạn có thể liên hệ qua hotline: 0967 960 670 (zalo) hoặc email: toeiccosaothaybao@gmail.com.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T15:47:51.062174",
+                    "message": "lịch khai giảng lớp 1",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:47:55.311986",
+                    "message": "Hiện tại, tôi không tìm thấy thông tin cụ thể về lịch khai giảng lớp 1 trong cơ sở dữ liệu của chúng tôi. \n\nBạn có thể truy cập vào trang web của TOEIC Cô Sao Thầy Bảo tại [đây](https://toeiccosaothaybao.com/lich-kg) để xem thông tin chi tiết về các lớp học và lịch khai giảng.\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, bạn có thể liên hệ qua hotline: 0967 960 670 (zalo) hoặc email: toeiccosaothaybao@gmail.com.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T15:49:02.605468",
+                    "message": "lịch khai giảng lớp 1",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:49:10.082588",
+                    "message": "Để xem lịch khai giảng lớp 1 tại TOEIC Cô Sao Thầy Bảo, bạn có thể làm theo các bước sau:\n\n1. **Bước 1:** Nếu bạn chưa rõ trình độ hiện tại, hãy làm [bài test đầu vào tại đây](https://online.toeiccosaothaybao.com/quizzes/bai-kiem-tra-dau-vao/).\n\n2. **Bước 2:** \n   - Nếu bạn mất gốc hoặc đã bỏ tiếng Anh lâu ngày, nên đăng ký ôn tập từ lớp 0 trước [**(mất gốc – 9 buổi học)**](https://toeiccosaothaybao.com/gioi-thieu-toeic-mat-goc/).\n   - Nếu bạn đã có căn bản, có thể đăng ký học từ [**lớp 1 (Căn bản – 12 buổi học)**](https://toeiccosaothaybao.com/gioi-thieu-toeic-can-ban/).\n\n3. **Bước 3:** [Xem lịch khai giảng](https://toeiccosaothaybao.com/lich-kg) các lớp học phù hợp và đăng ký học thử.\n\n### Thông tin chi tiết về lớp 1:\n- **Lớp 1 – Căn Bản:** \n  - Học phí: 700K (ưu đãi nhóm còn 600K)\n  - Nội dung học: Ôn tập toàn bộ ngữ pháp sử dụng trong đề thi TOEIC, bổ sung gần 2000 từ vựng quan trọng, hướng dẫn nghe và luyện nghe phần nghe Part 1 và 2 của đề thi thực tế.\n  - [Xem nội dung học](https://toeiccosaothaybao.com/gioi-thieu-toeic-can-ban/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, bạn có thể liên hệ qua hotline: 0967 960 670 (zalo) hoặc email: toeiccosaothaybao@gmail.com.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T15:52:52.525511",
+                    "message": "lịch khai giảng lớp 0",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T15:53:02.538463",
+                    "message": "### Lịch Khai Giảng Lớp 0 - Mất Gốc tại TOEIC Cô Sao Thầy Bảo\n\n#### Các bước đăng ký và học thử:\n1. **Đăng ký trước qua [form này](https://docs.google.com/forms/d/e/1FAIpQLSfWLwdMtKLEd5iKgeO4fPEQzJki-K-mK99ttUl51YOChx8kWw/viewform).**\n2. **Trung tâm sẽ gửi thông tin học qua Zalo số điện thoại bạn đăng ký 2-3 ngày trước ngày khai giảng.** Nếu đến ngày khai giảng bạn vẫn chưa nhận được thông tin lớp học, vui lòng nhắn tin vào Zalo 0967 960 670 cho trung tâm.\n3. **Ngày khai giảng bạn được học thử miễn phí.**\n4. **Học viên đóng học phí (trước hoặc sau buổi học thử vào ngày khai giảng) nếu lớp học phù hợp.** [Hướng dẫn đóng phí](https://toeiccosaothaybao.com/hd-dong-hp/).\n\n#### Chương trình học Lớp 0:\n- **Học phí:**\n  - **400K** khi học online.\n  - **500K** khi học offline.\n  - **Giảm 50K** mỗi bạn khi đăng ký nhóm từ 2 người trở lên.\n  - **Giảm 100K** mỗi bạn khi đăng ký nhóm từ 4 người trở lên.\n\n#### Lịch khai giảng:\n- **Lớp offline & online song song:**\n  - **246 (17h55 - 19h25) KG 09/09**\n  - **357 (17h55 - 19h25) KG 17/09**\n  - **357 (19h30 - 21h00) KG 15/10**\n  - **T7CN (10h00 - 11h30) KG 27/10**\n\n#### Hướng dẫn học online qua Zoom:\n- [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T16:06:29.018596",
+                    "message": "hiện tại mình đang có các lịch khai giảng nào",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T16:06:40.890931",
+                    "message": "### Lịch Khai Giảng Hiện Tại của TOEIC Cô Sao Thầy Bảo\n\n#### Lớp 0 - Mất Gốc (9 buổi)\n- **Học phí:**\n  - **400K** khi học online.\n  - **500K** khi học offline.\n  - **Giảm 50K** mỗi bạn khi đăng ký nhóm từ 2 người trở lên.\n  - **Giảm 100K** mỗi bạn khi đăng ký nhóm từ 4 người trở lên.\n\n#### Lịch khai giảng:\n- **Lớp offline & online song song:**\n  - **246 (17h55 - 19h25) KG 09/09**\n  - **357 (17h55 - 19h25) KG 17/09**\n  - **357 (19h30 - 21h00) KG 15/10**\n  - **T7CN (10h00 - 11h30) KG 27/10**\n\n#### Hướng dẫn đăng ký và học thử:\n1. **Đăng ký trước qua [form này](https://docs.google.com/forms/d/e/1FAIpQLSfWLwdMtKLEd5iKgeO4fPEQzJki-K-mK99ttUl51YOChx8kWw/viewform).**\n2. **Trung tâm sẽ gửi thông tin học qua Zalo số điện thoại bạn đăng ký 2-3 ngày trước ngày khai giảng.** Nếu đến ngày khai giảng bạn vẫn chưa nhận được thông tin lớp học, vui lòng nhắn tin vào Zalo 0967 960 670 cho trung tâm.\n3. **Ngày khai giảng bạn được học thử miễn phí.**\n4. **Học viên đóng học phí (trước hoặc sau buổi học thử vào ngày khai giảng) nếu lớp học phù hợp.** [Hướng dẫn đóng phí](https://toeiccosaothaybao.com/hd-dong-hp/).\n\n#### Hướng dẫn học online qua Zoom:\n- [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T16:14:22.385831",
+                    "message": "tim học viên NGUYEN THI THAO TRINH",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T16:14:28.126105",
+                    "message": "Hiện tại, tôi không tìm thấy thông tin cụ thể về học viên NGUYEN THI THAO TRINH trong cơ sở dữ liệu của chúng tôi. \n\nĐể kiểm tra thông tin chi tiết về học viên, bạn có thể liên hệ trực tiếp với trung tâm TOEIC Cô Sao Thầy Bảo qua các kênh sau:\n\n- **Hotline:** 0967 960 670 (Zalo)\n- **Email:** toeiccosaothaybao@gmail.com\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T16:17:00.015419",
+                    "message": "tim học viên NGUYEN THI THAO TRINH",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T16:17:05.636326",
+                    "message": "### Thông Tin Học Viên NGUYEN THI THAO TRINH\n\n#### Chi tiết:\n- **ID Học Viên:** 1783605844\n- **Ngày Đăng Ký:** 1/1/2020 19:41:09\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Email:** toeiccosaothaybao@gmail.com\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T16:19:42.743802",
+                    "message": "tìm thông tin bạn: PHẠM BẢO TRANG",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T16:19:49.630173",
+                    "message": "### Thông Tin Học Viên PHẠM BẢO TRANG\n\n- **Email:** phambaotrang07051999@gmail.com\n- **Trường:** Đại Học Kinh Tế TP.HCM\n- **Ngày Đăng Ký:** 27/9/2018 22:55:48\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Email:** toeiccosaothaybao@gmail.com\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T17:21:08.429808",
+                    "message": "lịch khai giảng lớp 0",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:21:16.056061",
+                    "message": "### Lịch Khai Giảng Lớp 0 - Mất Gốc tại TOEIC Cô Sao Thầy Bảo\n\n#### Các bước đăng ký và học thử:\n1. **Đăng ký trước qua [form này](https://docs.google.com/forms/d/e/1FAIpQLSfWLwdMtKLEd5iKgeO4fPEQzJki-K-mK99ttUl51YOChx8kWw/viewform).**\n2. **Trung tâm sẽ gửi thông tin học qua Zalo số điện thoại bạn đăng ký 2-3 ngày trước ngày khai giảng.** Nếu đến ngày khai giảng bạn vẫn chưa nhận được thông tin lớp học, vui lòng nhắn tin vào Zalo 0967 960 670 cho trung tâm.\n3. **Ngày khai giảng bạn được học thử miễn phí.**\n4. **Học viên đóng học phí (trước hoặc sau buổi học thử vào ngày khai giảng) nếu lớp học phù hợp.** [Hướng dẫn đóng phí](https://toeiccosaothaybao.com/hd-dong-hp/).\n\n#### Chương trình học Lớp 0:\n- **Học phí:**\n  - **400K** khi học online.\n  - **500K** khi học offline.\n  - **Giảm 50K** mỗi bạn khi đăng ký nhóm từ 2 người trở lên.\n  - **Giảm 100K** mỗi bạn khi đăng ký nhóm từ 4 người trở lên.\n\n#### Lịch khai giảng:\n- **Lớp offline & online song song:**\n  - **246 (17h55 - 19h25) KG 09/09**\n  - **357 (17h55 - 19h25) KG 17/09**\n  - **357 (19h30 - 21h00) KG 15/10**\n  - **T7CN (10h00 - 11h30) KG 27/10**\n\n#### Hướng dẫn học online qua Zoom:\n- [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T17:26:14.506390",
+                    "message": "lịch học lớp 2",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:26:25.987908",
+                    "message": "### Lịch Khai Giảng Lớp 2 - Luyện Đề tại TOEIC Cô Sao Thầy Bảo\n\n#### Chương trình học Lớp 2:\n- **Học phí:**\n  - **1.000K** khi học offline.\n  - **900K** khi học online.\n  - **Giảm 50K** mỗi bạn khi đăng ký nhóm từ 2 người trở lên.\n  - **Giảm 100K** mỗi bạn khi đăng ký nhóm từ 4 người trở lên.\n\n#### Lịch khai giảng:\n- **Lớp offline & online song song:**\n  - **T7CN (10h00 - 11h30) KG 18/08**\n  - **357 (19h30 - 21h00) KG 05/09**\n  - **246 (19h30 - 21h00) KG 13/09**\n  - **246 (17h55 - 19h25) KG 02/10**\n  - **T7CN (08h30 - 10h00) KG 20/10**\n  - **246 (19h30 - 21h00) KG 21/10**\n  - **246 (17h55 - 19h25) KG 28/10**\n\n#### Hướng dẫn đăng ký và học thử:\n1. **Đăng ký trước qua [form này](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform).**\n2. **Trung tâm sẽ gửi thông tin học qua Zalo số điện thoại bạn đăng ký 2-3 ngày trước ngày khai giảng.** Nếu đến ngày khai giảng bạn vẫn chưa nhận được thông tin lớp học, vui lòng nhắn tin vào Zalo 0967 960 670 cho trung tâm.\n3. **Ngày khai giảng bạn được học thử miễn phí.**\n4. **Học viên đóng học phí (trước hoặc sau buổi học thử vào ngày khai giảng) nếu lớp học phù hợp.** [Hướng dẫn đóng phí](https://toeiccosaothaybao.com/hd-dong-hp/).\n\n#### Hướng dẫn học online qua Zoom:\n- [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T17:35:23.069827",
+                    "message": "minhfh xin lịch học lớp nói viết",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:35:36.918745",
+                    "message": "### Lịch Khai Giảng Lớp Nói Viết tại TOEIC Cô Sao Thầy Bảo\n\n#### Chương trình học Lớp Nói Viết:\n- **Học phí:**\n  - **1.200K** khi học offline.\n  - **1.100K** khi học online.\n  - **Giảm 50K** mỗi bạn khi đăng ký nhóm từ 2 người trở lên.\n  - **Giảm 100K** mỗi bạn khi đăng ký nhóm từ 4 người trở lên.\n\n#### Lịch khai giảng:\n- **Lớp offline & online song song:**\n  - **246 (17h55 - 19h25) KG 05/09**\n  - **357 (19h30 - 21h00) KG 12/09**\n  - **T7CN (10h00 - 11h30) KG 19/09**\n  - **246 (19h30 - 21h00) KG 26/09**\n  - **357 (17h55 - 19h25) KG 03/10**\n  - **T7CN (08h30 - 10h00) KG 10/10**\n  - **246 (19h30 - 21h00) KG 17/10**\n  - **357 (19h30 - 21h00) KG 24/10**\n\n#### Hướng dẫn đăng ký và học thử:\n1. **Đăng ký trước qua [form này](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform).**\n2. **Trung tâm sẽ gửi thông tin học qua Zalo số điện thoại bạn đăng ký 2-3 ngày trước ngày khai giảng.** Nếu đến ngày khai giảng bạn vẫn chưa nhận được thông tin lớp học, vui lòng nhắn tin vào Zalo 0967 960 670 cho trung tâm.\n3. **Ngày khai giảng bạn được học thử miễn phí.**\n4. **Học viên đóng học phí (trước hoặc sau buổi học thử vào ngày khai giảng) nếu lớp học phù hợp.** [Hướng dẫn đóng phí](https://toeiccosaothaybao.com/hd-dong-hp/).\n\n#### Hướng dẫn học online qua Zoom:\n- [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T17:36:17.814212",
+                    "message": "sepaking và writing cơ mà",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:36:28.192799",
+                    "message": "### Lịch Khai Giảng Lớp Speaking và Writing tại TOEIC Cô Sao Thầy Bảo\n\n#### Chương trình học Lớp Speaking và Writing:\n- **Học phí:**\n  - **1.200K** khi học offline.\n  - **1.100K** khi học online.\n  - **Giảm 50K** mỗi bạn khi đăng ký nhóm từ 2 người trở lên.\n  - **Giảm 100K** mỗi bạn khi đăng ký nhóm từ 4 người trở lên.\n\n#### Lịch khai giảng:\n- **Lớp offline & online song song:**\n  - **246 (17h55 - 19h25) KG 05/09**\n  - **357 (19h30 - 21h00) KG 12/09**\n  - **T7CN (10h00 - 11h30) KG 19/09**\n  - **246 (19h30 - 21h00) KG 26/09**\n  - **357 (17h55 - 19h25) KG 03/10**\n  - **T7CN (08h30 - 10h00) KG 10/10**\n  - **246 (19h30 - 21h00) KG 17/10**\n  - **357 (19h30 - 21h00) KG 24/10**\n\n#### Hướng dẫn đăng ký và học thử:\n1. **Đăng ký trước qua [form này](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform).**\n2. **Trung tâm sẽ gửi thông tin học qua Zalo số điện thoại bạn đăng ký 2-3 ngày trước ngày khai giảng.** Nếu đến ngày khai giảng bạn vẫn chưa nhận được thông tin lớp học, vui lòng nhắn tin vào Zalo 0967 960 670 cho trung tâm.\n3. **Ngày khai giảng bạn được học thử miễn phí.**\n4. **Học viên đóng học phí (trước hoặc sau buổi học thử vào ngày khai giảng) nếu lớp học phù hợp.** [Hướng dẫn đóng phí](https://toeiccosaothaybao.com/hd-dong-hp/).\n\n#### Hướng dẫn học online qua Zoom:\n- [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T17:36:53.234409",
+                    "message": "minhfh xin lịch học lớp nói viết",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:37:04.272456",
+                    "message": "### Lịch Khai Giảng Lớp Speaking và Writing tại TOEIC Cô Sao Thầy Bảo\n\n#### Chương trình học Lớp Speaking và Writing:\n- **Học phí:**\n  - **1.200K** khi học offline.\n  - **1.100K** khi học online.\n  - **Giảm 50K** mỗi bạn khi đăng ký nhóm từ 2 người trở lên.\n  - **Giảm 100K** mỗi bạn khi đăng ký nhóm từ 4 người trở lên.\n\n#### Lịch khai giảng:\n- **Lớp offline & online song song:**\n  - **357 (19h30 - 21h00) KG 05/09 (Speaking)**\n  - **357 (19h30 - 21h00) KG 10/10 (Writing)**\n  - **T7CN (10h00 - 11h30) KG 19/09**\n  - **246 (19h30 - 21h00) KG 26/09**\n  - **357 (17h55 - 19h25) KG 03/10**\n  - **T7CN (08h30 - 10h00) KG 10/10**\n  - **246 (19h30 - 21h00) KG 17/10**\n  - **357 (19h30 - 21h00) KG 24/10**\n\n#### Hướng dẫn đăng ký và học thử:\n1. **Đăng ký trước qua [form này](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform).**\n2. **Trung tâm sẽ gửi thông tin học qua Zalo số điện thoại bạn đăng ký 2-3 ngày trước ngày khai giảng.** Nếu đến ngày khai giảng bạn vẫn chưa nhận được thông tin lớp học, vui lòng nhắn tin vào Zalo 0967 960 670 cho trung tâm.\n3. **Ngày khai giảng bạn được học thử miễn phí.**\n4. **Học viên đóng học phí (trước hoặc sau buổi học thử vào ngày khai giảng) nếu lớp học phù hợp.** [Hướng dẫn đóng phí](https://toeiccosaothaybao.com/hd-dong-hp/).\n\n#### Hướng dẫn học online qua Zoom:\n- [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T17:37:25.309327",
+                    "message": "xin lịch lớp 2",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:37:46.578102",
+                    "message": "### Lịch Khai Giảng Lớp 2 - Luyện Đề tại TOEIC Cô Sao Thầy Bảo\n\n#### Chương trình học Lớp 2:\n- **Học phí:**\n  - **1.000K** khi học offline.\n  - **900K** khi học online.\n  - **Giảm 50K** mỗi bạn khi đăng ký nhóm từ 2 người trở lên.\n  - **Giảm 100K** mỗi bạn khi đăng ký nhóm từ 4 người trở lên.\n\n#### Lịch khai giảng:\n- **Lớp offline & online song song:**\n  - **T7CN (10h00 - 11h30) KG 18/08**\n  - **357 (19h30 - 21h00) KG 05/09**\n  - **246 (19h30 - 21h00) KG 13/09**\n  - **246 (17h55 - 19h25) KG 02/10**\n  - **T7CN (08h30 - 10h00) KG 20/10**\n  - **246 (19h30 - 21h00) KG 21/10**\n  - **246 (17h55 - 19h25) KG 28/10**\n\n#### Hướng dẫn đăng ký và học thử:\n1. **Đăng ký trước qua [form này](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform).**\n2. **Trung tâm sẽ gửi thông tin học qua Zalo số điện thoại bạn đăng ký 2-3 ngày trước ngày khai giảng.** Nếu đến ngày khai giảng bạn vẫn chưa nhận được thông tin lớp học, vui lòng nhắn tin vào Zalo 0967 960 670 cho trung tâm.\n3. **Ngày khai giảng bạn được học thử miễn phí.**\n4. **Học viên đóng học phí (trước hoặc sau buổi học thử vào ngày khai giảng) nếu lớp học phù hợp.** [Hướng dẫn đóng phí](https://toeiccosaothaybao.com/hd-dong-hp/).\n\n#### Hướng dẫn học online qua Zoom:\n- [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n\n#### Liên hệ:\n- **Hotline:** 0967 960 670 (Zalo)\n- **Website:** [https://toeiccosaothaybao.com/](https://toeiccosaothaybao.com/)\n- **Fanpage:** [https://www.facebook.com/CoSaoThayBao.Toeic/](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ:** Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10 - Vào hẻm 666 khoảng 200m, Chung Cư nằm bên tay phải. [Xem hướng dẫn bản đồ](https://toeiccosaothaybao.com/lien-he/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "df3d77b8-ebc9-4a73-8dfc-6f5a605eaa61",
+            "timestamp": "2024-08-28T15:46:09.851831"
+        },
+        "0efa4b5b-25dc-4ea1-a2f2-9c6c61b68035": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T17:38:27.274708",
+                    "message": "xin lịch lớp 2",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:38:35.861312",
+                    "message": "Dưới đây là lịch khai giảng và thông tin chi tiết về lớp 2 - Luyện Đề tại TOEIC Cô Sao Thầy Bảo:\n\n### Lịch Khai Giảng Lớp 2 - Luyện Đề\n- **T7CN (10h00 - 11h30) KG 18/08**\n- **357 (19h30 - 21h00) KG 05/09**\n- **246 (19h30 - 21h00) KG 13/09**\n- **246 (17h55 - 19h25) KG 02/10**\n- **T7CN (08h30 - 10h00) KG 20/10**\n- **246 (19h30 - 21h00) KG 21/10**\n- **246 (17h55 - 19h25) KG 28/10**\n\n### Học Phí\n- **Offline:** 1.000K\n- **Online:** 900K\n- **Số buổi học:** 15 buổi\n\n### Ưu Đãi\n- **Giảm 50K HP** khi đăng ký nhóm từ 2 bạn trở lên.\n- **Giảm 100K HP** khi đăng ký nhóm từ 4 bạn trở lên.\n- **Giảm thêm 100K HP** khi đăng ký trọn khóa.\n\n### Đăng Ký\n- [Đăng ký học thử](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform)\n\n### Liên Hệ\n- **Địa chỉ:** Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n- **Hotline:** 0967 960 670 (zalo)\n- **Facebook:** [Cô Sao Thầy Bảo](https://www.facebook.com/CoSaoThayBao.Toeic)\n- **YouTube:** [Cô Sao Thầy Bảo](https://www.youtube.com/channel/UCwpyEIdA2eSGOUYFMqizvYw)\n\nNếu bạn cần thêm thông tin chi tiết, vui lòng liên hệ qua hotline hoặc các kênh mạng xã hội của trung tâm.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T17:38:41.306096",
+                    "message": "xin lịch lớp nói viết",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:38:51.901651",
+                    "message": "Dưới đây là lịch khai giảng và thông tin chi tiết về các lớp Nói và Viết tại TOEIC Cô Sao Thầy Bảo:\n\n### Lịch Khai Giảng Lớp Nói và Viết\n- **Lớp Speaking:**\n  - **357 (19h30 - 21h00) KG 05/09**\n- **Lớp Writing:**\n  - **357 (19h30 - 21h00) KG 10/10**\n\n### Học Phí\n- **Trọn khóa (Nói và Viết):** 2.000K (Offline - Online)\n- **Lớp Writing:** 1.100K (1.000K dành cho học viên cũ)\n- **Lớp Speaking:** 1.300K (1.200K dành cho học viên cũ)\n\n### Số Buổi Học\n- **Lớp Writing:** 12 buổi\n- **Lớp Speaking:** 15 buổi\n\n### Ưu Đãi\n- **Giảm 50K HP** khi đăng ký nhóm từ 2 bạn trở lên.\n- **Giảm 100K HP** khi đăng ký nhóm từ 4 bạn trở lên.\n- **Giảm thêm 100K - 200K HP** khi hoàn tất học phí trọn khóa.\n\n### Đăng Ký\n- [Đăng ký học thử](https://docs.google.com/forms/d/e/1FAIpQLSdOdnEj0A2DGz45kf3g4uKEvXh29eGycfygn27go-3qJGyXfQ/viewform)\n\n### Liên Hệ\n- **Địa chỉ:** Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n- **Hotline:** 0967 960 670 (zalo)\n- **Facebook:** [Cô Sao Thầy Bảo](https://www.facebook.com/CoSaoThayBao.Toeic)\n- **YouTube:** [Cô Sao Thầy Bảo](https://www.youtube.com/channel/UCwpyEIdA2eSGOUYFMqizvYw)\n\nNếu bạn cần thêm thông tin chi tiết, vui lòng liên hệ qua hotline hoặc các kênh mạng xã hội của trung tâm.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0efa4b5b-25dc-4ea1-a2f2-9c6c61b68035",
+            "timestamp": "2024-08-28T17:38:27.274708"
+        },
+        "ea6258eb-c25d-44f7-9de8-e30d60fe37d7": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T17:39:11.599895",
+                    "message": "xin lịch lớp  nói viết",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:39:28.643515",
+                    "message": "Bạn có thể xem lịch khai giảng các lớp TOEIC Nói và Viết tại trang web của TOEIC Cô Sao Thầy Bảo. Dưới đây là một số thông tin chi tiết:\n\n### Lịch Khai Giảng\n- **Lớp 0 – Mất Gốc**\n  - **246 (17h55 - 19h25) KG 09/09**\n  - **357 (17H55 - 19h25) KG 17/09**\n  - **357 (19h30 - 21h00) KG 15/10**\n  - **T7CN (10h00 - 11h30) KG 27/10**\n  - **Học phí: 500K (Offline), 400K (Online) (9 Buổi)**\n\n- **Lớp 1 – Căn Bản**\n  - **246 (17h55 - 19h25) KG 04/09**\n  - **T7CN (08h30 - 10h00) KG 08/09**\n  - **246 (19h30 - 21h00) KG 23/09**\n  - **246 (17h55 - 19h25) KG 30/09**\n  - **357 (17H55 - 19h25) KG 08/10**\n  - **Học phí: 700K (Offline), 600K (Online) (12 Buổi)**\n\n- **Lớp 2 – Luyện Đề**\n  - **T7CN (10h00 - 11h30) KG 18/08**\n  - **357 (19h30 - 21h00) KG 05/09**\n  - **246 (19h30 - 21h00) KG 13/09**\n  - **246 (17h55 - 19h25) KG 02/10**\n  - **T7CN (08h30 - 10h00) KG 20/10**\n  - **246 (19h30 - 21h00) KG 21/10**\n  - **246 (17h55 - 19h25) KG 28/10**\n  - **Học phí: 1.000K (Offline), 900K (Online) (15 Buổi)**\n\n- **TOEIC Speaking**\n  - **357 (19h30 - 21h00) KG 05/09**\n  - **Học phí: 1.300K (HP là 1.200K dành cho HV cũ)**\n\n- **TOEIC Writing**\n  - **357 (19h30 - 21h00) KG 10/10**\n  - **Học phí: 1.100K (HP là 1.000K dành cho HV cũ)**\n\n### Ưu Đãi Đặc Biệt\n- **Học thử FREE** tất cả các lớp học Offline và Online trực tiếp với giáo viên.\n- **Giảm 50K HP** khi đăng ký nhóm từ 2 bạn trở lên.\n- **Giảm 100K HP** khi đăng ký nhóm từ 4 bạn trở lên.\n- **Ưu đãi thêm 100K – 200K** khi hoàn tất HP trọn khoá.\n\n### Liên Hệ\n- **Hotline:** 0967 960 670 (zalo)\n- **Địa chỉ:** Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n\nBạn có thể xem thêm chi tiết và đăng ký tại [đây](https://toeiccosaothaybao.com/lich-kg/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "ea6258eb-c25d-44f7-9de8-e30d60fe37d7",
+            "timestamp": "2024-08-28T17:39:11.599895"
+        },
+        "940f9a70-3e20-45ec-a333-a38d5f18b929": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T17:41:26.902488",
+                    "message": "xin lịch lớp nói viết",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:41:39.269058",
+                    "message": "Bạn có thể xem lịch khai giảng các lớp TOEIC Nói - Viết tại trang web của TOEIC Cô Sao Thầy Bảo. Dưới đây là một số thông tin chi tiết:\n\n### Lịch Khai Giảng\n- **Lớp 0 – Mất Gốc**:\n  - 246 (17h55 - 19h25) KG 09/09\n  - 357 (17H55 - 19h25) KG 17/09\n  - 357 (19h30 - 21h00) KG 15/10\n  - T7CN (10h00 - 11h30) KG 27/10\n  - Học phí: 500K (Offline), 400K (Online) (9 Buổi)\n\n- **Lớp 1 – Căn Bản**:\n  - 246 (17h55 - 19h25) KG 04/09\n  - T7CN (08h30 - 10h00) KG 08/09\n  - 246 (19h30 - 21h00) KG 23/09\n  - 246 (17h55 - 19h25) KG 30/09\n  - 357 (17H55 - 19h25) KG 08/10\n  - Học phí: 700K (Offline), 600K (Online) (12 Buổi)\n\n- **Lớp 2 – Luyện Đề**:\n  - T7CN (10h00 - 11h30) KG 18/08\n  - 357 (19h30 - 21h00) KG 05/09\n  - 246 (19h30 - 21h00) KG 13/09\n  - 246 (17h55 - 19h25) KG 02/10\n  - T7CN (08h30 - 10h00) KG 20/10\n  - 246 (19h30 - 21h00) KG 21/10\n  - 246 (17h55 - 19h25) KG 28/10\n  - Học phí: 1.000K (Offline), 900K (Online) (15 Buổi)\n\n### Ưu Đãi Đặc Biệt\n- Học thử miễn phí tất cả các lớp học Offline và Online trực tiếp với giáo viên.\n- Giảm 50K học phí khi đăng ký nhóm từ 2 bạn trở lên.\n- Giảm 100K học phí khi đăng ký nhóm từ 4 bạn trở lên.\n- Ưu đãi thêm 100K – 200K khi hoàn tất học phí trọn khóa.\n\n### Đăng Ký\n- [Đăng ký học thử](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform)\n\n### Liên Hệ\n- Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n- Hotline: 0967 960 670 (zalo)\n\nBạn có thể truy cập trang web [Lịch Khai Giảng](https://toeiccosaothaybao.com/lich-kg/) để biết thêm chi tiết và đăng ký.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "940f9a70-3e20-45ec-a333-a38d5f18b929",
+            "timestamp": "2024-08-28T17:41:26.902488"
+        },
+        "f0abce61-f0b1-4d09-9189-4dea66c4b629": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T17:42:23.451483",
+                    "message": "xin lịch lớp 2",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:42:31.456105",
+                    "message": "Dưới đây là lịch khai giảng và thông tin chi tiết về lớp 2 - Luyện Đề tại TOEIC Cô Sao Thầy Bảo:\n\n### Lịch Khai Giảng Lớp 2 - Luyện Đề\n- **T7CN (10h00 - 11h30) KG 18/08**\n- **357 (19h30 - 21h00) KG 05/09**\n- **246 (19h30 - 21h00) KG 13/09**\n- **246 (17h55 - 19h25) KG 02/10**\n- **T7CN (08h30 - 10h00) KG 20/10**\n- **246 (19h30 - 21h00) KG 21/10**\n- **246 (17h55 - 19h25) KG 28/10**\n\n### Học Phí\n- **Offline:** 1.000K\n- **Online:** 900K\n- **Số buổi:** 15 buổi\n\n### Ưu Đãi\n- **Giảm 50K HP** khi đăng ký nhóm từ 2 bạn trở lên.\n- **Giảm 100K HP** khi đăng ký nhóm từ 4 bạn trở lên.\n- **Giảm thêm 100K HP** khi đăng ký trọn khóa.\n\n### Đăng Ký\n- [Đăng ký học thử](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform)\n\n### Liên Hệ\n- **Hotline:** 0967 960 670 (zalo)\n- **Địa chỉ:** Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n\nBạn có thể tham khảo thêm thông tin chi tiết và các khóa học khác tại [đây](https://toeiccosaothaybao.com/lich-kg/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T17:42:37.569580",
+                    "message": "xin lịch lớp nói viết",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:42:45.585692",
+                    "message": "Dưới đây là lịch khai giảng và thông tin chi tiết về lớp Nói Viết tại TOEIC Cô Sao Thầy Bảo:\n\n### Lịch Khai Giảng Lớp Nói Viết\n- **T7CN (10h00 - 11h30) KG 18/08**\n- **357 (19h30 - 21h00) KG 05/09**\n- **246 (19h30 - 21h00) KG 13/09**\n- **246 (17h55 - 19h25) KG 02/10**\n- **T7CN (08h30 - 10h00) KG 20/10**\n- **246 (19h30 - 21h00) KG 21/10**\n- **246 (17h55 - 19h25) KG 28/10**\n\n### Học Phí\n- **Offline:** 1.000K\n- **Online:** 900K\n- **Số buổi:** 15 buổi\n\n### Ưu Đãi\n- **Giảm 50K HP** khi đăng ký nhóm từ 2 bạn trở lên.\n- **Giảm 100K HP** khi đăng ký nhóm từ 4 bạn trở lên.\n- **Giảm thêm 100K HP** khi đăng ký trọn khóa.\n\n### Đăng Ký\n- [Đăng ký học thử](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform)\n\n### Liên Hệ\n- **Hotline:** 0967 960 670 (zalo)\n- **Địa chỉ:** Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n\nBạn có thể tham khảo thêm thông tin chi tiết và các khóa học khác tại [đây](https://toeiccosaothaybao.com/lich-kg/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f0abce61-f0b1-4d09-9189-4dea66c4b629",
+            "timestamp": "2024-08-28T17:42:23.451483"
+        },
+        "e1c12312-93d4-4658-8f68-234905cf3274": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T17:43:13.623269",
+                    "message": "xin lịch lớp nói viết",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T17:43:22.526952",
+                    "message": "Để biết lịch khai giảng các lớp TOEIC Nói và Viết, bạn có thể tham khảo thông tin sau:\n\n### Lịch Khai Giảng\n- **Lớp TOEIC Nói – Viết:**\n  - **Ngày khai giảng:** \n    - 05/09 (Speaking)\n    - 10/10 (Writing)\n  - **Học phí:**\n    - Trọn khóa: 2.000K (Offline - Online)\n    - Lớp Writing: 1.100K (1.000K dành cho học viên cũ)\n    - Lớp Speaking: 1.300K (1.200K dành cho học viên cũ)\n  - **Số buổi học:**\n    - Lớp Writing: 12 buổi\n    - Lớp Speaking: 15 buổi\n\n### Ưu Đãi Đặc Biệt\n- Học thử miễn phí tất cả các lớp học Offline và Online trực tiếp với giáo viên qua phần mềm Zoom.\n- Giảm 50K học phí khi đăng ký nhóm từ 2 bạn trở lên.\n- Giảm 100K học phí khi đăng ký nhóm từ 4 bạn trở lên.\n- Ưu đãi thêm 100K – 200K khi hoàn tất học phí trọn khóa.\n- Cam kết học lại miễn phí nếu không đạt 220+ lớp nói viết.\n\n### Đăng Ký\n- [Đăng ký học thử](https://docs.google.com/forms/d/e/1FAIpQLSdOdnEj0A2DGz45kf3g4uKEvXh29eGycfygn27go-3qJGyXfQ/viewform)\n\n### Liên Hệ\n- **Địa chỉ:** Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n- **Hotline:** 0967 960 670 (zalo)\n- **Facebook:** [Cô Sao Thầy Bảo](https://www.facebook.com/CoSaoThayBao.Toeic)\n- **YouTube:** [Cô Sao Thầy Bảo](https://www.youtube.com/channel/UCwpyEIdA2eSGOUYFMqizvYw)\n\nNếu bạn cần thêm thông tin chi tiết, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:09:01.903908",
+                    "message": "lộ trình học",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:09:08.932029",
+                    "message": "Lộ trình học TOEIC Nói và Viết tại trung tâm Cô Sao Thầy Bảo được thiết kế để giúp học viên đạt được mục tiêu điểm số mong muốn một cách hiệu quả. Dưới đây là lộ trình chi tiết:\n\n### Lộ Trình Học TOEIC Nói\n1. **Buổi 1-3:**\n   - Giới thiệu về bài thi TOEIC Speaking.\n   - Hướng dẫn cách phát âm chuẩn và luyện tập phát âm.\n   - Thực hành các câu hỏi phần 1 (Read a text aloud).\n\n2. **Buổi 4-6:**\n   - Luyện tập phần 2 (Describe a picture).\n   - Kỹ năng miêu tả chi tiết và sử dụng từ vựng phù hợp.\n\n3. **Buổi 7-9:**\n   - Luyện tập phần 3 (Respond to questions).\n   - Kỹ năng trả lời câu hỏi nhanh và chính xác.\n\n4. **Buổi 10-12:**\n   - Luyện tập phần 4 (Respond to questions using information provided).\n   - Kỹ năng phân tích và sử dụng thông tin để trả lời câu hỏi.\n\n5. **Buổi 13-15:**\n   - Luyện tập phần 5 (Propose a solution) và phần 6 (Express an opinion).\n   - Kỹ năng đề xuất giải pháp và bày tỏ quan điểm cá nhân.\n\n### Lộ Trình Học TOEIC Viết\n1. **Buổi 1-3:**\n   - Giới thiệu về bài thi TOEIC Writing.\n   - Hướng dẫn cách viết câu đơn giản và câu phức.\n   - Thực hành viết câu theo yêu cầu phần 1 (Write a sentence based on a picture).\n\n2. **Buổi 4-6:**\n   - Luyện tập phần 2 (Respond to a written request).\n   - Kỹ năng viết thư trả lời yêu cầu.\n\n3. **Buổi 7-9:**\n   - Luyện tập phần 3 (Write an opinion essay).\n   - Kỹ năng viết bài luận bày tỏ quan điểm cá nhân.\n\n4. **Buổi 10-12:**\n   - Thực hành tổng hợp và làm bài thi thử.\n   - Chỉnh sửa và cải thiện bài viết dựa trên phản hồi của giáo viên.\n\n### Phương Pháp Giảng Dạy\n- **Giáo viên:** Có kinh nghiệm và chuyên môn cao trong giảng dạy TOEIC.\n- **Phương pháp:** Tập trung vào thực hành, sửa lỗi chi tiết và cung cấp phản hồi cá nhân.\n- **Tài liệu:** Được biên soạn kỹ lưỡng, bám sát cấu trúc đề thi TOEIC.\n\n### Cam Kết\n- Học lại miễn phí nếu không đạt 220+ điểm trong phần Nói và Viết.\n- Hỗ trợ học viên trong suốt quá trình học và sau khi hoàn thành khóa học.\n\nNếu bạn có bất kỳ câu hỏi nào hoặc cần thêm thông tin, đừng ngần ngại liên hệ với trung tâm qua các kênh đã cung cấp.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:09:28.868448",
+                    "message": "lộ trình học nghe đọc",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:09:35.552787",
+                    "message": "Lộ trình học TOEIC Nghe và Đọc tại trung tâm Cô Sao Thầy Bảo được thiết kế để giúp học viên nắm vững các kỹ năng cần thiết và đạt được điểm số cao trong kỳ thi TOEIC. Dưới đây là lộ trình chi tiết:\n\n### Lộ Trình Học TOEIC Nghe\n1. **Buổi 1-3:**\n   - Giới thiệu về bài thi TOEIC Listening.\n   - Hướng dẫn kỹ năng nghe hiểu cơ bản.\n   - Luyện tập phần 1 (Photographs): Nhận diện và miêu tả hình ảnh.\n\n2. **Buổi 4-6:**\n   - Luyện tập phần 2 (Question-Response): Kỹ năng nghe và trả lời câu hỏi ngắn.\n   - Chiến lược loại trừ đáp án sai.\n\n3. **Buổi 7-9:**\n   - Luyện tập phần 3 (Conversations): Kỹ năng nghe hội thoại và trả lời câu hỏi.\n   - Phân tích và hiểu ngữ cảnh của hội thoại.\n\n4. **Buổi 10-12:**\n   - Luyện tập phần 4 (Talks): Kỹ năng nghe bài nói và trả lời câu hỏi.\n   - Chiến lược ghi chú và nắm bắt ý chính.\n\n### Lộ Trình Học TOEIC Đọc\n1. **Buổi 1-3:**\n   - Giới thiệu về bài thi TOEIC Reading.\n   - Hướng dẫn kỹ năng đọc hiểu cơ bản.\n   - Luyện tập phần 5 (Incomplete Sentences): Kỹ năng điền từ vào chỗ trống.\n\n2. **Buổi 4-6:**\n   - Luyện tập phần 6 (Text Completion): Kỹ năng hoàn thành đoạn văn.\n   - Chiến lược phân tích ngữ pháp và từ vựng.\n\n3. **Buổi 7-9:**\n   - Luyện tập phần 7 (Reading Comprehension): Kỹ năng đọc hiểu đoạn văn.\n   - Phân tích và trả lời câu hỏi chi tiết.\n\n4. **Buổi 10-12:**\n   - Thực hành tổng hợp và làm bài thi thử.\n   - Chỉnh sửa và cải thiện kỹ năng dựa trên phản hồi của giáo viên.\n\n### Phương Pháp Giảng Dạy\n- **Giáo viên:** Có kinh nghiệm và chuyên môn cao trong giảng dạy TOEIC.\n- **Phương pháp:** Tập trung vào thực hành, sửa lỗi chi tiết và cung cấp phản hồi cá nhân.\n- **Tài liệu:** Được biên soạn kỹ lưỡng, bám sát cấu trúc đề thi TOEIC.\n\n### Cam Kết\n- Học lại miễn phí nếu không đạt điểm số mong muốn.\n- Hỗ trợ học viên trong suốt quá trình học và sau khi hoàn thành khóa học.\n\nNếu bạn có bất kỳ câu hỏi nào hoặc cần thêm thông tin, đừng ngần ngại liên hệ với trung tâm qua các kênh đã cung cấp.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:10:03.168738",
+                    "message": "lộ trình luyện thi nghe đọc",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:10:12.260192",
+                    "message": "Lộ trình luyện thi TOEIC Nghe và Đọc tại trung tâm Cô Sao Thầy Bảo được thiết kế để giúp học viên nắm vững các kỹ năng cần thiết và đạt được điểm số cao trong kỳ thi TOEIC. Dưới đây là lộ trình chi tiết:\n\n### Lộ Trình Luyện Thi TOEIC Nghe\n1. **Buổi 1-3:**\n   - **Giới thiệu về bài thi TOEIC Listening:**\n     - Cấu trúc bài thi và các phần thi.\n     - Chiến lược làm bài và quản lý thời gian.\n   - **Luyện tập phần 1 (Photographs):**\n     - Kỹ năng nhận diện và miêu tả hình ảnh.\n     - Thực hành với các bài tập mẫu.\n\n2. **Buổi 4-6:**\n   - **Luyện tập phần 2 (Question-Response):**\n     - Kỹ năng nghe và trả lời câu hỏi ngắn.\n     - Chiến lược loại trừ đáp án sai.\n     - Thực hành với các bài tập mẫu.\n\n3. **Buổi 7-9:**\n   - **Luyện tập phần 3 (Conversations):**\n     - Kỹ năng nghe hội thoại và trả lời câu hỏi.\n     - Phân tích và hiểu ngữ cảnh của hội thoại.\n     - Thực hành với các bài tập mẫu.\n\n4. **Buổi 10-12:**\n   - **Luyện tập phần 4 (Talks):**\n     - Kỹ năng nghe bài nói và trả lời câu hỏi.\n     - Chiến lược ghi chú và nắm bắt ý chính.\n     - Thực hành với các bài tập mẫu.\n\n### Lộ Trình Luyện Thi TOEIC Đọc\n1. **Buổi 1-3:**\n   - **Giới thiệu về bài thi TOEIC Reading:**\n     - Cấu trúc bài thi và các phần thi.\n     - Chiến lược làm bài và quản lý thời gian.\n   - **Luyện tập phần 5 (Incomplete Sentences):**\n     - Kỹ năng điền từ vào chỗ trống.\n     - Thực hành với các bài tập mẫu.\n\n2. **Buổi 4-6:**\n   - **Luyện tập phần 6 (Text Completion):**\n     - Kỹ năng hoàn thành đoạn văn.\n     - Chiến lược phân tích ngữ pháp và từ vựng.\n     - Thực hành với các bài tập mẫu.\n\n3. **Buổi 7-9:**\n   - **Luyện tập phần 7 (Reading Comprehension):**\n     - Kỹ năng đọc hiểu đoạn văn.\n     - Phân tích và trả lời câu hỏi chi tiết.\n     - Thực hành với các bài tập mẫu.\n\n4. **Buổi 10-12:**\n   - **Thực hành tổng hợp và làm bài thi thử:**\n     - Làm bài thi thử để đánh giá tiến bộ.\n     - Chỉnh sửa và cải thiện kỹ năng dựa trên phản hồi của giáo viên.\n\n### Phương Pháp Giảng Dạy\n- **Giáo viên:** Có kinh nghiệm và chuyên môn cao trong giảng dạy TOEIC.\n- **Phương pháp:** Tập trung vào thực hành, sửa lỗi chi tiết và cung cấp phản hồi cá nhân.\n- **Tài liệu:** Được biên soạn kỹ lưỡng, bám sát cấu trúc đề thi TOEIC.\n\n### Cam Kết\n- Học lại miễn phí nếu không đạt điểm số mong muốn.\n- Hỗ trợ học viên trong suốt quá trình học và sau khi hoàn thành khóa học.\n\nNếu bạn có bất kỳ câu hỏi nào hoặc cần thêm thông tin, đừng ngần ngại liên hệ với trung tâm qua các kênh đã cung cấp.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e1c12312-93d4-4658-8f68-234905cf3274",
+            "timestamp": "2024-08-28T17:43:13.623269"
+        },
+        "2aabd0f5-a761-41bf-9520-4b328f67048a": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T03:13:10.683786",
+                    "message": "lộ trình luyện thi toeic 4 kỹ năng",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:13:19.280166",
+                    "message": "Để luyện thi TOEIC 4 kỹ năng, bạn cần hoàn thành hai khóa học chính: TOEIC Nghe Đọc và TOEIC Nói Viết. Dưới đây là lộ trình chi tiết:\n\n### Khóa TOEIC Nghe Đọc\n1. **Lớp 0 - Mất gốc**\n   - **Số buổi học:** 9 buổi\n   - **Học phí:** 400k (Online), 500k (Offline)\n\n2. **Lớp 1 - Căn bản**\n   - **Số buổi học:** 12 buổi\n   - **Học phí:** 600k (Online), 700k (Offline)\n\n3. **Lớp 2 - Giải đề**\n   - **Số buổi học:** 15 buổi\n   - **Học phí:** 900k (Online), 1.000k (Offline)\n\n### Khóa TOEIC Nói Viết\n1. **Lớp Speaking**\n   - **Số buổi học:** 15 buổi\n   - **Học phí:** 1.300k (Online/Offline)\n\n2. **Lớp Writing**\n   - **Số buổi học:** 12 buổi\n   - **Học phí:** 1.100k (Online/Offline)\n\n### Ưu đãi\n- **Đóng trọn khóa:** Giảm thêm 100k khi đóng trọn khóa học (bao gồm lớp 0, 1, 2 hoặc 1, 2).\n- **Đóng nhóm:**\n  - Nhóm từ 2-3 bạn: Giảm 50k mỗi bạn cho mỗi lớp (0, 1, 2).\n  - Nhóm từ 4 bạn trở lên: Giảm 100k mỗi bạn cho mỗi lớp (0, 1, 2).\n\n### Cam kết\n- Cam kết đầu ra - Học lại miễn phí và thầy cô hỗ trợ riêng đến khi đạt.\n\n### Liên kết hữu ích\n- [Lộ Trình TOEIC 4 Kỹ Năng](https://toeiccosaothaybao.com/lotrinh-toeic-4-ky-nang/)\n- [Test Đầu Vào](https://online.toeiccosaothaybao.com/test-dauvao/)\n\nNếu bạn có bất kỳ câu hỏi nào hoặc cần thêm thông tin, đừng ngần ngại liên hệ với chúng tôi!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:13:33.100870",
+                    "message": "lộ trình học nghe đọc",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:13:40.293499",
+                    "message": "Dưới đây là lộ trình chi tiết cho khóa học TOEIC Nghe Đọc:\n\n### Lớp 0 - Mất gốc\n- **Số buổi học:** 9 buổi\n- **Học phí:** 400k (Online), 500k (Offline)\n- **Nội dung:** \n  - Củng cố nền tảng ngữ pháp cơ bản.\n  - Học từ vựng cơ bản.\n  - Luyện nghe và đọc hiểu các đoạn văn ngắn.\n\n### Lớp 1 - Căn bản\n- **Số buổi học:** 12 buổi\n- **Học phí:** 600k (Online), 700k (Offline)\n- **Nội dung:**\n  - Nâng cao ngữ pháp và từ vựng.\n  - Luyện nghe các đoạn hội thoại và bài nói ngắn.\n  - Đọc hiểu các đoạn văn dài hơn và phức tạp hơn.\n\n### Lớp 2 - Giải đề\n- **Số buổi học:** 15 buổi\n- **Học phí:** 900k (Online), 1.000k (Offline)\n- **Nội dung:**\n  - Luyện giải đề thi TOEIC thực tế.\n  - Kỹ năng làm bài thi hiệu quả.\n  - Chiến lược quản lý thời gian trong phòng thi.\n\n### Ưu đãi\n- **Đóng trọn khóa:** Giảm thêm 100k khi đóng trọn khóa học (bao gồm lớp 0, 1, 2).\n- **Đóng nhóm:**\n  - Nhóm từ 2-3 bạn: Giảm 50k mỗi bạn cho mỗi lớp (0, 1, 2).\n  - Nhóm từ 4 bạn trở lên: Giảm 100k mỗi bạn cho mỗi lớp (0, 1, 2).\n\n### Cam kết\n- Cam kết đầu ra - Học lại miễn phí và thầy cô hỗ trợ riêng đến khi đạt.\n\n### Liên kết hữu ích\n- [Lộ Trình TOEIC Nghe Đọc](https://toeiccosaothaybao.com/lotrinh-toeic-nghe-doc/)\n- [Test Đầu Vào](https://online.toeiccosaothaybao.com/test-dauvao/)\n\nNếu bạn có bất kỳ câu hỏi nào hoặc cần thêm thông tin, đừng ngần ngại liên hệ với chúng tôi!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:14:12.503812",
+                    "message": "có được học thử không?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:14:14.527092",
+                    "message": "Có, bạn hoàn toàn có thể học thử trước khi quyết định đăng ký khóa học chính thức. Việc học thử giúp bạn trải nghiệm phương pháp giảng dạy và chất lượng của khóa học.\n\n### Cách đăng ký học thử\n- **Liên hệ trực tiếp:** Bạn có thể liên hệ trực tiếp với trung tâm qua số điện thoại hoặc email để đăng ký buổi học thử.\n- **Đăng ký online:** Truy cập vào trang web của trung tâm và điền thông tin vào form đăng ký học thử.\n\n### Liên kết hữu ích\n- [Đăng Ký Học Thử](https://toeiccosaothaybao.com/dang-ky-hoc-thu/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại liên hệ với chúng tôi!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:14:44.378040",
+                    "message": "đăng ký học lớp 1?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:14:50.476371",
+                    "message": "Để đăng ký học lớp 1 - Căn bản của khóa học TOEIC Nghe Đọc, bạn có thể làm theo các bước sau:\n\n### Cách đăng ký\n1. **Trực tiếp tại trung tâm:**\n   - Đến trực tiếp trung tâm để đăng ký và đóng học phí.\n   - Địa chỉ trung tâm: [Địa chỉ của trung tâm]\n\n2. **Đăng ký online:**\n   - Truy cập vào trang web của trung tâm và điền thông tin vào form đăng ký.\n   - Link đăng ký: [Đăng Ký Lớp 1 - Căn Bản](https://toeiccosaothaybao.com/dang-ky-lop-1-can-ban/)\n\n3. **Liên hệ qua điện thoại hoặc email:**\n   - Gọi điện hoặc gửi email để được hướng dẫn chi tiết về quy trình đăng ký.\n   - Số điện thoại: [Số điện thoại của trung tâm]\n   - Email: [Email của trung tâm]\n\n### Thông tin lớp 1 - Căn bản\n- **Số buổi học:** 12 buổi\n- **Học phí:** 600k (Online), 700k (Offline)\n- **Nội dung:**\n  - Nâng cao ngữ pháp và từ vựng.\n  - Luyện nghe các đoạn hội thoại và bài nói ngắn.\n  - Đọc hiểu các đoạn văn dài hơn và phức tạp hơn.\n\n### Ưu đãi\n- **Đóng nhóm:**\n  - Nhóm từ 2-3 bạn: Giảm 50k mỗi bạn.\n  - Nhóm từ 4 bạn trở lên: Giảm 100k mỗi bạn.\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại liên hệ với chúng tôi!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:15:28.687217",
+                    "message": "lớp 1 hiện đang có các lịch nào?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:15:41.943693",
+                    "message": "### Lịch học lớp 1 - Căn bản (TOEIC Nghe Đọc)\n\nDưới đây là các lịch học hiện tại cho lớp 1 - Căn bản:\n\n1. **Lớp 246 (17h55 - 19h25)**\n   - **Ngày khai giảng:** 04/09\n   - **Ngày khai giảng:** 23/09\n   - **Ngày khai giảng:** 30/09\n\n2. **Lớp T7CN (08h30 - 10h00)**\n   - **Ngày khai giảng:** 08/09\n\n3. **Lớp 357 (17h55 - 19h25)**\n   - **Ngày khai giảng:** 08/10\n\n### Học phí\n- **Offline:** 700k\n- **Online:** 600k\n- **Số buổi học:** 12 buổi\n\n### Đăng ký\n- **Link đăng ký:** [Đăng ký lớp 1 - Căn bản](https://docs.google.com/forms/d/e/1FAIpQLScsKi9Ahd8h3MTUO1rc30PVyKPcU47nXBGxngB4F8ir1iFXeQ/viewform)\n\n### Ưu đãi\n- **Đăng ký nhóm từ 2 trở lên:** Giảm 50k mỗi bạn.\n- **Đăng ký nhóm từ 4 trở lên:** Giảm 100k mỗi bạn.\n- **Đăng ký trọn khóa:** Giảm thêm 100k.\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại liên hệ với chúng tôi!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2aabd0f5-a761-41bf-9520-4b328f67048a",
+            "timestamp": "2024-08-29T03:13:10.683786"
+        },
+        "58032561-fee9-4689-ad9c-977a3879ed87": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T03:16:27.914723",
+                    "message": "xin hỏi lộ trình 2 kỹ năng?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:16:34.600660",
+                    "message": "Lộ trình học TOEIC 2 kỹ năng (Nghe và Đọc) tại TOEIC Cô Sao Thầy Bảo bao gồm các khóa học sau:\n\n1. **Lớp 0 - Mất gốc**:\n   - **Online**: 400k\n   - **Offline**: 500k\n   - **Tổng số buổi**: 9 buổi\n\n2. **Lớp 1 - Căn bản**:\n   - **Online**: 600k\n   - **Offline**: 700k\n   - **Tổng số buổi**: 12 buổi\n\n3. **Lớp 2 - Giải đề**:\n   - **Online**: 900k\n   - **Offline**: 1.000k\n   - **Tổng số buổi**: 15 buổi\n\n### Ưu đãi:\n- **Nhóm từ 2-3 bạn**: Giảm 50k mỗi bạn cho mỗi lớp (0, 1, 2)\n- **Nhóm từ 4 bạn trở lên**: Giảm 100k mỗi bạn cho mỗi lớp (0, 1, 2)\n- **Đóng trọn khóa**: Giảm thêm 100k khi đóng trọn khóa học (bao gồm lớp 0, 1, 2 hoặc 1, 2)\n\n### Đăng ký và thông tin chi tiết:\n- [Lộ Trình TOEIC 2 Kỹ Năng](https://toeiccosaothaybao.com/lo-trinh-toeic-2-ky-nang-nghe-doc/)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ hotline: 0967 960 670 (zalo).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:16:49.233264",
+                    "message": "hiện tại lớp 2 đang có các lịch học nào?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:16:56.123793",
+                    "message": "Hiện tại, lớp 2 - Giải đề tại TOEIC Cô Sao Thầy Bảo có các lịch học sau:\n\n- **Thứ 7 & Chủ Nhật (10h00 - 11h30)**: Khai giảng 18/08\n- **Thứ 3, 5, 7 (19h30 - 21h00)**: Khai giảng 05/09\n- **Thứ 2, 4, 6 (19h30 - 21h00)**: Khai giảng 13/09\n- **Thứ 2, 4, 6 (17h55 - 19h25)**: Khai giảng 02/10\n- **Thứ 7 & Chủ Nhật (08h30 - 10h00)**: Khai giảng 20/10\n- **Thứ 2, 4, 6 (19h30 - 21h00)**: Khai giảng 21/10\n- **Thứ 2, 4, 6 (17h55 - 19h25)**: Khai giảng 28/10\n\n### Học phí:\n- **Offline**: 1.000k\n- **Online**: 900k\n- **Tổng số buổi**: 15 buổi\n\n### Ưu đãi:\n- **Nhóm từ 2-3 bạn**: Giảm 50k mỗi bạn\n- **Nhóm từ 4 bạn trở lên**: Giảm 100k mỗi bạn\n- **Đóng trọn khóa**: Giảm thêm 100k\n\nBạn có thể đăng ký học thử hoặc tìm hiểu thêm chi tiết tại [đây](https://toeiccosaothaybao.com/lich-kg/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:17:13.517828",
+                    "message": "vậy còn lớp 1",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:17:25.657609",
+                    "message": "Hiện tại, lớp 1 - Căn bản tại TOEIC Cô Sao Thầy Bảo có các lịch học sau:\n\n- **Thứ 2, 4, 6 (17h55 - 19h25)**: Khai giảng 04/09\n- **Thứ 7 & Chủ Nhật (08h30 - 10h00)**: Khai giảng 08/09\n- **Thứ 2, 4, 6 (19h30 - 21h00)**: Khai giảng 23/09\n- **Thứ 2, 4, 6 (17h55 - 19h25)**: Khai giảng 30/09\n- **Thứ 3, 5, 7 (17h55 - 19h25)**: Khai giảng 08/10\n\n### Học phí:\n- **Offline**: 700k\n- **Online**: 600k\n- **Tổng số buổi**: 12 buổi\n\n### Ưu đãi:\n- **Nhóm từ 2-3 bạn**: Giảm 50k mỗi bạn\n- **Nhóm từ 4 bạn trở lên**: Giảm 100k mỗi bạn\n- **Đóng trọn khóa**: Giảm thêm 100k\n\nBạn có thể đăng ký học thử hoặc tìm hiểu thêm chi tiết tại [đây](https://toeiccosaothaybao.com/lich-kg/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:18:05.015244",
+                    "message": "mình muốn đăng ký học",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:18:07.366040",
+                    "message": "Tuyệt vời! Để đăng ký học tại TOEIC Cô Sao Thầy Bảo, bạn có thể làm theo các bước sau:\n\n1. **Truy cập trang đăng ký**: [Đăng ký học](https://toeiccosaothaybao.com/lich-kg/)\n2. **Chọn khóa học và lịch học phù hợp**: Chọn lớp 1 - Căn bản hoặc lớp 2 - Giải đề và lịch học mà bạn muốn tham gia.\n3. **Điền thông tin cá nhân**: Cung cấp thông tin cá nhân của bạn như họ tên, số điện thoại, email, và các thông tin cần thiết khác.\n4. **Xác nhận và thanh toán**: Xác nhận thông tin đăng ký và thực hiện thanh toán theo hướng dẫn.\n\nNếu bạn cần hỗ trợ thêm, bạn có thể liên hệ trực tiếp qua hotline: 0967 960 670 (zalo).\n\nChúc bạn học tập hiệu quả và đạt kết quả cao trong kỳ thi TOEIC!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:18:24.074281",
+                    "message": "bạn đăng ký giúp mình đi",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:18:25.662716",
+                    "message": "Để hỗ trợ bạn đăng ký học, mình cần một số thông tin cá nhân của bạn. Vui lòng cung cấp các thông tin sau:\n\n1. Họ và tên:\n2. Số điện thoại:\n3. Email:\n4. Khóa học muốn đăng ký (Lớp 1 - Căn bản hoặc Lớp 2 - Giải đề):\n5. Lịch học mong muốn (ngày khai giảng và khung giờ):\n\nSau khi có đủ thông tin, mình sẽ giúp bạn hoàn tất quá trình đăng ký.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:18:47.719967",
+                    "message": "Họ và tên: Bảo\nSố điện thoại: 079206034\nEmail:dfsdfsdf\nKhóa học muốn đăng ký (Lớp 1 - Căn bản hoặc Lớp 2 - Giải đề):2312312\nLịch học mong muốn (ngày khai giảng và khung giờ):dfsdfsd",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:18:50.376352",
+                    "message": "Có vẻ như thông tin bạn cung cấp chưa đầy đủ và chính xác. Để mình có thể hỗ trợ bạn tốt hơn, vui lòng cung cấp lại các thông tin sau:\n\n1. **Họ và tên**:\n2. **Số điện thoại**:\n3. **Email**:\n4. **Khóa học muốn đăng ký** (Lớp 1 - Căn bản hoặc Lớp 2 - Giải đề):\n5. **Lịch học mong muốn** (ngày khai giảng và khung giờ):\n\nVí dụ:\n- Họ và tên: Nguyễn Văn A\n- Số điện thoại: 0123456789\n- Email: nguyenvana@example.com\n- Khóa học muốn đăng ký: Lớp 1 - Căn bản\n- Lịch học mong muốn: Khai giảng 04/09, Thứ 2, 4, 6 (17h55 - 19h25)\n\nCảm ơn bạn!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:19:07.826779",
+                    "message": "Họ và tên: Nguyễn Văn A\nSố điện thoại: 0123456789\nEmail: nguyenvana@example.com\nKhóa học muốn đăng ký: Lớp 1 - Căn bản\nLịch học mong muốn: Khai giảng 04/09, Thứ 2, 4, 6 (17h55 - 19h25)",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:19:11.487690",
+                    "message": "Cảm ơn bạn đã cung cấp thông tin. Mình sẽ giúp bạn đăng ký khóa học. Dưới đây là thông tin đăng ký của bạn:\n\n- **Họ và tên**: Nguyễn Văn A\n- **Số điện thoại**: 0123456789\n- **Email**: nguyenvana@example.com\n- **Khóa học muốn đăng ký**: Lớp 1 - Căn bản\n- **Lịch học mong muốn**: Khai giảng 04/09, Thứ 2, 4, 6 (17h55 - 19h25)\n\nMình sẽ tiến hành đăng ký cho bạn. Nếu có bất kỳ vấn đề gì, mình sẽ liên hệ lại với bạn qua số điện thoại hoặc email đã cung cấp.\n\nBạn có thể chờ thông tin xác nhận từ TOEIC Cô Sao Thầy Bảo. Nếu cần hỗ trợ thêm, vui lòng liên hệ hotline: 0967 960 670 (zalo).\n\nChúc bạn học tập hiệu quả và đạt kết quả cao trong kỳ thi TOEIC!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:44:25.019029",
+                    "message": "ngày kiểm kê",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:44:26.567220",
+                    "message": "Để hoàn tất việc đăng ký, mình cần xác nhận lại một số thông tin. Bạn có thể cho mình biết thêm về \"ngày kiểm kê\" mà bạn đề cập là gì không? Có thể bạn muốn hỏi về ngày khai giảng hoặc một thông tin cụ thể khác liên quan đến khóa học.\n\nNếu bạn có bất kỳ yêu cầu đặc biệt nào hoặc cần thêm thông tin, vui lòng cho mình biết để mình có thể hỗ trợ bạn tốt nhất.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:44:41.837936",
+                    "message": "trang kiểm kê là trang nào",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:44:44.290449",
+                    "message": "Có vẻ như bạn đang hỏi về trang kiểm kê hoặc trang đăng ký khóa học tại TOEIC Cô Sao Thầy Bảo. Để đăng ký khóa học, bạn có thể truy cập trang đăng ký chính thức của TOEIC Cô Sao Thầy Bảo theo đường link sau:\n\n[Đăng ký học](https://toeiccosaothaybao.com/lich-kg/)\n\nTrên trang này, bạn có thể chọn khóa học, lịch học phù hợp và điền thông tin cá nhân để hoàn tất quá trình đăng ký. Nếu bạn gặp bất kỳ khó khăn nào trong quá trình đăng ký, vui lòng liên hệ hotline: 0967 960 670 (zalo) để được hỗ trợ trực tiếp.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "58032561-fee9-4689-ad9c-977a3879ed87",
+            "timestamp": "2024-08-29T03:16:27.914723"
+        },
+        "c5cd5951-8916-49da-9891-d7951b3debf2": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T03:45:01.680609",
+                    "message": "kiểm kê",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:45:05.265087",
+                    "message": "\"Kiểm kê\" là quá trình kiểm tra và đánh giá các tài sản, hàng hóa, hoặc dữ liệu trong một tổ chức để đảm bảo tính chính xác và đầy đủ. Quá trình này thường bao gồm việc đếm, ghi chép, và so sánh với các hồ sơ hiện có để phát hiện bất kỳ sự sai lệch nào. Kiểm kê có thể được thực hiện định kỳ hoặc đột xuất, và là một phần quan trọng trong quản lý tài sản và kiểm soát nội bộ của một tổ chức.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T03:45:12.746134",
+                    "message": "web kiểm kê",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T03:45:15.765938",
+                    "message": "Bạn đang tìm kiếm một trang web hoặc công cụ trực tuyến để hỗ trợ quá trình kiểm kê? Nếu đúng, có rất nhiều phần mềm và dịch vụ trực tuyến có thể giúp bạn quản lý và thực hiện kiểm kê một cách hiệu quả. Một số phần mềm phổ biến bao gồm:\n\n1. **Zoho Inventory**: Quản lý hàng tồn kho và đơn hàng.\n2. **QuickBooks**: Phần mềm kế toán với tính năng quản lý hàng tồn kho.\n3. **Odoo**: Hệ thống ERP với module quản lý hàng tồn kho.\n4. **Fishbowl Inventory**: Phần mềm quản lý hàng tồn kho cho doanh nghiệp vừa và nhỏ.\n5. **NetSuite**: Giải pháp ERP toàn diện với tính năng quản lý hàng tồn kho.\n\nBạn có thể tìm hiểu thêm về các công cụ này và chọn lựa cái phù hợp nhất với nhu cầu của mình. Nếu bạn cần thông tin chi tiết hơn về một công cụ cụ thể, hãy cho tôi biết!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T09:39:59.400031",
+                    "message": "ngày kiểm kê",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T09:40:01.497257",
+                    "message": "Ngày kiểm kê là ngày mà quá trình kiểm kê được thực hiện. Đây là thời điểm mà tất cả các tài sản, hàng hóa, hoặc dữ liệu trong một tổ chức được kiểm tra và ghi nhận để đảm bảo tính chính xác và đầy đủ. Ngày kiểm kê thường được lên kế hoạch trước và có thể diễn ra định kỳ (hàng tháng, hàng quý, hàng năm) hoặc đột xuất tùy thuộc vào nhu cầu của tổ chức.\n\nBạn có cần thêm thông tin chi tiết về cách lập kế hoạch cho ngày kiểm kê hoặc các bước thực hiện kiểm kê không?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "c5cd5951-8916-49da-9891-d7951b3debf2",
+            "timestamp": "2024-08-29T03:45:01.680609"
+        },
+        "5d9f6c0e-5720-4582-b4f3-bcb87ee67a2a": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T08:16:44.578009",
+                    "message": "xin hỏi lịch học lớp nói viết",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:16:50.849680",
+                    "message": "Lịch học lớp Nói Viết tại trung tâm TOEIC Cô Sao Thầy Bảo như sau:\n\n- **Lớp Speaking**: 19h30 - 21h00, khai giảng ngày 05/09\n- **Lớp Writing**: 19h30 - 21h00, khai giảng ngày 10/10\n\n**Lưu ý:**\n- Buổi học đầu tiên, bạn nên đến sớm 10 phút để ổn định lớp học.\n- Hướng dẫn học online qua Zoom: [Hướng dẫn học online](https://by.com.vn/hd-zoom)\n- Kết bạn Zalo hotline 0967 960 670 để nhận thông tin lớp học và học thử.\n\n**Thông tin liên hệ:**\n- **Hotline**: 0967 960 670\n- **Website**: [toeiccosaothaybao.com](https://toeiccosaothaybao.com/)\n- **Fanpage**: [Facebook](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n- **Địa chỉ**: Tầng Lửng Khu B2, Chung Cư Hòa Bình, thuộc Hẻm 666 đường 3/2, P.14, Q.10\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T08:16:57.418469",
+                    "message": "mình muốn đăng ký học",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:17:00.526455",
+                    "message": "Tuyệt vời! Để đăng ký học lớp Nói Viết tại trung tâm TOEIC Cô Sao Thầy Bảo, bạn có thể làm theo các bước sau:\n\n1. **Liên hệ qua Hotline**: Gọi đến số 0967 960 670 để được tư vấn và hướng dẫn đăng ký.\n2. **Đăng ký qua Zalo**: Kết bạn với số Zalo 0967 960 670 và nhắn tin để đăng ký.\n3. **Đăng ký trực tuyến**: Truy cập vào [website của trung tâm](https://toeiccosaothaybao.com/) và tìm mục đăng ký học.\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên. Bạn có thể bắt đầu ngay hôm nay để đảm bảo có chỗ trong lớp học!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T08:17:20.044911",
+                    "message": "mình muốn đăng ký lớp 0",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:17:23.666553",
+                    "message": "Để đăng ký lớp 0 tại trung tâm TOEIC Cô Sao Thầy Bảo, bạn có thể làm theo các bước sau:\n\n1. **Liên hệ qua Hotline**: Gọi đến số 0967 960 670 để được tư vấn và hướng dẫn đăng ký.\n2. **Đăng ký qua Zalo**: Kết bạn với số Zalo 0967 960 670 và nhắn tin để đăng ký.\n3. **Đăng ký trực tuyến**: Truy cập vào [website của trung tâm](https://toeiccosaothaybao.com/) và tìm mục đăng ký học.\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên. Bạn có thể bắt đầu ngay hôm nay để đảm bảo có chỗ trong lớp học!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T08:17:41.104060",
+                    "message": "lớp 0 gần những lịch nào",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:17:48.143187",
+                    "message": "Lịch khai giảng gần nhất cho lớp 0 tại trung tâm TOEIC Cô Sao Thầy Bảo như sau:\n\n- **Lớp 0 (Mất gốc)**:\n  - **246 (17h55 - 19h25)**: Khai giảng ngày 09/09\n  - **357 (17h55 - 19h25)**: Khai giảng ngày 17/09\n  - **357 (19h30 - 21h00)**: Khai giảng ngày 15/10\n  - **T7CN (10h00 - 11h30)**: Khai giảng ngày 27/10\n\nBạn có thể chọn lịch học phù hợp và đăng ký theo các bước sau:\n\n1. **Liên hệ qua Hotline**: Gọi đến số 0967 960 670 để được tư vấn và hướng dẫn đăng ký.\n2. **Đăng ký qua Zalo**: Kết bạn với số Zalo 0967 960 670 và nhắn tin để đăng ký.\n3. **Đăng ký trực tuyến**: Truy cập vào [website của trung tâm](https://toeiccosaothaybao.com/) và tìm mục đăng ký học.\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên. Bạn có thể bắt đầu ngay hôm nay để đảm bảo có chỗ trong lớp học!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T08:36:14.462674",
+                    "message": "lớp 2 hiện đang có các lịch nào?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:36:23.844225",
+                    "message": "Lịch học lớp 2 (Luyện Đề) tại trung tâm TOEIC Cô Sao Thầy Bảo hiện có các lịch sau:\n\n- **Thứ 7 & Chủ Nhật (10h00 - 11h30)**: Khai giảng ngày 18/08\n- **Thứ 3, 5, 7 (19h30 - 21h00)**: Khai giảng ngày 05/09\n- **Thứ 2, 4, 6 (19h30 - 21h00)**: Khai giảng ngày 13/09\n- **Thứ 2, 4, 6 (17h55 - 19h25)**: Khai giảng ngày 02/10\n- **Thứ 7 & Chủ Nhật (08h30 - 10h00)**: Khai giảng ngày 20/10\n- **Thứ 2, 4, 6 (19h30 - 21h00)**: Khai giảng ngày 21/10\n- **Thứ 2, 4, 6 (17h55 - 19h25)**: Khai giảng ngày 28/10\n\n**Học phí:**\n- **Offline**: 1.000.000 VND\n- **Online**: 900.000 VND\n- **Số buổi học**: 15 buổi\n\nBạn có thể đăng ký học theo các bước sau:\n\n1. **Liên hệ qua Hotline**: Gọi đến số 0967 960 670 để được tư vấn và hướng dẫn đăng ký.\n2. **Đăng ký qua Zalo**: Kết bạn với số Zalo 0967 960 670 và nhắn tin để đăng ký.\n3. **Đăng ký trực tuyến**: Truy cập vào [website của trung tâm](https://toeiccosaothaybao.com/) và tìm mục đăng ký học.\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh trên. Bạn có thể bắt đầu ngay hôm nay để đảm bảo có chỗ trong lớp học!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T09:07:57.322186",
+                    "message": "link đăng ký",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T09:07:59.190045",
+                    "message": "Bạn có thể đăng ký học tại trung tâm TOEIC Cô Sao Thầy Bảo qua link sau:\n\n[Đăng ký học](https://toeiccosaothaybao.com/dang-ky-hoc)\n\nNếu bạn cần thêm thông tin hoặc hỗ trợ, vui lòng liên hệ qua các kênh sau:\n\n- **Hotline**: 0967 960 670\n- **Zalo**: Kết bạn với số 0967 960 670\n- **Fanpage**: [Facebook](https://www.facebook.com/ToeicCoSaoThayBao.ToeicSaoKhue/)\n\nChúc bạn học tập hiệu quả!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "5d9f6c0e-5720-4582-b4f3-bcb87ee67a2a",
+            "timestamp": "2024-08-30T08:16:44.578009"
+        },
+        "5f650308-3c21-4726-abc2-8049efa30f16": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T09:10:52.068175",
+                    "message": "lộ trình 2 kỹ năng",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T09:11:10.851981",
+                    "message": "Lộ trình học TOEIC 2 kỹ năng (Nghe và Đọc) tại TOEIC Cô Sao Thầy Bảo bao gồm các khóa học sau:\n\n1. **Lớp 0 - Mất gốc**:\n   - **Thời lượng**: 9 buổi\n   - **Học phí**: 400k (Online) và 500k (Offline)\n\n2. **Lớp 1 - Căn bản**:\n   - **Thời lượng**: 12 buổi\n   - **Học phí**: 600k (Online) và 700k (Offline)\n\n3. **Lớp 2 - Giải đề**:\n   - **Thời lượng**: 15 buổi\n   - **Học phí**: 900k (Online) và 1.000k (Offline)\n\n### Ưu đãi khi đăng ký nhóm:\n- **Nhóm từ 2-3 bạn**: Giảm 50k mỗi bạn cho mỗi lớp (0, 1, 2)\n- **Nhóm từ 4 bạn trở lên**: Giảm 100k mỗi bạn cho mỗi lớp (0, 1, 2)\n- **Đóng trọn khóa (lớp 0, 1, 2 hoặc 1, 2)**: Giảm thêm 100k\n\n### Ví dụ về tính học phí:\n- **Nhóm 2 bạn**:\n  - Bạn 1 học lớp 0, 1, 2 online: 1.650k\n  - Bạn 2 học lớp 1, 2 online: 1.300k\n  - **Tổng học phí**: 2.950k\n\n- **Nhóm 4 bạn**:\n  - 2 bạn học lớp 1 online và lớp 2 offline: 1.300k mỗi bạn\n  - 2 bạn học lớp 0 online, lớp 1 online, và lớp 2 offline: 1.600k mỗi bạn\n  - **Tổng học phí**: 5.800k\n\n### Liên hệ:\n- **Địa chỉ**: Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n- **Hotline**: 0967 960 670 (zalo)\n- **Facebook**: [Cô Sao Thầy Bảo](https://www.facebook.com/CoSaoThayBao.Toeic)\n- **YouTube**: [Cô Sao Thầy Bảo](https://www.youtube.com/channel/UCwpyEIdA2eSGOUYFMqizvYw)\n\nBạn có thể tham khảo thêm chi tiết và đăng ký tại [Lộ Trình TOEIC 2 Kỹ Năng](https://toeiccosaothaybao.com/lo-trinh-toeic-2-ky-nang-nghe-doc/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T09:11:16.628182",
+                    "message": "lớp 2 đang có các lịch nào?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T09:11:27.403973",
+                    "message": "Lớp 2 - Giải Đề tại TOEIC Cô Sao Thầy Bảo hiện có các lịch học sau:\n\n1. **Thứ 7 và Chủ Nhật (10h00 - 11h30)**: Khai giảng ngày 18/08\n2. **Thứ 3, Thứ 5, Thứ 7 (19h30 - 21h00)**: Khai giảng ngày 05/09\n3. **Thứ 2, Thứ 4, Thứ 6 (19h30 - 21h00)**: Khai giảng ngày 13/09\n4. **Thứ 2, Thứ 4, Thứ 6 (17h55 - 19h25)**: Khai giảng ngày 02/10\n5. **Thứ 7 và Chủ Nhật (08h30 - 10h00)**: Khai giảng ngày 20/10\n6. **Thứ 2, Thứ 4, Thứ 6 (19h30 - 21h00)**: Khai giảng ngày 21/10\n7. **Thứ 2, Thứ 4, Thứ 6 (17h55 - 19h25)**: Khai giảng ngày 28/10\n\n### Học phí:\n- **Offline**: 1.000k\n- **Online**: 900k\n- **Thời lượng**: 15 buổi\n\n### Đăng ký:\n- [Đăng ký học thử](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform)\n\n### Ưu đãi:\n- **Nhóm từ 2 trở lên**: Giảm 50k mỗi bạn\n- **Nhóm từ 4 trở lên**: Giảm 100k mỗi bạn\n- **Đóng trọn khóa**: Giảm thêm 100k\n\nBạn có thể tham khảo thêm chi tiết và đăng ký tại [Lịch Khai Giảng](https://toeiccosaothaybao.com/lich-kg/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "5f650308-3c21-4726-abc2-8049efa30f16",
+            "timestamp": "2024-08-30T09:10:52.068175"
+        },
+        "5fbd0470-5a1e-4cea-a2b1-ff8ea4e7b31c": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T08:21:06.407910",
+                    "message": "lộ trình học toeic 2 kỹ năng",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:21:20.556308",
+                    "message": "Lộ trình học TOEIC 2 kỹ năng (Nghe và Đọc) tại trung tâm TOEIC Cô Sao Thầy Bảo được thiết kế để giúp học viên đạt được mục tiêu điểm số mong muốn. Dưới đây là chi tiết về các khóa học:\n\n### Các Lớp Học\n1. **Lớp 0 - Mất Gốc**\n   - **Số buổi học:** 9 buổi\n   - **Học phí:** 400k (Online) / 500k (Offline)\n\n2. **Lớp 1 - Căn Bản**\n   - **Số buổi học:** 12 buổi\n   - **Học phí:** 600k (Online) / 700k (Offline)\n\n3. **Lớp 2 - Giải Đề**\n   - **Số buổi học:** 15 buổi\n   - **Học phí:** 900k (Online) / 1.000k (Offline)\n\n### Ưu Đãi\n- **Đăng ký nhóm từ 2-3 bạn:** Giảm 50k mỗi bạn cho mỗi lớp.\n- **Đăng ký nhóm từ 4 bạn trở lên:** Giảm 100k mỗi bạn cho mỗi lớp.\n- **Đăng ký trọn khóa (bao gồm lớp 0, 1, 2 hoặc 1, 2):** Giảm thêm 100k.\n\n### Cam Kết\n- Học lại miễn phí nếu không đạt mục tiêu điểm số.\n\n### Đăng Ký\n- Học viên có thể đăng ký học thử miễn phí và đóng học phí sau nếu phù hợp.\n\n### Liên Hệ\n- **Địa chỉ:** Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n- **Hotline:** 0967 960 670 (zalo)\n- **Facebook:** [Cô Sao Thầy Bảo](https://www.facebook.com/CoSaoThayBao.Toeic)\n- **YouTube:** [Cô Sao Thầy Bảo](https://www.youtube.com/channel/UCwpyEIdA2eSGOUYFMqizvYw)\n\nBạn có thể tham khảo thêm chi tiết về lộ trình học TOEIC 2 kỹ năng tại [đây](https://toeiccosaothaybao.com/lo-trinh-toeic-2-ky-nang-nghe-doc/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T08:21:33.614919",
+                    "message": "'mình muốn đăng ký lớp 1",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:21:37.932697",
+                    "message": "Để đăng ký lớp 1 - Căn Bản, bạn có thể làm theo các bước sau:\n\n### Bước 1: Liên Hệ Đăng Ký\n- **Hotline:** 0967 960 670 (zalo)\n- **Facebook:** [Cô Sao Thầy Bảo](https://www.facebook.com/CoSaoThayBao.Toeic)\n\n### Bước 2: Thông Tin Lớp Học\n- **Số buổi học:** 12 buổi\n- **Học phí:** 600k (Online) / 700k (Offline)\n\n### Bước 3: Ưu Đãi\n- Nếu bạn đăng ký nhóm từ 2-3 bạn, mỗi bạn sẽ được giảm 50k.\n- Nếu bạn đăng ký nhóm từ 4 bạn trở lên, mỗi bạn sẽ được giảm 100k.\n- Nếu bạn đăng ký trọn khóa (bao gồm lớp 0, 1, 2 hoặc 1, 2), bạn sẽ được giảm thêm 100k.\n\n### Bước 4: Đăng Ký Học Thử\n- Bạn có thể đăng ký học thử miễn phí và đóng học phí sau nếu phù hợp.\n\n### Địa Chỉ Trung Tâm\n- **Địa chỉ:** Tầng Lửng, Khu B2, chung cư Hòa Bình, hẻm 666 (200m), Đường 3/2, P.14 Q.10, TP.HCM.\n\nNếu bạn cần thêm thông tin chi tiết hoặc hỗ trợ, hãy liên hệ qua hotline hoặc Facebook của trung tâm. Chúc bạn học tốt và đạt được mục tiêu điểm số mong muốn!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T08:21:54.689444",
+                    "message": "lớp 1 đang có những lịch nào?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:22:04.137492",
+                    "message": "### Lịch Học Lớp 1 - Căn Bản\n\nDưới đây là các lịch học hiện tại cho lớp 1 - Căn Bản:\n\n1. **Lớp 246 (17h55 - 19h25)**\n   - **Ngày khai giảng:** 04/09, 23/09, 30/09\n\n2. **Lớp T7CN (08h30 - 10h00)**\n   - **Ngày khai giảng:** 08/09\n\n3. **Lớp 246 (19h30 - 21h00)**\n   - **Ngày khai giảng:** 23/09\n\n4. **Lớp 357 (17h55 - 19h25)**\n   - **Ngày khai giảng:** 08/10\n\n### Học Phí\n- **Online:** 600k\n- **Offline:** 700k\n\n### Ưu Đãi\n- **Đăng ký nhóm từ 2-3 bạn:** Giảm 50k mỗi bạn.\n- **Đăng ký nhóm từ 4 bạn trở lên:** Giảm 100k mỗi bạn.\n- **Đăng ký trọn khóa (bao gồm lớp 0, 1, 2 hoặc 1, 2):** Giảm thêm 100k.\n\n### Đăng Ký\n- Bạn có thể đăng ký học thử miễn phí và đóng học phí sau nếu phù hợp.\n\n### Liên Hệ\n- **Hotline:** 0967 960 670 (zalo)\n- **Facebook:** [Cô Sao Thầy Bảo](https://www.facebook.com/CoSaoThayBao.Toeic)\n\nBạn có thể đăng ký trực tiếp qua [form đăng ký](https://docs.google.com/forms/d/e/1FAIpQLScsKi9Ahd8h3MTUO1rc30PVyKPcU47nXBGxngB4F8ir1iFXeQ/viewform).\n\nChúc bạn học tốt và đạt được mục tiêu điểm số mong muốn!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T16:35:33.958569",
+                    "message": "xin các lịch khai giảng lớp 2",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T16:35:43.589382",
+                    "message": "### Lịch Khai Giảng Lớp 2 - Luyện Đề\n\nDưới đây là các lịch khai giảng hiện tại cho lớp 2 - Luyện Đề:\n\n1. **Lớp 357 (19h30 - 21h00)**\n   - **Ngày khai giảng:** 05/09\n\n2. **Lớp 246 (19h30 - 21h00)**\n   - **Ngày khai giảng:** 13/09\n\n3. **Lớp 246 (17h55 - 19h25)**\n   - **Ngày khai giảng:** 02/10\n\n4. **Lớp T7CN (08h30 - 10h00)**\n   - **Ngày khai giảng:** 20/10\n\n5. **Lớp 246 (19h30 - 21h00)**\n   - **Ngày khai giảng:** 21/10\n\n6. **Lớp 246 (17h55 - 19h25)**\n   - **Ngày khai giảng:** 28/10\n\n### Học Phí\n- **Offline:** 1.000k\n- **Online:** 900k\n- **Số buổi học:** 15 buổi\n\n### Ưu Đãi\n- **Đăng ký nhóm từ 2-3 bạn:** Giảm 50k mỗi bạn.\n- **Đăng ký nhóm từ 4 bạn trở lên:** Giảm 100k mỗi bạn.\n- **Đăng ký trọn khóa (bao gồm lớp 0, 1, 2 hoặc 1, 2):** Giảm thêm 100k.\n\n### Đăng Ký\n- Bạn có thể đăng ký học thử miễn phí và đóng học phí sau nếu phù hợp.\n\n### Liên Hệ\n- **Hotline:** 0967 960 670 (zalo)\n- **Facebook:** [Cô Sao Thầy Bảo](https://www.facebook.com/CoSaoThayBao.Toeic)\n\nBạn có thể đăng ký trực tiếp qua [form đăng ký](https://docs.google.com/forms/d/e/1FAIpQLSchbm8s-jaPBKzRtfovz8l7rkH0fcRgh9xuPi_XOkzxQLfobw/viewform).\n\nChúc bạn học tốt và đạt được mục tiêu điểm số mong muốn!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "5fbd0470-5a1e-4cea-a2b1-ff8ea4e7b31c",
+            "timestamp": "2024-09-05T08:21:06.407910"
+        }
+    }
+}

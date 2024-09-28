@@ -1,0 +1,51 @@
+{
+    "client_id": "c80ebffe-21ca-4f08-abfa-db7e03ce7c62",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "Anais",
+    "context_summary": "Nostrum Obarrio, a residential project in Panama City that features 243 modern apartments designed for a dynamic lifestyle. The development includes smart WiFi technology for enhanced comfort and security, as well as a commercial area with six retail spaces, all located in a prime area with convenient access to services and recreational facilities.",
+    "chat_sessions": {
+        "9194d8a3-4b5a-41ad-8066-4289e3871180": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T19:59:37.777226",
+                    "message": "Hello, what kind of properties do you have?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:59:47.062297",
+                    "message": "Nostrum Obarrio offers a variety of modern apartments and commercial spaces designed to fit a dynamic lifestyle. Here are the main types of properties available:\n\n### Residential Apartments\nNostrum Obarrio features 243 smart WiFi apartments with flexible, multi-use spaces and modern amenities. The apartments come in different models:\n\n1. **Fusion**\n   - Size: 47.60m² and 50.20m²\n   - Features: 2 bedrooms, 2 bathrooms, living-dining room, kitchen, and laundry area.\n   - [Virtual Tour](https://tour.renderator.com/nostrum_a2.html)\n\n2. **i-Fusion**\n   - Size: 47.95m² and 48.50m²\n   - Features: 2 bedrooms, 2 bathrooms, living-dining room, kitchen, and laundry area.\n   - [Virtual Tour](https://tour.renderator.com/nostrum_a1.html)\n\n3. **Dynamic**\n   - Size: 58.20m² and 60.25m²\n   - Features: 2 bedrooms, 2 bathrooms, living-dining room, kitchen, and laundry area.\n   - [Virtual Tour](https://tour.renderator.com/nostrum_b1.html)\n\n4. **i-Dynamic**\n   - Size: 58.20m² and 59.95m²\n   - Features: 2 bedrooms, 2 bathrooms, living-dining room, kitchen, and laundry area.\n   - [Virtual Tour](https://tour.renderator.com/nostrum_b1.html)\n\n5. **Sinergy**\n   - Size: 64.55m² and 64.60m²\n   - Features: 3 bedrooms, 2 bathrooms, living-dining room, kitchen, and laundry area.\n   - [Virtual Tour](https://tour.renderator.com/nostrum_c.html)\n\n### Commercial Spaces\nNostrum also offers commercial spaces ideal for businesses:\n- **6 commercial spaces** on 2 levels.\n- Sizes range from **16m² to 155m²**.\n- Located in a high-traffic area with easy access and ample parking.\n\n### Amenities\nNostrum provides a range of amenities to enhance the living experience:\n- **Social and Recreational Areas**: Family Room, Barbeque Zone, Rooftop Terrace, Sun Deck & Pool, Open Playground, Children's Place, Cinema Relax Room, War Room, Coworking & Games.\n- **Fitness and Activity Areas**: Swimming Lane Pool, Climbing Wall, All-Inclusive Gym, AR Spinning Gym.\n\n### Sustainability\nNostrum is recognized with the EDGE certification for sustainability, ensuring energy and water savings, and reduced energy in materials.\n\nFor more detailed information, you can explore the [Nostrum Apartments](https://www.nostrum.com.pa/apartamentos/) and [Nostrum Commercial Area](https://www.nostrum.com.pa/zona-comercial/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "9194d8a3-4b5a-41ad-8066-4289e3871180",
+            "timestamp": "2024-09-06T19:59:37.777226"
+        },
+        "b140f9ef-66b8-4421-b916-53950768a765": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-07T00:09:45.012648",
+                    "message": "Hola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T00:09:45.625854",
+                    "message": "¡Hola! ¿En qué puedo ayudarte hoy?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T00:10:03.807928",
+                    "message": "Que tienes disponible",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T00:10:05.645207",
+                    "message": "¡Claro! Nostrum Obarrio es un proyecto residencial en la Ciudad de Panamá que cuenta con 243 apartamentos modernos diseñados para un estilo de vida dinámico. El desarrollo incluye tecnología inteligente WiFi para mayor comodidad y seguridad, así como un área comercial con seis espacios comerciales, todo ubicado en una zona privilegiada con acceso conveniente a servicios y áreas recreativas.\n\n¿Te gustaría saber más detalles sobre los apartamentos, las amenidades, o alguna otra información específica?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b140f9ef-66b8-4421-b916-53950768a765",
+            "timestamp": "2024-09-07T00:09:45.012648"
+        }
+    }
+}

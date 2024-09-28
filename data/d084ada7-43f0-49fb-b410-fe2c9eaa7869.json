@@ -1,0 +1,25 @@
+{
+    "client_id": "d084ada7-43f0-49fb-b410-fe2c9eaa7869",
+    "user_id": "973d5028-2360-4223-830e-e078682240a5",
+    "details": null,
+    "name": "Adrianne",
+    "context_summary": "Sussex Staffing Solutions, a healthcare staffing agency in East Sussex that specializes in supplying qualified nursing and support staff. The agency highlights its thorough recruitment process, which includes DBS checks and essential training, while also offering flexible working hours, competitive pay, and support for professional development.",
+    "chat_sessions": {
+        "170d0bdc-921b-4272-87bd-cb736af5ce01": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T06:40:40.740327",
+                    "message": "Please tell me what you do.",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T06:40:42.966699",
+                    "message": "I am here to assist you with any questions or needs you might have regarding Sussex's products and services. My role includes:\n\n- **Providing Information**: I can give you detailed and accurate information about the products and services offered by Sussex.\n- **Recommendations**: Based on your needs and preferences, I can suggest products or services that might interest you.\n- **Assistance with Purchases**: I can guide you through the checkout process to ensure a smooth and seamless purchase experience.\n- **Customer Support**: If I can't resolve your query, I can help escalate it to human support for further assistance.\n\nIs there something specific you would like to know or need help with today?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "170d0bdc-921b-4272-87bd-cb736af5ce01",
+            "timestamp": "2024-08-27T06:40:40.740327"
+        }
+    }
+}

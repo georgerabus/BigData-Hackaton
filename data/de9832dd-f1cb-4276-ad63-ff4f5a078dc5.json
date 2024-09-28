@@ -1,0 +1,41 @@
+{
+    "client_id": "de9832dd-f1cb-4276-ad63-ff4f5a078dc5",
+    "user_id": "52e80356-51da-42f2-940f-31252171b291",
+    "details": null,
+    "name": "Autumn",
+    "context_summary": "The Fineguide platform, which enables businesses to create AI chat assistants for their websites to improve customer interaction and support. It outlines the various pricing plans available, including a free option, and highlights features such as customizable assistants powered by advanced AI models. The platform is designed for ease of use, requiring no coding skills, and offers functionalities like 24/7 customer support, information retrieval, and lead generation.",
+    "chat_sessions": {
+        "98e93c31-4ad7-42a8-bd0d-545bebdadb4b": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-21T13:39:14.013100",
+                    "message": "hi",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T13:39:15.484417",
+                    "message": "Hello there! How can I assist you today? 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-21T14:04:19.966228",
+                    "message": "hey",
+                    "role": "user"
+                }
+            ],
+            "session_id": "98e93c31-4ad7-42a8-bd0d-545bebdadb4b",
+            "timestamp": "2024-07-21T13:39:14.013100"
+        },
+        "00c5effd-25f9-4a98-af22-5db61f2aa9a5": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-21T14:04:20.201688",
+                    "message": "hello?",
+                    "role": "user"
+                }
+            ],
+            "session_id": "00c5effd-25f9-4a98-af22-5db61f2aa9a5",
+            "timestamp": "2024-07-21T14:04:20.201688"
+        }
+    }
+}

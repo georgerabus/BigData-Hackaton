@@ -1,0 +1,35 @@
+{
+    "client_id": "1a9dfff8-9baa-4202-8364-1660b9641c60",
+    "user_id": "f9971f29-c409-4ca8-964b-23a10a70a5a9",
+    "details": null,
+    "name": "Zachary",
+    "context_summary": "A wide range of skincare and cosmetic products, primarily focusing on their ingredients, benefits, and recommended usage for various skin types and concerns. Key topics include moisturizers, serums, masks, and makeup items, with an emphasis on hydrating, anti-aging, and soothing properties, often featuring natural and vegan formulations suitable for sensitive skin. Detailed application instructions and safety precautions are included to ensure effective and safe use.",
+    "chat_sessions": {
+        "92df6235-a4cc-4e7e-90fc-cfb3ac4aaa68": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-15T12:45:06.469282",
+                    "message": "Cześć chciałbym zobaczyć link do jakiegoś podkładu z spf",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-15T12:45:07.905668",
+                    "message": "Cześć! Aby lepiej Ci pomóc, proszę sprecyzuj, czy masz na myśli konkretną markę lub rodzaj podkładu (na przykład matujący, nawilżający, kryjący)? Dzięki temu będę mógł znaleźć coś, co idealnie spełni Twoje oczekiwania.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-15T12:45:26.819571",
+                    "message": "Obojętne",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-15T12:45:38.592932",
+                    "message": "Oto kilka propozycji podkładów z SPF, które mogą Cię zainteresować:\n\n### 1. Moonshot - Conscious Fit Glow Cushion Foundation SPF40/PA++\n- **Opis**: Podkład w poduszce o rozświetlającym wykończeniu.\n- **Cena**: 99,00 zł\n- **Link**: [Moonshot Conscious Fit Glow Cushion Foundation SPF40/PA++](https://cosibella.pl/pl/products/moonshot-20806)\n- ![Moonshot](https://cosibella.pl/pol_pm_Moonshot-Conscious-Fit-Glow-Cushion-Foundation-SPF40-PA-Rozswietlajacy-Podklad-w-Poduszce-21N-Cosmic-Vanilla-12g-20806_3.webp)\n\n### 2. Elever Cosmetics - Supreme Skin SPF50+ Lekki Podkład z Filtrem\n- **Opis**: Podkład o lekkiej formule i satynowym wykończeniu, z wysokim stopniem krycia.\n- **Cena**: 170,00 zł\n- **Link**: [Elever Cosmetics Supreme Skin SPF50+](https://cosibella.pl/pl/products/elever-cosmetics-18116)\n- ![Elever Cosmetics](https://cosibella.pl/pol_pm_Elever-Cosmetics-Supreme-Skin-SPF50-Lekki-Podklad-z-Filtrem-Beige-30ml-18116_1.webp)\n\n### 3. Unleashia - Babe Skin Baby Blue Cushion SPF 40 PA++\n- **Opis**: Bezzapachowy podkład w poduszce, idealny dla skóry tłustej i mieszanej, z półmatowym wykończeniem.\n- **Cena**: 79,00 zł\n- **Link**: [Unleashia Babe Skin Baby Blue Cushion SPF 40 PA++](https://cosibella.pl/pl/products/unleashia-21189)\n- ![Unleashia](https://cosibella.pl/pol_pm_Unleashia-Babe-Skin-Baby-Blue-Cushion-SPF-40-PA-Podklad-w-Poduszce-25N-Good-Night-15g-21189_5.webp)\n\n### 4. Amuse - Dew Jelly Vegan Cushion SPF 38 PA++\n- **Opis**: Podkład o żelowej konsystencji w poduszce, wegański.\n- **Cena**: 173,46 zł\n- **Link**: [Amuse Dew Jelly Vegan Cushion SPF 38 PA++](https://cosibella.pl/pl/products/amuse-17346)\n- ![Amuse](https://cosibella.pl/pol_pm_Amuse-Dew-Jelly-Vegan-Cushion-SPF-38-PA-Podklad-o-Zelowej-Konsystencji-w-Poduszce-01-Soonsoo-15g-17346_1.webp)\n\nMam nadzieję, że te propozycje przypadną Ci do gustu! Jeśli masz jakieś dodatkowe pytania, daj mi znać.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "92df6235-a4cc-4e7e-90fc-cfb3ac4aaa68",
+            "timestamp": "2024-09-15T12:45:06.469282"
+        }
+    }
+}

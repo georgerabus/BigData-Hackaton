@@ -1,0 +1,95 @@
+{
+    "client_id": "2a990775-661a-4fed-a590-46e4f9cdaf54",
+    "user_id": "a90dd01f-df1a-4cb1-b215-fce413978708",
+    "details": null,
+    "name": "robodog2",
+    "context_summary": "AseguraTuPeludo, a pet health insurance service in Colombia that covers veterinary expenses, third-party liability, and offers additional services such as teleconsultation and emergency care. The insurance plans are flexible, with various coverage options for preventive care, hospitalization, and specialized treatments, allowing customers to quote and purchase insurance online for their pets' lifelong medical needs.",
+    "chat_sessions": {
+        "3d85fa4a-5245-4151-94cb-b469fc31cd1d": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-22T13:54:13.077180",
+                    "message": "hola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:54:13.762082",
+                    "message": "¡Hola! ¿Cómo estás? ¿En qué puedo ayudarte hoy?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:54:21.789236",
+                    "message": "quiero saber del seguro de masctoas",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:54:23.164720",
+                    "message": "¡Claro! En **aseguratupeludo.com** tenemos el mejor seguro de mascotas de Colombia. ¿Estás en Bogotá, Chía, Cajicá, Medellín, Bello, Itagüí, Envigado o Cali?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:54:28.809089",
+                    "message": "si",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:54:29.968760",
+                    "message": "¡Perfecto! <b>¿Cuál es la edad de tu mascota?</b>\n\n1. Menos de 4 meses\n2. Entre 4 meses y 7 años\n3. Entre 8 y 9 años\n4. Más de 9 años",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:54:38.486638",
+                    "message": "3",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:54:40.797093",
+                    "message": "Para mascotas entre 8 y 9 años, te ofrecemos el **Seguro Mascotas SURA (nacional)**. Este seguro proporciona una cobertura amplia y te da acceso a una red de veterinarios calificados para asegurar el bienestar de tu mascota.\n\nTe invito a que elijas tu ciudad y hagas clic en el botón naranja que dice: **\"Cotiza y solicita tu seguro\"** para obtener más información y realizar la solicitud. \n\nRecuerda que tener un seguro para tu mascota te brinda tranquilidad y protege a tu peludo ante cualquier emergencia veterinaria.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:55:35.843648",
+                    "message": "porque",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:55:38.128716",
+                    "message": "Entiendo que quieras conocer más sobre los beneficios de asegurar a tu mascota. Aquí te doy tres razones clave:\n\n1. **Cobertura amplia ante emergencias**: Con el Seguro Mascotas SURA, tu mascota estará protegida en caso de emergencias veterinarias, lo que te permitirá acceder a tratamientos y cuidados necesarios sin preocuparte por los altos costos.\n   \n2. **Acceso a veterinarios calificados**: Tendrás acceso a una red de veterinarios y clínicas especializadas que aseguran la mejor atención para tu mascota, garantizando que esté en manos expertas en todo momento.\n\n3. **Tranquilidad y seguridad**: Saber que tu mascota está protegida te brinda tranquilidad. Podrás disfrutar de su compañía sin estar preocupado por posibles gastos imprevistos en caso de enfermedades o accidentes.\n\nNo olvides elegir tu ciudad y hacer clic en el botón naranja que dice: **\"Cotiza y solicita tu seguro\"** para comenzar el proceso de aseguramiento.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T16:32:55.487402",
+                    "message": "hola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T16:32:56.210172",
+                    "message": "¡Hola de nuevo! ¿En qué más puedo ayudarte hoy?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T16:33:03.069450",
+                    "message": "que es el seguro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T16:33:11.690880",
+                    "message": "El **Seguro de Mascotas SURA** es una protección integral diseñada para cubrir varios aspectos de la vida de tu mascota. Aquí te explico en detalle sus principales características y beneficios:\n\n### Coberturas Principales\n1. **Gastos Veterinarios**: Cubre consultas médicas veterinarias, hospitalización, ayudas diagnósticas, exámenes de laboratorio y medicamentos en caso de accidentes o enfermedades.\n2. **Responsabilidad Civil**: Cubre los daños materiales y lesiones personales que tu mascota pueda causar a terceros, cumpliendo con los requisitos legales para algunas razas.\n3. **Gastos de Búsqueda**: En caso de que tu mascota se pierda o sea robada, SURA te reembolsará los gastos incurridos en su búsqueda.\n4. **Gastos Exequiales**: Cubre los gastos de cremación o servicio exequial en caso de fallecimiento de tu mascota.\n\n### Asistencias Incluidas\n- **Refuerzo Antirrábico Anual**: Servicio de vacunación anual contra la rabia.\n- **Guardería**: En caso de hospitalización o viaje del dueño.\n- **Paseador Canino**: Servicio de paseo para tu mascota.\n- **Baño para la Mascota**: Servicio de baño no medicado.\n- **Entrega de Medicamentos a Domicilio**: En caso de necesidad post-cirugía o accidente.\n- **Orientación Nutricional y Psicológica**: Asesoría especializada en alimentación y apoyo emocional en caso de pérdida de la mascota.\n\n### Ventajas del Seguro\n1. **Cobertura Amplia y Flexible**: Desde gastos veterinarios hasta responsabilidades civiles, asegurando que tanto tú como tu mascota estén protegidos en múltiples escenarios.\n2. **Acceso a Veterinarios Calificados**: Una red de profesionales y clínicas especializadas que garantizan la mejor atención para tu mascota.\n3. **Tranquilidad y Seguridad**: La certeza de que tu mascota está cubierta ante emergencias, evitando gastos imprevistos y asegurando la mejor atención posible.\n\n### Recomendación\nEs importante asegurar a tu mascota lo antes posible para estar preparado ante cualquier eventualidad. Puedes cotizar y solicitar tu seguro fácilmente en nuestro sitio web **aseguratupeludo.com**.\n\nNo dudes en dar clic en el botón naranja que dice: **\"Cotiza y solicita tu seguro\"** para empezar el proceso y darle a tu mascota la protección que merece.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T16:33:18.045997",
+                    "message": "cuanto cuesta",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T16:33:28.234618",
+                    "message": "El costo del seguro de mascotas SURA puede variar dependiendo del plan que elijas y de la cobertura que necesites para tu mascota. Aquí te presento un resumen de las opciones disponibles:\n\n### Planes y Coberturas\n1. **Esencial**\n   - **Cobertura**: hasta $1,500,000 en gastos veterinarios.\n   - **Servicios**: Atención de urgencias, hospitalización, consulta por enfermedad, cirugías, eutanasia, consulta domiciliaria (únicamente para gatos).\n   \n2. **Clásico**\n   - **Cobertura**: hasta $3,500,000 en gastos veterinarios.\n   - **Servicios**: Incluye todos los del plan Esencial más consulta por especialista, laboratorio ambulatorio, rayos X y ecografía ambulatoria.\n   \n3. **Global**\n   - **Cobertura**: hasta $6,000,000 en gastos veterinarios.\n   - **Servicios**: Incluye todos los del plan Clásico más resonancia, tomografía, profilaxis dental, esterilización, entre otros.\n\n### Asistencias Incluidas\n- **Básicas**: Refuerzo antirrábico anual, guardería en caso de hospitalización o viaje del dueño, paseador canino, baño para la mascota, informes de vacunas, asistencia legal por daños a terceros, orientación nutricional veterinaria telefónica, entrega de medicamentos a domicilio, orientación psicológica telefónica por fallecimiento de la mascota, referencia y coordinación de servicios para la mascota.\n- **Clásicas**: Incluyen todas las asistencias básicas más pipeta antipulgas y traslado de mascota por emergencia.\n- **Globales**: Incluyen todas las asistencias clásicas más esterilización, urgencia dental para la mascota, refuerzo de vacuna hexavalente anual (canino).\n\n### Precios\nEl precio específico depende de varios factores, incluidos la edad de la mascota, su estado de salud y la ciudad en la que te encuentres. Para obtener una cotización precisa y personalizada, te invito a que elijas tu ciudad y hagas clic en el botón naranja que dice **\"Cotiza y solicita tu seguro\"** en [aseguratupeludo.com](https://aseguratupeludo.com).\n\n### Ventajas de Contratar el Seguro\n1. **Protección Integral**: Cubre desde emergencias veterinarias hasta daños a terceros, asegurando una protección completa para tu mascota y tranquilidad para ti.\n2. **Acceso a Servicios Veterinarios**: Acceso a una red de veterinarios y clínicas especializadas que garantizan la mejor atención para tu mascota.\n3. **Asistencias Adicionales**: Servicios como guardería, paseador canino, y orientación psicológica, entre otros, que mejoran el bienestar de tu mascota y facilitan tu vida diaria.\n\nNo dudes en cotizar para conocer el precio exacto según las necesidades de tu mascota.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "3d85fa4a-5245-4151-94cb-b469fc31cd1d",
+            "timestamp": "2024-09-22T13:54:13.077180"
+        }
+    }
+}

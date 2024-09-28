@@ -1,0 +1,485 @@
+{
+    "client_id": "8be8885f-9d5f-4750-b30e-9b5f719d9819",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "Maia",
+    "context_summary": "Danrricos Solutions, which offers services to enhance online presence and content creation. Key offerings include a YouTube growth course, custom AI solutions for businesses, and advanced AI-driven image generation tools, all aimed at empowering creators and businesses through audience engagement strategies, video optimization, and improved marketing efforts.",
+    "chat_sessions": {
+        "2b02294c-1288-4ac0-ae5a-812edc19763a": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-04T04:03:09.353947",
+                    "message": "Hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:03:09.356923",
+                    "message": "Hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:03:10.133787",
+                    "message": "Hello there! 👋 I'm Helinai, your friendly AI assistant from Danrricos AI Solutions. How can I assist you today? And may I know your name to personalize our conversation?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:03:25.514209",
+                    "message": "what is Danrricos",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:03:25.517179",
+                    "message": "what is Danrricos",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:03:26.455025",
+                    "message": "Danrricos AI Solutions is a company specializing in marketing and AI solutions. We focus on optimizing marketing strategies by leveraging advanced AI technologies to analyze customer behavior patterns, predict future trends, and enhance overall business performance.\n\nHow can I assist you with your marketing or AI needs today? And may I have your name to personalize our conversation?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:04:03.556874",
+                    "message": "Tom Donald is my name",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:04:03.559705",
+                    "message": "Tom Donald is my name",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:04:04.334348",
+                    "message": "Nice to meet you, Tom! 😊 How can I assist you today? Are you looking for information on how AI can enhance your marketing strategies, or do you have a specific question in mind?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:04:35.298051",
+                    "message": "do you offer chat bot like this for my business?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:04:35.300882",
+                    "message": "do you offer chat bot like this for my business?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:04:37.393038",
+                    "message": "Absolutely, Tom! At Danrricos AI Solutions, we offer advanced AI-powered chatbots tailored to meet the specific needs of your business. These chatbots can help enhance customer engagement, provide instant support, and even assist in driving sales by analyzing customer interactions and preferences.\n\nWould you like to know more about how our chatbots can be integrated into your business? And by the way, could I have your email or phone number for further assistance and follow-up?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:00.547181",
+                    "message": "yes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:00.550082",
+                    "message": "yes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:02.558300",
+                    "message": "Great! Our AI-powered chatbots can be customized to fit various business needs, from customer support to lead generation and beyond. Here are a few key features:\n\n1. **24/7 Customer Support**: Provide instant responses to customer inquiries at any time.\n2. **Personalized Interactions**: Tailor responses based on customer data and behavior.\n3. **Lead Generation**: Capture and qualify leads through engaging conversations.\n4. **Data Analysis**: Gain insights from customer interactions to improve your services.\n5. **Seamless Integration**: Easily integrate with your existing systems and platforms.\n\nWould you like to discuss specific features or have any particular requirements in mind? Also, could you please share your email or phone number so we can follow up with more detailed information and a personalized proposal?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:35.588717",
+                    "message": "danrrico@gmail.com and 847-886-4229",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:35.591802",
+                    "message": "danrrico@gmail.com and 847-886-4229",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:36.449952",
+                    "message": "Thank you, Tom! We'll make sure to follow up with more detailed information about our chatbot solutions.\n\nIs there anything specific you'd like to know about our chatbots or any other AI solutions we offer? Feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:57.743829",
+                    "message": "can I schedule an appointment?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:57.746747",
+                    "message": "can I schedule an appointment?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:05:58.666532",
+                    "message": "Absolutely, Tom! I'd be happy to help you schedule an appointment to discuss your needs in more detail.\n\nCould you please let me know your preferred date and time for the appointment? We'll do our best to accommodate your schedule.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:10.134331",
+                    "message": "tomorrow?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:10.137308",
+                    "message": "tomorrow?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:11.035477",
+                    "message": "Sure thing, Tom! We can schedule an appointment for tomorrow. Could you please specify a time that works best for you? This will help us ensure that we have the right expert available to discuss your needs.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:20.259139",
+                    "message": "2pm?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:20.262069",
+                    "message": "2pm?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:21.558971",
+                    "message": "Perfect, Tom! I've scheduled your appointment for tomorrow at 2 PM. We'll reach out to you at the provided email (danrrico@gmail.com) and phone number (847-886-4229) to confirm the details.\n\nIs there anything else I can assist you with today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:36.735104",
+                    "message": "no, thank you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:36.737254",
+                    "message": "no, thank you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T04:06:37.757499",
+                    "message": "You're welcome, Tom! It was great talking with you. If you have any more questions in the future, feel free to reach out. Have a wonderful day! 😊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2b02294c-1288-4ac0-ae5a-812edc19763a",
+            "timestamp": "2024-09-04T04:03:09.353947"
+        },
+        "cc8b3a59-7833-47c6-b65b-849a3b808e0e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-04T21:17:15.747189",
+                    "message": "can you schedule an appointment?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T21:17:17.268878",
+                    "message": "Sure, I can help you schedule an appointment. Please use the following link to book a time that works best for you:\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\"></iframe>]\n\nIf you need any further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "cc8b3a59-7833-47c6-b65b-849a3b808e0e",
+            "timestamp": "2024-09-04T21:17:15.747189"
+        },
+        "1654f075-ad99-4303-97fe-d0a60ff215a6": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-04T21:17:47.021133",
+                    "message": "hey, can I talk to Daniel?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T21:17:47.914707",
+                    "message": "Hi there! I'm Helinai, your virtual assistant. How can I assist you today? If you need to speak with Daniel, I can help arrange that. Could you please provide your name and a bit more detail about your request?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T21:17:59.688852",
+                    "message": "I'd like a meeting with him",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T21:18:00.542539",
+                    "message": "Got it! I can help you schedule a meeting with Daniel. Please provide your name and any preferred dates or times for the meeting. This will help us find a suitable slot for you.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "1654f075-ad99-4303-97fe-d0a60ff215a6",
+            "timestamp": "2024-09-04T21:17:47.021133"
+        },
+        "472587a3-f18e-4002-a261-950d0a054937": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-04T21:19:39.638732",
+                    "message": "can I talk to Daniel?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T21:19:40.760508",
+                    "message": "It sounds like you might be looking to speak with someone specific. Could you please provide more details about what you need help with? This way, I can assist you better or guide you to the right person.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T21:20:02.527474",
+                    "message": "I'd like to schedule a call",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T21:20:04.812336",
+                    "message": "Sure, I can help you schedule a call. Please use the following widget to pick a date and time that works best for you:\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nIf you have any other questions or need further assistance, feel free to let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "472587a3-f18e-4002-a261-950d0a054937",
+            "timestamp": "2024-09-04T21:19:39.638732"
+        },
+        "a79f2b01-d5bb-48a9-963d-e251c800224e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-07T06:51:11.698265",
+                    "message": "Can I book a call with Daniel?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T06:51:14.391699",
+                    "message": "Sure, you can book a call with Daniel using the appointment scheduling widget below. Just pick a date and time that works for you.\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nIf you need any further assistance, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T06:53:52.704581",
+                    "message": "Sweet",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T06:53:53.586470",
+                    "message": "I'm glad you found it helpful! If you have any other questions or need further assistance, feel free to let me know. By the way, can I have your email or phone number so we can follow up with more detailed information later?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T06:53:56.511318",
+                    "message": "Thank you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T06:53:57.285280",
+                    "message": "You're welcome! It was great assisting you. If you have any more questions or need further help in the future, don't hesitate to reach out. Have a fantastic day!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "a79f2b01-d5bb-48a9-963d-e251c800224e",
+            "timestamp": "2024-09-07T06:51:11.698265"
+        },
+        "be5d9817-7205-4d09-8436-3d020e4a174b": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-08T05:46:14.819059",
+                    "message": "can you tell me about your AI agent services?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-08T05:46:21.390102",
+                    "message": "Danrricos Solutions offers a range of AI agent services tailored to enhance business operations, particularly in the real estate sector. Here are some key offerings:\n\n### Custom AI Chatbot Business Installation\n- **Price:** $1,800 (one-time fee)\n- **Features:**\n  - Specialized AI agent for your business\n  - Database training\n  - Team training\n  - Blueprints\n  - Note: Does not include the monthly AI plan\n\n### Custom AI for Real Estate\n- **Monthly Plan:**\n  - **Price:** $540 per month\n  - **Features:**\n    - Customer response, lead generation, and internal use\n    - 24-hour assistant answering in over 25 languages\n    - Monthly training of AI\n    - Re-training based on error answers\n    - Captures important information for future contact\n    - Can book clients\n    - 1M Characters (Storage)\n    - AI Options: GPT-3.5, GPT-4 Turbo, GPT-4o\n    - $50 in AI Messages Monthly (option to buy more if needed)\n\n- **Yearly Plan:**\n  - **Price:** $3,888 per year (40% discount compared to monthly plan)\n  - **Features:**\n    - Everything included in the monthly plan\n\n### Benefits of AI Chatbots for Real Estate\n- **Instant Responses:** Provides real-time answers to customer inquiries.\n- **Enhanced User Experience:** Delivers precise information about listings, enhancing user experience.\n- **Time-Saving:** Eliminates the need for cumbersome search filters.\n- **Increased Engagement:** Keeps website visitors engaged with interactive and personalized conversations, leading to higher conversion rates.\n\n### Special Offer\n- Exclusive discount for the first 10 businesses to sign up.\n\n### Additional Services\n- **Custom Video Creation:** Tailored videos to meet unique requirements, including faceless videos, vertical videos, and avatar videos.\n- **Custom Avatar Creation:** Custom replica avatar with voice clone for personal use.\n- **Monthly and Yearly Plans:** Continuous content creation with various customization options.\n\nFor more detailed information or to schedule a consultation, you can visit their [website](https://www.danrricos.online/ai-plans-real-estate) or [book a consultation](https://www.danrricos.online/booking-calendar/15-min-meeting-daniel-ceo-1?referral=service_list_widget).\n\nWould you like to know more about any specific service or need assistance with something else?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-08T05:47:28.172287",
+                    "message": "How can I get a hold of Daniel?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-08T05:47:29.544664",
+                    "message": "You can schedule a meeting with Daniel, the CEO of Danrricos Solutions, through their online booking system. Here’s a direct link to book a 15-minute meeting:\n\n:tpx[<iframe src=\"https://www.danrricos.online/booking-calendar/15-min-meeting-daniel-ceo-1?referral=service_list_widget\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nFeel free to choose a convenient date and time for your meeting. If you need further assistance, let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "be5d9817-7205-4d09-8436-3d020e4a174b",
+            "timestamp": "2024-09-08T05:46:14.819059"
+        },
+        "bc7dd788-fadf-4de5-805b-0047cac347f7": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T15:33:57.723083",
+                    "message": "Can you help me create a webhook on my wix website?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T15:33:59.390681",
+                    "message": "It looks like your question is about creating a webhook on your Wix website, which is not directly related to the context of Danrricos AI Solutions. Therefore, I must invalidate the question.\n\nIf you have any questions related to marketing, AI solutions, or the services provided by Danrricos AI Solutions, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "bc7dd788-fadf-4de5-805b-0047cac347f7",
+            "timestamp": "2024-09-10T15:33:57.723083"
+        },
+        "ef62aea4-ab65-4713-9044-f90166073b8f": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T17:48:18.110018",
+                    "message": "What can you tell me about AIgnite?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T17:48:24.606199",
+                    "message": "AIgnite is a specialized service offered by Danrricos Solutions, focusing on leveraging artificial intelligence to enhance marketing strategies and online visibility. Here are some key aspects of AIgnite:\n\n1. **Custom AI Solutions**: AIgnite provides tailored AI tools designed to meet specific business needs, such as custom chatbots for real estate agencies, which can handle customer inquiries 24/7 in multiple languages.\n\n2. **Video Production**: AIgnite includes services for creating custom videos, including faceless, vertical, and avatar videos, to help businesses engage their audience effectively.\n\n3. **Social Media Management**: AIgnite offers comprehensive social media management packages, ensuring consistent and strategic content posting to boost engagement and reach.\n\n4. **SEO Optimization**: The service includes SEO strategies to improve online visibility and ensure content reaches the right audience.\n\n5. **YouTube Growth**: AIgnite provides a blueprint for YouTube growth, helping content creators optimize their channels and increase engagement.\n\n6. **AI-Driven Creativity**: AIgnite utilizes advanced AI models like Phoenix for image and video generation, providing users with high-quality, customizable creative outputs.\n\n7. **Enterprise Solutions**: AIgnite offers enterprise-level solutions, including custom AI models and tools for businesses to enhance their marketing and operational efficiency.\n\nFor more detailed information, you can visit [Danrricos Solutions](https://www.danrricossolutions.com/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "ef62aea4-ab65-4713-9044-f90166073b8f",
+            "timestamp": "2024-09-10T17:48:18.110018"
+        },
+        "fc591e1b-6493-4ffc-8852-a9d4a13682a2": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T21:16:02.141614",
+                    "message": "Hola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T21:16:03.080079",
+                    "message": "¡Hola! ¿Cómo estás? Soy Maia, tu asistente virtual de Danrricos AI Solutions. ¿En qué puedo ayudarte hoy?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-10T21:16:13.002377",
+                    "message": "Quiere una cita con daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T21:16:14.870012",
+                    "message": "¡Perfecto! Puedo ayudarte a programar una cita con Daniel. Por favor, utiliza el siguiente widget para seleccionar la fecha y hora que mejor te convenga:\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nSi necesitas algo más, no dudes en decírmelo.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "fc591e1b-6493-4ffc-8852-a9d4a13682a2",
+            "timestamp": "2024-09-10T21:16:02.141614"
+        },
+        "7692a39a-c514-4d91-a601-65d42ffdd2a6": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-13T17:32:06.639454",
+                    "message": "I'll like to schedule a call with Daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-13T17:32:08.824917",
+                    "message": "Sure, you can schedule a call with Daniel using the link below. Just pick a date and time that works best for you.\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "7692a39a-c514-4d91-a601-65d42ffdd2a6",
+            "timestamp": "2024-09-13T17:32:06.639454"
+        },
+        "7f260234-208a-47fc-9e8c-25ae98411f27": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-17T17:55:47.760336",
+                    "message": "I would like to schedule a call with Daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-17T17:55:51.966836",
+                    "message": "You can schedule a call with Daniel using the appointment scheduler below. Just pick a date and time that works best for you:\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nIf you need any further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "7f260234-208a-47fc-9e8c-25ae98411f27",
+            "timestamp": "2024-09-17T17:55:47.760336"
+        },
+        "f58e0685-6271-465a-9899-12db3064ba25": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-18T16:00:48.627788",
+                    "message": "I would like to schedule a call with Daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T16:00:50.597742",
+                    "message": "Sure! You can schedule a call with Daniel using the appointment widget below. Just pick a date and time that works best for you.\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f58e0685-6271-465a-9899-12db3064ba25",
+            "timestamp": "2024-09-18T16:00:48.627788"
+        },
+        "b01bf3e5-e5fe-4a6a-917c-a26a7e327610": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-18T16:35:37.161452",
+                    "message": "I would like to schedule a call with Daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T16:35:39.191935",
+                    "message": "Great! You can easily schedule a call with Daniel by selecting a suitable date and time using the appointment scheduling widget below:\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nLet me know if you need any further assistance!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b01bf3e5-e5fe-4a6a-917c-a26a7e327610",
+            "timestamp": "2024-09-18T16:35:37.161452"
+        },
+        "56366e5f-c466-4517-aa75-09bca5f75740": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-19T02:17:41.461206",
+                    "message": "I would like to schedule a call with Daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-19T02:17:44.071450",
+                    "message": "Sure, I'd be happy to help you schedule a call with Daniel. You can easily book an appointment using the calendar below:\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nIf you need any further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "56366e5f-c466-4517-aa75-09bca5f75740",
+            "timestamp": "2024-09-19T02:17:41.461206"
+        },
+        "dd173867-c946-4c19-8399-a1d50ec84ba7": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-23T18:56:16.599422",
+                    "message": "hey how are you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-23T18:56:17.962398",
+                    "message": "Hello! I'm doing great, thanks for asking. How can I assist you today? Are you interested in learning about AI solutions for marketing or perhaps something else?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-23T18:56:27.771136",
+                    "message": "I would like to schedule a meeting with Daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-23T18:56:31.068321",
+                    "message": "Great! You can schedule a meeting with Daniel using the link below. Just pick a date and time that works best for you:\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nIf you need any further assistance, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-23T18:57:06.899972",
+                    "message": "what kind of services do you offer?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-23T18:57:09.233100",
+                    "message": "At Danrricos AI Solutions, we offer a variety of services designed to help small and medium-sized businesses enhance their marketing efforts using AI technology. Here are some of the key services we provide:\n\n1. **Custom AI Chatbots**: We design and implement AI chatbots tailored to your business needs, improving customer engagement and support.\n\n2. **Video Production**: From scriptwriting to final edits, we handle all aspects of video production to create engaging content for your audience.\n\n3. **Social Media Management**: Our team manages your social media presence, creating and scheduling posts, and engaging with your audience to build a strong online presence.\n\n4. **Content Creation**: We develop high-quality content, including blog posts, articles, and multimedia, to attract and retain customers.\n\n5. **AI-Powered Analytics**: We use AI to analyze customer behavior and provide insights that help you make informed business decisions.\n\n6. **Marketing Strategy**: We combine human expertise with AI tools to develop effective marketing strategies that align with your business goals.\n\nWould you like more detailed information on any of these services?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "dd173867-c946-4c19-8399-a1d50ec84ba7",
+            "timestamp": "2024-09-23T18:56:16.599422"
+        },
+        "f2a1524c-28db-45b3-b563-5965f5b0195c": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-23T19:00:22.444309",
+                    "message": "I would like to schedule a call with Daniel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-23T19:00:24.850860",
+                    "message": "Great to hear that you want to schedule a call with Daniel! You can pick a date and time that works best for you using the appointment scheduling tool below:\n\n:tpx[<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uX_W_TbOTKqcBmBKWff-nwmREwO38GwNZzGPkFXgxILw1r1ecl1cgpD4e7c744Lnaj1E4B-mn?gv=true\" width=\"100%\" height=\"500\" style=\"background:#fff;\"></iframe>]\n\nIf you need further assistance or have any questions, feel free to let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f2a1524c-28db-45b3-b563-5965f5b0195c",
+            "timestamp": "2024-09-23T19:00:22.444309"
+        }
+    }
+}

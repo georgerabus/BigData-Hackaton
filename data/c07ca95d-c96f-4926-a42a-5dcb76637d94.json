@@ -1,0 +1,265 @@
+{
+    "client_id": "c07ca95d-c96f-4926-a42a-5dcb76637d94",
+    "user_id": "798a6a97-1e5f-45ba-ae1b-104134db2e87",
+    "details": null,
+    "name": "TechVillage",
+    "context_summary": "TechVillage, a three-day startup event scheduled for September 6-8, 2024, in Butuceni, Moldova. The event aims to connect 50 innovative startups with 50 investors through activities that combine business networking and cultural experiences, including pitch presentations and local culinary delights, all while promoting the Eastern European startup ecosystem and revitalizing rural heritage.",
+    "chat_sessions": {
+        "8d17c832-b7aa-41b2-ae51-d1c3afe07956": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T12:03:53.072261",
+                    "message": "what is techvillage?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T12:03:58.032342",
+                    "message": "TechVillage is a three-day unconference event scheduled for September 6-8, 2024, in Butuceni, Moldova. The event aims to foster meaningful relationships between investors and startup entrepreneurs in a rustic setting. Here are the key details:\n\n- **Location**: Butuceni, Moldova\n- **Dates**: September 6-8, 2024\n- **Purpose**: To connect 50 innovative startups with 50 investors through various activities that combine business networking and cultural experiences.\n- **Activities**: Pitch presentations, one-on-one sessions, village quests, wine tasting, traditional Moldovan cuisine, and more.\n- **Accommodation**: Authentic Moldovan country houses with modern conveniences.\n- **Organizers**: XY Partners and Technovator.\n\nThe event is designed to promote the Eastern European startup ecosystem and help revitalize rural heritage in Moldova. Participants will engage in both business and cultural activities, creating opportunities for deep conversations and lasting business connections.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "8d17c832-b7aa-41b2-ae51-d1c3afe07956",
+            "timestamp": "2024-09-06T12:03:53.072261"
+        },
+        "d2822bf0-4b88-4a1e-9b86-bc4e914ce361": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T18:34:54.701351",
+                    "message": "Who are the attendies?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:35:06.649323",
+                    "message": "The attendees of TechVillage 2024 include a mix of investors and startups. Here are some of the notable attendees:\n\n### Investors:\n- **Andrea T. Orlando** - Startup Wise Guys\n- **Vladimir Balaban** - Angel Investor\n- **Stella Jemna** - Country Representative for Moldova\n- **George Morosan** - Angel Investor\n- **Andrey Aydov** - Angel Investor\n- **Ruben Osipyan** - Science & Technology Angels Network (STAN)\n- **Alex Gibb** - Katalista Ventures\n- **Martin Klug** - Katalista Ventures\n- **Aleksander Tõnnisson** - Contriber Ventures\n- **Jaroslav Trojan** - N1 Ventures\n- **Daniel Hastik** - Tensor Ventures\n- **Stoyan Nedin** - Vitosha Venture Partners\n- **Rumen Iliev** - LAUNCHUB VC\n- **Cristian Negrutiu** - Sparking Capital\n- **Boris Esanu** - Impact X Ventures\n- **Andrei Gradinari** - Spooky House / Digital Idea\n- **Alexandru Machedon** - Angel Investor\n- **Anton Waschuk** - Ukraine Moldova American Enterprise Fund\n- **Natalia Kabajah** - Vintage Investment Partners\n\n### Startups:\n- **Alexandru Asimionese** - Co-Founder iAsig\n- **Sergiu Casu** - Co-founder, Oto\n- **Bogdan Sorin Babii** - CEO, unde.io\n- **Alexandr Vopilov** - Co-founder, Sirius\n- **Heorhii Akimov** - CEO, Scally Care\n- **Corneliu Maftuleac** - Founder, Fineguide.ai\n- **Mihai Dascal** - CEO, Baby Medy\n- **Sofi Shaposhnikova** - CEO and Founder, Hearify\n- **Oleg Vustenko** - Co-founder, Progalit\n- **Olesea Vascan** - Founder & CEO, Rocman\n- **Guzun Nicolae** - Co-founder, Sumboard\n- **Nicolai Opopol** - CPO & co-founder, ViarLive\n- **Nicoleta Buzulan** - Co-Founder & CEO, Empiriq\n- **Olesia Baliuk** - CEO, Sensters AI\n- **Artiom Mocrenco** - Managing Director, Hacktegic\n- **Pavlo Pikulin** - CEO, Deus Robotics\n- **Vitalii Petrosyan** - Founder, Langly\n- **Catalin Rusnac** - Owner, Replifactory\n- **Dorian Lesnic** - Founder & CEO, Cardneto\n\nThese attendees will be participating in various activities aimed at fostering business development, idea validation, and potential investment opportunities.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T18:36:42.617484",
+                    "message": "When’s the breakfast?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:36:46.671337",
+                    "message": "Breakfast at TechVillage 2024 is scheduled as follows:\n\n- **Day 2 (September 7, 2024)**: Breakfast at 08:00 AM\n- **Day 3 (September 8, 2024)**: Breakfast at 08:00 AM\n\nEnjoy the freshest local eggs, farm dairy, homemade bread, and the most flavorful organic fruits and vegetables!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T18:37:12.824752",
+                    "message": "When’s the lunch?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:37:17.069722",
+                    "message": "Lunch at TechVillage 2024 is scheduled as follows:\n\n- **Day 1 (September 6, 2024)**: Lunch at 12:30 PM at Eco Resort Butuceni, Șura Veche Hall\n- **Day 2 (September 7, 2024)**: Lunch at 13:30 PM at Eco Resort Butuceni, Șura Veche Hall\n- **Day 3 (September 8, 2024)**: Lunch at 13:30 PM at Epoca de Piatră, Brănești\n\nEnjoy the delicious local cuisine and take the opportunity to network with other attendees!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T18:38:02.706603",
+                    "message": "Where are the housing?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:38:07.999513",
+                    "message": "The housing for TechVillage 2024 is arranged in the village of Butuceni, Moldova. Here are the details:\n\n### Accommodation:\n- **Guesthouses**: Authentic Moldovan country houses decorated in traditional, rustic style but equipped with modern conveniences such as modern bathrooms, air conditioning, WiFi, and all necessary facilities.\n- **Cellars**: Most guesthouses have cellars full of house wine and sealed jars with homemade deliciousness, which are open to guests.\n\n### Location:\n- **Butuceni, Moldova**: A well-preserved village known for its unique landscapes and historical monuments, including the Orheiul Vechi (Old Orhei) complex.\n\nAll activities during TechVillage will take place in and around the village, providing a unique and immersive experience.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T18:39:32.297115",
+                    "message": "Who is catalin rusnac?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:39:33.475735",
+                    "message": "Catalin Rusnac is the owner of Replifactory, one of the startups attending TechVillage 2024. Replifactory is likely involved in innovative technology or business solutions, given the context of the event.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T18:40:19.834332",
+                    "message": "Who is nicolai opopol",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:40:20.845108",
+                    "message": "Nicolai Opopol is the Chief Product Officer (CPO) and co-founder of ViarLive, a startup attending TechVillage 2024. ViarLive is likely involved in innovative technology or business solutions, given the context of the event.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T18:41:00.526386",
+                    "message": "What is vivarlife?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:41:05.202884",
+                    "message": "ViarLive is a startup co-founded by Nicolai Opopol, who serves as the Chief Product Officer (CPO). The specific details about ViarLive's business focus or products are not provided in the available information. However, given the context of TechVillage 2024, it is likely that ViarLive is involved in innovative technology or business solutions.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T18:42:12.418407",
+                    "message": "What is ViarLive?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:42:16.657592",
+                    "message": "ViarLive is a startup co-founded by Nicolai Opopol, who serves as the Chief Product Officer (CPO). Unfortunately, the specific details about ViarLive's business focus or products are not provided in the available information. However, given the context of TechVillage 2024, it is likely that ViarLive is involved in innovative technology or business solutions.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T18:45:40.143840",
+                    "message": "When is the next event?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T18:45:44.772880",
+                    "message": "The next TechVillage event is scheduled to take place from **September 6 to September 8, 2024**, in Butuceni, Moldova. This three-day event will bring together 50 innovative startups and 50 investors for a unique blend of business networking and cultural experiences.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T06:38:07.378641",
+                    "message": "Contriber",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T06:38:12.571775",
+                    "message": "Contriber Ventures is one of the investment firms attending TechVillage 2024. Here are some details about Contriber Ventures and its involvement in the event:\n\n### Contriber Ventures:\n- **Representative**: Aleksander Tõnnisson\n- **Role**: Investor\n\n### TechVillage 2024:\n- **Event Dates**: September 6-8, 2024\n- **Location**: Butuceni, Moldova\n- **Purpose**: To build meaningful relationships between investors and startup entrepreneurs through a blend of business networking and cultural experiences.\n\nContriber Ventures, represented by Aleksander Tõnnisson, will be participating in various activities aimed at fostering business development, idea validation, and potential investment opportunities.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d2822bf0-4b88-4a1e-9b86-bc4e914ce361",
+            "timestamp": "2024-09-06T18:34:54.701351"
+        },
+        "2a54d3c8-a786-451e-9553-78e57d298a3a": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-07T06:34:43.162104",
+                    "message": "Heya",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T06:34:43.629058",
+                    "message": "Hey there! How can I assist you today? 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T06:34:51.913607",
+                    "message": "Tech village",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T06:34:52.608786",
+                    "message": "Sure thing! What would you like to know about TechVillage? Are you interested in the event details, the schedule, or something specific? Let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2a54d3c8-a786-451e-9553-78e57d298a3a",
+            "timestamp": "2024-09-07T06:34:43.162104"
+        },
+        "606b43d2-793c-4207-a45e-70a54e2cf2bb": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-07T07:38:46.458065",
+                    "message": "who is stoyan?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T07:38:49.276514",
+                    "message": "Stoyan Nedin is associated with Vitosha Venture Partners and is one of the investors attending TechVillage 2024.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T07:45:30.385524",
+                    "message": "can you schedule a call?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T07:45:31.412857",
+                    "message": "Sure, I can help you schedule a call. Please use the following link to book an appointment:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgcalendly?code=fineguide\" width=\"100%\" height=\"500\"></iframe>]\n\nFeel free to choose a time that works best for you!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "606b43d2-793c-4207-a45e-70a54e2cf2bb",
+            "timestamp": "2024-09-07T07:38:46.458065"
+        },
+        "7122bd5a-93c3-41e2-813c-609fd251d0e6": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-07T09:19:23.821286",
+                    "message": "Who is yaroslav?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T09:19:26.491970",
+                    "message": "Jaroslav Trojan is an investor attending TechVillage 2024. He is associated with N1 Ventures.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T09:19:33.674362",
+                    "message": "More details",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T09:19:37.134356",
+                    "message": "Jaroslav Trojan is an investor attending TechVillage 2024, representing N1 Ventures. He is one of the many investors participating in this unique event aimed at fostering connections between startups and investors in a rustic setting in Butuceni, Moldova. The event combines business networking with cultural experiences, including pitch presentations and local culinary delights, to promote the Eastern European startup ecosystem and support rural heritage.\n\nFor more details about the event and other participants, you can visit the [TechVillage website](https://techvillage.md/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T10:38:30.134638",
+                    "message": "Who are the investors?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T10:38:35.185479",
+                    "message": "Here are the investors attending TechVillage 2024:\n\n1. **Jaroslav Trojan** - N1 Ventures\n2. **Daniel Hastik** - Tensor Ventures\n3. **Stoyan Nedin** - Vitosha Venture Partners\n4. **Rumen Iliev** - LAUNCHUB VC\n5. **Cristian Negrutiu** - Sparking Capital\n6. **Boris Esanu** - Impact X Ventures\n7. **Andrei Gradinari** - Spooky House / Digital Idea\n8. **Alexandru Machedon** - Angel Investor\n9. **Anton Waschuk** - Ukraine Moldova American Enterprise Fund\n10. **Natalia Kabajah** - Vintage Investment Partners\n11. **Andrea T. Orlando** - Startup Wise Guys\n12. **Vladimir Balaban** - Angel Investor\n13. **Stella Jemna** - Country Representative for Moldova\n14. **George Morosan** - Angel Investor\n15. **Andrey Aydov** - Angel Investor\n16. **Ruben Osipyan** - Science & Technology Angels Network (STAN)\n17. **Alex Gibb** - Katalista Ventures\n18. **Martin Klug** - Katalista Ventures\n19. **Aleksander Tõnnisson** - Contriber Ventures\n\nThese investors will be participating in various activities, including pitch presentations and one-on-one sessions with startups, all set in the picturesque village of Butuceni, Moldova.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T12:20:51.504730",
+                    "message": "Who is rumen iliev?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T12:20:54.839148",
+                    "message": "Rumen Iliev is an investor attending TechVillage 2024, representing LAUNCHUB VC. LAUNCHUB Ventures is a leading early-stage venture capital fund based in Sofia, Bulgaria, investing in technology startups in the Seed and Series A stages across Europe. \n\nFor more details about the event and other participants, you can visit the [TechVillage website](https://techvillage.md/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T14:02:44.440181",
+                    "message": "Who is cristian?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T14:02:45.444038",
+                    "message": "Cristian Negrutiu is an investor attending TechVillage 2024, representing Sparking Capital. Sparking Capital is a venture capital firm that focuses on early-stage investments, particularly in technology startups. Cristian is one of the many investors participating in the event to connect with innovative startups and support the Eastern European startup ecosystem.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "7122bd5a-93c3-41e2-813c-609fd251d0e6",
+            "timestamp": "2024-09-07T09:19:23.821286"
+        },
+        "b3a826ee-bd6f-4490-bb45-e0252d406539": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-07T16:07:39.263090",
+                    "message": "Who is rumen iliev?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T16:07:42.257750",
+                    "message": "Rumen Iliev is associated with LAUNCHUB VC and is one of the investors attending TechVillage 2024.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T16:08:02.767703",
+                    "message": "More details?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T16:08:06.914179",
+                    "message": "Rumen Iliev is an investor associated with LAUNCHUB VC. He is one of the investors attending TechVillage 2024, an event designed to connect innovative startups with investors in a unique setting in Butuceni, Moldova. The event aims to foster meaningful relationships and promote the Eastern European startup ecosystem.\n\nFor more details about the event and other participants, you can visit the [TechVillage website](https://techvillage.md/).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b3a826ee-bd6f-4490-bb45-e0252d406539",
+            "timestamp": "2024-09-07T16:07:39.263090"
+        }
+    }
+}

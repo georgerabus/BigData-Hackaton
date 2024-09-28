@@ -1,0 +1,91 @@
+{
+    "client_id": "c35a3e4d-5867-4d0b-8f9b-8783c0c136a7",
+    "user_id": "94b78150-9821-48fc-b00b-bb0dface5d31",
+    "details": null,
+    "name": "Beto",
+    "context_summary": "The Universiti Pertahanan Nasional Malaysia (UPNM) and its active role in international defense collaborations, community service, and strategic educational initiatives. Key highlights include the launch of strategic directions for higher education in 2024, participation in national events, and involvement in flood relief efforts.",
+    "chat_sessions": {
+        "38a142f8-90c1-4970-a198-e247c5084173": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T04:30:47.451908",
+                    "message": "hi, what's happening in National Defence University of Malaysia?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T04:30:54.685781",
+                    "message": "Here's what's happening at the National Defence University of Malaysia (UPNM) recently:\n\n1. **Kunjungan Hormat Lumut Naval Shipyard (LUNAS)** - On August 21, 2024, UPNM received an official visit from Lumut Naval Shipyard.\n2. **Audit Pengawasan SPK Berasaskan Syariah** - On May 20-21, 2024, UPNM conducted a surveillance audit for the Shariah-based Quality Management System.\n3. **Hari Inovasi & Majlis Anugerah (HIMA) 2024** - On May 14, 2024, UPNM celebrated Innovation Day and the Awards Ceremony.\n4. **Program Collabsphere: ICP – The Government Value-Added Strategy** - On May 9, 2024, UPNM launched this program to enhance government strategies.\n5. **UPNM Menandatangani MoU Dan MoA Dengan Dua Rakan Strategik** - On May 9, 2024, UPNM signed MoUs and MoAs with strategic partners during the 18th Defence Services Asia Exhibition and Conference.\n6. **Majlis Sambutan Hari Raya Aidilfitri UPNM** - On April 30, 2024, UPNM celebrated Hari Raya Aidilfitri with its community.\n7. **Defence Security And Sustainability (DSS) 2024** - On April 25, 2024, UPNM held the closing ceremony for the DSS 2024 exhibition.\n\nFor more detailed updates, you can visit the [UPNM official website](https://www.upnm.edu.my/index.php/107-main/1812-arkib-buletin-all).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T04:59:17.159452",
+                    "message": "what's the 5 latest events happening in UPNM?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T04:59:24.666652",
+                    "message": "Here are the 5 latest events happening at the National Defence University of Malaysia (UPNM):\n\n1. **Kunjungan Hormat Lumut Naval Shipyard (LUNAS)** - On August 21, 2024, UPNM received an official visit from Lumut Naval Shipyard.\n2. **Kunjungan Hormat DA THAILAND Ke Atas NC UPNM** - On August 29, 2023, UPNM received a courtesy visit from Senior Col Nikom Tonginkaew, Defence Advisor of Thailand.\n3. **Sesi Bicara Tokoh Bersama Pengerusi LPU** - On August 28, 2023, a talk session with the Chairman of the University Board was held in conjunction with the Public University Administrators' Day.\n4. **Sambutan Meriah Warga UPNM Sertai Larian Sihat** - On August 25, 2023, UPNM organized a health run event as part of the pre-launch of the Public University Registrar's Day celebration.\n5. **Sambutan Hari Kebangsaan Peringkat UPNM 2023** - On August 24, 2023, UPNM celebrated National Day to foster patriotic spirit among its community.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "38a142f8-90c1-4970-a198-e247c5084173",
+            "timestamp": "2024-08-28T04:30:47.451908"
+        },
+        "e11d0201-0057-46b9-b42b-db74d4c14707": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T05:09:43.017572",
+                    "message": "what is the latest happening in universiti pertahanan nasional malaysia (UPNM)?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T05:09:49.732444",
+                    "message": "Berikut adalah beberapa perkembangan terkini di Universiti Pertahanan Nasional Malaysia (UPNM):\n\n1. **Kunjungan Hormat Lumut Naval Shipyard (LUNAS)** - Pada 21 Ogos 2024, UPNM menerima kunjungan hormat dari Lumut Naval Shipyard.\n\n2. **Lawatan Kerja Jawatankuasa Khas Penilaian Cadangan Penubuhan Universiti Al-Quran Malaysia, Jabatan Kemajuan Islam Malaysia (JAKIM)** - Pada 17 Januari 2024, UPNM menerima lawatan kerja daripada Jawatankuasa Khas Penilaian Cadangan Penubuhan Universiti Al-Quran Malaysia yang diketuai oleh Dr. Muhammad Razak bin Idris.\n\n3. **5 Fokus Utama, 20 Landasan Hala Tuju Kementerian Pendidikan Tinggi Tahun 2024** - Pada 12 Januari 2024, YB Dato' Seri Diraja Dr. Zambry Abd Kadir, Menteri Pendidikan Tinggi menyampaikan Landasan Hala Tuju Kementerian Pendidikan Tinggi Tahun 2024 di Dewan Tunku Canselor.\n\n4. **Lawatan Sambil Belajar daripada Saudi Armed Forces Command and Staff College** - Pada 10 Januari 2024, UPNM menerima lawatan sambil belajar daripada Saudi Armed Forces Command and Staff College yang diketuai oleh Maj Gen Mohammed Jadoua S Alruwaili.\n\nUntuk maklumat lanjut, anda boleh melayari laman web rasmi UPNM di [sini](https://www.upnm.edu.my/index.php/107-main/1812-arkib-buletin-all).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T05:10:33.977394",
+                    "message": "what is the latest happening in universiti pertahanan nasional malaysia (UPNM)?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T05:10:44.856240",
+                    "message": "Berikut adalah beberapa perkembangan terkini di Universiti Pertahanan Nasional Malaysia (UPNM):\n\n1. **Kunjungan Hormat Lumut Naval Shipyard (LUNAS)** - Pada 20 Ogos 2024, delegasi dari Lumut Naval Shipyard (LUNAS) yang diketuai oleh Ketua Strategi Korporat dan Pembangunan Perniagaan, Ir. Muhammad Hanif bin Muhammad, telah membuat kunjungan hormat ke UPNM.\n\n2. **Majlis Alumni Universiti Awam Malaysia** - Pada 17 Ogos 2024, UPNM menyandang Anugerah Alumni Muda Harapan 2024 dalam Majlis Alumni Universiti Awam Malaysia (MALUMNI) yang diadakan di Hotel Seri Pacific Kuala Lumpur.\n\n3. **Majlis Pelancaran Bulan Kebangsaan dan Kibar Jalur Gemilang Peringkat UPNM 2024** - Pada 15 Ogos 2024, warga UPNM bersama barisan Pengurusan Tertinggi Universiti memeriahkan majlis pelancaran ini di Dataran UPNM.\n\n4. **Majlis Penyerahan Bendera Kontinjen UPNM Ke Sukan Kakitangan Universiti Malaysia (SUKUM) Ke-45, 2024** - Pada 7 Ogos 2024, YBhg. Lt Jen Datuk Mardzuki bin Muhammad, Naib Canselor UPNM, menyempurnakan simbolik penyerahan bendera kepada Kontinjen UPNM.\n\n5. **Mesyuarat Majlis Ketua Pustakawan Universiti Awam (MKPUA) Bil.3/2024** - Pada 25 Julai 2024, UPNM menjadi hos bagi mesyuarat ini yang diadakan buat julung kalinya.\n\n6. **Sesi Pendaftaran Pelajar Baharu Program Asasi Pertahanan dan Diploma Sesi 2024/2025** - Pada 21 Julai 2024, sesi pendaftaran pelajar baharu diadakan dengan turut diadakan sesi taklimat khas oleh Naib Canselor UPNM.\n\n7. **Kuliah Dhuha Perdana “Hijrah: Erti Kehidupan Sebenar”** - Pada 8 Julai 2024, UPNM dengan kerjasama The Weststar Group mengadakan kuliah ini yang disampaikan oleh Profesor Dr. Ustaz Abdul Somad Batubara.\n\nUntuk maklumat lanjut, anda boleh melayari laman web rasmi UPNM di [sini](https://www.upnm.edu.my/index.php/107-main/1812-arkib-buletin-all).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T05:11:19.447797",
+                    "message": "whats the latest news on UPNM in the last few days?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T05:11:27.012013",
+                    "message": "Berikut adalah beberapa berita terkini mengenai Universiti Pertahanan Nasional Malaysia (UPNM) dalam beberapa hari terakhir:\n\n1. **Kunjungan Hormat Lumut Naval Shipyard (LUNAS)** - Pada 20 Ogos 2024, delegasi dari Lumut Naval Shipyard (LUNAS) yang diketuai oleh Ketua Strategi Korporat dan Pembangunan Perniagaan, Ir. Muhammad Hanif bin Muhammad, telah membuat kunjungan hormat ke UPNM.\n\n2. **Majlis Alumni Universiti Awam Malaysia** - Pada 17 Ogos 2024, UPNM menyandang Anugerah Alumni Muda Harapan 2024 dalam Majlis Alumni Universiti Awam Malaysia (MALUMNI) yang diadakan di Hotel Seri Pacific Kuala Lumpur.\n\n3. **Majlis Pelancaran Bulan Kebangsaan dan Kibar Jalur Gemilang Peringkat UPNM 2024** - Pada 15 Ogos 2024, warga UPNM bersama barisan Pengurusan Tertinggi Universiti memeriahkan majlis pelancaran ini di Dataran UPNM.\n\n4. **Majlis Penyerahan Bendera Kontinjen UPNM Ke Sukan Kakitangan Universiti Malaysia (SUKUM) Ke-45, 2024** - Pada 7 Ogos 2024, YBhg. Lt Jen Datuk Mardzuki bin Muhammad, Naib Canselor UPNM, menyempurnakan simbolik penyerahan bendera kepada Kontinjen UPNM.\n\nUntuk maklumat lanjut, anda boleh melayari laman web rasmi UPNM di [sini](https://www.upnm.edu.my/index.php/107-main/1812-arkib-buletin-all).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T05:11:57.721854",
+                    "message": "whats the latest news on UPNM from news articles?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T05:12:05.894805",
+                    "message": "Berikut adalah beberapa berita terkini mengenai Universiti Pertahanan Nasional Malaysia (UPNM) dari artikel berita:\n\n1. **Kunjungan Hormat Lumut Naval Shipyard (LUNAS)** - Pada 20 Ogos 2024, delegasi dari Lumut Naval Shipyard (LUNAS) yang diketuai oleh Ketua Strategi Korporat dan Pembangunan Perniagaan, Ir. Muhammad Hanif bin Muhammad, telah membuat kunjungan hormat ke UPNM.\n\n2. **Majlis Alumni Universiti Awam Malaysia** - Pada 17 Ogos 2024, UPNM menyandang Anugerah Alumni Muda Harapan 2024 dalam Majlis Alumni Universiti Awam Malaysia (MALUMNI) yang diadakan di Hotel Seri Pacific Kuala Lumpur.\n\n3. **Majlis Pelancaran Bulan Kebangsaan dan Kibar Jalur Gemilang Peringkat UPNM 2024** - Pada 15 Ogos 2024, warga UPNM bersama barisan Pengurusan Tertinggi Universiti memeriahkan majlis pelancaran ini di Dataran UPNM.\n\n4. **Majlis Penyerahan Bendera Kontinjen UPNM Ke Sukan Kakitangan Universiti Malaysia (SUKUM) Ke-45, 2024** - Pada 7 Ogos 2024, YBhg. Lt Jen Datuk Mardzuki bin Muhammad, Naib Canselor UPNM, menyempurnakan simbolik penyerahan bendera kepada Kontinjen UPNM.\n\nUntuk maklumat lanjut, anda boleh melayari laman web rasmi UPNM di [sini](https://www.upnm.edu.my/index.php/107-main/1812-arkib-buletin-all).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T05:16:48.136773",
+                    "message": "please pull the latest news on UPNM by browsing the web",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T05:16:55.957548",
+                    "message": "Berikut adalah beberapa berita terkini mengenai Universiti Pertahanan Nasional Malaysia (UPNM) dari artikel berita:\n\n1. **Kunjungan Hormat Lumut Naval Shipyard (LUNAS)** - Pada 20 Ogos 2024, delegasi dari Lumut Naval Shipyard (LUNAS) yang diketuai oleh Ketua Strategi Korporat dan Pembangunan Perniagaan, Ir. Muhammad Hanif bin Muhammad, telah membuat kunjungan hormat ke UPNM.\n\n2. **Majlis Alumni Universiti Awam Malaysia** - Pada 17 Ogos 2024, UPNM menyandang Anugerah Alumni Muda Harapan 2024 dalam Majlis Alumni Universiti Awam Malaysia (MALUMNI) yang diadakan di Hotel Seri Pacific Kuala Lumpur.\n\n3. **Majlis Pelancaran Bulan Kebangsaan dan Kibar Jalur Gemilang Peringkat UPNM 2024** - Pada 15 Ogos 2024, warga UPNM bersama barisan Pengurusan Tertinggi Universiti memeriahkan majlis pelancaran ini di Dataran UPNM.\n\n4. **Majlis Penyerahan Bendera Kontinjen UPNM Ke Sukan Kakitangan Universiti Malaysia (SUKUM) Ke-45, 2024** - Pada 7 Ogos 2024, YBhg. Lt Jen Datuk Mardzuki bin Muhammad, Naib Canselor UPNM, menyempurnakan simbolik penyerahan bendera kepada Kontinjen UPNM.\n\nUntuk maklumat lanjut, anda boleh melayari laman web rasmi UPNM di [sini](https://www.upnm.edu.my/index.php/107-main/1812-arkib-buletin-all).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e11d0201-0057-46b9-b42b-db74d4c14707",
+            "timestamp": "2024-08-28T05:09:43.017572"
+        }
+    }
+}

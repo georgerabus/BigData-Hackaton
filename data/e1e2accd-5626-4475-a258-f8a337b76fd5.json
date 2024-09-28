@@ -1,0 +1,45 @@
+{
+    "client_id": "e1e2accd-5626-4475-a258-f8a337b76fd5",
+    "user_id": "2f80fafa-3560-4f15-9600-ae86be79d4b9",
+    "details": null,
+    "name": "Darrel",
+    "context_summary": "Various upcoming events in Moldova, including networking events, hackathons, conferences, and workshops focused on technology, product management, and real estate. Key highlights include the Startup Networking Event for entrepreneurs and investors, the Deeptech GigaHack 2024 for tech specialists, and the Moldova Business Week 2024 connecting foreign investors with local entrepreneurs, along with educational opportunities like the Agile PMO Consultant Certification.",
+    "chat_sessions": {
+        "aff83b4f-3169-4c87-91d4-f383f39b701f": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-07T15:36:19.160318",
+                    "message": "What events can i visit next week?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T15:36:24.271599",
+                    "message": "Here are some events you can visit next week in Moldova:\n\n1. **Moldova Business Week 2024**\n   - **Venue:** Radisson Blu\n   - **Date:** September 16-20, 2024\n   - **Time:** 09:00 - 17:00\n   - **Description:** This event will bring together foreign investors, entrepreneurs, economic experts, and government representatives to discuss the investment climate and industry-specific opportunities in sectors such as ICT & BPO, Agri-food, Tourism, and Green Energy.\n\n2. **Moldova Real Estate Forum**\n   - **Venue:** Digital Park\n   - **Date:** September 17, 2024\n   - **Time:** 09:00 - 18:00\n   - **Description:** Organized by REDIA in partnership with Invest Moldova, this forum will include B2B discussions on investment platforms in real estate, public property privatization, infrastructure projects, and more.\n\n3. **Startup Networking Event**\n   - **Venue:** Churchill's Whisky Bar\n   - **Date:** September 18, 2024\n   - **Time:** 18:30 - 23:00\n   - **Description:** Part of Moldova Business Week, this event is designed to encourage dialogue and idea exchange between entrepreneurs, investors, and professionals.\n\nEnjoy your time at these events!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T15:36:54.182326",
+                    "message": "Are there any free ones",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T15:36:59.658398",
+                    "message": "Here are some free events you can attend next week in Moldova:\n\n1. **Moldova Business Week 2024**\n   - **Venue:** Radisson Blu\n   - **Date:** September 16-20, 2024\n   - **Time:** 09:00 - 17:00\n   - **Description:** This event will bring together foreign investors, entrepreneurs, economic experts, and government representatives to discuss the investment climate and industry-specific opportunities in sectors such as ICT & BPO, Agri-food, Tourism, and Green Energy. Registration is required, but the event is free to attend.\n\n2. **Startup Networking Event**\n   - **Venue:** Churchill's Whisky Bar\n   - **Date:** September 18, 2024\n   - **Time:** 18:30 - 23:00\n   - **Description:** Part of Moldova Business Week, this event is designed to encourage dialogue and idea exchange between entrepreneurs, investors, and professionals. Registration is required, but the event is free to attend.\n\nEnjoy these opportunities to connect and learn!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-07T15:37:32.762351",
+                    "message": "Can i pay by bank transfer?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T15:37:34.062604",
+                    "message": "For the events mentioned, particularly the free ones like Moldova Business Week 2024 and the Startup Networking Event, there is no need for payment as they are free to attend. However, if you are considering other events or services that might require payment, it's best to check the specific event's registration page or contact the organizers directly to confirm if bank transfer is an accepted payment method.\n\nWould you like more information on any specific event or need assistance with something else?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "aff83b4f-3169-4c87-91d4-f383f39b701f",
+            "timestamp": "2024-09-07T15:36:19.160318"
+        }
+    }
+}

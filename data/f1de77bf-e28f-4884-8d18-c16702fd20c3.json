@@ -1,0 +1,228 @@
+{
+    "client_id": "f1de77bf-e28f-4884-8d18-c16702fd20c3",
+    "user_id": "4298e4b7-05fb-455a-8b76-58c72c7885e9",
+    "details": null,
+    "name": "Keunie",
+    "context_summary": "Keune's extensive range of hair care and styling products, which include shampoos, conditioners, masks, and styling tools tailored for various hair types and concerns. The brand emphasizes clean beauty principles, offering vegan, cruelty-free, and sulfate-free formulations, while also focusing on sustainability and community support through initiatives like refillable packaging and educational resources for stylists.",
+    "chat_sessions": {
+        "7fd7948e-79fb-4b2c-a424-2ea02ee417d6": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-03T05:35:36.078399",
+                    "message": "welches shampoo ist für blondes Haar?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T05:35:37.139911",
+                    "message": "welches shampoo ist für blondes Haar?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T05:35:39.903479",
+                    "message": "Für blondes Haar empfehle ich ein Shampoo, das speziell für die Pflege und den Erhalt von blonden Tönen entwickelt wurde. Solche Shampoos helfen, die Farbe zu schützen und unerwünschte Gelbtöne zu neutralisieren. \n\nEin Beispiel für ein solches Produkt ist ein **Silbershampoo**. Diese Shampoos enthalten violette Pigmente, die Gelbstiche neutralisieren und das Haar strahlend und frisch aussehen lassen.\n\nHast du Interesse an einem bestimmten Produkt oder benötigst du weitere Empfehlungen?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T05:35:58.391353",
+                    "message": "wo finde ich das silbershampoo?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T05:35:59.442749",
+                    "message": "wo finde ich das silbershampoo?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T05:36:04.614884",
+                    "message": "Du kannst das Silbershampoo direkt bei Keune finden. Keune bietet hochwertige Haarpflegeprodukte, die speziell auf verschiedene Haartypen und Bedürfnisse abgestimmt sind.\n\nUm das Silbershampoo zu finden, besuche einfach die Keune-Website und suche nach dem Silbershampoo in der Produktkategorie für blondes Haar. Alternativ kannst du auch in einem Friseursalon nach Keune-Produkten fragen, da viele Salons diese führen.\n\nFalls du weitere Hilfe benötigst oder spezifische Fragen hast, lass es mich wissen!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T05:36:29.105070",
+                    "message": "auf welcher seite ist das silbershampoo",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T05:36:30.286702",
+                    "message": "auf welcher seite ist das silbershampoo",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T05:36:33.962346",
+                    "message": "Um das Silbershampoo von Keune zu finden, besuche bitte die offizielle Keune-Website. Dort kannst du in der Produktkategorie für blondes Haar nach dem Silbershampoo suchen. \n\nFalls du Schwierigkeiten hast, es zu finden, kann ich dir gerne weiterhelfen. Hier ist der direkte Link zur Keune-Website: [Keune Official Website](https://www.keune.com).\n\nWenn du noch weitere Fragen hast oder Unterstützung benötigst, lass es mich wissen!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "7fd7948e-79fb-4b2c-a424-2ea02ee417d6",
+            "timestamp": "2024-09-03T05:35:36.078399"
+        },
+        "642e07e9-13d7-4d7e-921d-28486df2adbf": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-04T06:43:49.480926",
+                    "message": "welche shampoo ist für blondes haar",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T06:43:50.401283",
+                    "message": "welche shampoo ist für blondes haar",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T06:43:53.663124",
+                    "message": "Für blondes Haar bietet Keune das **CARE Blonde Savior Shampoo** an. Hier sind einige Details dazu:\n\n### CARE Blonde Savior Shampoo\n- **Inhalt**: 300ml, 1000ml\n- **Preis**: CHF 22.90 (300ml), CHF 0.00 (1000ml)\n- **Vorteile**: Speziell entwickelt für blondes Haar, um die Farbe zu schützen und zu pflegen.\n\n![CARE Blonde Savior Shampoo](https://www.keune.ch/en/product/care-blonde-savior-shampoo)\n\nMöchten Sie mehr über dieses Produkt erfahren oder haben Sie spezifische Anforderungen für Ihr blondes Haar?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T06:44:08.730417",
+                    "message": "wo kann ich das kaufen",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T06:44:09.636456",
+                    "message": "wo kann ich das kaufen",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T06:44:16.838683",
+                    "message": "Sie können das **CARE Blonde Savior Shampoo** direkt bei Keune Schweiz kaufen. Hier sind die Kontaktdaten und Öffnungszeiten des Büros:\n\n**KEUNE Haircosmetics Schweiz AG**  \nLeimenstrasse 72  \nCH-4009 Basel  \nTel: [+41 (0)61 205 05 65](tel:+41612050565)  \nFax: [+41 (0)61 205 05 06](tel:+41612050506)  \nE-mail: [info@keune.ch](mailto:info@keune.ch)  \n\n**Öffnungszeiten des Büros**:  \nMontag - Freitag: 08:00 - 12:00, 13:00 - 17:00\n\nSie können auch die [Keune Website](https://www.keune.ch/en/catalog/haarprodukte) besuchen, um das Shampoo online zu bestellen.\n\nBenötigen Sie weitere Informationen oder Unterstützung bei der Bestellung?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T08:24:27.916010",
+                    "message": "welches Shampoo ist für Locken?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T08:24:30.131894",
+                    "message": "welches Shampoo ist für Locken?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T08:24:38.122417",
+                    "message": "Für lockiges Haar bietet Keune das **CARE Curl Control Shampoo** an. Hier sind einige Details dazu:\n\n### CARE Curl Control Shampoo\n- **Inhalt**: 300ml, 1000ml\n- **Preis**: CHF 21.50 (300ml), CHF 61.00 (1000ml)\n- **Vorteile**: \n  - Definiert und bändigt Locken\n  - Spendet Feuchtigkeit und reduziert Frizz\n  - Enthält natürliche Inhaltsstoffe wie Aloe Vera, Shea Butter und Kokosöl\n\n![CARE Curl Control Shampoo](https://www.keune.ch/de/product/care-curl-control-shampoo)\n\n### Anwendung\n- Tragen Sie das Shampoo auf nasses Haar auf.\n- Massieren Sie es ein und spülen Sie es gründlich aus.\n- Für optimale Pflege verwenden Sie anschließend einen Conditioner für lockiges Haar.\n\n### Empfohlene Produkte für Locken\n- **CARE Curl Control Conditioner**: CHF 24.00 (250ml), CHF 0.00 (1000ml)\n- **CARE Curl Control Mask**: CHF 35.90 (200ml)\n- **CARE Curl Cont Defining Cream**: CHF 29.90 (140ml)\n\nMöchten Sie mehr über diese Produkte erfahren oder haben Sie spezifische Fragen zu Ihrer Lockenpflege?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T08:25:38.269986",
+                    "message": "welches shampoo ist gegen Haarausfall?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T08:25:39.369009",
+                    "message": "welches shampoo ist gegen Haarausfall?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T08:25:46.842306",
+                    "message": "Keune bietet mehrere Shampoos gegen Haarausfall an. Hier sind einige Optionen:\n\n### 1922 Fortifying Shampoo\n- **Inhalt**: 250ml, 1000ml\n- **Preis**: CHF 23.90 (250ml), CHF 68.00 (1000ml)\n- **Vorteile**: \n  - Enthält Eukalyptus, Kreatin und Provitamin B5\n  - Stärkt das Haar und verleiht ihm mehr Fülle\n  - Vitamin H beugt Haarausfall vor\n\n![1922 Fortifying Shampoo](https://www.keune.ch/de/product/1922-fortifying-shampoo)\n\n### CARE Derma Activate Shampoo\n- **Inhalt**: 300ml, 1000ml\n- **Preis**: CHF 21.50 (300ml), CHF 0.00 (1000ml)\n- **Vorteile**: \n  - Enthält Vitamin H zur Verbesserung der Haarqualität\n  - Fördert die Haarverjüngung und das Haarwachstum\n  - Silikonfreie Formel für natürliche Pflege\n\n![CARE Derma Activate Shampoo](https://www.keune.ch/de/product/care-derma-activate-shampoo)\n\n### Anwendung\n- Tragen Sie eine geringe Menge des Shampoos auf das nasse Haar und die Kopfhaut auf.\n- Massieren Sie es sanft ein und spülen Sie es gründlich aus.\n- Wiederholen Sie die Anwendung bei Bedarf.\n\nMöchten Sie mehr über diese Produkte erfahren oder haben Sie spezifische Fragen zur Behandlung von Haarausfall?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T12:27:42.685474",
+                    "message": "welches shampoo gegen haarausfall",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T12:27:50.845126",
+                    "message": "Für die Bekämpfung von Haarausfall bietet Keune mehrere effektive Shampoos an. Hier sind zwei empfohlene Produkte:\n\n### 1922 Fortifying Shampoo\n- **Inhalt**: 250ml, 1000ml\n- **Preis**: CHF 23.90 (250ml), CHF 68.00 (1000ml)\n- **Vorteile**: \n  - Enthält Eukalyptus, Kreatin und Provitamin B5\n  - Stärkt das Haar und verleiht ihm mehr Fülle\n  - Vitamin H beugt Haarausfall vor\n\n![1922 Fortifying Shampoo](https://www.keune.ch/de/product/1922-fortifying-shampoo)\n\n### CARE Derma Activate Shampoo\n- **Inhalt**: 300ml, 1000ml\n- **Preis**: CHF 21.50 (300ml), CHF 61.00 (1000ml)\n- **Vorteile**: \n  - Enthält Vitamin H zur Verbesserung der Haarqualität\n  - Fördert die Haarverjüngung und das Haarwachstum\n  - Silikonfreie Formel für natürliche Pflege\n\n![CARE Derma Activate Shampoo](https://www.keune.ch/de/product/care-derma-activate-shampoo)\n\n### Anwendung\n- Tragen Sie eine geringe Menge des Shampoos auf das nasse Haar und die Kopfhaut auf.\n- Massieren Sie es sanft ein und spülen Sie es gründlich aus.\n- Wiederholen Sie die Anwendung bei Bedarf.\n\nDiese Shampoos sind speziell formuliert, um Haarausfall zu bekämpfen und das Haar zu stärken. Möchten Sie mehr über diese Produkte erfahren oder haben Sie spezifische Fragen zur Behandlung von Haarausfall?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "642e07e9-13d7-4d7e-921d-28486df2adbf",
+            "timestamp": "2024-09-04T06:43:49.480926"
+        },
+        "201a48b1-21c5-4b23-a592-553a408e0d9b": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T08:14:48.510344",
+                    "message": "hi",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:14:49.141994",
+                    "message": "Hello! How can I assist you today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T08:14:53.572828",
+                    "message": "hallo",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:14:54.613802",
+                    "message": "Hallo! Wie kann ich Ihnen heute helfen?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T08:15:12.824418",
+                    "message": "ich brauch ein shampoo für blondes Haar",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:15:19.766948",
+                    "message": "Für blondes Haar empfehle ich das **Keune Care Blonde Savior Shampoo**. Es ist speziell entwickelt, um empfindliches, geschädigtes und entfärbtes Haar zu reparieren und zu stärken. Hier sind einige Vorteile:\n\n- **Repariert und stärkt** das Haar von innen heraus.\n- **Spendet Feuchtigkeit** für sofortigen und langfristigen Effekt.\n- Reduziert Haarbruch um **96%**.\n- **Sulfatfrei** und enthält Glykolsäure und Kreatin.\n\n![Keune Care Blonde Savior Shampoo](https://www.keune.ch/de/product/care-blonde-savior-shampoo?cmid=1393)\n\nFür weitere Informationen und um das Produkt zu kaufen, besuchen Sie bitte [Keune Care Blonde Savior Shampoo](https://www.keune.ch/de/product/care-blonde-savior-shampoo?cmid=1393).\n\nGibt es noch etwas, womit ich Ihnen helfen kann?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T08:18:39.998574",
+                    "message": "wie pflege ich am besten meine trockenen Haare?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:18:45.053959",
+                    "message": "Um trockene Haare optimal zu pflegen, empfehle ich eine Kombination aus feuchtigkeitsspendenden und nährenden Produkten. Hier sind einige Schritte und Produkte von Keune, die Ihnen helfen können:\n\n1. **Feuchtigkeitsspendendes Shampoo**:\n   - **Keune Care Vital Nutrition Shampoo**: Dieses Shampoo reinigt sanft und versorgt das Haar mit Feuchtigkeit und Nährstoffen.\n\n2. **Pflegender Conditioner**:\n   - **Keune Care Vital Nutrition Conditioner**: Dieser Conditioner hilft, das Haar zu entwirren und spendet intensive Feuchtigkeit.\n\n3. **Tiefenwirksame Haarmaske**:\n   - **Keune Care Vital Nutrition Mask**: Verwenden Sie diese Maske einmal pro Woche, um das Haar tiefenwirksam zu nähren und zu reparieren.\n\n4. **Leave-in Pflege**:\n   - **Keune Care Vital Nutrition Porosity Filler**: Ein Leave-in Produkt, das hilft, die Haarstruktur zu verbessern und Feuchtigkeit zu speichern.\n\n5. **Hitzeschutz**:\n   - **Keune Style Heat Protect**: Wenn Sie Styling-Tools verwenden, ist ein Hitzeschutz unerlässlich, um das Haar vor weiteren Schäden zu schützen.\n\n6. **Regelmäßige Haarschnitte**:\n   - Lassen Sie Ihre Spitzen regelmäßig schneiden, um Spliss zu vermeiden und das Haar gesund zu halten.\n\nMöchten Sie mehr über eines dieser Produkte erfahren oder haben Sie weitere Fragen?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T08:19:05.798719",
+                    "message": "wo kann ich diese Produkte kaufen?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:19:10.224274",
+                    "message": "Sie können die Keune-Produkte direkt auf der offiziellen Keune-Website kaufen. Hier sind die Links zu den empfohlenen Produkten:\n\n1. **Keune Care Vital Nutrition Shampoo**:\n   [Keune Care Vital Nutrition Shampoo](https://www.keune.ch/de/product/care-vital-nutrition-shampoo)\n\n2. **Keune Care Vital Nutrition Conditioner**:\n   [Keune Care Vital Nutrition Conditioner](https://www.keune.ch/de/product/care-vital-nutrition-conditioner)\n\n3. **Keune Care Vital Nutrition Mask**:\n   [Keune Care Vital Nutrition Mask](https://www.keune.ch/de/product/care-vital-nutrition-mask)\n\n4. **Keune Care Vital Nutrition Porosity Filler**:\n   [Keune Care Vital Nutrition Porosity Filler](https://www.keune.ch/de/product/care-vital-nutrition-porosity-filler)\n\n5. **Keune Style Heat Protect**:\n   [Keune Style Heat Protect](https://www.keune.ch/de/product/style-heat-protect)\n\nSie können die Produkte auch bei autorisierten Keune-Händlern und in ausgewählten Friseursalons finden.\n\nGibt es noch etwas, womit ich Ihnen helfen kann?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T08:20:52.893610",
+                    "message": "wie pflege ich am besten meine Locken?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:20:57.580427",
+                    "message": "Um Ihre Locken optimal zu pflegen, ist es wichtig, Produkte zu verwenden, die Feuchtigkeit spenden und die Locken definieren, ohne sie zu beschweren. Hier sind einige Schritte und Keune-Produkte, die Ihnen helfen können:\n\n1. **Sanftes Shampoo**:\n   - **Keune Care Curl Control Shampoo**: Dieses Shampoo reinigt sanft und spendet Feuchtigkeit, um die Locken zu definieren und Frizz zu reduzieren.\n\n2. **Feuchtigkeitsspendender Conditioner**:\n   - **Keune Care Curl Control Conditioner**: Dieser Conditioner hilft, die Locken zu entwirren und spendet intensive Feuchtigkeit.\n\n3. **Tiefenwirksame Haarmaske**:\n   - **Keune Care Curl Control Mask**: Verwenden Sie diese Maske einmal pro Woche, um die Locken tiefenwirksam zu nähren und zu stärken.\n\n4. **Leave-in Pflege**:\n   - **Keune Care Curl Control Defining Cream**: Diese Creme hilft, die Locken zu definieren und Frizz zu kontrollieren, ohne das Haar zu beschweren.\n\n5. **Lockenverstärker**:\n   - **Keune Style Curl Cream**: Ein Styling-Produkt, das die Locken verstärkt und ihnen Halt und Definition verleiht.\n\n6. **Trocknen und Stylen**:\n   - Verwenden Sie einen Diffusor-Aufsatz beim Föhnen, um die Locken zu schonen und Frizz zu minimieren.\n   - Lassen Sie das Haar so oft wie möglich an der Luft trocknen, um Hitzeschäden zu vermeiden.\n\n7. **Regelmäßige Haarschnitte**:\n   - Lassen Sie Ihre Spitzen regelmäßig schneiden, um Spliss zu vermeiden und die Lockenform zu erhalten.\n\nMöchten Sie mehr über eines dieser Produkte erfahren oder haben Sie weitere Fragen?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T08:21:20.409889",
+                    "message": "wo kaufe ich diese Produkte",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T08:21:24.767336",
+                    "message": "Sie können die Keune-Produkte direkt auf der offiziellen Keune-Website kaufen. Hier sind die Links zu den empfohlenen Produkten für die Pflege Ihrer Locken:\n\n1. **Keune Care Curl Control Shampoo**:\n   [Keune Care Curl Control Shampoo](https://www.keune.ch/de/product/care-curl-control-shampoo)\n\n2. **Keune Care Curl Control Conditioner**:\n   [Keune Care Curl Control Conditioner](https://www.keune.ch/de/product/care-curl-control-conditioner)\n\n3. **Keune Care Curl Control Mask**:\n   [Keune Care Curl Control Mask](https://www.keune.ch/de/product/care-curl-control-mask)\n\n4. **Keune Care Curl Control Defining Cream**:\n   [Keune Care Curl Control Defining Cream](https://www.keune.ch/de/product/care-curl-control-defining-cream)\n\n5. **Keune Style Curl Cream**:\n   [Keune Style Curl Cream](https://www.keune.ch/de/product/style-curl-cream)\n\nSie können die Produkte auch bei autorisierten Keune-Händlern und in ausgewählten Friseursalons finden.\n\nGibt es noch etwas, womit ich Ihnen helfen kann?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "201a48b1-21c5-4b23-a592-553a408e0d9b",
+            "timestamp": "2024-09-05T08:14:48.510344"
+        },
+        "0914b33a-2c70-43b2-b124-df201fc52d0f": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T12:29:48.260227",
+                    "message": "ich bin allergisch auf gluten, welche produkte kann ich benutzen?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T12:29:54.563192",
+                    "message": "Keune bietet eine Vielzahl von glutenfreien Produkten an, die für Ihre Bedürfnisse geeignet sind. Hier sind einige empfohlene glutenfreie Produkte:\n\n1. **CARE Tinta Color Shampoo**\n2. **CARE Confident Curl Conditioner**\n3. **CARE Confident Curl Leave-in Curly**\n4. **CARE Confident Curl Mask**\n5. **CARE Vital Nutrition Shampoo**\n6. **CARE Vital Nutrition Conditioner**\n7. **CARE Keratin Smooth 2-Phasen Spray**\n8. **CARE Curl Control Shampoo**\n9. **Style Freestyle Spray**\n\nDiese Produkte sind Teil der Clean Beauty Linie von Keune, die auch cruelty-free, vegan, parabenfrei, sulfatfrei und silikonfrei ist. Weitere Informationen und eine vollständige Liste der glutenfreien Produkte finden Sie auf der [Keune Website](https://www.keune.ch/de/catalog?filter=1-11-15).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0914b33a-2c70-43b2-b124-df201fc52d0f",
+            "timestamp": "2024-09-10T12:29:48.260227"
+        }
+    }
+}

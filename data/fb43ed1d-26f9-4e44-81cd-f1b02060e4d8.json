@@ -1,0 +1,156 @@
+{
+    "client_id": "fb43ed1d-26f9-4e44-81cd-f1b02060e4d8",
+    "user_id": "a90dd01f-df1a-4cb1-b215-fce413978708",
+    "details": "",
+    "name": "robodog",
+    "context_summary": "Health insurance plans for dogs and cats offered by SURA, which include various coverage options such as veterinary care, emergency services, and funeral assistance. The plans—Essential, Classic, and Global—vary in their levels of coverage for veterinary expenses, preventive care, and optional civil liability, ensuring pets receive necessary medical attention while protecting owners from financial liabilities.",
+    "chat_sessions": {
+        "164294f5-fa0b-41f3-9720-e62ba8b8e4ea": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-22T13:23:51.794767",
+                    "message": "hola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:23:52.874778",
+                    "message": "¡Hola! ¿Cómo estás? ¿En qué puedo ayudarte hoy? 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:23:57.846926",
+                    "message": "que es el seguro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:23:58.958268",
+                    "message": "¿Te refieres a los seguros para mascotas que ofrecemos? Si es así, tenemos varias opciones de seguros de salud para perros y gatos que pueden cubrir diferentes necesidades y situaciones, como atención veterinaria, servicios de emergencia y asistencia funeraria.\n\n¿Te gustaría más información sobre alguno en particular?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "164294f5-fa0b-41f3-9720-e62ba8b8e4ea",
+            "timestamp": "2024-09-22T13:23:51.794767"
+        },
+        "759cd482-1ead-4905-99f4-9c016fdc42e9": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-22T13:28:04.956970",
+                    "message": "hola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:28:07.034566",
+                    "message": "¡Hola! Soy RoboDog, tu asistente de aseguratupeludo.com. ¿Estás buscando el mejor seguro para tu mascota? ¿Puedo ayudarte con alguna información específica sobre nuestros planes de seguros?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:28:17.005298",
+                    "message": "que es el seguro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:28:19.072892",
+                    "message": "que es el seguro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:28:27.596448",
+                    "message": "El seguro de mascotas es una protección que te respalda en caso de eventos accidentales o enfermedades que pueda sufrir tu perro o gato. Aquí tienes algunas de las coberturas y beneficios que ofrece nuestro seguro con SURA:\n\n- **Gastos veterinarios:** En caso de enfermedad o accidente, SURA te reembolsará los gastos por consultas médicas veterinarias, hospitalización, exámenes de laboratorio, medicamentos, y más.\n- **Responsabilidad civil:** Si tu mascota causa daños a terceros (por ejemplo, mordeduras), el seguro cubrirá los perjuicios patrimoniales y extrapatrimoniales.\n- **Asistencias básicas y premium:** Incluyen refuerzo antirrábico anual, guardería en caso de hospitalización o viaje, paseador canino, baño para la mascota, orientación nutricional veterinaria, entrega de medicamentos a domicilio, entre otros.\n- **Cobertura de gastos exequiales:** En caso de fallecimiento de tu mascota, el seguro cubre los gastos relacionados.\n\n### ¿Cuándo se recomienda comprar el seguro?\nEs ideal comprar el seguro lo antes posible, ya que los seguros son una forma de planificación y prevención para el bienestar de tu mascota. Mientras tu mascota esté en el rango de edad de emisión y con buena salud, podrá conservar el seguro durante toda su vida.\n\n### ¿Qué mascotas puedo asegurar?\nPuedes asegurar perros y gatos de cualquier raza.\n\n### ¿Qué edad debe tener la mascota?\n- **Plan de salud perros y gatos SURA (Bogotá, Sabana y Medellín):** Entre 4 meses y 7 años.\n- **Seguro mascotas SURA (nacional):** Entre 3 meses y 9 años.\n\nSi tienes alguna otra pregunta o necesitas más detalles, ¡estaré encantado de ayudarte! ¿Estás interesado en obtener una cotización?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:29:56.208515",
+                    "message": "hola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:29:58.825806",
+                    "message": "¡Hola de nuevo! Soy RoboDog, tu asistente de aseguratupeludo.com. ¿Estás buscando información sobre seguros para tu mascota? ¡Estoy aquí para ayudarte! 🐶🐱\n\nCuéntame, ¿te gustaría saber más sobre nuestros planes de seguros para mascotas o necesitas ayuda con algo específico?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:30:11.184866",
+                    "message": "en que consiste el seguro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:30:13.241808",
+                    "message": "en que consiste el seguro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:30:23.793598",
+                    "message": "¡Claro! El seguro de mascotas con SURA te ofrece una amplia gama de coberturas y asistencias para proteger a tu compañero peludo. Aquí te cuento los detalles:\n\n### Coberturas Principales\n\n1. **Gastos veterinarios:**\n   - Consultas médicas veterinarias.\n   - Hospitalización.\n   - Ayudas diagnósticas y exámenes de laboratorio.\n   - Medicamentos.\n   - Atención de urgencias.\n\n2. **Responsabilidad civil por daños a terceros:**\n   - Cubre los perjuicios patrimoniales y extrapatrimoniales causados a terceros por tu mascota.\n   - Incluye gastos de defensa legal.\n\n3. **Gastos exequiales:**\n   - Reembolso de los gastos por cremación o servicio exequial en caso de fallecimiento de tu mascota.\n\n4. **Robo o pérdida de tu mascota:**\n   - SURA te pagará la suma asegurada en caso de robo o pérdida de tu mascota.\n\n### Asistencias Incluidas\n\n- **Refuerzo antirrábico anual.**\n- **Guardería en caso de hospitalización o viaje del dueño.**\n- **Paseador canino.**\n- **Baño para la mascota.**\n- **Informes de vacunas para la mascota.**\n- **Asistencia legal por daños a terceros.**\n- **Orientación nutricional veterinaria telefónica.**\n- **Entrega de medicamentos a domicilio.**\n- **Orientación psicológica telefónica al asegurado y su familia por fallecimiento de la mascota.**\n- **Referencia y coordinación de servicios para la mascota.**\n\n### Planes de Seguro\n\n- **Plan Básico:** Incluye atenciones veterinarias básicas y algunas asistencias.\n- **Plan Clásico:** Incluye todas las asistencias del Plan Básico más adicionales como pipeta anti pulgas y traslado de mascota por emergencia.\n- **Plan Global:** Incluye todas las asistencias de los planes anteriores más esterilización, urgencia dental y refuerzo de vacuna hexavalente anual.\n\n### Recomendación\n\nEs recomendable adquirir el seguro lo antes posible para asegurar la cobertura completa. Además, ten en cuenta que las preexistencias (enfermedades previas a contratar el seguro) no estarán cubiertas.\n\n### ¿Cómo adquirir el seguro?\n\n1. **Elige tu ciudad.**\n2. **Haz clic en el botón naranja que dice \"Cotiza y solicita tu seguro\".**\n\n¡Protege a tu peludo con el mejor seguro de mascotas en Colombia! Si tienes más preguntas o necesitas ayuda, ¡estoy aquí para asistirte!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:36:32.839494",
+                    "message": "hola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:36:37.088460",
+                    "message": "¡Hola! Soy RoboDog, tu asistente de aseguratupeludo.com. ¿En qué puedo ayudarte hoy? ¿Te interesa conocer más sobre nuestros seguros para mascotas? 🐶🐱",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:37:11.833643",
+                    "message": "estoy en bogota",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:37:13.934349",
+                    "message": "estoy en bogota",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:37:18.508119",
+                    "message": "¡Genial! Bogotá es una de las ciudades principales en las que ofrecemos nuestros seguros para mascotas. 😎\n\n### Para empezar, ¿puedes decirme la edad de tu mascota?\n\n- **Menos de 4 meses**\n- **Entre 4 meses y 7 años**\n- **Entre 8 y 9 años**\n- **Más de 9 años**\n\nEsto me ayudará a recomendarte el plan de seguro más adecuado. ¡Estoy aquí para ayudarte!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:37:28.227717",
+                    "message": "8 años",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:37:30.362997",
+                    "message": "8 años",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:37:40.660302",
+                    "message": "¡Perfecto! Para una mascota de 8 años en Bogotá, te recomiendo el **Seguro Mascotas SURA (nacional)**.\n\n### ¿Qué incluye el Seguro Mascotas SURA?\n\n#### **Cobertura de Gastos Veterinarios:**\n- Consultas médicas veterinarias.\n- Hospitalización.\n- Ayudas diagnósticas y exámenes de laboratorio.\n- Medicamentos.\n- Atención de urgencias.\n- Cirugías.\n- Endoscopia digestiva (terapéutica).\n- Eutanasia.\n- Consulta domiciliaria (para gatos).\n- Consulta por especialista.\n- Laboratorio ambulatorio.\n- Rayos X y ecografía ambulatorio.\n- Resonancia y tomografía.\n\n#### **Asistencias:**\n- **Refuerzo antirrábico anual.**\n- **Guardería en caso de hospitalización o viaje del dueño.**\n- **Paseador canino.**\n- **Baño para la mascota.**\n- **Informes de vacunas para la mascota.**\n- **Orientación nutricional veterinaria telefónica.**\n- **Entrega de medicamentos a domicilio.**\n- **Orientación psicológica telefónica al asegurado y su familia por fallecimiento de la mascota.**\n- **Referencia y coordinación de servicios para la mascota.**\n\n#### **Cobertura de Auxilio Funerario:**\n- Hasta $600,000 según el plan.\n\n#### **Cobertura Opcional de Lesiones a Terceros:**\n- Hasta 50 SMLMV.\n\n### Red de Clínicas Autorizadas en Bogotá:\n- **Clínica de Especialidades Veterinarias el Country** (Calle 134 #15-42) - Atención 24 horas.\n- **Clínica de alta complejidad Movet Cedritos** (Calle 134a #19-15) - Atención 24 horas.\n- **Clínica de alta complejidad Movet Calle 80** (Carrera 89A #77A-50) - Atención 24 horas.\n- **Clínica de alta complejidad Movet Castilla** (Carrera 72 #7C-77) - Atención 24 horas.\n\n### ¡Cotiza y solicita tu seguro hoy!\n\nSolo necesitas hacer clic en el botón naranja que dice \"Cotiza y solicita tu seguro\" en nuestro sitio web. Así podrás asegurar a tu peludo y tener la tranquilidad de que estará bien protegido.\n\nSi tienes más preguntas o necesitas más detalles, ¡no dudes en decírmelo! 🐾",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:44:35.747804",
+                    "message": "para que sirve el seguro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:44:37.756285",
+                    "message": "para que sirve el seguro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:44:49.598579",
+                    "message": "El seguro de mascotas es súper útil porque te ofrece protección y tranquilidad para ti y tu mascota. Aquí te explico para qué sirve:\n\n### **1. Cobertura de Gastos Veterinarios**\n- **Consultas médicas veterinarias:** Cuando tu mascota necesita ver al veterinario por alguna enfermedad.\n- **Hospitalización:** Si tu mascota necesita quedarse en la clínica para recibir tratamiento.\n- **Exámenes de laboratorio y ayudas diagnósticas:** Para diagnósticos precisos.\n- **Medicamentos:** Te reembolsan el costo de los medicamentos recetados.\n- **Atención de urgencias:** Para situaciones inesperadas y graves.\n- **Cirugías y procedimientos especializados:** Como endoscopias y eutanasias si es necesario.\n\n### **2. Responsabilidad Civil**\n- **Daños a terceros:** Si tu mascota causa daños a otras personas o propiedades, el seguro cubre los costos legales y compensaciones.\n\n### **3. Asistencias Adicionales**\n- **Refuerzo antirrábico anual:** Mantén a tu mascota protegida contra la rabia.\n- **Guardería:** En caso de que tengas que viajar o ser hospitalizado.\n- **Paseador canino:** Si necesitas que alguien saque a pasear a tu perro.\n- **Baño para la mascota:** Mantén a tu mascota limpia y feliz.\n- **Orientación nutricional y psicológica:** Asesoría para la alimentación y apoyo emocional si tu mascota fallece.\n- **Entrega de medicamentos a domicilio:** Comodidad al recibir los medicamentos en casa.\n\n### **4. Cobertura de Gastos Exequiales**\n- **Auxilio funerario:** Cubre los costos de cremación o servicios exequiales en caso de fallecimiento de tu mascota.\n\n### **5. Robo o Pérdida de tu Mascota**\n- **Reembolso:** Si tu mascota es robada o se pierde, el seguro te reembolsa los gastos de búsqueda.\n\n### **Beneficios Clave:**\n- **Protección Financiera:** Evita gastos grandes e inesperados en caso de emergencias veterinarias.\n- **Tranquilidad:** Saber que tu mascota está protegida y que tienes apoyo en caso de problemas.\n- **Acceso a Servicios de Calidad:** Red de clínicas y veterinarios calificados.\n\n### ¿Cómo Obtener el Seguro?\n1. **Elige tu ciudad.**\n2. **Haz clic en el botón naranja \"Cotiza y solicita tu seguro\".**\n\nCon el seguro de mascotas, puedes enfocarte en disfrutar el tiempo con tu peludo sin preocuparte por los altos costos de emergencias o enfermedades. ¡Es mejor tenerlo y no necesitarlo, que necesitarlo y no tenerlo!\n\nSi tienes alguna otra duda o necesitas más información, ¡estoy aquí para ayudarte! 🐾",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-22T13:45:17.023858",
+                    "message": "genial",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-22T13:45:21.301165",
+                    "message": "¡Me alegra que te haya servido la información! 😎\n\nRecuerda, tener un seguro para tu mascota te da tranquilidad y protección ante cualquier emergencia o imprevisto. Si estás listo para asegurar a tu peludo, solo necesitas:\n\n1. **Elegir tu ciudad.**\n2. **Hacer clic en el botón naranja \"Cotiza y solicita tu seguro\" en nuestro sitio web.**\n\n¿Hay algo más en lo que pueda ayudarte? ¡Estoy aquí para cualquier pregunta que tengas! 🐶🐱",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "759cd482-1ead-4905-99f4-9c016fdc42e9",
+            "timestamp": "2024-09-22T13:28:04.956970"
+        }
+    }
+}

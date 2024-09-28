@@ -1,0 +1,55 @@
+{
+    "client_id": "21687314-3b24-4f58-a239-2bd236667807",
+    "user_id": "a3d039a7-f128-4b0a-bcaa-d8fd62b3fbcf",
+    "details": null,
+    "name": "Petey",
+    "context_summary": "Local businesses and organizations in Muleshoe, Texas, featuring a comprehensive directory that includes medical facilities, community services, recreational spots, and various shops. Each listing contains essential details such as addresses, contact information, and brief descriptions, promoting community engagement and support for local services.",
+    "chat_sessions": {
+        "d1ef2b54-c6a8-4345-976c-d02470d36454": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-18T17:39:17.423303",
+                    "message": "what is the weather?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T17:39:19.318716",
+                    "message": ":tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-18T17:39:32.417394",
+                    "message": "What is the weather in Muleshoe",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T17:39:36.093485",
+                    "message": "To get the current weather in Muleshoe, please check the following widget:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-18T17:39:57.754424",
+                    "message": "Can you tell me about the Muleshoe Medical Center?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T17:40:00.882539",
+                    "message": "I couldn't retrieve specific information about the Muleshoe Medical Center from the database. However, you can visit their official website or contact them directly for detailed information. If you have any specific questions about the center, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-18T17:40:18.053634",
+                    "message": "What are the hours of the Muleshoe Medical Clinic?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T17:40:21.745167",
+                    "message": "I couldn't retrieve the specific hours for the Muleshoe Medical Clinic. For the most accurate and up-to-date information, I recommend visiting their official website or contacting the clinic directly. They should be able to provide you with their operating hours.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d1ef2b54-c6a8-4345-976c-d02470d36454",
+            "timestamp": "2024-09-18T17:39:17.423303"
+        }
+    }
+}

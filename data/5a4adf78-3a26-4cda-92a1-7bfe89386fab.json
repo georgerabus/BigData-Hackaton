@@ -1,0 +1,45 @@
+{
+    "client_id": "5a4adf78-3a26-4cda-92a1-7bfe89386fab",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "Stolla",
+    "context_summary": "Stoll Real Estate, which offers comprehensive services for buying and selling homes in Illinois and Florida. The company focuses on providing a hassle-free experience through tailored marketing strategies, expert guidance throughout the home buying process, and personalized support, as highlighted by positive client testimonials regarding their professionalism and commitment.",
+    "chat_sessions": {
+        "d118f007-4557-4c77-abc1-062246a20edb": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-03T19:11:17.617771",
+                    "message": "Im interested in properties for sale in Elgin, IL. Do you have any available?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T19:11:18.734195",
+                    "message": "Im interested in properties for sale in Elgin, IL. Do you have any available?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T19:11:23.823734",
+                    "message": "Absolutely! We have some fantastic properties available in Elgin, IL. Here are a couple of options you might find interesting:\n\n1. **350 Vandalia Street, Elgin, IL 60123**\n   - **Price:** $325,000\n   - **Status:** Coming Soon\n   - **Details:** 2 bedrooms, 2 bathrooms, 1700 sqft\n   - [View Property](https://www.stollrealestate.com/featured/IL/elgin/60123/350-vandalia-street/41637)\n\n2. **13N568 Gunpowder Lane, Elgin, IL 60124**\n   - **Price:** $389,900\n   - **Status:** Active\n   - **Details:** 0 bedrooms, 0 bathrooms, 2181 sqft\n   - [View Property](https://www.stollrealestate.com/featured/IL/elgin/60124/13n568-gunpowder-lane/42507)\n\nIf you need more details or would like to schedule a viewing, feel free to let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T19:11:42.290705",
+                    "message": "Is it hard buying a house? I'm a first time buyer",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T19:11:44.349816",
+                    "message": "Is it hard buying a house? I'm a first time buyer",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T19:11:55.746637",
+                    "message": "Buying a house, especially for the first time, can indeed feel overwhelming, but it doesn't have to be! At Stoll Real Estate, we strive to make the process as smooth and stress-free as possible. Here's a quick overview of what you can expect:\n\n### The Home Buying Process\n\n#### 1. **Get Pre-Approved for a Loan**\n   - **Why:** This helps you understand how much you can afford and shows sellers that you're a serious buyer.\n   - **How:** Meet with a loan officer who will gather information about your income, assets, and debts to determine your loan amount.\n\n#### 2. **Start Your Home Search**\n   - **Wish List:** Make a list of what you're looking for in a home (e.g., number of bedrooms, location, etc.).\n   - **Search:** Use our website to search for homes that match your criteria. You can compare walk scores, school ratings, and neighborhood demographics for different listings.\n   - [Start Searching](https://www.stollrealestate.com/search)\n\n#### 3. **Get Listing Alerts**\n   - **Stay Updated:** Save your search criteria on our site, and you'll receive alerts when new homes that match your wish list go up for sale.\n   - [Save and See Listings](https://www.stollrealestate.com/search)\n\n#### 4. **Tour Homes**\n   - **In-Person Showings:** Schedule in-person showings to walk through homes and ask any questions you might have.\n   - **Virtual Tours:** We also offer virtual tours if you prefer.\n   - [Try It Out](https://www.stollrealestate.com/search)\n\n#### 5. **Making an Offer**\n   - **Submit an Offer:** Once you find a home you love, your agent will help you submit an offer.\n   - **Negotiation:** We are skilled negotiators and will work to get you the best price and value possible.\n\n#### 6. **Closing**\n   - **Inspections and Appraisals:** Navigate through inspections and appraisals with our guidance.\n   - **Final Steps:** Once everything is approved, you'll sign the final documents, set up homeowners insurance, and get the keys to your new home.\n\n### We're With You Till The End\nWe understand that buying a home is a significant investment, and we're here to support you every step of the way. Our team of experts will ensure you are well-informed and comfortable throughout the entire process.\n\nIf you have any specific questions or need further assistance, feel free to ask! We're here to help you find your dream home.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d118f007-4557-4c77-abc1-062246a20edb",
+            "timestamp": "2024-09-03T19:11:17.617771"
+        }
+    }
+}

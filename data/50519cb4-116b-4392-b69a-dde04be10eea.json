@@ -1,0 +1,41 @@
+{
+    "client_id": "50519cb4-116b-4392-b69a-dde04be10eea",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "Lola",
+    "context_summary": "Hansgrohe's extensive range of premium bathroom and kitchen products, including faucets, showers, and drainage systems. It highlights the brand's commitment to innovative technologies like EcoSmart for water conservation and QuickClean for maintenance, emphasizing quality, design, and functionality to create stylish and personalized living spaces.",
+    "chat_sessions": {
+        "2f6fce39-27c6-4e57-b0f1-523dad9861e6": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T23:37:12.821701",
+                    "message": "Me no speak Spanish, what do you sell?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T23:37:13.828972",
+                    "message": "Hansgrohe offers a wide range of premium bathroom and kitchen products. This includes faucets, showers, and drainage systems. The brand is known for its innovative technologies such as EcoSmart for water conservation and QuickClean for easy maintenance. Hansgrohe emphasizes quality, design, and functionality to create stylish and personalized living spaces.\n\nWould you like more details on any specific product or technology?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2f6fce39-27c6-4e57-b0f1-523dad9861e6",
+            "timestamp": "2024-09-06T23:37:12.821701"
+        },
+        "22542555-e2a9-49ea-8870-7903606652ae": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-07T22:08:18.889297",
+                    "message": "I don't speak Spanish, what do you offer?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-07T22:08:21.137690",
+                    "message": "Hansgrohe offers a wide range of premium bathroom and kitchen products designed to enhance your living spaces with style, functionality, and innovative technology. Here are some of the key offerings:\n\n- **Faucets**: High-quality faucets for both bathrooms and kitchens, featuring sleek designs and advanced functionalities.\n- **Showers**: A variety of showerheads and systems that provide a luxurious showering experience, including rain showers and hand showers.\n- **Drainage Systems**: Efficient and stylish drainage solutions for your bathroom and kitchen.\n- **Innovative Technologies**: \n  - **EcoSmart**: Water-saving technology that reduces water consumption without compromising performance.\n  - **QuickClean**: Easy maintenance features that allow you to remove limescale and dirt effortlessly.\n\nHansgrohe products are known for their quality, design, and functionality, making them a great choice for creating stylish and personalized living spaces. If you have any specific questions or need more details about a particular product, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "22542555-e2a9-49ea-8870-7903606652ae",
+            "timestamp": "2024-09-07T22:08:18.889297"
+        }
+    }
+}

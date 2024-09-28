@@ -1,0 +1,35 @@
+{
+    "client_id": "047d6909-b9a4-410f-83d3-7137c9d5101c",
+    "user_id": "9c58a73b-f745-43d7-9f76-7c39eddb1cf6",
+    "details": "",
+    "name": "Lacey",
+    "context_summary": "The International General Hospital Nam Sai Gon, located in Ho Chi Minh City. It highlights the hospital's diverse medical services, including specialized departments like neurology and orthopedics, its modern facilities, emergency services, and operational hours from Monday to Saturday, along with a dedicated hotline for appointments and consultations.",
+    "chat_sessions": {
+        "c479e039-e3e4-4550-8fb5-db3207a849b0": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T05:04:15.316175",
+                    "message": "chào",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T05:04:16.330285",
+                    "message": "Chào bạn! Tôi có thể giúp gì cho bạn hôm nay?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T05:04:20.023056",
+                    "message": "bây giờ là mấy giờ ngày mấy",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T05:04:20.659881",
+                    "message": "Hiện tại là 08:04 ngày 28 tháng 8 năm 2024.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "c479e039-e3e4-4550-8fb5-db3207a849b0",
+            "timestamp": "2024-08-28T05:04:15.316175"
+        }
+    }
+}

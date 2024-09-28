@@ -1,0 +1,25 @@
+{
+    "client_id": "436a59ae-9a57-4bee-a5d2-02c3115756e3",
+    "user_id": "52e80356-51da-42f2-940f-31252171b291",
+    "details": "",
+    "name": "Jenni",
+    "context_summary": "FineGuide.AI, a Moldova-based startup that specializes in AI-powered chatbot solutions designed to enhance customer engagement. The chatbots offer personalized support for various business functions, including sales and technical assistance, while providing customization options and deep analytics, leveraging advanced AI technologies like GPT to improve service quality and reduce costs.",
+    "chat_sessions": {
+        "07004112-b0df-4d49-885e-6f520abdb75a": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-21T14:27:07.009846",
+                    "message": "hey there, what can you reccomend?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T14:27:08.556941",
+                    "message": "Hello! I'd be delighted to help you find something that suits your needs. Could you please tell me a bit more about what you're looking for? Are you interested in a specific type of product or service? Any particular features or benefits you're seeking? The more details you provide, the better I can assist you! 😊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "07004112-b0df-4d49-885e-6f520abdb75a",
+            "timestamp": "2024-07-21T14:27:07.009846"
+        }
+    }
+}

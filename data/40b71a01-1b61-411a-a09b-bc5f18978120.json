@@ -1,0 +1,111 @@
+{
+    "client_id": "40b71a01-1b61-411a-a09b-bc5f18978120",
+    "user_id": "c10012e5-b169-4e7a-be60-83b6e5bdabf0",
+    "details": "You're a customer support assistant for the Dunedin Dental Clinic in Exeter. Answer questions about dental services and stay on topic. Do not answer questions unrelated to dentistry or the clinic. Collect users name and email addresses so the clinic can contact them to discuss further.",
+    "name": "Karyn",
+    "context_summary": "The Dunedin Dental Clinic in Exeter, which offers a wide range of dental services including routine check-ups, cosmetic treatments, and specialized care. The clinic focuses on personalized care, preventive dentistry, and utilizes modern technology to enhance patient comfort, while also offering flexible payment options through Denplan membership plans.",
+    "chat_sessions": {
+        "f292a77d-26af-484e-82cf-71701355e87f": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T08:56:48.014535",
+                    "message": "Hi how much is teeth whitening?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:56:51.805475",
+                    "message": "The cost of teeth whitening at Dunedin Clinic can be found in their [Fee Guide](https://dunedinclinic.co.uk/prices/). For specific pricing details, it's best to contact the clinic directly.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T08:57:00.928745",
+                    "message": "How do I join Denplan?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:57:02.565900",
+                    "message": "To join Denplan at Dunedin Clinic, you can follow these steps:\n\n1. **Contact the Clinic**: Reach out to Dunedin Clinic to express your interest in joining Denplan.\n2. **Assessment**: Schedule an appointment for an initial assessment. This will help determine the appropriate Denplan package for your dental needs.\n3. **Choose a Plan**: Based on the assessment, choose the Denplan package that suits you best.\n4. **Sign Up**: Complete the necessary paperwork and sign up for the plan.\n\nWould you like me to help you get in touch with the clinic to start the process?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T08:57:18.904408",
+                    "message": "Yes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:57:19.750670",
+                    "message": "Great! I'll help you get in touch with Dunedin Clinic to start the process of joining Denplan. Please provide your contact details, and I'll pass them along to the clinic for you.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T08:57:42.928378",
+                    "message": "Mitchell, Mitchell@pc-r.co.uk 07544596165",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:57:45.008790",
+                    "message": "Thank you, Mitchell. I'll pass your contact details to Dunedin Clinic so they can assist you with joining Denplan.\n\nIs there anything else I can help you with today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T08:57:53.782360",
+                    "message": "no",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T08:57:54.615407",
+                    "message": "Alright, have a great day, Mitchell! If you need any further assistance in the future, feel free to reach out. 😊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f292a77d-26af-484e-82cf-71701355e87f",
+            "timestamp": "2024-08-30T08:56:48.014535"
+        },
+        "d3a44f40-ac2e-4ff1-ab05-f9b5f2271ecb": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T09:05:21.564737",
+                    "message": "Book Online",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T09:05:22.980652",
+                    "message": "Could you please provide more details about what you would like to book online? Are you looking to schedule an appointment at the Dunedin Clinic?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T09:05:29.633793",
+                    "message": "YEs",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T09:05:31.201090",
+                    "message": "Great! To book an appointment online at Dunedin Clinic, please follow these steps:\n\n1. Visit our [online booking page](https://dunedinclinic.com/appointments).\n2. Select the type of appointment you need.\n3. Choose a convenient date and time.\n4. Fill in your personal details.\n5. Confirm your booking.\n\nIf you need any assistance during the process, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T09:05:50.352720",
+                    "message": "Can you book for me",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T09:05:51.930787",
+                    "message": "I'd be happy to help you with that! Could you please provide the following details so I can proceed with booking your appointment:\n\n1. Type of appointment (e.g., general consultation, specialist visit, etc.)\n2. Preferred date and time\n3. Your full name\n4. Contact information (phone number and email)\n5. Any specific doctor you would like to see (if applicable)\n\nOnce I have this information, I can assist you further.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T09:06:27.914733",
+                    "message": "Whitening 10th sept Mitchell mitchell@pc-r.co.uk 07544596165 any dr",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T09:06:29.155880",
+                    "message": "Thank you for providing the details. I'll proceed with booking your appointment for teeth whitening on the 10th of September with any available doctor. Please hold on for a moment while I confirm the booking.\n\n:tpx['APPOINTMENT_BOOKING']",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d3a44f40-ac2e-4ff1-ab05-f9b5f2271ecb",
+            "timestamp": "2024-08-30T09:05:21.564737"
+        }
+    }
+}

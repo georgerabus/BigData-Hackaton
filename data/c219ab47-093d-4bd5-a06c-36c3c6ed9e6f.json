@@ -1,0 +1,129 @@
+{
+    "client_id": "c219ab47-093d-4bd5-a06c-36c3c6ed9e6f",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "Faye",
+    "context_summary": "Exclusive Graphic Custom, a company offering luxury auto care services such as window tinting, detailing, vinyl wrapping, and ceramic coating. It emphasizes transparent pricing and high-quality workmanship, catering to car enthusiasts who value privacy and uniqueness, and encourages potential customers to request a free quote.",
+    "chat_sessions": {
+        "c1dcff6c-e61e-480f-92b3-ca1afd2ad586": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T16:50:20.736826",
+                    "message": "Do you do interior car wash?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T16:50:24.786054",
+                    "message": "Yes, Exclusive Graphic Custom offers interior car wash services as part of their mobile car wash options. If you have any more questions or need a free quote, feel free to contact them at [exclusivegraphiccustom@gmail.com](mailto:exclusivegraphiccustom@gmail.com) or call 312-590-4052.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "c1dcff6c-e61e-480f-92b3-ca1afd2ad586",
+            "timestamp": "2024-09-06T16:50:20.736826"
+        },
+        "680cb889-c8c3-4dfe-a1ba-a3e952c012ec": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-17T03:51:15.196969",
+                    "message": "I need to remake the home page to make it more attractive and convincing to have more sales and leads. Create and give me a better landing page, with a hero section and CTA's",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-17T03:51:23.892751",
+                    "message": "Certainly! Here's a proposed design for an improved landing page for Exclusive Graphic Custom, featuring a compelling hero section and strong calls to action (CTAs):\n\n---\n\n## Hero Section\n\n![Exclusive Graphic Custom - Hero Section](https://via.placeholder.com/1500x600.png?text=Exclusive+Graphic+Custom)\n\n### Unleash the True Potential of Your Vehicle\n**Luxury Auto Care Services**\n\n- **Window Tinting**\n- **Detailing**\n- **Vinyl Wrapping**\n- **Ceramic Coating**\n- **Paint Protection Film (PPF)**\n- **Mobile Car Wash**\n\n**Experience the Ultimate in Privacy and Style.**\n\n**[Request a Free Quote](https://www.exclusivegraphiccustom.com/book-online)**\n\n---\n\n## Services Section\n\n### Our Premium Services\nTransform your vehicle with our top-notch services:\n\n- **Window Tinting**: Enhance privacy and reduce glare.\n- **Detailing**: Keep your car spotless inside and out.\n- **Vinyl Wrapping**: Give your vehicle a unique look.\n- **Ceramic Coating**: Protect your paint with a durable, glossy finish.\n- **Paint Protection Film (PPF)**: Shield your car from scratches and chips.\n- **Mobile Car Wash**: Convenient, on-the-go cleaning.\n\n**[Explore Our Services](https://www.exclusivegraphiccustom.com/Services)**\n\n---\n\n## Why Choose Us?\n\n### Unmatched Expertise\nAt Exclusive Graphic Custom, our passion for automotive excellence drives us to provide unparalleled service. Our team is dedicated to delivering superior results, ensuring your vehicle stands out from the crowd. We believe in transparent pricing and top-quality workmanship.\n\n**[Learn More About Us](https://www.exclusivegraphiccustom.com/about)**\n\n---\n\n## Customer Testimonials\n\n### What Our Clients Say\n_Read real reviews from our satisfied customers!_\n\n**[Read Reviews](https://www.exclusivegraphiccustom.com/Reviews)**\n\n---\n\n## Gallery\n\n### Our Work Speaks for Itself\nCheck out our gallery to see the transformations we’ve achieved.\n\n**[View Gallery](https://www.exclusivegraphiccustom.com/Gallery)**\n\n---\n\n## Get in Touch\n\n### Ready to Transform Your Vehicle?\nRequest a free quote or contact us for more information.\n\n**[Request a Free Quote](https://www.exclusivegraphiccustom.com/book-online)**\n**[Contact Us](mailto:exclusivegraphiccustom@gmail.com)**\n\n**Location:**  \n15557 S 70th Ct, Orland Park, IL 60462, United States  \n**Phone:** [312-590-4052](tel:3125904052)\n\n---\n\n## Newsletter\n\n### Stay Updated\nJoin our newsletter to stay in the know about our latest services and offers.\n\n**Enter your email here**  \n**[Subscribe](#)**\n\n---\n\n## Footer\n\n**Copyright © 2024 by Exclusive Graphic Custom**  \nWebsite managed by: [Danrricos Solutions](http://www.danrricossolutions.com/)\n\n---\n\nThis structure should create a more engaging and convincing landing page, encouraging visitors to explore services and make inquiries.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "680cb889-c8c3-4dfe-a1ba-a3e952c012ec",
+            "timestamp": "2024-09-17T03:51:15.196969"
+        },
+        "17d7fe38-fef2-401e-b4d2-7254b8f6f979": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-18T15:36:27.763508",
+                    "message": "I need tint windows",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T15:36:29.662055",
+                    "message": "That's great! Window tinting is a fantastic way to enhance your car's privacy and protect against UV rays. Let me provide you with some detailed information about our window tinting services.\n\n:tpx[\"get_relevant_info\"]",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-18T15:36:44.809196",
+                    "message": "Yas",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T15:36:51.121158",
+                    "message": "At Exclusive Graphic Custom, we provide top-notch window tinting services designed to enhance your vehicle's privacy and protect against harmful UV rays. Our professional team is dedicated to delivering unparalleled quality and workmanship. \n\n### Our Window Tinting Services Include:\n- **Privacy Enhancement**: Keep your interiors private.\n- **UV Protection**: Block harmful UV rays to protect your car's interior and your skin.\n- **Heat Reduction**: Improve your car's comfort by reducing heat buildup.\n- **Aesthetic Appeal**: Give your car a sleek and stylish look.\n\n### Key Details:\n- **Transparent Pricing**: We believe in fair and clear pricing for all our services.\n- **High-Quality Materials**: We use only the best materials to ensure long-lasting results.\n- **Expert Installation**: Our experienced team ensures a perfect installation every time.\n\n#### Get in Touch:\n- **Location**: 15557 S 70th Ct, Orland Park, IL 60462, United States\n- **Phone**: [312-590-4052](tel:3125904052)\n- **Email**: [exclusivegraphiccustom@gmail.com](mailto:exclusivegraphiccustom@gmail.com)\n\nWould you like to get a free quote or book an appointment? Let me know how I can assist you further!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-18T15:37:11.908149",
+                    "message": "Appointment",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-18T15:37:14.612937",
+                    "message": "Fantastic! I can help with scheduling an appointment for your window tinting service. Could you please provide me with a few details?\n\n1. **Preferred Date and Time** for the appointment.\n2. **Vehicle Make and Model**.\n3. Any **specific requests or additional services** you might be interested in.\n\nThis information will help us ensure we meet your needs perfectly. Thank you!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "17d7fe38-fef2-401e-b4d2-7254b8f6f979",
+            "timestamp": "2024-09-18T15:36:27.763508"
+        },
+        "ca01ce65-9c7f-4c30-b75d-21c1b89fd2d4": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-19T15:44:11.488612",
+                    "message": "Book me an appointment",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-19T15:44:13.799794",
+                    "message": "Could you please provide more details about the service you are interested in? Exclusive Graphic Custom offers various services such as window tinting, detailing, vinyl wrapping, and ceramic coating. This will help me book the right appointment for you.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "ca01ce65-9c7f-4c30-b75d-21c1b89fd2d4",
+            "timestamp": "2024-09-19T15:44:11.488612"
+        },
+        "459f4345-11c2-451b-8a18-40eba3927d3e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-20T16:40:45.130627",
+                    "message": "Dudu",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-20T16:40:46.816852",
+                    "message": "Parece que você não forneceu uma pergunta completa. Como posso ajudar você hoje? Está interessado em serviços de cuidados automotivos de luxo como envelopamento de vinil, detalhamento, aplicação de película ou revestimento cerâmico?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-20T16:40:50.107100",
+                    "message": "Wtf",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-20T16:40:51.492747",
+                    "message": "Parece que houve algum mal-entendido. Estou aqui para ajudar com qualquer dúvida ou informação que você precise sobre os serviços oferecidos pela Exclusive Graphic Custom. Por favor, me diga como posso ser útil.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-20T16:40:56.905289",
+                    "message": "Wy",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-20T16:40:57.882302",
+                    "message": "Parece que você tem alguma dúvida ou preocupação. Estou aqui para ajudar! Poderia fornecer mais detalhes ou explicar melhor o que você precisa? Isso me ajudará a fornecer a melhor assistência possível.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "459f4345-11c2-451b-8a18-40eba3927d3e",
+            "timestamp": "2024-09-20T16:40:45.130627"
+        }
+    }
+}

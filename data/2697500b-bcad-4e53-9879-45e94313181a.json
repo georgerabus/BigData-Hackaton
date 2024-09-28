@@ -1,0 +1,141 @@
+{
+    "client_id": "2697500b-bcad-4e53-9879-45e94313181a",
+    "user_id": "a3d039a7-f128-4b0a-bcaa-d8fd62b3fbcf",
+    "details": null,
+    "name": "MediBot",
+    "context_summary": "Muleshoe Area Medical Center in Muleshoe, Texas, which has been delivering vital healthcare services for over 65 years. The facility features 25 acute care beds, a Swing Bed Program for Medicare patients, and is staffed by experienced professionals dedicated to quality care for the local community.",
+    "chat_sessions": {
+        "25f67571-6edf-48fb-9278-9ceea9c45a1b": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-26T20:20:46.403486",
+                    "message": "How do I contact the hospital/clinic?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-26T20:20:54.279475",
+                    "message": "To contact Muleshoe Area Medical Center, you can use the following information:\n\n- **Address:** 708 S. 1st Street, Muleshoe, Texas 79347\n- **Phone:** 806-272-4524\n- **Website:** [Muleshoe Area Medical Center](https://muleshoehospital.com/)\n\nFor specific services or departments, you can visit their website and navigate to the relevant sections:\n- [Services](https://muleshoehospital.com/services/)\n- [Clinic](https://muleshoehospital.com/clinic/)\n- [Park View Nursing Care Center](https://parkviewnursing.org/)\n- [News](https://muleshoehospital.com/news-room/)\n- [Careers](https://muleshoehospital.com/careers/)\n- [Get Vaccinated](https://muleshoehospital.com/get-vaccinated/)\n- [District](http://mahdistrict.org/)\n- [Price Transparency](https://muleshoehospital.com/price-transparency/)\n- [Good Faith Estimate](https://muleshoehospital.com/good-faith-estimate/)\n\nFor directions, you can use [Google Maps](https://www.google.com/maps/place/708+S+1st+St,+Muleshoe,+TX+79347/@34.2211878,-102.7288642,17z/data=!3m1!4b1!4m6!3m5!1s0x87025e6c8b1935b1:0xaa358c8cd855c4ea!8m2!3d34.2211878!4d-102.7288642!16s%2Fg%2F11bw4c27qw?entry=ttu).\n\nIf you need to pay a bill online, you can do so [here](https://www.personapay.com/muleshoeareamedicalcenter/login).\n\nFeel free to reach out if you have any more questions or need further assistance!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "25f67571-6edf-48fb-9278-9ceea9c45a1b",
+            "timestamp": "2024-08-26T20:20:46.403486"
+        },
+        "8912e261-89ae-46c6-945a-fb146b3bfc5f": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T19:30:41.422089",
+                    "message": "What hours is the Clinic open?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T19:30:45.383152",
+                    "message": "The Clinic at Muleshoe Area Medical Center operates as a provider-based federally designated Rural Health Clinic. Unfortunately, the specific hours of operation for the Clinic are not provided in the available information. \n\nFor the most accurate and up-to-date information, I recommend contacting the Clinic directly at (806) 272-4524. They will be able to provide you with the exact hours of operation.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-30T19:31:06.922437",
+                    "message": "what is the email address of the hospital?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T19:31:08.306363",
+                    "message": "The email address for Muleshoe Area Medical Center is info@mamc.co. If you have any inquiries or need further assistance, feel free to reach out to them via this email.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "8912e261-89ae-46c6-945a-fb146b3bfc5f",
+            "timestamp": "2024-08-30T19:30:41.422089"
+        },
+        "2bade205-aca2-49d8-8d27-cafd41c4ec35": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T19:44:01.444220",
+                    "message": "How do I contact the hospital/clinic?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T19:44:08.850189",
+                    "message": "To contact the Muleshoe Area Hospital District, you have several options:\n\n### Email\nYou can reach out via email at: [info@mahdtx.org](mailto:info@mahdtx.org)\n\n### Phone\nYou can call the hospital at: **806-272-4524**\n\n### Address\nYou can visit the hospital at:\n**708 S. 1st Street, Muleshoe, Texas 79347**\n\n### Online Resources\n- [Muleshoe Area Medical Center Website](https://muleshoehospital.com/)\n- [Get Directions](https://www.google.com/maps/place/708+S+1st+St,+Muleshoe,+TX+79347/@34.2211878,-102.7288642,17z/data=!3m1!4b1!4m6!3m5!1s0x87025e6c8b1935b1:0xaa358c8cd855c4ea!8m2!3d34.2211878!4d-102.7288642!16s%2Fg%2F11bw4c27qw?entry=ttu)\n- [Pay Bill Online](https://www.personapay.com/muleshoeareamedicalcenter/login)\n\n### Clinic Hours\nThe Medical Clinic of Muleshoe is open during the following times:\n- **Monday:** 7am to 7pm\n- **Tuesday:** 8am to 5pm\n- **Wednesday:** 8am to 5pm\n- **Thursday:** 7am to 7pm\n- **Friday:** 8am to 5pm\n- **Closed on weekends**\n- **Closed for lunch between noon and 1pm on weekdays**\n\nIf you have any further questions or need assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2bade205-aca2-49d8-8d27-cafd41c4ec35",
+            "timestamp": "2024-08-30T19:44:01.444220"
+        },
+        "f2f753ed-d097-4362-b61a-d28bf446b6ba": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T19:44:37.528494",
+                    "message": "What hours is the Clinic open?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T19:44:42.582155",
+                    "message": "The Medical Clinic of Muleshoe is open during the following times:\n\n- **Monday:** 7am to 7pm\n- **Tuesday:** 8am to 5pm\n- **Wednesday:** 8am to 5pm\n- **Thursday:** 7am to 7pm\n- **Friday:** 8am to 5pm\n- **Closed on weekends**\n- **Closed for lunch between noon and 1pm on weekdays**\n\nIf you have any other questions or need further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f2f753ed-d097-4362-b61a-d28bf446b6ba",
+            "timestamp": "2024-08-30T19:44:37.528494"
+        },
+        "72af24e0-bd24-488d-8090-56224473a292": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T19:58:01.866184",
+                    "message": "What hours is the Clinic open?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T19:58:02.710614",
+                    "message": "The Clinic at Muleshoe Area Hospital District is open from Monday to Friday, 8:00 AM to 5:00 PM. If you have any other questions or need further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "72af24e0-bd24-488d-8090-56224473a292",
+            "timestamp": "2024-08-30T19:58:01.866184"
+        },
+        "632d3d94-a24c-4b80-8a4e-66f74bd8bf3a": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-30T19:59:41.336993",
+                    "message": "What hours is the Clinic open?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-30T19:59:44.623673",
+                    "message": "The Medical Clinic of Muleshoe operates during the following hours:\n\n- **Monday:** 7am to 7pm\n- **Tuesday:** 8am to 5pm\n- **Wednesday:** 8am to 5pm\n- **Thursday:** 7am to 7pm\n- **Friday:** 8am to 5pm\n- **Closed on weekends**\n- **Closed for lunch between noon and 1pm on weekdays**\n\nIf you have any further questions or need assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "632d3d94-a24c-4b80-8a4e-66f74bd8bf3a",
+            "timestamp": "2024-08-30T19:59:41.336993"
+        },
+        "bd83450b-592e-493b-a0eb-55548ca5c0da": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-26T13:31:06.856994",
+                    "message": "Who is in charge of hiring",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-26T13:31:15.592152",
+                    "message": "The hiring process at Muleshoe Area Medical Center is under the purview of the hospital's leadership, specifically the **Hospital Administrator**. As of the latest information, Dennis Fleenor, RN, LNFA, MA, is the Hospital Administrator at Muleshoe Area Medical Center. He has significant experience in healthcare administration and manages the overall operations of the hospital, including staffing and hiring.\n\nFor any specific hiring inquiries, you can contact the hospital directly. Here are the contact details:\n\n- **Phone:** (806) 272-4524\n- **Email:** info@mahdtx.org\n\nAdditionally, you can visit the [Careers](https://muleshoehospital.com/careers/) page on their website for more information on job openings and application procedures.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-26T13:34:32.434360",
+                    "message": "What qualifications are needed to be hired",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-26T13:34:37.922415",
+                    "message": "To be considered for a position at Muleshoe Area Medical Center, qualifications can vary depending on the specific role. Here are some general qualifications and requirements typically needed:\n\n1. **Educational Background**:\n   - For nursing positions, completion of a nursing program (such as an RN program) is required. Advanced roles may require a master’s degree in Nurse Administration and Leadership.\n   - For physician roles, an MD degree and relevant board certifications are necessary.\n\n2. **Professional Experience**:\n   - Experience in healthcare settings is often required, with specific experience needed for higher-level positions.\n   - Previous experience in rural or community healthcare can be advantageous.\n\n3. **Licensure and Certifications**:\n   - Appropriate state licensure for medical professionals (e.g., RN, MD) is mandatory.\n   - Additional certifications relevant to the specific role (e.g., BLS, ACLS) may be required.\n\n4. **Skills and Competencies**:\n   - Strong clinical skills and the ability to provide high-quality patient care.\n   - Good communication and teamwork abilities.\n   - Leadership and administrative skills for managerial roles.\n\n5. **Personal Attributes**:\n   - A commitment to the community and the ability to work in a rural healthcare environment.\n   - Adaptability and willingness to contribute to various tasks and responsibilities.\n\nFor more specific qualifications, it's best to refer to the job postings on their [Careers](https://muleshoehospital.com/careers/) page or contact the hospital directly at (806) 272-4524 or info@mahdtx.org.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "bd83450b-592e-493b-a0eb-55548ca5c0da",
+            "timestamp": "2024-09-26T13:31:06.856994"
+        }
+    }
+}

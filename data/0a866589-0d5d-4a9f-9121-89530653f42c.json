@@ -1,0 +1,67 @@
+{
+    "client_id": "0a866589-0d5d-4a9f-9121-89530653f42c",
+    "user_id": "52e80356-51da-42f2-940f-31252171b291",
+    "details": null,
+    "name": "Quentin",
+    "context_summary": "Fineguide.ai's AI-powered assistant solutions, including customizable personas, proactive support, and reinforced learning algorithms. It outlines the pricing plans ranging from free to $499, highlights the ease of signing up without a credit card, and emphasizes the quick setup process for creating an assistant in under 10 seconds.",
+    "chat_sessions": {
+        "bef63641-a5d2-40f5-95a2-cd36dd4cffd2": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-10T17:15:25.234865",
+                    "message": "hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-10T17:15:25.865516",
+                    "message": "Hello there! How can I assist you today? 😊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "bef63641-a5d2-40f5-95a2-cd36dd4cffd2",
+            "timestamp": "2024-07-10T17:15:25.234865"
+        },
+        "33272506-937c-42a8-8b1d-6c62a3f0d31f": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-17T16:08:52.184308",
+                    "message": "hello?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-17T16:08:55.596437",
+                    "message": "Hello! How can I assist you today?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "33272506-937c-42a8-8b1d-6c62a3f0d31f",
+            "timestamp": "2024-07-17T16:08:52.184308"
+        },
+        "0024ba21-9c56-473d-870a-1c273be0926b": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-17T16:30:18.209285",
+                    "message": "any changes?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-17T16:30:20.536400",
+                    "message": "I can help you with any changes you might need. What specific changes are you looking to make or inquire about? Feel free to share your thoughts or questions so we can address them together.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-17T16:30:33.532541",
+                    "message": "kind of wired",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-17T16:30:37.025632",
+                    "message": "I understand your concern. Could you please provide more details or context about what feels \"kind of weird\" to you? This will help me better understand the issue and assist you effectively. Feel free to share any specific details or questions you have in mind.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0024ba21-9c56-473d-870a-1c273be0926b",
+            "timestamp": "2024-07-17T16:30:18.209285"
+        }
+    }
+}

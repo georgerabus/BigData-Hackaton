@@ -1,0 +1,197 @@
+{
+    "client_id": "13f12c58-dbaa-47ae-a091-0bf5445b0c66",
+    "user_id": "356c9026-2789-4a5c-9dc0-e429eeaa627b",
+    "details": null,
+    "name": "Digitale assistent",
+    "context_summary": "Various types of refrigerators, including American models, mini fridges, and specialized drink coolers. It covers key features such as energy efficiency, innovative technologies like No Frost, and specific models from popular brands, along with practical tips for maintenance and organization to help consumers choose the right refrigerator based on their needs.",
+    "chat_sessions": {
+        "f53c8710-7ac6-4fb1-bcfc-899b09a66118": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-02T11:39:03.008849",
+                    "message": "Hoi, wie ben jij?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T11:39:03.831214",
+                    "message": "Hallo! Ik ben je digitale assistent van Watisdebestekoelkast.nl. Hoe kan ik je vandaag helpen?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f53c8710-7ac6-4fb1-bcfc-899b09a66118",
+            "timestamp": "2024-09-02T11:39:03.008849"
+        },
+        "6578bcfc-383e-4c35-a73e-aa81c3165f93": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-02T13:32:15.011201",
+                    "message": "hoi, wie ben jij?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:32:15.817138",
+                    "message": "Hoi! Ik ben je digitale assistent van Watisdebestekoelkast.nl. Hoe kan ik je vandaag helpen?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:43:13.542298",
+                    "message": "Wat is de beste Amerikaanse koelkast?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:43:25.942441",
+                    "message": "Hier zijn enkele van de beste Amerikaanse koelkasten die je kunt overwegen:\n\n1. **Samsung RS68A884CSL/EF**\n   - **Beoordeling:** 9.6 (82 reviews)\n   - **Energieklasse:** C\n   - **Dispenser:** Ja\n   - **Vriesgedeelte:** 226 liter\n   - **Prijs:** €2.019,00\n\n2. **Samsung RS62DG5003S9EF WiFi**\n   - **Beoordeling:** 9.6 (19 reviews)\n   - **Energieklasse:** E\n   - **Dispenser:** Nee\n   - **Vriesgedeelte:** 237 liter\n   - **Prijs:** €1.499,00 (nu €1.099,00)\n\n3. **ETNA AKV578ZWA**\n   - **Beoordeling:** 9.4 (37 reviews)\n   - **Energieklasse:** E\n   - **Dispenser:** Nee\n   - **Vriesgedeelte:** 185 liter\n   - **Prijs:** €819,00 (nu €769,00)\n\n4. **Bosch KAG93AIEP**\n   - **Beoordeling:** 10.0 (2 reviews)\n   - **Energieklasse:** Niet gespecificeerd\n   - **Dispenser:** Nee\n   - **Vriesgedeelte:** 191 liter\n   - **Prijs:** €2.190,30\n\n5. **Haier HB18FGSAAA Easy Access**\n   - **Beoordeling:** 9.3 (68 reviews)\n   - **Energieklasse:** Niet gespecificeerd\n   - **Dispenser:** Nee\n   - **Vriesgedeelte:** Niet gespecificeerd\n   - **Prijs:** €1.579,00\n\nVoor meer informatie en om de koelkasten te vergelijken, kun je de volgende links bezoeken:\n- [Samsung RS68A884CSL/EF](https://www.coolblue.nl/product/877040/samsung-rs68a8842b1.html)\n- [Samsung RS62DG5003S9EF WiFi](https://www.coolblue.nl/product/885058/samsung-rb38a7b6bs9-ef.html)\n- [ETNA AKV578ZWA](https://www.coolblue.nl/product/885058/samsung-rb38a7b6bs9-ef.html)\n- [Bosch KAG93AIEP](https://watisdebestekoelkast.nl/product/bosch-kag93aiep)\n- [Haier HB18FGSAAA Easy Access](https://watisdebestekoelkast.nl/product/haier-hb18fgsaaa)\n\nHeb je nog andere vragen of wil je meer details over een specifieke koelkast?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:44:55.938104",
+                    "message": "test",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:44:56.866153",
+                    "message": "Ik ben er om je te helpen! Waarmee kan ik je vandaag van dienst zijn?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:45:11.004133",
+                    "message": "Wat is de beste kleine Amerikaanse koelakst?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:45:21.540148",
+                    "message": "Voor een kleine Amerikaanse koelkast zijn er verschillende opties die je kunt overwegen. Hier zijn enkele populaire keuzes:\n\n1. **BEKO RSO46WEUN**\n   - **Beoordeling:** 7.5 (3 reviews)\n   - **Kenmerken:** Mini koelkast met vriesvak\n   - **Prijs:** €819,00\n\n2. **INVENTUM KK470W**\n   - **Beoordeling:** 8.0 (1 review)\n   - **Kenmerken:** Mini koelkast met vriesvak\n   - **Prijs:** €769,00\n\n3. **AEG ORT541EW**\n   - **Beoordeling:** Geen reviews\n   - **Kenmerken:** Mini koelkast 40 liter\n   - **Prijs:** €939,00\n\n4. **LIEBHERR TX 1021-22**\n   - **Beoordeling:** Geen reviews\n   - **Kenmerken:** Mini koelkast voor op slaapkamer\n   - **Prijs:** €1.099,00\n\nDeze mini koelkasten zijn ideaal voor kleine ruimtes en bieden voldoende koelcapaciteit voor drankjes en snacks. Voor meer informatie en om de koelkasten te vergelijken, kun je de volgende links bezoeken:\n- [Mini koelkasten overzicht](https://watisdebestekoelkast.nl/mini-koelkast#welke-kleine-koelkast-past-bij-jou)\n- [Populaire mini koelkasten](https://watisdebestekoelkast.nl/mini-koelkast#populaire-mini-koelkasten)\n\nHeb je nog andere vragen of wil je meer details over een specifieke koelkast?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:45:42.580631",
+                    "message": "Nee bedankt",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:45:43.771915",
+                    "message": "Graag gedaan! Als je nog vragen hebt, weet je me te vinden. Fijne dag verder! 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:50:29.573707",
+                    "message": "Hoi, wat is de beste Amerikaanse koelkast?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:50:44.835599",
+                    "message": "Hier zijn enkele van de beste Amerikaanse koelkasten die je kunt overwegen:\n\n1. **Samsung RS68A884CSL/EF**\n   - **Beoordeling:** 9.6 (82 reviews)\n   - **Energieklasse:** C\n   - **Dispenser:** Ja\n   - **Vriesgedeelte:** 226 liter\n   - **Prijs:** €2.019,00\n\n2. **Samsung RS62DG5003S9EF WiFi**\n   - **Beoordeling:** 9.6 (19 reviews)\n   - **Energieklasse:** E\n   - **Dispenser:** Nee\n   - **Vriesgedeelte:** 237 liter\n   - **Prijs:** €1.499,00 (nu €1.099,00)\n\n3. **ETNA AKV578ZWA**\n   - **Beoordeling:** 9.4 (37 reviews)\n   - **Energieklasse:** E\n   - **Dispenser:** Nee\n   - **Vriesgedeelte:** 185 liter\n   - **Prijs:** €819,00 (nu €769,00)\n\n4. **Bosch KAG93AIEP**\n   - **Beoordeling:** 10.0 (2 reviews)\n   - **Energieklasse:** Niet gespecificeerd\n   - **Dispenser:** Nee\n   - **Vriesgedeelte:** 191 liter\n   - **Prijs:** €2.190,30\n\n5. **Haier HB18FGSAAA Easy Access**\n   - **Beoordeling:** 9.3 (68 reviews)\n   - **Energieklasse:** Niet gespecificeerd\n   - **Dispenser:** Nee\n   - **Vriesgedeelte:** Niet gespecificeerd\n   - **Prijs:** €1.579,00\n\nVoor meer informatie en om de koelkasten te vergelijken, kun je de volgende links bezoeken:\n- [Samsung RS68A884CSL/EF](https://watisdebestekoelkast.nl/product/samsung-rs68a8842b1)\n- [Samsung RS62DG5003S9EF WiFi](https://watisdebestekoelkast.nl/product/samsung-rs62dg5003b1ef-wifi)\n- [ETNA AKV578ZWA](https://watisdebestekoelkast.nl/product/etna-akv578zwa)\n- [Bosch KAG93AIEP](https://watisdebestekoelkast.nl/product/bosch-kag93aiep)\n- [Haier HB18FGSAAA Easy Access](https://watisdebestekoelkast.nl/product/haier-hb18fgsaaa)\n\nHeb je nog andere vragen of wil je meer details over een specifieke koelkast?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:56:24.816243",
+                    "message": "Ik heb een hele specifieke vraag, die ik graag met een specialist wil overleggen.",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:56:28.559072",
+                    "message": "Geen probleem! Ik stuur je vraag door naar onze specialist. Ze nemen snel contact met je op voor een oplossing. Bedankt voor je geduld! 😊\n\nJe kunt ook direct contact opnemen via de `Contact Support` optie in het chatmenu.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:57:26.532147",
+                    "message": "Ik wil graag contact met een specialist",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:57:28.437552",
+                    "message": "Natuurlijk! Klik op de `Contact Support` optie in het chatmenu om direct in contact te komen met een specialist. Ze helpen je graag verder! 😊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "6578bcfc-383e-4c35-a73e-aa81c3165f93",
+            "timestamp": "2024-09-02T13:32:15.011201"
+        },
+        "a0124071-409e-4055-9ed2-299809512b69": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-02T13:58:56.959723",
+                    "message": "Hoi, Wat is de beste koelkast voor mij?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:58:59.331974",
+                    "message": "Kun je me iets meer vertellen over wat je zoekt in een koelkast? Denk aan grootte, energiezuinigheid, prijs, of speciale functies. Zo kan ik je beter helpen! 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:59:06.762790",
+                    "message": "Ik zoek een grote koelkast",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:59:08.000111",
+                    "message": "Top! Zoek je een koelkast met een vriesvak of alleen een koelgedeelte? En heb je voorkeur voor een bepaald merk of energieklasse?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:59:16.771072",
+                    "message": "Met een vriesvak graag",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:59:29.789064",
+                    "message": "Hier zijn enkele topkeuzes voor grote koelkasten met een vriesvak:\n\n1. **Samsung RB34T605CB1**\n   - Ruime koel-vriescombinatie\n   - Energiezuinig\n   - [Bekijk hier](https://www.coolblue.nl/product/867699/samsung-rb34t605cb1.html)\n\n2. **Bosch KGE49AICA**\n   - Extra brede koel-vriescombinatie\n   - Energiezuinig\n   - [Bekijk hier](https://www.coolblue.nl/product/868196/bosch-kge49aica.html)\n\n3. **Haier A3FE837CHJ**\n   - Koel-vriescombinatie met vrieslades\n   - Energiezuinig\n   - [Bekijk hier](https://www.coolblue.nl/product/879876/haier-a3fe837chj.html)\n\n4. **Beko RCNE560E60ZXPN**\n   - Populaire keuze voor een brede koel-vriescombinatie\n   - Energiezuinig\n   - [Bekijk hier](https://www.coolblue.nl/product/905028/beko-rcne560e60zxpn.html)\n\n5. **Samsung RB36T602CSA**\n   - Grote koel-vriescombinatie met lage energiekosten\n   - Energiezuinig\n   - [Bekijk hier](https://www.coolblue.nl/product/869348/samsung-rb36t602csa.html)\n\nDeze modellen bieden veel ruimte en zijn energiezuinig. Welke spreekt je het meest aan? 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:59:39.880073",
+                    "message": "De eerste",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:59:43.538877",
+                    "message": "Geweldige keuze! De **Samsung RB34T605CB1** is een topmodel. Hier zijn de belangrijkste kenmerken:\n\n- **Ruime koel-vriescombinatie**: Veel ruimte voor al je boodschappen.\n- **Energiezuinig**: Bespaart op je energierekening.\n- **Strak design**: Past in elke moderne keuken.\n\nWil je meer weten of direct bestellen? [Bekijk hier](https://www.coolblue.nl/product/867699/samsung-rb34t605cb1.html).\n\nHeb je nog vragen over deze koelkast? 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T13:59:55.578538",
+                    "message": "Kun je een ticket voor me aanmaken>",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T13:59:56.737482",
+                    "message": "Natuurlijk! Ik ga dit voor je regelen. Kun je me wat meer details geven over je vraag of probleem, zodat ik het ticket goed kan aanmaken? 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T14:00:10.625209",
+                    "message": "Ik zoek een vervangt onderdeel voor een koelkast",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T14:00:12.259745",
+                    "message": "Begrijpelijk! Kun je me vertellen welk onderdeel je precies zoekt en voor welk model koelkast? Dan maak ik een ticket voor je aan. 😊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T14:00:18.052013",
+                    "message": "deurrubber",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T14:00:19.264464",
+                    "message": "Dank je! Voor welk model koelkast heb je het deurrubber nodig?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T14:00:22.732031",
+                    "message": "S1234",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T14:00:24.628648",
+                    "message": "Bedankt voor de informatie! Ik maak een ticket aan voor een deurrubber voor model S1234. Je wordt zo snel mogelijk gecontacteerd door onze specialist. 😊\n\nIk heb je vraag doorgestuurd naar onze specialist. Ze nemen snel contact met je op voor een oplossing!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "a0124071-409e-4055-9ed2-299809512b69",
+            "timestamp": "2024-09-02T13:58:56.959723"
+        }
+    }
+}

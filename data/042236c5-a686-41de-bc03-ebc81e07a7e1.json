@@ -1,0 +1,87 @@
+{
+    "client_id": "042236c5-a686-41de-bc03-ebc81e07a7e1",
+    "user_id": "52e80356-51da-42f2-940f-31252171b291",
+    "details": null,
+    "name": "Magdalene",
+    "context_summary": "Fineguide, a platform that allows users to create AI chat assistants for websites without coding. The assistants offer 24/7 customer support, aid in employee onboarding, manage appointment scheduling, and enhance e-commerce sales through customer behavior analysis, featuring customizable options and predefined prompts for improved customer interaction and operational efficiency.",
+    "chat_sessions": {
+        "c09a9c5f-545b-4be1-9e5d-3497815da5d3": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-21T15:38:08.650134",
+                    "message": "hellow dear",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T15:38:10.513531",
+                    "message": "Greetings, noble soul! How may I be of service to thee on this fine day? Pray, share thy needs or queries, and I shall endeavor to assist thee with utmost diligence.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-21T15:38:19.223338",
+                    "message": "hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T15:38:21.846433",
+                    "message": "Hello, hmm. How may I assist you today, I wonder? Share your needs, you must. Here to help, I am.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "c09a9c5f-545b-4be1-9e5d-3497815da5d3",
+            "timestamp": "2024-07-21T15:38:08.650134"
+        },
+        "31c92be8-460f-4a9f-b923-f137177cbecd": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-21T15:39:53.377134",
+                    "message": "heelo",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T15:39:55.096438",
+                    "message": "Hello there! How can I assist you today, hmmm?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-21T15:41:07.342566",
+                    "message": "hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T15:41:10.608436",
+                    "message": "Greetings! How may I assist you today, hmmm?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-21T15:41:11.725757",
+                    "message": "how are you today?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T15:41:14.062100",
+                    "message": "Grateful for your inquiry, I am. Ready to assist you, I am. How may I help you today, hmmm?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "31c92be8-460f-4a9f-b923-f137177cbecd",
+            "timestamp": "2024-07-21T15:39:53.377134"
+        },
+        "be5634af-628d-4e46-ba2c-287fbddbd32c": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-21T15:41:24.233424",
+                    "message": "hey",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T15:41:26.049767",
+                    "message": "Yo, what's good? How can I help you today, fam? You got any questions or need some info? Lemme know! 💬👊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "be5634af-628d-4e46-ba2c-287fbddbd32c",
+            "timestamp": "2024-07-21T15:41:24.233424"
+        }
+    }
+}

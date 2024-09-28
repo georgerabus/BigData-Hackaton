@@ -1,0 +1,139 @@
+{
+    "client_id": "9f1e8e44-3977-4978-8f63-149d3b2241d8",
+    "user_id": "a1113857-fb87-41fb-94cc-4632a7ade59b",
+    "details": null,
+    "name": "Email Pricing Wizard",
+    "context_summary": "A comprehensive pricing structure for email marketing services, which includes self-managed, semi-managed, and fully managed tiers, along with various add-on services. Key offerings encompass custom email templates, SMS marketing, email audits, and strategy development, with prices ranging from $125 to $20,250, highlighting the company's support for multiple email service providers and a focus on flexibility and customization for different business needs.",
+    "chat_sessions": {
+        "a66c1c80-3a3a-4610-a4f6-99300e998b00": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T00:15:21.182869",
+                    "message": "hi",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:15:21.803835",
+                    "message": "Hello! How can I assist you with your email marketing pricing needs today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-10T00:16:05.552374",
+                    "message": "how much for 1 monthly email? They would like pricing for fully managed and semi managed.. Also they are looking for a drip campaign in constant contact 3or 4 emails that we would write and set up the campaign?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:16:14.193694",
+                    "message": "### Fully Managed Package\nFor a fully managed service, where we handle all aspects of your email campaigns including content creation, design, and sending via an ESP like Constant Contact:\n\n- **1 Monthly Email**: $1,350 per month\n  - Includes:\n    - Custom email copy (180-250 words)\n    - 1 hero image design\n    - 1 stock image included\n    - Up to 2 revisions\n    - Test link\n    - ESP fully managed\n\n### Semi-Managed Package\nFor a semi-managed service, where you provide the content and we enhance and manage the campaigns:\n\n- **1 Monthly Email**: $850 per month\n  - Includes:\n    - Client-provided copy (we edit)\n    - 1 hero image design\n    - Client provides stock imagery\n    - Up to 1 revision\n    - Test link\n    - ESP fully managed\n\n### Drip Campaign in Constant Contact\nFor a drip campaign consisting of 3-4 emails, including writing and setup:\n\n- **Drip Campaign (3-4 Emails)**: Custom Quote\n  - Includes:\n    - Custom email copy for each email\n    - Campaign setup in Constant Contact\n    - Automation and scheduling\n\n### Add-Ons\n- **Custom Email Copy (180-250 words)**: $125 per email\n- **Content Revisions or Edits**: $62.50 per mailer\n- **Custom Static Hero Image Design**: $125 per image\n- **Dynamic Hero Image Design (Animation, GIFs)**: $187.50 per image\n- **Build out custom email journey and automation for sequences, drips, or abandoned carts**: $300\n\n### Example Pricing Breakdown\n#### Fully Managed\n- **1 Monthly Email**: $1,350\n- **Drip Campaign (4 Emails)**: Custom Quote (Assume $500 for estimation)\n- **Total**: $1,850 (excluding custom quote for drip campaign)\n\n#### Semi-Managed\n- **1 Monthly Email**: $850\n- **Drip Campaign (4 Emails)**: Custom Quote (Assume $500 for estimation)\n- **Total**: $1,350 (excluding custom quote for drip campaign)\n\n### Final Total Cost\nThe final total cost will depend on the exact quote for the drip campaign setup. Please contact us for a detailed quote based on your specific needs.\n\nIf you have any further questions or need a detailed quote, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-10T00:18:18.985040",
+                    "message": "yes give me detailed quote",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:18:47.080968",
+                    "message": "### Detailed Quote for Email Marketing Services\n\n#### Fully Managed Package\nFor a fully managed service, where we handle all aspects of your email campaigns including content creation, design, and sending via an ESP like Constant Contact:\n\n- **1 Monthly Email**: $1,350 per month\n  - Includes:\n    - Custom email copy (180-250 words)\n    - 1 hero image design\n    - 1 stock image included\n    - Up to 2 revisions\n    - Test link\n    - ESP fully managed\n\n#### Semi-Managed Package\nFor a semi-managed service, where you provide the content and we enhance and manage the campaigns:\n\n- **1 Monthly Email**: $850 per month\n  - Includes:\n    - Client-provided copy (we edit)\n    - 1 hero image design\n    - Client provides stock imagery\n    - Up to 1 revision\n    - Test link\n    - ESP fully managed\n\n#### Drip Campaign in Constant Contact\nFor a drip campaign consisting of 3-4 emails, including writing and setup:\n\n- **Drip Campaign (3-4 Emails)**: Custom Quote\n  - Includes:\n    - Custom email copy for each email\n    - Campaign setup in Constant Contact\n    - Automation and scheduling\n\n### Add-Ons\n- **Custom Email Copy (180-250 words)**: $125 per email\n- **Content Revisions or Edits**: $62.50 per mailer\n- **Custom Static Hero Image Design**: $125 per image\n- **Dynamic Hero Image Design (Animation, GIFs)**: $187.50 per image\n- **Build out custom email journey and automation for sequences, drips, or abandoned carts**: $300\n\n### Example Pricing Breakdown\n#### Fully Managed\n- **1 Monthly Email**: $1,350\n- **Drip Campaign (4 Emails)**: Custom Quote (Assume $500 for estimation)\n- **Total**: $1,850 (excluding custom quote for drip campaign)\n\n#### Semi-Managed\n- **1 Monthly Email**: $850\n- **Drip Campaign (4 Emails)**: Custom Quote (Assume $500 for estimation)\n- **Total**: $1,350 (excluding custom quote for drip campaign)\n\n### Final Total Cost\nThe final total cost will depend on the exact quote for the drip campaign setup. Please contact us for a detailed quote based on your specific needs.\n\nIf you have any further questions or need a detailed quote, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-10T00:19:31.181046",
+                    "message": "give me pricing for 4 mailers a month fully managed plus a email marketing strategy added",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:19:37.451547",
+                    "message": "### Detailed Quote for Email Marketing Services\n\n#### Fully Managed Package\nFor a fully managed service, where we handle all aspects of your email campaigns including content creation, design, and sending via an ESP like Constant Contact:\n\n- **4 Monthly Emails**: $2,700 per month\n  - Includes:\n    - Custom email copy (180-250 words) for each email\n    - 1 hero image design per email\n    - 1 stock image included per email\n    - Up to 2 revisions per email\n    - Test link for each email\n    - ESP fully managed\n\n#### Email Marketing Strategy\n- **Email Marketing Strategy & Recommendations**: $1,650 (one-time fee)\n  - Includes:\n    - Comprehensive strategy development\n    - Recommendations for improving email marketing efforts\n    - 11 hours of consulting and strategy sessions\n\n### Add-Ons (Optional)\n- **Custom Email Copy (180-250 words)**: $125 per email\n- **Content Revisions or Edits**: $62.50 per mailer\n- **Custom Static Hero Image Design**: $125 per image\n- **Dynamic Hero Image Design (Animation, GIFs)**: $187.50 per image\n- **Build out custom email journey and automation for sequences, drips, or abandoned carts**: $300\n\n### Example Pricing Breakdown\n#### Fully Managed\n- **4 Monthly Emails**: $2,700 per month\n- **Email Marketing Strategy**: $1,650 (one-time fee)\n\n### Final Total Cost\n- **Monthly Cost**: $2,700\n- **One-Time Cost**: $1,650\n- **Total for First Month**: $4,350\n\nIf you have any further questions or need additional services, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "a66c1c80-3a3a-4610-a4f6-99300e998b00",
+            "timestamp": "2024-09-10T00:15:21.182869"
+        },
+        "456eff9d-7e39-448a-9aac-5d06e64af7fb": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T00:23:11.140698",
+                    "message": "Tell me about the email tiers available and what they include",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:23:26.134746",
+                    "message": "### Email Marketing Service Tiers and Inclusions\n\n#### 1. Fully Managed\n- **Description**: Complete handling of email campaigns including content creation, design, and sending via an ESP we manage.\n- **Inclusions**:\n  - **Tier 1**: 2 emails per month, mailer copy (up to 250 words), 1 hero image design, 1 stock image included, up to 2 revisions, test link, ESP fully managed.\n  - **Tier 2**: 4 emails per month, same inclusions as Tier 1.\n  - **Tier 3**: 8 emails per month, same inclusions as Tier 1.\n- **Pricing**:\n  - Tier 1: $1,350/month\n  - Tier 2: $2,700/month\n  - Tier 3: $5,400/month\n\n#### 2. Semi-Managed\n- **Description**: Clients supply content and imagery; we enhance and manage the ESP.\n- **Inclusions**:\n  - **Tier 1**: 2 emails per month, client provides copy (we edit), 1 hero image design, client provides stock imagery, up to 1 revision, test link, ESP fully managed.\n  - **Tier 2**: 4 emails per month, same inclusions as Tier 1.\n  - **Tier 3**: 8 emails per month, same inclusions as Tier 1.\n- **Pricing**:\n  - Tier 1: $850/month\n  - Tier 2: $1,700/month\n  - Tier 3: $3,400/month\n\n#### 3. Self-Managed\n- **Description**: Clients are responsible for their content and imagery, receiving only the final HTML file.\n- **Inclusions**:\n  - **Tier 1**: 2 emails per month, client provides copy and imagery, up to 1 revision, test link, HTML file only.\n  - **Tier 2**: 4 emails per month, same inclusions as Tier 1.\n  - **Tier 3**: 8 emails per month, same inclusions as Tier 1.\n- **Pricing**:\n  - Tier 1: $450/month\n  - Tier 2: $750/month\n  - Tier 3: $1,500/month\n\n### Add-On Services (One-Time Fees)\n- **Content Team**:\n  - Custom Email Copy (180-250 words): $125\n  - Content Revisions or Edits (per mailer): $62.50\n- **Design Team**:\n  - Stock Image: $15\n  - Simple Static Hero Image Design: $62.50\n  - Custom Static Hero Image Design: $125\n  - Dynamic Hero Image Design: $187.50\n  - Design Revisions: $62.50\n- **Email Team**:\n  - Email Marketing Audit (Basic Analysis): $300\n  - Email Marketing Strategy & Recommendations: $1,650\n  - Monthly Reporting: $150\n  - Custom Email Template (Excludes Design Time): $450\n  - Custom Email Template (Including 3 hrs Design Time): $825\n  - Consulting, Meeting (1 hour): $150\n  - Build Out Custom Email Journey and Automation: $300\n  - Website Form Data Integration Setup and Testing: $300\n  - Existing Contact List Segmentation Setup: $600\n  - Existing Contact List Cleaning (up to 2,000 contacts): $100\n  - Existing Contact List Cleaning (up to 5,000 contacts): $225\n  - Existing Contact List Cleaning (up to 10,000 contacts): $450\n\n### Use Cases and Recommendations\n- **E-commerce Stores**: Fully Managed Tier 1-3 for promotional and cart recovery emails.\n- **SMBs and Local Stores**: Fully Managed Tier 1-3 for monthly newsletters.\n- **Educational Institutions**: Semi-Managed Tier 1-3 for course promotions and event updates.\n- **Non-profits**: Semi-Managed Tier 1-3 for donor engagement and community updates.\n\nEach package can be customized with various add-ons to better fit the specific needs of the business.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "456eff9d-7e39-448a-9aac-5d06e64af7fb",
+            "timestamp": "2024-09-10T00:23:11.140698"
+        },
+        "d22ddf9a-4f10-4922-8be7-f95f23cb323e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T00:23:53.814621",
+                    "message": "Tell me about the email add-ons available",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:24:02.946804",
+                    "message": "Here are the available email marketing add-ons and their one-time fees:\n\n### Content Team Add-Ons\n- **Custom Email Copy (180-250 words):** $125\n- **Content Revisions or Edits (per mailer):** $62.50\n\n### Design Team Add-Ons\n- **Stock Image:** $15\n- **Simple Static Hero Image Design (Image and Logo only, 30 minutes/image):** $62.50\n- **Custom Static Hero Image Design (headlines, coloring, crops, shading, editing, 60 minutes/image):** $125\n- **Dynamic Hero Image Design (Animation, GIFs, 1-2 hours/image):** $187.50\n- **Design Revisions (30 minutes/image):** $62.50\n\n### eCommerce and Drip Campaigns Add-Ons\n- **Emails Triggered by Action (Abandoned Cart, Shipping, Automated Funnels):** Custom Quote\n\n### Email Team Add-Ons\n- **Email Marketing Audit (Basic Analysis, 2 hours):** $300\n- **Email Marketing Strategy & Recommendations (11 hours):** $1,650\n- **Monthly Reporting (Including Open Rate, Click Data, and Performance Insights, 1 hour):** $150\n- **Custom Email Template for Client to Use in Their ESP (Excludes Design Time):** $450\n- **Custom Email Template for Client to Use in Their ESP (Including 3 hours Design Time):** $825\n- **Consulting, Meeting (1 hour):** $150\n- **Build Out Custom Email Journey and Automation for Sequences, Drips, or Abandoned Carts (WordPress Only):** $300\n- **Website Form Data Integration Setup and Testing (WordPress Only):** $300\n- **Existing Contact List Segmentation Setup (4 hours):** $600\n- **Existing Contact List Cleaning (up to 2,000 contacts, 45 minutes):** $100\n- **Existing Contact List Cleaning (up to 5,000 contacts, 1.5 hours):** $225\n- **Existing Contact List Cleaning (up to 10,000 contacts, 3 hours):** $450\n- **Existing Contact List Cleaning (up to 25,000 contacts, 6 hours):** $900\n- **Existing Contact List Cleaning (up to 45,000 contacts, 11 hours):** $1,650\n- **Existing Contact List Cleaning (up to 100,000 contacts, 22 hours):** $3,300\n\nThese add-ons can be combined with any of the service tiers (Fully Managed, Semi-Managed, or Self-Managed) to enhance your email marketing campaigns.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d22ddf9a-4f10-4922-8be7-f95f23cb323e",
+            "timestamp": "2024-09-10T00:23:53.814621"
+        },
+        "b4153c4b-20ca-4b55-b3a1-af854d47bcde": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T00:24:36.248404",
+                    "message": "Help me create a pricing quote for a client",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:24:39.395746",
+                    "message": "To create a pricing quote for your client, I need to gather some details about their specific needs and preferences. Here are a few questions to help me provide the most accurate and tailored quote:\n\n1. **Service Tier**: Which level of service are they interested in?\n   - Fully Managed: Complete management of email campaigns (content creation, design, sending).\n   - Semi-Managed: Client provides content, but we enhance and manage the campaigns.\n   - Self-Managed: Client is responsible for their content, receiving only the final HTML file.\n\n2. **Email Service Provider**: Do they have a preferred email service provider (e.g., Mailchimp, Constant Contact, Klaviyo, Salesforce)?\n\n3. **Campaign Types**: What types of email campaigns are they planning to run (e.g., newsletters, promotional emails, transactional emails)?\n\n4. **Add-Ons**: Are they interested in any additional services?\n   - Custom email copy\n   - Content revisions\n   - Design services\n   - Reporting and analytics\n\n5. **Business Type**: What type of business do they have (e.g., e-commerce, SMB, educational institution)?\n\nOnce I have this information, I can provide a detailed pricing quote that includes the monthly package cost and any one-time add-on fees.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-10T00:27:24.599586",
+                    "message": "self managed; 4 mailers a month. They use Mailchimp, planning to run newsletters and promotion mailers. Interested in reporting and analytics add on added every month. They are a medical practice.",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T00:27:31.815767",
+                    "message": "Based on the information provided, here is a detailed pricing quote for your client, a medical practice, interested in a Self-Managed package with 4 mailers a month using Mailchimp, and including the reporting and analytics add-on:\n\n### Self-Managed Package\n- **Service Level**: Self-Managed\n- **Number of Mailers**: 4 per month\n- **Email Service Provider**: Mailchimp\n- **Campaign Types**: Newsletters and Promotional Mailers\n- **Monthly Package Cost**: $750\n\n### Add-Ons\n- **Monthly Reporting and Analytics**: $150 (per month)\n\n### Total Monthly Cost\n- **Self-Managed Package**: $750\n- **Reporting and Analytics Add-On**: $150\n- **Total Monthly Cost**: $900\n\n### Summary\n- **Service Tier**: Self-Managed\n- **Monthly Package Fee**: $750\n- **Add-On Fee (Monthly Reporting and Analytics)**: $150\n- **Total Monthly Cost**: $900\n\nThis package is ideal for a medical practice that wants to manage its own content and imagery while receiving the final HTML files for upload. The reporting and analytics add-on will provide valuable insights into the performance of their email campaigns, helping them to optimize and improve engagement with their patients.\n\nIf you have any further questions or need additional customization, please let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b4153c4b-20ca-4b55-b3a1-af854d47bcde",
+            "timestamp": "2024-09-10T00:24:36.248404"
+        },
+        "e09329f6-cc31-43ab-b820-6679ea048f6c": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T04:29:49.770538",
+                    "message": "Can you assist me in creating a pricing quote for a client?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T04:29:53.711409",
+                    "message": "Of course, I'd be happy to help you create a pricing quote for your client. To get started, I'll need some information from you:\n\n1. **Service Level**: Do you want full management of your email campaigns, partial management with your provided content, or just the final HTML file?\n2. **Campaign Type**: What type of email campaign are you focusing on (e.g., newsletter, promotional)?\n3. **Number of Emails**: How many emails per month are you planning to send?\n4. **Customization**: Would you like to add any customizations, such as advanced segmentation, custom design, or reporting?\n5. **Business Type**: What type of business or industry are you in?\n\nPlease provide these details so I can tailor the pricing quote to your client's needs.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-10T04:30:44.432505",
+                    "message": "I want 3 mailers on self managed tier, and a email marketing strategy and 10 SMS's messages every month",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T04:30:48.930761",
+                    "message": "### Self-Managed Tier\n- **3 Mailers**: $675.00 per month\n\n### Add-Ons\n- **Email Marketing Strategy**: $1,650.00 (one-time fee)\n- **10 SMS Messages**: $112.50 per month\n\n### Total Cost\n- **Monthly Cost**: $675.00 (Self-Managed Tier) + $112.50 (SMS Messages) = $787.50\n- **One-Time Cost**: $1,650.00 (Email Marketing Strategy)\n\n### Summary\n- **Monthly Recurring Cost**: $787.50\n- **One-Time Cost**: $1,650.00\n\nThis package includes 3 self-managed mailers per month, an email marketing strategy, and 10 SMS messages every month.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e09329f6-cc31-43ab-b820-6679ea048f6c",
+            "timestamp": "2024-09-10T04:29:49.770538"
+        }
+    }
+}

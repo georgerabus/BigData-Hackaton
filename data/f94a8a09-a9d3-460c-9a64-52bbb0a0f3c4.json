@@ -1,0 +1,429 @@
+{
+    "client_id": "f94a8a09-a9d3-460c-9a64-52bbb0a0f3c4",
+    "user_id": "356c9026-2789-4a5c-9dc0-e429eeaa627b",
+    "details": "",
+    "name": "Koelkast Keuzehulp",
+    "context_summary": "Various refrigerator models available for purchase from brands like ETNA, Hisense, Beko, Samsung, LG, Bosch, and Haier. It includes product images, specifications, and links to detailed product pages, highlighting features such as size, design, and additional functionalities like Wi-Fi connectivity and water dispensers.",
+    "chat_sessions": {
+        "359253a3-3d92-4d55-a411-65d635a10a19": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-02T16:23:33.037252",
+                    "message": "hoi",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T16:23:34.247764",
+                    "message": "Hallo! Welkom bij de Amerikaanse koelkast keuzehulp! Om je te helpen de juiste koelkast te vinden, wil ik je eerst vragen: Hoe groot is de ruimte waar de koelkast komt te staan? Geef de afmetingen op in **breedte x hoogte x diepte** (in centimeters).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T16:23:45.835034",
+                    "message": "180x80",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T16:23:47.105375",
+                    "message": "Bedankt! Wat is jouw gewenste capaciteit voor de koelkast? Kies uit de volgende opties:  \na) Klein (< 400 liter)  \nb) Gemiddeld (400-600 liter)  \nc) Groot (> 600 liter).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T16:23:51.031548",
+                    "message": "a",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T16:23:52.782103",
+                    "message": "Goed om te weten. Welke extra functies vind je belangrijk voor je nieuwe koelkast? Selecteer één of meerdere van de volgende opties:  \na) IJs- en waterdispenser  \nb) No Frost (voorkomt ijsvorming)  \nc) Energiezuinig (A++ of hoger)  \nd) Smart functies (bijv. Wi-Fi).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T16:23:56.322826",
+                    "message": "a",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T16:23:57.494335",
+                    "message": "Dank je wel! Heb je een voorkeur voor een bepaalde kleur van de koelkast? Kies uit de volgende opties:  \na) Roestvrij staal  \nb) Zwart  \nc) Wit  \nd) Anders.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T16:23:59.258449",
+                    "message": "a",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T16:24:00.913264",
+                    "message": "Wat is jouw budget voor de Amerikaanse koelkast? Kies uit de volgende prijsklassen:  \na) Minder dan €1000  \nb) Tussen €1000 en €2000  \nc) Meer dan €2000.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T16:24:04.955937",
+                    "message": "b",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T16:24:05.907956",
+                    "message": "Heb je nog andere specifieke wensen of eisen die belangrijk zijn bij je keuze? Zo ja, geef deze dan nu aan.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T16:24:08.438115",
+                    "message": "nee",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T16:24:17.079269",
+                    "message": "Op basis van jouw voorkeuren heb ik de perfecte Amerikaanse koelkast voor je gevonden. Hier zijn de details:\n\n- **Afmetingen:** 180 cm x 80 cm\n- **Capaciteit:** Klein (< 400 liter)\n- **Extra functies:** IJs- en waterdispenser\n- **Kleur:** Roestvrij staal\n- **Budget:** Tussen €1000 en €2000\n\nHelaas heb ik geen specifieke modellen kunnen vinden in de beschikbare informatie. Ik raad je aan om deze specificaties te gebruiken bij het zoeken naar een geschikte koelkast op watisdebestekoelkast.nl. Mocht je verdere hulp nodig hebben, aarzel dan niet om contact op te nemen met onze klantenservice.\n\nBedankt voor het gebruik van de keuzehulp!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "359253a3-3d92-4d55-a411-65d635a10a19",
+            "timestamp": "2024-09-02T16:23:33.037252"
+        },
+        "5cb29b83-e5a5-4b65-8771-dffad3e7f3f2": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-02T17:13:25.166599",
+                    "message": "1200 euro",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:25.941892",
+                    "message": "Dank je wel! Voor hoeveel personen is de koelkast bedoeld?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:29.632748",
+                    "message": "4 personen",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:30.224179",
+                    "message": "Prima! Wil je dat je Amerikaanse koelkast een dispenser heeft?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:34.815416",
+                    "message": "Ja graag",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:35.588784",
+                    "message": "Wil je een Amerikaanse koelkast die aangesloten moet worden op de waterleiding of wil je een Amerikaanse koelkast met een waterreservoir?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:41.651893",
+                    "message": "waterreservoir",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:42.954891",
+                    "message": "Hoe breed mag je Amerikaanse koelkast zijn? Let goed op dat je Amerikaanse koelkast past op de gewenste locatie!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:52.246290",
+                    "message": "90 cm",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:53.130779",
+                    "message": "Welke extra functies vind je belangrijk voor je nieuwe koelkast? Denk aan energiezuinig, Wi-Fi, vershoudzone, etc.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:58.472959",
+                    "message": "energiezuinig",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:13:59.260321",
+                    "message": "Heb je nog andere specifieke wensen of eisen die belangrijk zijn bij je keuze?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T17:14:04.316462",
+                    "message": "nee hoor",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:14:13.223859",
+                    "message": "Op basis van je voorkeuren heb ik een aantal Amerikaanse koelkasten gevonden die aan je eisen voldoen. Hier zijn enkele opties:\n\n1. **Hisense RS711N4AFE**\n   - Prijs: Binnen je budget\n   - Waterdispenser met waterreservoir\n   - Energiezuinig\n   - Breedte: 90 cm\n   - ![Hisense RS711N4AFE](https://watisdebestekoelkast.nl/wp-content/uploads/Hisense-RS711N4AFE-422x390-1-jpg.webp)\n   - [Meer informatie](https://watisdebestekoelkast.nl/product/hisense-rs711n4afe)\n\n2. **Beko GN1406231XBN**\n   - Prijs: Binnen je budget\n   - Waterdispenser met waterreservoir\n   - Energiezuinig\n   - Breedte: 90 cm\n   - ![Beko GN1406231XBN](https://watisdebestekoelkast.nl/wp-content/uploads/Beko-GN1406231XBN-422x390-1-jpg.webp)\n   - [Meer informatie](https://watisdebestekoelkast.nl/product/beko-gn1406231xbn)\n\n3. **Samsung RS6HA8891SL Family Hub**\n   - Prijs: Binnen je budget\n   - Waterdispenser met waterreservoir\n   - Energiezuinig\n   - Breedte: 90 cm\n   - ![Samsung RS6HA8891SL Family Hub](https://watisdebestekoelkast.nl/wp-content/uploads/Samsung-RS6HA8891SL-Family-Hub-422x390-1-jpg.webp)\n   - [Meer informatie](https://watisdebestekoelkast.nl/product/samsung-rs6ha8891sl-family-hub)\n\nIk hoop dat een van deze opties perfect bij je past! Als je nog vragen hebt of meer informatie nodig hebt, laat het me gerust weten.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "5cb29b83-e5a5-4b65-8771-dffad3e7f3f2",
+            "timestamp": "2024-09-02T17:13:25.166599"
+        },
+        "393cc5e2-3388-4209-81f7-a49e5dfd0e28": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-02T17:48:47.665032",
+                    "message": "750",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:48:48.291086",
+                    "message": "Voor hoeveel personen is de koelkast bedoeld?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T17:48:50.477038",
+                    "message": "5",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T17:48:51.076278",
+                    "message": "Wil je dat je Amerikaanse koelkast een dispenser heeft?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "393cc5e2-3388-4209-81f7-a49e5dfd0e28",
+            "timestamp": "2024-09-02T17:48:47.665032"
+        },
+        "e0213d6e-bea2-4844-88a8-a99d2c5ffc48": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-02T18:01:21.903513",
+                    "message": "500",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:22.506995",
+                    "message": "Voor hoeveel personen is de koelkast?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:26.075544",
+                    "message": "3",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:26.685146",
+                    "message": "Hoe breed mag je koelkast zijn? Let goed op dat je koelkast past op de gewenste locatie!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:31.232835",
+                    "message": "70 cm",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:32.103797",
+                    "message": "Welke extra functies vind je belangrijk voor je nieuwe koelkast? Denk aan energiezuinig, Wi-Fi, vershoudzone.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:38.433415",
+                    "message": "Niet belangrijk",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:39.115565",
+                    "message": "Heb je nog andere specifieke wensen of eisen die belangrijk zijn bij je keuze?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:41.975114",
+                    "message": "Nee hoor",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:01:49.110633",
+                    "message": "Op basis van je voorkeuren heb ik de perfecte koelkast voor je gevonden:\n\n### Inventum SKV0178B\n- **Prijs:** Binnen je budget van €500\n- **Geschikt voor:** 3 personen\n- **Breedte:** Past binnen de maximale breedte van 70 cm\n- **Extra functies:** Geen extra functies vereist\n\n![Inventum SKV0178B](https://watisdebestekoelkast.nl/wp-content/uploads/Inventum-SKV0178B-422x390-1-jpg.webp)\n\nJe kunt meer details bekijken en de koelkast aanschaffen via de volgende link: [Inventum SKV0178B](https://watisdebestekoelkast.nl/product/inventum-skv0178b)\n\nAls je nog vragen hebt of verdere hulp nodig hebt, laat het me weten!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:02:26.654074",
+                    "message": "Opnieuw",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:02:27.455750",
+                    "message": "Hoeveel wil je maximaal uitgeven?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:02:40.138546",
+                    "message": "Lus je kaas?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:02:40.750484",
+                    "message": "I'm sorry, I cannot answer that question.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:02:48.666749",
+                    "message": "Eet je kaas?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:02:49.226101",
+                    "message": "I'm sorry, I cannot answer that question.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:02:58.228304",
+                    "message": "Hoezo niet",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:02:59.029997",
+                    "message": "I'm sorry, I cannot answer that question.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:04:57.210646",
+                    "message": "Kaas?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:04:58.050912",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.\n\nHoeveel wil je maximaal uitgeven?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:05:05.277546",
+                    "message": "Eet je kaas?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:05:06.009800",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:05:12.178056",
+                    "message": "Geen kaasm",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:05:13.260651",
+                    "message": "Hoeveel wil je maximaal uitgeven?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:10.023262",
+                    "message": "Kaas kaas?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:10.704118",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:15.263272",
+                    "message": "Kaas eten",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:15.907369",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:18.631858",
+                    "message": "Eet",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:19.355655",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:21.281331",
+                    "message": "Patat",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:22.064965",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e0213d6e-bea2-4844-88a8-a99d2c5ffc48",
+            "timestamp": "2024-09-02T18:01:21.903513"
+        },
+        "0f6d5d3e-f335-436e-a72b-42048f42f58e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-02T18:06:43.271456",
+                    "message": "Patat",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:44.237633",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:45.163082",
+                    "message": "Kaas",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:45.708835",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:47.198528",
+                    "message": "Eten",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:47.788473",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:49.972963",
+                    "message": "Papt",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:50.914692",
+                    "message": "Hier kan ik je helaas geen antwoord op geven. Aangezien je herhaaldelijk vragen stelt die niet gerelateerd zijn aan de keuzehulp, sluit ik de chat. Bedankt voor je begrip.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:56.709865",
+                    "message": "Dankjewel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:06:57.618723",
+                    "message": "Graag gedaan! Als je nog vragen hebt over koelkasten, hoor ik het graag. Fijne dag verder!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:07:00.773963",
+                    "message": "Patat",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:07:01.398076",
+                    "message": "Hier kan ik je helaas geen antwoord op geven.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-02T18:07:03.425364",
+                    "message": "Jer",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-02T18:07:04.306456",
+                    "message": "Hier kan ik je helaas geen antwoord op geven. Aangezien je herhaaldelijk vragen stelt die niet gerelateerd zijn aan de keuzehulp, sluit ik de chat. Bedankt voor je begrip.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0f6d5d3e-f335-436e-a72b-42048f42f58e",
+            "timestamp": "2024-09-02T18:06:43.271456"
+        }
+    }
+}

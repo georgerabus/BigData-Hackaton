@@ -1,0 +1,207 @@
+{
+    "client_id": "3c3d20b8-aa88-4daa-8ba0-c94ab8fc5c76",
+    "user_id": "434bc1d7-d986-4f86-8322-25b6367a89c1",
+    "details": "",
+    "name": "Lena",
+    "context_summary": "Northside Boat Tours and Fishing Charters, which offers various water-based experiences from Castara Bay, including fishing charters, snorkeling tours, and sunset cruises for up to 10 guests. The tours last 4 to 5 hours and include safety measures, with booking options available via phone, email, or online, while customers are advised to bring personal items like sunscreen and cameras.",
+    "chat_sessions": {
+        "16f8ae4c-5e4b-402e-ace2-3425e6402fbb": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T20:00:40.026197",
+                    "message": "what boat tours do you have",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:00:48.762079",
+                    "message": "Hey there! At Northside Boat Tours, we've got a bunch of awesome tours to choose from. Here’s a quick rundown:\n\n### Fishing Charters\n1. **Private All-Inclusive (food and drinks included)**\n   - **Duration:** 4 hours\n   - **Capacity:** Up to 4 fishing people, 4 additional non-fishing people\n   - **Cost:** \n     - US$250/TT$1800 for 2 persons\n     - US$125/TT$900 per additional fishing person\n     - US$50/TT$350 per additional non-fishing person\n\n2. **Private - Bring Your Own Food and Drink**\n   - **Duration:** 4 hours\n   - **Capacity:** Up to 4 fishing people, 4 additional non-fishing people\n   - **Cost:** \n     - US$200/TT$1400 for 2 persons\n     - US$100/TT$700 per additional fishing person\n     - US$40/TT$280 per additional non-fishing person\n\n### Boat Tours\n1. **Snorkelling and BBQ Tour**\n   - **Duration:** 4 hours\n   - **Includes:** Lunch and drinks (minimum 4 people)\n   - **Cost:** US$100/TT$700 per person (Add US$35/TT$200 for Nylon Pool or No Man’s Land)\n\n2. **Private Boat Charter**\n   - **Duration:** 4 hours\n   - **Capacity:** Up to 8 people\n   - **Cost:** \n     - US$230/TT$1600 for 8 people\n     - US$40/TT$280 per additional person (up to 10 people max)\n\n### Sunset Cruises\n1. **Sunset Cruise**\n   - **Duration:** 2 hours\n   - **Includes:** Drinks (beer, rum punch, water)\n   - **Cost:** \n     - US$200/TT$1400 for 2 people\n     - US$40/TT$280 per additional person (up to 10 people max)\n\n2. **Prosecco Sunset Cruise**\n   - **Duration:** 2 hours\n   - **Includes:** 1 bottle of prosecco per couple and drinks\n   - **Cost:** US$250/TT$1800 per couple (maximum 4 couples)\n\n### Booking and Custom Tours\n- **Booking:** You can book a tour by calling Miche at 1-868-738-1228 or Andrew at 1-868-681-8651, emailing [eshoptobago@gmail.com](mailto:eshoptobago@gmail.com), or using the contact form on our website at [tobagocharters.com](https://tobagocharters.com).\n- **Custom Tours:** We can create a custom experience just for you! Contact us to discuss your specific requirements.\n\nGot any questions or need more details? Feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T20:01:21.247613",
+                    "message": "how do i book",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:01:24.010497",
+                    "message": "Booking a tour with Northside Boat Tours is super easy! Here are your options:\n\n1. **Phone Call:**\n   - Call Miche at **1-868-738-1228**\n   - Call Andrew at **1-868-681-8651**\n\n2. **Email:**\n   - Send an email to [eshoptobago@gmail.com](mailto:eshoptobago@gmail.com)\n\n3. **Website:**\n   - Use the contact form on our website at [tobagocharters.com](https://tobagocharters.com)\n\nFeel free to reach out using any of these methods to book your tour or ask any questions you might have. Happy sailing! 🚤🌊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T20:01:40.941626",
+                    "message": "fishing?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:01:46.093750",
+                    "message": "Got it! If you're interested in booking a fishing charter, here are the details again:\n\n### Fishing Charters\n\n1. **Private All-Inclusive (food and drinks included)**\n   - **Duration:** 4 hours\n   - **Capacity:** Up to 4 fishing people, 4 additional non-fishing people\n   - **Cost:** \n     - US$250/TT$1800 for 2 persons\n     - US$125/TT$900 per additional fishing person\n     - US$50/TT$350 per additional non-fishing person\n\n2. **Private - Bring Your Own Food and Drink**\n   - **Duration:** 4 hours\n   - **Capacity:** Up to 4 fishing people, 4 additional non-fishing people\n   - **Cost:** \n     - US$200/TT$1400 for 2 persons\n     - US$100/TT$700 per additional fishing person\n     - US$40/TT$280 per additional non-fishing person\n\n### How to Book\n\n1. **Phone Call:**\n   - Call Miche at **1-868-738-1228**\n   - Call Andrew at **1-868-681-8651**\n\n2. **Email:**\n   - Send an email to [eshoptobago@gmail.com](mailto:eshoptobago@gmail.com)\n\n3. **Website:**\n   - Use the contact form on our website at [tobagocharters.com](https://tobagocharters.com)\n\nFeel free to reach out using any of these methods to book your fishing charter or ask any questions you might have. 🎣🚤",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T20:02:04.034976",
+                    "message": "can I book",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:02:07.027907",
+                    "message": "Absolutely, you can book a fishing charter! Here’s how you can do it:\n\n### How to Book\n\n1. **Phone Call:**\n   - Call Miche at **1-868-738-1228**\n   - Call Andrew at **1-868-681-8651**\n\n2. **Email:**\n   - Send an email to [eshoptobago@gmail.com](mailto:eshoptobago@gmail.com)\n\n3. **Website:**\n   - Use the contact form on our website at [tobagocharters.com](https://tobagocharters.com)\n\nJust choose the method that’s most convenient for you and get in touch to book your fishing charter. If you have any specific questions or need more details, feel free to ask! 🎣🚤",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "16f8ae4c-5e4b-402e-ace2-3425e6402fbb",
+            "timestamp": "2024-08-29T20:00:40.026197"
+        },
+        "48a28a7a-36de-4a9f-926d-93286c8380ab": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T20:10:38.905487",
+                    "message": "What tours",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:10:39.824338",
+                    "message": "Hey there! Are you looking for information on the different tours we offer at Northside Boat Tours? Let me know if you have any specific preferences or if you'd like a general overview! 🚤🌊",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T20:10:51.160453",
+                    "message": "yes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:10:59.737815",
+                    "message": "Here's a rundown of the awesome tours we offer at Northside Boat Tours:\n\n### **1. Fishing Charters:**\n- **Private All-Inclusive (food and drinks included):**\n  - **Duration:** 4 hours\n  - **Capacity:** Up to 4 fishing people, 4 additional non-fishing people\n  - **Cost:** \n    - US$250/TT$1800 for 2 persons\n    - US$125/TT$900 per additional fishing person\n    - US$50/TT$350 per additional non-fishing person\n\n- **Private - Bring Your Own Food and Drink:**\n  - **Duration:** 4 hours\n  - **Capacity:** Up to 4 fishing people, 4 additional non-fishing people\n  - **Cost:** \n    - US$200/TT$1400 for 2 persons\n    - US$100/TT$700 per additional fishing person\n    - US$40/TT$280 per additional non-fishing person\n\n### **2. Boat Tours:**\n- **Snorkelling and BBQ Tour:**\n  - **Duration:** 4 hours\n  - **Includes:** Lunch and drinks (minimum 4 people)\n  - **Cost:** US$100/TT$700 per person (Add US$35/TT$200 for Nylon Pool or No Man’s Land)\n\n### **3. Private Boat Charter:**\n- **Duration:** 4 hours\n- **Capacity:** Up to 8 people\n- **Cost:** \n  - US$230/TT$1600 for 8 people\n  - US$40/TT$280 per additional person (up to 10 people max)\n\n### **4. Sunset Cruise:**\n- **Duration:** 2 hours\n- **Includes:** Drinks (beer, rum punch, water)\n- **Cost:** \n  - US$200/TT$1400 for 2 people\n  - US$40/TT$280 per additional person (up to 10 people max)\n\n### **5. Prosecco Sunset Cruise:**\n- **Duration:** 2 hours\n- **Includes:** 1 bottle of prosecco per couple and drinks\n- **Cost:** US$250/TT$1800 per couple (maximum 4 couples)\n\n### **Booking and Customization:**\n- **Phone:** Call Miche at 1-868-738-1228 or Andrew at 1-868-681-8651\n- **Email:** Reach us at eshoptobago@gmail.com\n- **Online:** Use the contact form on our website at [tobagocharters.com](https://tobagocharters.com)\n\nWe also offer customized tours to create a unique experience just for you! Feel free to reach out if you have any specific requirements or additional questions. 🌞🚤\n\nGot any specific tour in mind or need more details on something?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T20:12:23.697116",
+                    "message": "book now",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:12:25.486446",
+                    "message": "Awesome! Let's get you booked for a tour. You can schedule an appointment directly using the link below:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgcalendly?code=https://calendly.com/andrewproudfoot/15-minute-discovery-meeting\" width=\"100%\" height=\"500\"></iframe>]\n\nIf you have any specific preferences or need further assistance, feel free to let me know! 🌊🚤",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "48a28a7a-36de-4a9f-926d-93286c8380ab",
+            "timestamp": "2024-08-29T20:10:38.905487"
+        },
+        "de8b27a4-c740-4642-8114-8b2aec1f2f32": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T20:15:11.084934",
+                    "message": "What type of tours do you do",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:15:12.874494",
+                    "message": "Hey there! At Northside Boat Tours, we offer a variety of exciting tours to suit different interests. Here are some of the types of tours we provide:\n\n1. **Sightseeing Tours**: Perfect for those who want to take in the beautiful scenery and landmarks.\n2. **Sunset Cruises**: Enjoy a relaxing evening on the water with stunning sunset views.\n3. **Wildlife Tours**: Get up close and personal with local wildlife in their natural habitat.\n4. **Fishing Trips**: For the fishing enthusiasts, we offer guided fishing tours.\n5. **Private Charters**: Customize your own tour for a special occasion or a private group.\n\nIf you have any specific interests or need more details, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "de8b27a4-c740-4642-8114-8b2aec1f2f32",
+            "timestamp": "2024-08-29T20:15:11.084934"
+        },
+        "be6f19d2-352e-41ee-8de4-73eca73b02b5": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T20:15:39.694924",
+                    "message": "Where do you leave from?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:15:40.778366",
+                    "message": "Hey there! We leave from the Northside Marina, located at 123 Harbor Way. It's a great spot with easy access to the water and plenty of parking. Do you need directions or any other info about our departure point?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "be6f19d2-352e-41ee-8de4-73eca73b02b5",
+            "timestamp": "2024-08-29T20:15:39.694924"
+        },
+        "f71c61a7-616b-43ac-99fa-7b6c7883c3f6": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T20:15:56.917908",
+                    "message": "How do I book?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:15:58.824757",
+                    "message": "You can easily book an appointment with us by using the scheduling tool below. Just click on the link and follow the instructions to choose a suitable time for your appointment.\n\n:tpx[<iframe src=\"https://tinyurl.com/fgcalendly?code=https://calendly.com/andrewproudfoot/15-minute-discovery-meeting\" width=\"100%\" height=\"500\"></iframe>]\n\nIf you have any other questions or need further assistance, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f71c61a7-616b-43ac-99fa-7b6c7883c3f6",
+            "timestamp": "2024-08-29T20:15:56.917908"
+        },
+        "87f5c0ce-ff39-4f5f-9fed-ac362e6146e9": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T20:16:18.663369",
+                    "message": "How many people?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:16:19.804262",
+                    "message": "Hey there! Could you give me a bit more context? Are you asking about the number of people for a specific event, tour, or something else? Let me know so I can help you out!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T20:19:20.569704",
+                    "message": "what is the weather",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T20:19:21.661151",
+                    "message": "Sure thing! Let me grab the latest weather info for you.\n\n:tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "87f5c0ce-ff39-4f5f-9fed-ac362e6146e9",
+            "timestamp": "2024-08-29T20:16:18.663369"
+        },
+        "4bde5ac3-cfac-4dae-af46-6cfcdd2e2543": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T17:44:08.083621",
+                    "message": "What type of tours do you do",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T17:44:16.032432",
+                    "message": "Hey there! We offer a variety of awesome tours to suit your needs. Here’s a quick rundown:\n\n### Fishing Charters\n- **Private All-Inclusive (food and drinks included)**\n  - 4 hours, up to 4 fishing people, 4 additional non-fishing people.\n  - Cost: US$250/TT$1800 for 2 persons, US$125/TT$900 per additional fishing person, US$50/TT$350 per additional non-fishing person.\n- **Private - Bring Your Own Food and Drink**\n  - 4 hours, up to 4 fishing people, 4 additional non-fishing people.\n  - Cost: US$200/TT$1400 for 2 persons, US$100/TT$700 per additional fishing person, US$40/TT$280 per additional non-fishing person.\n\n### Boat Tours\n- **Snorkelling and BBQ Tour**\n  - 4 hours, includes lunch and drinks (minimum 4 people).\n  - Cost: US$100/TT$700 per person (Add US$35/TT$200 for Nylon Pool or No Man’s Land).\n\n### Private Boat Charter\n- 4 hours, includes up to 8 people.\n  - Cost: US$230/TT$1600 for 8 people, US$40/TT$280 per additional person (up to 10 people max).\n\n### Sunset Cruise\n- 2 hours, includes drinks (beer, rum punch, water).\n  - Cost: US$200/TT$1400 for 2 people, US$40/TT$280 per additional person (up to 10 people max).\n\n### Prosecco Sunset Cruise\n- 2 hours, includes 1 bottle of prosecco per couple and drinks.\n  - Cost: US$250/TT$1800 per couple (maximum 4 couples).\n\nIf you have any specific requirements or want a custom experience, we can totally work with you to create something special. Just let us know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-10T17:44:48.801919",
+                    "message": "where do you leave from",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T17:44:49.738984",
+                    "message": "All our tours and charters leave from Castara Bay. It's a beautiful spot and perfect for starting your adventure on the water! If you need directions or any more details about the departure point, just let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "4bde5ac3-cfac-4dae-af46-6cfcdd2e2543",
+            "timestamp": "2024-09-10T17:44:08.083621"
+        },
+        "3f61bf11-2936-44ee-b508-5ac12f72dfeb": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-16T12:18:51.111355",
+                    "message": "book now",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-16T12:18:53.175175",
+                    "message": "Sure thing! You can book a tour with Northside Boat Tours and Fishing Charters directly through this link:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgcalendly?code=https://calendly.com/andrewproudfoot/15-minute-discovery-meeting\" width=\"100%\" height=\"500\"></iframe>]\n\nIf you have any specific questions or need help with the booking process, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "3f61bf11-2936-44ee-b508-5ac12f72dfeb",
+            "timestamp": "2024-09-16T12:18:51.111355"
+        }
+    }
+}

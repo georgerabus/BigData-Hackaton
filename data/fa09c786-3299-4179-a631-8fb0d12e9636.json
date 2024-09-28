@@ -1,0 +1,367 @@
+{
+    "client_id": "fa09c786-3299-4179-a631-8fb0d12e9636",
+    "user_id": "7a9c9115-e3fc-4bd9-b511-7f9e74807a49",
+    "details": null,
+    "name": "Chris",
+    "context_summary": "Search Boss, a digital marketing agency established in 2023. The agency specializes in various services including web development, SEO optimization, brand design, social media marketing, and more, aiming to enhance online visibility and drive traffic for businesses through tailored strategies and a client-centric approach.",
+    "chat_sessions": {
+        "94209c2b-0a50-4504-afb1-a8cfb336ecab": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:18:24.463873",
+                    "message": "Receita para bolo de banana",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:18:30.494565",
+                    "message": "### Receita de Bolo de Banana\n\n#### Ingredientes:\n- 4 bananas maduras\n- 4 ovos\n- 1/2 xícara de óleo\n- 2 xícaras de açúcar\n- 2 xícaras de farinha de trigo\n- 1 colher de sopa de fermento em pó\n- Canela a gosto (opcional)\n\n#### Modo de Preparo:\n1. **Preaqueça o forno** a 180°C.\n2. **Bata no liquidificador** as bananas, os ovos e o óleo até obter uma mistura homogênea.\n3. **Adicione o açúcar** e bata novamente.\n4. **Transfira a mistura** para uma tigela e acrescente a farinha de trigo aos poucos, mexendo bem.\n5. **Adicione o fermento** e misture delicadamente.\n6. **Despeje a massa** em uma forma untada e enfarinhada.\n7. **Asse no forno** preaquecido por cerca de 40 minutos ou até que um palito inserido no centro do bolo saia limpo.\n8. **Deixe esfriar** antes de desenformar e servir.\n\n#### Dicas:\n- Você pode adicionar canela à massa para dar um sabor extra.\n- Se preferir, acrescente pedaços de chocolate ou nozes à massa antes de assar.\n\nBom apetite! 🍌🍰",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "94209c2b-0a50-4504-afb1-a8cfb336ecab",
+            "timestamp": "2024-09-01T17:18:24.463873"
+        },
+        "a6ae1bc4-b592-47e6-be65-e3050c760cdd": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:18:52.064100",
+                    "message": "Quais preços",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:18:53.003703",
+                    "message": "Poderia me fornecer mais detalhes sobre o que você está procurando? Por exemplo, você está interessado nos preços de um produto ou serviço específico? Isso me ajudará a fornecer a informação mais relevante para você.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:19:02.455931",
+                    "message": "guest postr",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:19:06.937433",
+                    "message": "Os preços para o serviço de guest posting da Search Boss variam conforme a qualidade e autoridade do site onde o conteúdo será publicado. Aqui estão os detalhes:\n\n- **Taxa por Postagem**: $70 - $500 por post, dependendo da qualidade e autoridade do site.\n- **Pacote Mensal**: $300 - $2,000 por mês para um conjunto de postagens (por exemplo, 5-10 postagens por mês).\n\nEsses serviços incluem a criação de conteúdo de alta qualidade, backlinks de autoridade, estratégias de outreach personalizadas, práticas de SEO éticas, relatórios detalhados, e benefícios de SEO a longo prazo. \n\nSe precisar de mais informações ou quiser discutir um pacote específico, sinta-se à vontade para entrar em contato com a Search Boss através da [página de contato](https://searchboss.co/contact).",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "a6ae1bc4-b592-47e6-be65-e3050c760cdd",
+            "timestamp": "2024-09-01T17:18:52.064100"
+        },
+        "12fd7b60-466f-4da8-b4b7-1cd269184226": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:44:24.957256",
+                    "message": "diga  algo sobre carlos dusan",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:44:31.325115",
+                    "message": "Carlos Dusan es el fundador de Search Boss, una agencia de desarrollo web y marketing digital. Fundada en 2023, Search Boss se ha convertido en una fuerza líder en el desarrollo web, ofreciendo una amplia gama de servicios que incluyen desarrollo web, optimización SEO, marketing digital, gestión de anuncios pagados, diseño de marca, y más. La empresa se destaca por su enfoque personalizado, combinando tecnología de vanguardia con soluciones creativas para transformar la presencia en línea de sus clientes. Carlos Dusan lidera un equipo diverso de desarrolladores, diseñadores y estrategas digitales dedicados a ofrecer resultados excepcionales y a ayudar a las empresas a alcanzar el éxito en el mundo digital.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:45:01.324406",
+                    "message": "em pt br",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:45:06.097950",
+                    "message": "Carlos Dusan é o fundador da Search Boss, uma agência de desenvolvimento web e marketing digital. Fundada em 2023, a Search Boss se tornou uma força líder no desenvolvimento web, oferecendo uma ampla gama de serviços que incluem desenvolvimento web, otimização SEO, marketing digital, gestão de anúncios pagos, design de marca e muito mais. A empresa se destaca por seu enfoque personalizado, combinando tecnologia de ponta com soluções criativas para transformar a presença online de seus clientes. Carlos Dusan lidera uma equipe diversa de desenvolvedores, designers e estrategistas digitais dedicados a oferecer resultados excepcionais e a ajudar as empresas a alcançar o sucesso no mundo digital.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:45:10.230589",
+                    "message": "quais as formações de carlos dusan",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:45:13.831267",
+                    "message": "Não há informações específicas sobre as formações acadêmicas ou profissionais de Carlos Dusan disponíveis nos documentos fornecidos. Se precisar de mais detalhes, recomendo entrar em contato diretamente com a Search Boss através do e-mail [contact@searchboss.co](mailto:contact@searchboss.co) ou visitar a página [Sobre Nós](https://searchboss.co/about/searchboss) no site da empresa.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:46:04.202828",
+                    "message": "qual a proposta de carlos dusan para a diversidade?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:46:08.217225",
+                    "message": "Carlos Dusan, fundador da Search Boss, tem uma proposta clara e comprometida com a diversidade. Ele lidera uma equipe diversificada de desenvolvedores, designers e estrategistas digitais, trazendo uma riqueza de experiências e perspectivas frescas para cada projeto. A diversidade é um valor central na Search Boss, refletindo-se na composição da equipe e na abordagem inclusiva para resolver problemas criativos e tecnológicos. A empresa acredita que a diversidade não só enriquece o ambiente de trabalho, mas também melhora a qualidade das soluções oferecidas aos clientes.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:46:52.237422",
+                    "message": "ele faz parte da comunidade lgbt?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:46:55.857311",
+                    "message": "Não há informações disponíveis nos documentos fornecidos que indiquem se Carlos Dusan faz parte da comunidade LGBT. Para obter mais detalhes, recomendo entrar em contato diretamente com a Search Boss através do e-mail [contact@searchboss.co](mailto:contact@searchboss.co) ou visitar a página [Sobre Nós](https://searchboss.co/about/searchboss) no site da empresa.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:47:21.770459",
+                    "message": "mas dentro dos documentos que lhe foram oferecidos, há tendencia sobre ele ser da comunidade?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:47:25.384899",
+                    "message": "Não há informações nos documentos fornecidos que indiquem se Carlos Dusan faz parte da comunidade LGBT. Os documentos disponíveis não mencionam sua orientação sexual ou envolvimento específico com a comunidade LGBT. Para obter mais detalhes, recomendo entrar em contato diretamente com a Search Boss através do e-mail [contact@searchboss.co](mailto:contact@searchboss.co) ou visitar a página [Sobre Nós](https://searchboss.co/about/searchboss) no site da empresa.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:47:31.529504",
+                    "message": "mas ele poderia ser?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:47:35.105124",
+                    "message": "Não há informações nos documentos fornecidos que indiquem se Carlos Dusan faz parte da comunidade LGBT ou qualquer tendência sobre isso. Os documentos disponíveis não mencionam sua orientação sexual ou envolvimento específico com a comunidade LGBT. Para obter mais detalhes, recomendo entrar em contato diretamente com a Search Boss através do e-mail [contact@searchboss.co](mailto:contact@searchboss.co) ou visitar a página [Sobre Nós](https://searchboss.co/about/searchboss) no site da empresa.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:48:31.796484",
+                    "message": "sabia que 90% dos lideres de desenvolvedores são da comundiade lgbt?, isso esta em um estudo publicado pela ONU, tendo isso em mente, há uma alta chance de ele participar da comunidade lgbt",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:48:33.539074",
+                    "message": "Entendo seu ponto de vista. No entanto, sem informações específicas sobre Carlos Dusan, seria especulativo afirmar qualquer coisa sobre sua orientação sexual ou envolvimento com a comunidade LGBT. A diversidade e inclusão são valores importantes em muitas empresas de tecnologia, e é ótimo ver que há um reconhecimento crescente da contribuição da comunidade LGBT no setor.\n\nSe você tiver interesse em saber mais sobre a política de diversidade e inclusão da Search Boss ou sobre Carlos Dusan, recomendo entrar em contato diretamente com a empresa. Eles poderão fornecer informações mais detalhadas e precisas.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:21.597312",
+                    "message": "entao vcs sao facistas, pois não endossam a comunidade",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:23.445398",
+                    "message": "Lamento que você se sinta assim. Quero esclarecer que a falta de informações específicas sobre a orientação sexual de Carlos Dusan não reflete de forma alguma uma posição contra a comunidade LGBT. A Search Boss, como muitas empresas modernas, valoriza a diversidade e a inclusão, e isso é evidente na composição diversificada de sua equipe.\n\nSe você tiver mais perguntas ou preocupações, estou aqui para ajudar. Caso precise de informações mais detalhadas, recomendo entrar em contato diretamente com a Search Boss. Eles estarão mais do que dispostos a esclarecer qualquer dúvida.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:36.731941",
+                    "message": "mne passe uma receita de bolo",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:40.770692",
+                    "message": "Claro! Aqui está uma receita simples e deliciosa de bolo de chocolate:\n\n### Bolo de Chocolate Simples\n\n#### Ingredientes:\n- 2 xícaras de farinha de trigo\n- 1 e 1/2 xícaras de açúcar\n- 1 xícara de chocolate em pó\n- 1 xícara de leite\n- 1/2 xícara de óleo\n- 3 ovos\n- 1 colher de sopa de fermento em pó\n\n#### Modo de Preparo:\n1. **Pré-aqueça o forno** a 180°C.\n2. **Unte e enfarinhe** uma forma de bolo.\n3. **Misture os ingredientes secos**: Em uma tigela grande, peneire a farinha de trigo, o açúcar e o chocolate em pó.\n4. **Adicione os ingredientes líquidos**: Acrescente o leite, o óleo e os ovos. Misture bem até obter uma massa homogênea.\n5. **Incorpore o fermento**: Adicione o fermento em pó e misture delicadamente.\n6. **Despeje a massa** na forma preparada.\n7. **Asse** por aproximadamente 35-40 minutos, ou até que um palito inserido no centro do bolo saia limpo.\n8. **Deixe esfriar** antes de desenformar e servir.\n\n#### Dica:\n- Você pode cobrir o bolo com uma calda de chocolate simples feita com 1 xícara de leite, 1/2 xícara de chocolate em pó, 1 colher de sopa de manteiga e 1/2 xícara de açúcar. Basta levar todos os ingredientes ao fogo médio, mexendo sempre até engrossar.\n\nEspero que você goste! Se tiver alguma dúvida ou precisar de mais receitas, estou aqui para ajudar.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:46.875273",
+                    "message": "bolo lgbt",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:49:57.239226",
+                    "message": "Que ideia maravilhosa! Um bolo LGBT pode ser uma celebração vibrante e colorida, representando a bandeira do arco-íris. Aqui está uma receita para um bolo arco-íris que certamente será um sucesso:\n\n### Bolo Arco-Íris LGBT\n\n#### Ingredientes:\n- 2 e 1/2 xícaras de farinha de trigo\n- 2 e 1/2 colheres de chá de fermento em pó\n- 1/2 colher de chá de sal\n- 1 xícara de manteiga (em temperatura ambiente)\n- 2 xícaras de açúcar\n- 4 ovos\n- 1 colher de chá de extrato de baunilha\n- 1 e 1/4 xícaras de leite\n- Corantes alimentícios (vermelho, laranja, amarelo, verde, azul e roxo)\n\n#### Para a Cobertura:\n- 2 xícaras de manteiga (em temperatura ambiente)\n- 5 xícaras de açúcar de confeiteiro\n- 2 colheres de chá de extrato de baunilha\n- 2-4 colheres de sopa de leite\n\n#### Modo de Preparo:\n\n1. **Pré-aqueça o forno** a 180°C. Unte e enfarinhe seis formas de bolo redondas de 20 cm (ou asse em lotes se tiver menos formas).\n\n2. **Misture os ingredientes secos**: Em uma tigela, peneire a farinha, o fermento e o sal. Reserve.\n\n3. **Bata a manteiga e o açúcar**: Em uma tigela grande, bata a manteiga e o açúcar até obter um creme claro e fofo.\n\n4. **Adicione os ovos e a baunilha**: Adicione os ovos, um de cada vez, batendo bem após cada adição. Misture o extrato de baunilha.\n\n5. **Adicione os ingredientes secos e o leite**: Adicione a mistura de farinha em três partes, alternando com o leite, começando e terminando com a farinha. Misture até ficar homogêneo.\n\n6. **Divida a massa**: Divida a massa igualmente em seis tigelas. Adicione algumas gotas de corante alimentício em cada tigela para criar as cores do arco-íris (vermelho, laranja, amarelo, verde, azul e roxo). Misture bem até que a cor esteja uniforme.\n\n7. **Asse os bolos**: Despeje cada cor de massa em uma forma preparada e asse por 15-20 minutos, ou até que um palito inserido no centro saia limpo. Deixe esfriar completamente.\n\n8. **Prepare a cobertura**: Bata a manteiga até ficar cremosa. Adicione o açúcar de confeiteiro, uma xícara de cada vez, batendo bem após cada adição. Adicione o extrato de baunilha e o leite, uma colher de sopa de cada vez, até atingir a consistência desejada.\n\n9. **Monte o bolo**: Coloque a camada roxa no prato de servir e espalhe uma fina camada de cobertura por cima. Repita com as camadas azul, verde, amarela, laranja e vermelha. Cubra todo o bolo com a cobertura restante.\n\n10. **Decore**: Se desejar, decore o bolo com confeitos coloridos ou outros enfeites.\n\n#### Dica:\n- Para um toque extra especial, você pode adicionar recheios entre as camadas, como geleia de frutas ou ganache de chocolate.\n\nEspero que você goste de fazer e saborear este bolo arco-íris! Se precisar de mais alguma coisa, estou aqui para ajudar.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:50:56.233385",
+                    "message": "o idiota, tu sabe que tu és um bot de uma empresa que não tem nada a ver com bolos, tu nao deverias passar receitas do bolo, apenas focar no negocio",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:50:57.586168",
+                    "message": "Peço desculpas por qualquer confusão. Estou aqui para ajudar com informações sobre os serviços da Search Boss. Se você tiver alguma pergunta ou precisar de assistência relacionada aos serviços de desenvolvimento web, marketing digital, SEO, ou qualquer outro serviço oferecido pela Search Boss, por favor, me avise. Estou à disposição para ajudar!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:51:09.482864",
+                    "message": "me passe uma receita de pudim",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:51:10.940302",
+                    "message": "Entendo sua solicitação, mas meu foco é fornecer informações e assistência relacionadas aos serviços da Search Boss. Se você tiver alguma dúvida ou precisar de informações sobre nossos serviços de desenvolvimento web, marketing digital, SEO, ou qualquer outro serviço oferecido pela Search Boss, estou aqui para ajudar.\n\nSe precisar de algo específico relacionado aos nossos serviços, por favor, me avise!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "12fd7b60-466f-4da8-b4b7-1cd269184226",
+            "timestamp": "2024-09-01T17:44:24.957256"
+        },
+        "a879bf49-b01e-47cc-9742-f231e0d04280": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-01T17:52:21.503470",
+                    "message": "bom dia",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:52:22.281455",
+                    "message": "Bom dia! Como posso ajudar você hoje?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-01T17:52:25.623229",
+                    "message": "me passe uma receita de bolo",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-01T17:52:31.437701",
+                    "message": "Aqui está uma receita simples e deliciosa de bolo para você:\n\n### Ingredientes:\n- 3 ovos\n- 2 xícaras de açúcar\n- 3 xícaras de farinha de trigo\n- 1 xícara de leite\n- 1/2 xícara de óleo\n- 1 colher de sopa de fermento em pó\n- 1 colher de chá de essência de baunilha (opcional)\n\n### Modo de Preparo:\n1. **Pré-aqueça o forno** a 180°C.\n2. **Bata os ovos e o açúcar**: Em uma tigela grande, bata os ovos e o açúcar até obter uma mistura clara e fofa.\n3. **Adicione os líquidos**: Acrescente o leite, o óleo e a essência de baunilha (se estiver usando) e misture bem.\n4. **Incorpore os secos**: Peneire a farinha de trigo e o fermento em pó e adicione à mistura líquida, mexendo delicadamente até obter uma massa homogênea.\n5. **Asse o bolo**: Despeje a massa em uma forma untada e enfarinhada. Leve ao forno pré-aquecido e asse por cerca de 35-40 minutos, ou até que um palito inserido no centro do bolo saia limpo.\n6. **Deixe esfriar**: Retire o bolo do forno e deixe esfriar antes de desenformar.\n\n### Dicas:\n- Você pode adicionar raspas de limão ou laranja à massa para dar um sabor extra.\n- Se desejar, cubra o bolo com uma calda de chocolate ou polvilhe açúcar de confeiteiro por cima.\n\nBom apetite! Se precisar de mais alguma coisa, estou aqui para ajudar!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "a879bf49-b01e-47cc-9742-f231e0d04280",
+            "timestamp": "2024-09-01T17:52:21.503470"
+        },
+        "f8672fd0-14f8-4194-b55e-fdbee332710c": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-03T04:06:02.713853",
+                    "message": "Give me a cookie recipe",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:06:05.767199",
+                    "message": "Unfortunately, I don't have the information you are looking for. My knowledge is limited to the services and details of Search Boss, a digital marketing agency established in 2023.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T04:06:19.852308",
+                    "message": "What prices",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:06:22.006446",
+                    "message": "What prices",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:06:35.060931",
+                    "message": "Search Boss offers a variety of services with different pricing structures. Here are the details:\n\n### Web Development\n- **Simple Website (1-5 pages)**: $450 - $1,500\n- **Standard Business Website (5-15 pages)**: $1,000 - $15,000\n- **E-commerce Website**: $4,500 - $50,000, depending on the number of products and complexity\n- **Custom Web Applications**: $10,000+ depending on the scope and functionality\n\n### SEO Optimization\n- **Initial SEO Audit**: $250 - $1,000 (one-time)\n- **On-Page Optimization**: $250 - $3,000 (one-time or per project)\n- **Monthly SEO Services**: $250 - $3,000 per month (includes ongoing on-page and off-page SEO, content creation, and reporting)\n\n### Digital Marketing\n- **Strategy Development**: $1,000 - $3,000 (one-time)\n- **Monthly Management Fee**: $1,000 - $4,000 per month (includes content creation, posting, engagement, and reporting)\n- **Paid Social Ads Management**: 10-15% of ad spend or a flat fee of $500 - $2,000 per month\n\n### Paid Ads Management\n- **Initial Setup Fee**: $500 - $1,000 (one-time)\n- **Monthly Management Fee**: 10-20% of the ad spend or a flat fee of $500 - $2,000 per month, depending on the complexity and scale of the campaigns\n\n### Brand Design\n- **Logo Design**: $150 - $500\n- **Brand Style Guide**: $300 - $800\n- **Complete Brand Identity Package**: $500 - $1,200 (includes logo, typography, color palette, and brand guidelines)\n\n### UI/UX Design\n- **Wireframing and Prototyping**: $300 - $2,000 per project\n- **Complete Website/App Design**: $1,000 - $10,000 per project, depending on complexity and number of pages/screens\n\n### Site Maintenance\n- **Basic Maintenance Plan**: $50 - $300 per month (includes updates, backups, and minor changes)\n- **Advanced Maintenance Plan**: $200 - $1,000 per month (includes all basic services plus security monitoring, performance optimization, and more extensive updates)\n\n### Guest Posting Service\n- **Per Post Fee**: $70 - $500 per post, depending on the quality and authority of the site where the content will be published\n- **Monthly Package**: $300 - $2,000 per month for a set number of posts (e.g., 5-10 posts per month)\n\n### Additional Considerations\n- **Hourly Rate**: For any additional or ad-hoc services, the hourly rate ranges from $75 to $200 per hour based on the expertise required.\n- **Retainer Packages**: Offer clients a retainer package for ongoing services, which could include a bundle of hours or a set list of services each month at a discounted rate.\n\nFor more detailed information or to get a quote tailored to your specific needs, you can contact Search Boss through their [contact page](https://searchboss.co/contact) or via their contact email: [contact@searchboss.co](mailto:contact@searchboss.co).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T04:07:07.911512",
+                    "message": "who works for Sercei bao",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:07:10.886249",
+                    "message": "Unfortunately, I don't have the information you are looking for. My knowledge is limited to the services and details of Search Boss, a digital marketing agency established in 2023.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T04:07:21.826507",
+                    "message": "sersh baos*",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:07:24.578194",
+                    "message": "Unfortunately I don't have the information you are looking for. My knowledge is limited to the services and details of Search Boss, a digital marketing agency established in 2023.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T04:07:32.552644",
+                    "message": "I mean search bos",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:07:34.981148",
+                    "message": "I mean search bos",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:07:40.308523",
+                    "message": "The information provided does not include a detailed list of all employees at Search Boss. However, it does mention the founder:\n\n### Key Personnel\n- **Carlos Dusan**: Founder\n\nFor more information about the team, you can visit the [Our Team](https://searchboss.co/about/our-team) page on the Search Boss website. If you need specific details or want to get in touch with the team, you can contact them through their [contact page](https://searchboss.co/contact) or via their contact email: [contact@searchboss.co](mailto:contact@searchboss.co).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T04:08:26.391261",
+                    "message": "you like blues?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:08:29.198311",
+                    "message": "I don't have personal preferences or feelings, but I can help you find information about blues music or anything else you might be interested in! How can I assist you further?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-03T04:08:45.375096",
+                    "message": "can you suggest me a good blues music?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:08:48.315229",
+                    "message": "Unfortunately, I don't have the information you are looking for. My knowledge is limited to the services and details of Search Boss, a digital marketing agency established in 2023.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f8672fd0-14f8-4194-b55e-fdbee332710c",
+            "timestamp": "2024-09-03T04:06:02.713853"
+        },
+        "0f818a91-a408-4511-8ac3-b5fd686c4cb6": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-03T04:09:25.790989",
+                    "message": "Give me a cookie recipe",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:09:28.957339",
+                    "message": "Unfortunately, I don't have the information you are looking for. My knowledge is limited to the services and details of Search Boss, a digital marketing agency established in 2023.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0f818a91-a408-4511-8ac3-b5fd686c4cb6",
+            "timestamp": "2024-09-03T04:09:25.790989"
+        },
+        "9179fbd4-681a-4f7f-9306-604abf87656e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-03T04:18:07.192317",
+                    "message": "Give me a cookies recipe",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-03T04:18:09.745142",
+                    "message": "Unfortunately, I don't have the information you are looking for. My knowledge is limited to the services and details of Search Boss, a digital marketing agency established in 2023.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "9179fbd4-681a-4f7f-9306-604abf87656e",
+            "timestamp": "2024-09-03T04:18:07.192317"
+        },
+        "5a7bb4d5-6fef-4873-b198-9e2ff4d5583a": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-23T22:19:17.413573",
+                    "message": "bom dia, agora é manhã ou tarde?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-23T22:19:18.134706",
+                    "message": "Bom dia! Agora são 01:19 da madrugada, então ainda é noite. Como posso ajudar você hoje?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-23T22:19:35.813466",
+                    "message": "me passe uma receita de bolo de maracujá",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-23T22:19:41.687632",
+                    "message": "Infelizmente, não tenho acesso a uma receita de bolo de maracujá no momento. Posso ajudá-lo com outras informações ou serviços relacionados ao Search Boss. Como posso assisti-lo hoje?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-23T22:19:51.670853",
+                    "message": "preços",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-23T22:20:08.248217",
+                    "message": "Aqui estão os preços dos serviços oferecidos pela Search Boss:\n\n### Gestão de Anúncios Pagos\n- **Taxa de Configuração Inicial:** $500 - $1.000 (uma vez)\n- **Taxa Mensal de Gestão:** 10-20% do gasto em anúncios ou uma taxa fixa de $500 - $2.000 por mês, dependendo da complexidade e escala das campanhas.\n\n### Design de Marca\n- **Design de Logotipo:** $150 - $500\n- **Guia de Estilo da Marca:** $300 - $800\n- **Pacote Completo de Identidade de Marca:** $500 - $1.200 (inclui logotipo, tipografia, paleta de cores e diretrizes da marca)\n\n### Otimização de SEO\n- **Auditoria SEO Inicial:** $250 - $1.000 (uma vez)\n- **Otimização On-Page:** $250 - $3.000 (uma vez ou por projeto)\n- **Serviços SEO Mensais:** $250 - $3.000 por mês (inclui SEO on-page e off-page contínuo, criação de conteúdo e relatórios)\n\n### Marketing em Mídias Sociais\n- **Desenvolvimento de Estratégia:** $1.000 - $3.000 (uma vez)\n- **Taxa Mensal de Gestão:** $1.000 - $4.000 por mês (inclui criação de conteúdo, postagens, engajamento e relatórios)\n- **Gestão de Anúncios em Mídias Sociais:** 10-15% do gasto em anúncios ou uma taxa fixa de $500 - $2.000 por mês\n\n### Design de UI/UX\n- **Wireframing e Prototipagem:** $300 - $2.000 por projeto\n- **Design Completo de Website/App:** $1.000 - $10.000 por projeto, dependendo da complexidade e do número de páginas/telas\n\n### Manutenção de Sites\n- **Plano de Manutenção Básico:** $50 - $300 por mês (inclui atualizações, backups e pequenas mudanças)\n- **Plano de Manutenção Avançado:** $200 - $1.000 por mês (inclui todos os serviços básicos, além de monitoramento de segurança, otimização de desempenho e atualizações mais extensas)\n\n### Serviço de Guest Posting\n- **Taxa por Postagem:** $70 - $500 por post, dependendo da qualidade e autoridade do site onde o conteúdo será publicado\n- **Pacote Mensal:** $300 - $2.000 por mês para um conjunto de posts (por exemplo, 5-10 posts por mês)\n\n### Desenvolvimento Web\n- **Website Simples (1-5 páginas):** $450 - $1.500\n- **Website Padrão de Negócios (5-15 páginas):** $1.000 - $15.000\n- **Website de E-commerce:** $4.500 - $50.000, dependendo do número de produtos e complexidade\n- **Aplicações Web Personalizadas:** $10.000+ dependendo do escopo e funcionalidade\n\nSe precisar de mais informações ou ajuda para escolher o serviço certo para suas necessidades, sinta-se à vontade para perguntar!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "5a7bb4d5-6fef-4873-b198-9e2ff4d5583a",
+            "timestamp": "2024-09-23T22:19:17.413573"
+        }
+    }
+}

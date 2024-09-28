@@ -1,0 +1,81 @@
+{
+    "client_id": "d0732bf8-ccc3-49d8-b6eb-852833d30fca",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "Leslie",
+    "context_summary": "A comprehensive catalog of construction products and services offered by Construmec. It includes details on various construction materials, specifications for products like silletas and concrete mortars, as well as safety equipment and tools, while also outlining services such as steel fabrication and equipment rental, highlighting the company's commitment to quality and compliance with construction standards.",
+    "chat_sessions": {
+        "e3b193a2-9814-443a-9e2b-442f511b6574": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T19:40:15.011273",
+                    "message": "What kind of products do you offer?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:40:25.173157",
+                    "message": "Construmec ofrece una amplia gama de productos para la construcción, que incluyen:\n\n### Materiales de Construcción\n- **Tierra y Grava**: Diferentes tipos de tierra y grava para diversas aplicaciones.\n- **Morteros**: Morteros de cemento, cal, y pre-dosificados.\n- **Impermeabilizantes**: Acrílicos, asfálticos, cementosos, elásticos, membranas líquidas y de poliuretano.\n- **Fibras de Refuerzo**: Fibras de vidrio, carbono, boro, cerámicas, metálicas, aramida y naturales.\n- **Adhesivos y Resinas**: Epóxicos de anclaje, adhesivos epóxicos y resinas de inyección.\n- **Sellos de Junta**: Para evitar el deterioro de estructuras de concreto.\n- **Aditivos**: Dispersantes, fluidificadores y reductores de agua.\n- **Endurecedores y Densificadores**: Para superficies de concreto.\n- **Curadores**: Para el curado de concreto.\n- **Selladores Superficiales y Repelentes de Agua**: Para superficies de concreto y mampostería.\n\n### Equipos y Herramientas\n- **Discos de Corte**: Para mármol, granito, hormigón, piedra, metal y acero inoxidable.\n- **Cepillos de Alambre**: De diferentes marcas y tipos.\n- **Tornillos y Clavos**: Amplia gama de diámetros y longitudes.\n- **Niveles y Escuadras**: Para carpintería y construcción.\n- **Carretillas**: Con llantas neumáticas y mangos de metal o madera.\n- **Cintas y Adhesivos**: Cinta de teflón, cinta de aluminio, cinta doble contacto, entre otros.\n\n### Seguridad\n- **Cascos de Seguridad**: De diferentes colores y tipos.\n- **Chalecos de Seguridad**: Alta visibilidad y resistentes a rayos UV.\n- **Protectores de Oídos y Tapones**: Para reducción de ruido.\n- **Arneses y Líneas de Vida**: Para trabajos en altura.\n- **Guantes**: De diferentes materiales y para diversas aplicaciones.\n- **Calzado de Seguridad**: Botas con puntera de acero y suela antideslizante.\n- **Equipos de Protección Personal**: Respiradores, lentes de seguridad, máscaras para soldar, entre otros.\n\n### Otros Productos\n- **Plywood**: Fenólico, nacional, HDO.\n- **Madera**: Pinotea, espavé.\n- **Plásticos y Geotextiles**: Plástico negro, malla saran, geotextil.\n- **Tanques y Mallas**: Tanques para agua, malla de repello.\n- **Sogas y Cables**: De nylon y manila.\n- **Waterstop**: Para juntas en construcciones de hormigón.\n\nSi necesitas más detalles sobre algún producto específico, no dudes en preguntar. ¿Hay algo en particular que te interese?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:40:44.193905",
+                    "message": "Can you respond in English?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:40:50.241185",
+                    "message": "Of course! Construmec offers a wide range of construction products, including:\n\n### Construction Materials\n- **Soil and Gravel**: Various types of soil and gravel for different applications.\n- **Mortars**: Cement, lime, and pre-mixed mortars.\n- **Waterproofing**: Acrylic, asphaltic, cementitious, elastic, liquid membranes, and polyurethane.\n- **Reinforcement Fibers**: Glass, carbon, boron, ceramic, metallic, aramid, and natural fibers.\n- **Adhesives and Resins**: Anchoring epoxies, epoxy adhesives, and injection resins.\n- **Joint Seals**: To prevent the deterioration of concrete structures.\n- **Additives**: Dispersants, plasticizers, and water reducers.\n- **Hardeners and Densifiers**: For concrete surfaces.\n- **Curing Agents**: For concrete curing.\n- **Surface Sealers and Water Repellents**: For concrete and masonry surfaces.\n\n### Equipment and Tools\n- **Cutting Discs**: For marble, granite, concrete, stone, metal, and stainless steel.\n- **Wire Brushes**: Various brands and types.\n- **Screws and Nails**: Wide range of diameters and lengths.\n- **Levels and Squares**: For carpentry and construction.\n- **Wheelbarrows**: With pneumatic tires and metal or wooden handles.\n- **Tapes and Adhesives**: Teflon tape, aluminum tape, double-sided tape, among others.\n\n### Safety\n- **Safety Helmets**: Different colors and types.\n- **Safety Vests**: High visibility and UV resistant.\n- **Ear Protectors and Plugs**: For noise reduction.\n- **Harnesses and Lifelines**: For working at heights.\n- **Gloves**: Various materials and for different applications.\n- **Safety Footwear**: Boots with steel toe caps and non-slip soles.\n- **Personal Protective Equipment**: Respirators, safety glasses, welding masks, among others.\n\n### Other Products\n- **Plywood**: Phenolic, national, HDO.\n- **Wood**: Pine, espavé.\n- **Plastics and Geotextiles**: Black plastic, saran mesh, geotextile.\n- **Tanks and Meshes**: Water tanks, plaster mesh.\n- **Ropes and Cables**: Nylon and manila.\n- **Waterstop**: For joints in concrete constructions.\n\nIf you need more details about a specific product, feel free to ask. Is there something in particular you are interested in?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:41:14.077870",
+                    "message": "Do you offer delivery?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:41:19.377079",
+                    "message": "Yes, Construmec offers delivery services for their products. They provide delivery for various construction materials, equipment, and tools. If you need more specific details about delivery options or have any particular requirements, please let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T19:41:59.644556",
+                    "message": "How long does delivery take?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T19:42:03.400887",
+                    "message": "The delivery time for Construmec products can vary depending on the specific items and the location of the delivery. However, the exact delivery times are not specified in the available information. \n\nTo get precise details about delivery times for your order, I recommend contacting Construmec directly at:\n\n- **Phone**: +507 6140 0311\n- **Email**: [Construmec Contact](mailto:info@construmec.com)\n\nIs there anything else you would like to know?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e3b193a2-9814-443a-9e2b-442f511b6574",
+            "timestamp": "2024-09-06T19:40:15.011273"
+        },
+        "fd5019e3-89be-42b7-b5fb-a819c7ed0b8c": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-06T22:36:43.996996",
+                    "message": "Tienen sillas plásticas",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T22:36:50.170448",
+                    "message": "Sí, en Construmec disponemos de una variedad de silletas plásticas para diferentes aplicaciones en la construcción. Aquí tienes algunos ejemplos:\n\n1. **Silleta H**: Ideal para losas, trabes y contratrabes, prefabricados, tilt-ups y post-tensados. Tiene una gran capacidad de carga y estabilidad.\n2. **Silleta H con 4 puntos de apoyo**: Especial para prefabricados y todo tipo de losas, con una carga máxima de 275 kg.\n3. **Silleta Utilitaria de Uso Pesado**: Para pisos, caminos y todo tipo de losas de concreto, con una carga máxima de 450 kg.\n4. **Silleta Piramidal**: Para calzar armados y contratrabes en losas de cimentación, con una carga máxima de 250 kg.\n5. **Silleta de Entrepiso**: Para armados y contratrabes en losas de cimentación, con una carga máxima de 250 kg.\n6. **Silleta para Malla**: Diseñada para armados de malla electro-soldada en losas de cimentación, con una carga máxima de 250 kg.\n7. **Silleta Flexible para Malla**: Para losas o capas de compresión de 3 a 6 cm de espesor reforzadas con malla, con una carga máxima de 300 kg.\n\nEstas silletas están diseñadas para proporcionar estabilidad y soporte en diversas aplicaciones de construcción, asegurando un desempeño óptimo en concreto y agregados gruesos.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-06T22:37:47.853280",
+                    "message": "No speak Spanish, can you tell me in English",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-06T22:37:54.294068",
+                    "message": "Yes, Construmec offers a variety of plastic chairs (also known as spacers) for different construction applications. Here are some examples:\n\n1. **H Chair**: Suitable for all types of slabs, beams, and prefabricated elements. It has a maximum load capacity of 450 kg and is designed for steel rods up to 1 1/2''.\n\n2. **H Chair with 4 Support Points**: Specially designed for prefabricated elements and all types of slabs. It has a maximum load capacity of 275 kg and is designed for steel rods up to 1 1/2''.\n\n3. **Heavy-Duty Utility Chair**: Ideal for floors, roads, and all types of concrete slabs. It has a maximum load capacity of 450 kg and is designed for steel rods up to 1 1/2''.\n\n4. **Pyramidal Chair**: Used for supporting reinforcements in all types of foundation slabs. It has a maximum load capacity of 250 kg and is designed for steel rods up to 1 1/2''.\n\n5. **Intermediate Floor Chair**: Used for supporting reinforcements in all types of foundation slabs. It has a maximum load capacity of 250 kg and is designed for steel rods up to 1 1/2''.\n\n6. **Mesh Chair**: Designed for supporting welded mesh reinforcements in foundation slabs. It has a maximum load capacity of 250 kg.\n\n7. **Flexible Mesh Chair**: Used for compression layers of 3 to 6 cm thick reinforced with mesh. It has a maximum load capacity of 300 kg.\n\nThese chairs are designed to provide stability and support in various construction applications, ensuring optimal performance in concrete and coarse aggregates.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "fd5019e3-89be-42b7-b5fb-a819c7ed0b8c",
+            "timestamp": "2024-09-06T22:36:43.996996"
+        }
+    }
+}

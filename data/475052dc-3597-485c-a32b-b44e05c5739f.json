@@ -1,0 +1,71 @@
+{
+    "client_id": "475052dc-3597-485c-a32b-b44e05c5739f",
+    "user_id": "821aeaf0-4e1d-4d58-9c16-621a626b3cdd",
+    "details": "https://www.instagram.com/milzlindemann_auto/",
+    "name": "Jessica",
+    "context_summary": "Milz & Lindemann GmbH, a family-owned car dealership in Germany that offers a diverse selection of new and used vehicles from brands like Abarth, Citroen, Fiat, Jeep, MG, Mitsubishi, and Peugeot. The dealership emphasizes customer satisfaction through attractive financing and leasing options, modern mobility solutions including electric and hybrid vehicles, and active participation in community events.",
+    "chat_sessions": {
+        "cb373e1e-3bea-4ce5-85ea-f61db83152f7": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T09:50:08.997100",
+                    "message": "Welche Öffnungszeiten habt Ihr?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T09:50:15.647183",
+                    "message": "Die Öffnungszeiten von Milz & Lindemann variieren je nach Standort und Abteilung. Hier sind die allgemeinen Öffnungszeiten:\n\n### Standort Düren\n**Kundendienst:**\n- Montag bis Freitag: 08:00 - 18:00 Uhr\n- Samstag: 09:00 - 13:00 Uhr\n\n**Verkauf:**\n- Montag bis Freitag: 09:00 - 18:30 Uhr\n- Samstag: 09:00 - 14:00 Uhr\n\n### Standort Jülich\n**Kundendienst:**\n- Montag bis Freitag: 08:00 - 18:00 Uhr\n- Samstag: 09:00 - 13:00 Uhr\n\n**Verkauf:**\n- Montag bis Freitag: 09:00 - 18:30 Uhr\n- Samstag: 09:00 - 14:00 Uhr\n\n### Standort Übach-Palenberg\n**Kundendienst:**\n- Montag bis Freitag: 08:00 - 18:00 Uhr\n- Samstag: 09:00 - 13:00 Uhr\n\n**Verkauf:**\n- Montag bis Freitag: 09:00 - 18:30 Uhr\n- Samstag: 09:00 - 14:00 Uhr\n\nFalls du spezifische Informationen zu einem bestimmten Standort oder einer Abteilung benötigst, lass es mich bitte wissen!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "cb373e1e-3bea-4ce5-85ea-f61db83152f7",
+            "timestamp": "2024-08-28T09:50:08.997100"
+        },
+        "a1bd5642-1390-4bd9-a4d0-3eb6d844fe26": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T09:55:35.207917",
+                    "message": "Habt Ihr auch einen YouTube Kanal?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T09:55:38.888792",
+                    "message": "Ja, Milz & Lindemann hat einen YouTube-Kanal. Weitere Informationen und Videos finden Sie auf ihrer [Videos-Seite](https://www.milz-lindemann.de/verschiedenes/videos/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T09:56:07.496051",
+                    "message": "insta",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T09:56:08.652374",
+                    "message": "Milz & Lindemann ist auch auf Instagram aktiv. Sie können ihrem Instagram-Profil folgen, um aktuelle Updates und Einblicke zu erhalten. Besuchen Sie einfach [Milz & Lindemann auf Instagram](https://www.instagram.com/milz_lindemann/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T10:01:16.463039",
+                    "message": "Instagram",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T10:01:17.484511",
+                    "message": "Milz & Lindemann ist auf Instagram aktiv. Sie können ihrem Profil folgen, um aktuelle Updates und Einblicke zu erhalten. Besuchen Sie einfach [Milz & Lindemann auf Instagram](https://www.instagram.com/milz_lindemann/).",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T10:01:41.508551",
+                    "message": "Öffnungszeiten",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T10:01:48.521190",
+                    "message": "Hier sind die Öffnungszeiten von Milz & Lindemann für die verschiedenen Standorte:\n\n### Standort Düren\n- **Kundendienst:**\n  - Montag bis Freitag: 08:00 - 18:00 Uhr\n  - Samstag: 09:00 - 13:00 Uhr\n- **Verkauf:**\n  - Montag bis Freitag: 09:00 - 18:30 Uhr\n  - Samstag: 09:00 - 14:00 Uhr\n\n### Standort Jülich (Mühlenteich)\n- **Kundendienst:**\n  - Montag bis Freitag: 08:00 - 18:00 Uhr\n  - Samstag: 09:00 - 13:00 Uhr\n- **Verkauf:**\n  - Montag bis Freitag: 09:00 - 18:30 Uhr\n  - Samstag: 09:00 - 14:00 Uhr\n\n### Standort Übach-Palenberg\n- **Kundendienst:**\n  - Montag bis Freitag: 08:00 - 18:00 Uhr\n  - Samstag: 09:00 - 13:00 Uhr\n- **Verkauf:**\n  - Montag bis Freitag: 09:00 - 18:30 Uhr\n  - Samstag: 09:00 - 14:00 Uhr\n\nFalls Sie weitere Fragen haben oder einen Termin vereinbaren möchten, stehe ich Ihnen gerne zur Verfügung!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "a1bd5642-1390-4bd9-a4d0-3eb6d844fe26",
+            "timestamp": "2024-08-28T09:55:35.207917"
+        }
+    }
+}

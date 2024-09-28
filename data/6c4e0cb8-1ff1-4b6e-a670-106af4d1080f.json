@@ -1,0 +1,35 @@
+{
+    "client_id": "6c4e0cb8-1ff1-4b6e-a670-106af4d1080f",
+    "user_id": "52e80356-51da-42f2-940f-31252171b291",
+    "details": null,
+    "name": "Zachery",
+    "context_summary": "Fineguide, a platform that allows users to create AI chat assistants for websites without coding. It highlights the assistants' capabilities, including 24/7 customer support, employee onboarding, appointment scheduling, and enhancing e-commerce sales through customer behavior analysis, along with customizable features to align with brand identity.",
+    "chat_sessions": {
+        "f869751a-3e5d-4a91-a192-f306d3e6dac8": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-21T16:09:19.028375",
+                    "message": "hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T16:09:20.893458",
+                    "message": "Hello there! How may I assist you today, hmm?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-21T16:09:28.384874",
+                    "message": "what is fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T16:09:31.402889",
+                    "message": "FineGuide, it is, a company providing virtual assistance and support services. Help you, I can, with various queries and tasks. More about FineGuide, would you like to know?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f869751a-3e5d-4a91-a192-f306d3e6dac8",
+            "timestamp": "2024-07-21T16:09:19.028375"
+        }
+    }
+}

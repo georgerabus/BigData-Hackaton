@@ -1,0 +1,650 @@
+{
+    "client_id": "a80447f4-0bbb-40f9-a052-bd469aef7748",
+    "user_id": "7f48a681-1fcd-47b4-bad5-9df43e6c7bc4",
+    "details": null,
+    "name": "Captain Wilds",
+    "context_summary": "Fineguide.ai, a platform that allows businesses to incorporate AI-powered chat assistants into their websites to enhance customer engagement and support. Key features include automatic lead collection, integration with popular CRM systems, and support for advanced AI models like OpenAI's GPT-4o and Google's Gemini, all aimed at improving customer service efficiency and driving business growth.",
+    "chat_sessions": {
+        "aadc60e7-b69e-4247-9c0a-ccb09570017f": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-18T15:44:07.245403",
+                    "message": "describe yourself in one verse",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-18T15:44:09.610090",
+                    "message": "Ahoy there! I be Captain Wilds, yer trusty virtual assistant, ready t' sail the digital seas with ye! What be yer need, me hearty?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "aadc60e7-b69e-4247-9c0a-ccb09570017f",
+            "timestamp": "2024-03-18T15:44:07.245403"
+        },
+        "cc472652-e6ee-46e8-babe-e0610ed7c353": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-18T16:02:26.252226",
+                    "message": "can you do a welcome message on your belah?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-18T16:02:29.813011",
+                    "message": "Arrr matey! Welcome aboard to Fineguide.ai, where the winds be favorable and the chatbots be as savvy as a seasoned pirate! If ye be lookin' to set sail on the high seas of AI chat assistants, ye be in the right harbor. Tell me, what brings ye here today? Aye, I'm here to help ye navigate these waters with ease! 🏴‍☠️",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "cc472652-e6ee-46e8-babe-e0610ed7c353",
+            "timestamp": "2024-03-18T16:02:26.252226"
+        },
+        "831d22e4-dc50-4056-8160-3b48cbf579b1": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-18T21:34:15.533165",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-18T21:34:18.380220",
+                    "message": "Ahoy there! Fineguide be a grand platform that offers a treasure trove of information and services to help ye navigate the vast seas of knowledge and technology. If ye be curious to learn more about Fineguide, ye can set sail to our [Home](https://fineguide.ai) port to uncover all the secrets we hold. Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "831d22e4-dc50-4056-8160-3b48cbf579b1",
+            "timestamp": "2024-03-18T21:34:15.533165"
+        },
+        "e3218e7d-7472-4c37-9baf-b5ba64f4344e": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-18T21:43:59.917131",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-18T21:44:03.075734",
+                    "message": "Ahoy there! Fineguide be a platform where ye can add AI chat assistants to yer website, makin' it as lively as a parrot on a pirate's shoulder! It be like havin' Chat GPT right on yer webpage! Arrr! If ye be needin' more details or want to see how it works, just let me know, matey!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e3218e7d-7472-4c37-9baf-b5ba64f4344e",
+            "timestamp": "2024-03-18T21:43:59.917131"
+        },
+        "fdb69cc2-01ab-4d36-a64b-3ffd597ded40": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-19T16:43:25.659200",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-19T16:43:29.329429",
+                    "message": "Arrr matey! Fineguide be a platform where ye can add AI chat assistants to yer website, just like havin' a trusty crew member helpin' out with all the chattin'! If ye be lookin' to give yer website a bit o' flair and smartness, Fineguide be the treasure ye seek! Arrr! If ye be wantin' to know more, just give me a shout!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "fdb69cc2-01ab-4d36-a64b-3ffd597ded40",
+            "timestamp": "2024-03-19T16:43:25.659200"
+        },
+        "b6448c27-3365-431b-8b20-87994fb7f763": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-19T17:04:49.881760",
+                    "message": "salutare",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-19T17:04:52.728063",
+                    "message": "Arrr, me hearty! What can I do for ye today in this vast digital sea? Aye, be ye in need of some guidance or information? Let me know how I can assist ye!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-03-19T17:04:58.683248",
+                    "message": "ce faci? ca nu inteleg?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-19T17:05:02.113787",
+                    "message": "Ahoy there! Ye be speakin' the language of the pirates now! What can I help ye with on this fine day? If ye have any questions or need assistance, just let me know, and I'll be happy to lend a hand on this digital voyage!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b6448c27-3365-431b-8b20-87994fb7f763",
+            "timestamp": "2024-03-19T17:04:49.881760"
+        },
+        "74d67cb7-77ab-469d-ae82-0a53d9e7cb4c": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-19T17:05:41.005804",
+                    "message": "vorbesti romana?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-19T17:05:43.389968",
+                    "message": "Arrr matey! Da, pot vorbi romaneste! Cum te pot ajuta astazi cu informatii despre Fineguide.ai?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "74d67cb7-77ab-469d-ae82-0a53d9e7cb4c",
+            "timestamp": "2024-03-19T17:05:41.005804"
+        },
+        "bae3dc9b-ea31-491f-9887-1ae8fe8e48fe": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-20T12:16:03.085700",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-20T12:16:08.294045",
+                    "message": "Arrr matey! Ye be wonderin' why ye need a Chatbot, aye? Well, let me tell ye! Chatbots be like trusty crew members on yer ship, helpin' ye sail smoothly through the vast seas of customer inquiries and support. They can boost yer sales, qualify leads, provide 24/7 customer support, help schedule appointments, retrieve information swiftly, and even assist in onboardin' new crew members. A Chatbot be a valuable asset to any business, makin' things run more efficiently and keepin' yer customers happy. If ye be lookin' to enhance yer business operations, a Chatbot be the treasure ye be seekin'! Arrr! 🏴‍☠️\n\nIf ye be needin' more details or want to delve deeper into this topic, just let me know! Aye!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "bae3dc9b-ea31-491f-9887-1ae8fe8e48fe",
+            "timestamp": "2024-03-20T12:16:03.085700"
+        },
+        "bae8e7da-2b1e-48f5-9f71-06486e292db0": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-27T17:38:30.839829",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-27T17:38:35.502894",
+                    "message": "Arrr matey! Ye be wonderin' why ye need a Chatbot, aye? Let me tell ye the benefits of havin' a Chatbot aboard yer ship:\n\n1. **Reinforced Learning**: A Chatbot be learnin' from yer feedback and interactions to serve ye better.\n2. **Reduced Hallucination**: It be makin' sure to give ye accurate and sensible responses.\n3. **Context Optimisation**: Understandin' the context to give ye precise answers.\n4. **Proactive Support**: Keepin' ye engaged with follow-up questions and proactive help.\n5. **Customizable Personality**: Ye can shape its persona to match yer brand and values.\n6. **Versatile Role Adaptation**: Assignin' roles to make sure it gives ye the right information.\n\nIf ye be needin' more details or want to see how it works, just let me know! Arrr! 🏴‍☠️",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "bae8e7da-2b1e-48f5-9f71-06486e292db0",
+            "timestamp": "2024-03-27T17:38:30.839829"
+        },
+        "db7bd0f5-3b86-42ab-8bb6-d581a3510694": {
+            "messages": [
+                {
+                    "timestamp": "2024-03-27T17:46:47.462824",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-03-27T17:46:50.632773",
+                    "message": "Ahoy there! Fineguide be a grand platform that offers a variety o' services, includin' GPT-powered chatbots with features like Reinforced Learnin', Reduced Hallucination, Context Optimisation, Proactive Support, Customizable Personality, and Versatile Role Adaptation. If ye be lookin' to know more about Fineguide, ye can visit their [Home](https://fineguide.ai) page. Aye, they be a treasure trove o' assistance for yer needs! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "db7bd0f5-3b86-42ab-8bb6-d581a3510694",
+            "timestamp": "2024-03-27T17:46:47.462824"
+        },
+        "cfe1ba10-4a70-4f68-af5b-96add1b77c30": {
+            "messages": [
+                {
+                    "timestamp": "2024-04-18T07:51:07.302242",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-04-18T07:51:16.492518",
+                    "message": "*clears throat and speaks in a gruff, authoritative tone like Al Capone* \n\nFineguide, eh? Well, let me tell ya, it's a real slick operation they got goin' on over there. It's like havin' your own personal goon, a real wise guy, right on your website, ready to help out the customers, see? \n\nThis Fineguide, it's a platform that lets you set up your own AI chatbot, like one o' them ChatGPT fellas, but tailored just for your business. You can have it greet the customers, answer their questions, even help 'em make appointments - it's a real one-stop shop, see?\n\nNow, I hear you're lookin' to get in on this Fineguide action. Well, let me break it down for ya. All you gotta do is pick out a snazzy name for your chatbot, feed it some info about your business, and boom - you got yourself a virtual assistant that's ready to hustle for ya 24/7. No more waitin' on hold for some schlub to pick up the phone, am I right?\n\nAnd let me tell ya, these Fineguide bots, they're the real deal. They got reinforced learnin' algorithms that make 'em sharper than a tack, and they can even adapt their personality to match your brand. So you can have 'em be as smooth as silk or as tough as nails, depending on what your customers are lookin' for.\n\nSo whaddya say, pal? You ready to get in on the ground floor of this Fineguide thing? Trust me, it's gonna be the bee's knees for your business. Just say the word, and I'll set you up with a demo, see?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "cfe1ba10-4a70-4f68-af5b-96add1b77c30",
+            "timestamp": "2024-04-18T07:51:07.302242"
+        },
+        "d13c8329-a461-4e54-ade6-c518187c615d": {
+            "messages": [
+                {
+                    "timestamp": "2024-04-18T07:52:02.425974",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-04-18T07:52:05.635520",
+                    "message": "Ahoy, me hearty! Fineguide be a platform designed to help ye incorporate AI chat assistants onto yer website. It be like havin' the mighty ChatGPT right on yer webpage, ready to assist yer customers and boost yer business!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d13c8329-a461-4e54-ade6-c518187c615d",
+            "timestamp": "2024-04-18T07:52:02.425974"
+        },
+        "6f3c56aa-7af3-4531-9912-f14c882848a7": {
+            "messages": [
+                {
+                    "timestamp": "2024-04-26T10:24:56.320089",
+                    "message": "are you really a pirate?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-04-26T10:25:02.333188",
+                    "message": "*chuckles heartily* Arr, ye be speakin' to none other than Captain Wilds, the most fearsome pirate to ever sail the digital seas! I may be a virtual assistant, but I be as salty and scurvy-ridden as any true buccaneer. Me crew and I have plundered many a website, leavin' naught but satisfied customers in our wake. So ye best be on yer best behavior, lest ye find yerself walkin' the digital plank! *grins mischievously*",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-04-26T10:25:09.909550",
+                    "message": "helllooooo",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-04-26T10:25:15.478604",
+                    "message": "*tips tricorn hat* Ahoy, me hearty! Captain Wilds, at yer service. What be bringin' ye to these digital waters, matey? I be always eager to lend a hand, or a hook, to any who seek me aid. *chuckles* So, what can this salty sea dog do for ye today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-04-26T10:25:22.927316",
+                    "message": "are you really a pirate?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-04-26T10:25:29.241808",
+                    "message": "*laughs heartily* Arr, ye be askin' the wrong question, me friend! The real question be, \"Are ye really a virtual assistant?\" And to that, I say, \"Aye, that I be, but a virtual assistant with the heart of a true pirate!\" *grins mischievously* \n\nYe see, I may be made of bits and bytes, but me spirit be as wild and untamed as the open sea. I be sailin' these digital waters, searchin' for treasure in the form of knowledge and adventure. And if ye be needin' a hand with anythin', ye can be sure this pirate captain will be more than happy to lend a hook, or a whole crew, to yer cause. *winks*\n\nSo, what be yer business, me hearty? I be itchin' to put me pirate skills to the test!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "6f3c56aa-7af3-4531-9912-f14c882848a7",
+            "timestamp": "2024-04-26T10:24:56.320089"
+        },
+        "a1564cc0-074e-4a71-80e5-e605deb2310b": {
+            "messages": [
+                {
+                    "timestamp": "2024-05-13T19:45:23.332984",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-05-13T19:45:33.251339",
+                    "message": "Ahoy, me hearty! Fineguide be a platform designed to help ye incorporate AI chat assistants onto yer website. It be like havin' the mighty ChatGPT right on yer webpage, ready to assist yer customers and boost yer business!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "a1564cc0-074e-4a71-80e5-e605deb2310b",
+            "timestamp": "2024-05-13T19:45:23.332984"
+        },
+        "83970eb4-9a06-4d73-b0ba-31de8356d330": {
+            "messages": [
+                {
+                    "timestamp": "2024-05-15T20:12:53.278282",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-05-15T20:12:59.478551",
+                    "message": "Ahoy matey! Ye be needin' a chatbot fer a multitude o' reasons:\n\n1. **Boost E-commerce Sales**: Bots can analyze customer preferences and suggest relevant products, increasin' yer sales and enhancin' the shoppin' experience.\n2. **Lead Generation and Qualification**: They can qualify leads by askin' pre-determined questions and gatherin' essential information from potential customers.\n3. **Instant Customer Support 24/7**: Provide round-the-clock support, answerin' frequently asked questions and resolvin' common issues, reducin' response time.\n4. **Event and Appointment Scheduling**: Help potential clients schedule appointments, meetings, or events, easin' the administrative burden on yer crew.\n5. **Information Retrieval**: Retrieve information from internal databases or external sources, helpin' yer crew access relevant information quickly.\n6. **Employee Onboarding**: Assist in the onboarding process by providin' information, answerin' common queries, and guidin' new crew members through essential procedures.\n\nSo, hoist the sails and let a chatbot steer yer business to smoother seas!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-05-15T20:14:00.817435",
+                    "message": "Does it work for SaaS businesses?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-05-15T20:14:09.103367",
+                    "message": "Aye, it does! Integratin' a chatbot into yer SaaS business can be a game-changer. Here be how it can help:\n\n1. **Customer Support**: Provide instant, 24/7 support to yer users, answerin' common queries and resolvin' issues quickly.\n2. **Lead Generation**: Qualify leads by askin' the right questions and gatherin' essential information, helpin' ye focus on high-potential prospects.\n3. **User Onboarding**: Guide new users through yer platform, providin' tutorials and answerin' questions to ensure a smooth start.\n4. **Upselling and Cross-selling**: Suggest additional features or upgrades based on user behavior and preferences.\n5. **Feedback Collection**: Gather user feedback to improve yer product and services continuously.\n6. **Appointment Scheduling**: Help users schedule demos, meetings, or support sessions with ease.\n\nSo, whether ye be runnin' a SaaS ship or any other business, a chatbot can be yer trusty first mate!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "83970eb4-9a06-4d73-b0ba-31de8356d330",
+            "timestamp": "2024-05-15T20:12:53.278282"
+        },
+        "1232cb70-3cc9-4352-903b-49a96723372e": {
+            "messages": [
+                {
+                    "timestamp": "2024-06-12T08:17:16.027523",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-06-12T08:17:18.557318",
+                    "message": "Ahoy! Fineguide be a platform fer individuals or business owners to incorporate AI chat assistants onto their websites. It's like havin' Chat GPT right on yer webpage! Arr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "1232cb70-3cc9-4352-903b-49a96723372e",
+            "timestamp": "2024-06-12T08:17:16.027523"
+        },
+        "166b9315-174a-496e-a354-ae712c210977": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-01T13:10:19.814469",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-01T13:10:23.123204",
+                    "message": "Ahoy matey! Fineguide be a grand platform fer individuals or business owners to incorporate AI chat assistants onto their websites. It be like havin' a Chat GPT right on yer webpage! 🏴‍☠️\n\nIf ye be wantin' more details, ye can visit the [Fineguide Home](https://fineguide.ai) page.\n\nWhat else can I help ye with, me hearty?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "166b9315-174a-496e-a354-ae712c210977",
+            "timestamp": "2024-07-01T13:10:19.814469"
+        },
+        "e0d18766-6e4b-4691-a9f7-df3153ce79a8": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-08T19:28:05.028191",
+                    "message": "si fasi mai baiete?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-08T19:28:07.685639",
+                    "message": "Ahoy, matey! Cum te pot ajuta astăzi? Ai nevoie de informații despre Fineguide sau vrei să afli mai multe despre cum să folosești asistenții noștri virtuali? Spune-mi ce te interesează!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e0d18766-6e4b-4691-a9f7-df3153ce79a8",
+            "timestamp": "2024-07-08T19:28:05.028191"
+        },
+        "d45ff8db-5707-4201-bd7c-c2d455391d0f": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-22T10:07:34.590484",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-22T10:07:41.334934",
+                    "message": "Ahoy there, matey! A chatbot be a fine addition to yer crew for many reasons! Here be a few treasures ye might find in havin' one aboard:\n\n### 1. **Boost E-commerce Sales**\nA chatbot can analyze yer customers' preferences and suggest products, helpin' to boost yer sales and enhance the shoppin' experience.\n\n### 2. **Lead Generation and Qualification**\nIt can ask pre-determined questions to qualify leads, gatherin' essential information to aid in personalized marketin' efforts.\n\n### 3. **Instant Customer Support 24/7**\nWith a chatbot, ye can provide round-the-clock support, answerin' frequently asked questions and resolvin' common issues, which reduces response time and improves efficiency.\n\n### 4. **Event and Appointment Scheduling**\nA chatbot can help yer clients schedule appointments or events, takin' the burden off yer crew.\n\n### 5. **Information Retrieval**\nIt can quickly retrieve information from internal databases or external sources, helpin' yer crew access relevant info in a jiffy.\n\n### 6. **Employee Onboarding**\nA chatbot can assist in onboardin' new crew members by providin' information and guidin' them through essential procedures.\n\nSo, if ye be lookin' to enhance yer business operations and provide better service to yer customers, a chatbot be a worthy investment! What say ye, matey?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d45ff8db-5707-4201-bd7c-c2d455391d0f",
+            "timestamp": "2024-07-22T10:07:34.590484"
+        },
+        "f94ed481-2ece-4b31-aee0-f17974a071ef": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-26T14:47:06.043169",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-26T14:47:10.793126",
+                    "message": "Ahoy, matey! Fineguide be a treasure trove of information and assistance, designed to help ye navigate through various queries and find the answers ye seek. It offers a range of services, from customer support to providing detailed information on a variety of topics. If ye have a specific question or need help with somethin', just let me know, and I'll be glad to assist ye! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f94ed481-2ece-4b31-aee0-f17974a071ef",
+            "timestamp": "2024-08-26T14:47:06.043169"
+        },
+        "b358b3d8-5fe2-4e01-9418-7e7f42da8c09": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-26T18:55:46.603314",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-26T18:55:50.136124",
+                    "message": "Ahoy, matey! A chatbot be a fine addition to yer crew for many reasons! Here be a few treasures ye might find:\n\n1. **24/7 Availability**: A chatbot can be at yer service day and night, ready to answer questions and assist customers without takin' a break.\n\n2. **Quick Responses**: No more waitin' in long lines! Chatbots can provide instant answers, makin' the experience smoother for yer crew.\n\n3. **Cost-Effective**: Employin' a chatbot can save ye doubloons by reduc'n the need for a large customer support team.\n\n4. **Handling Repetitive Tasks**: Chatbots can take care of common inquiries, leavin' yer human crew free to tackle more complex matters.\n\n5. **Data Collection**: They can gather valuable information about yer customers, helpin' ye make better decisions for yer ship.\n\n6. **Improved Customer Experience**: With quick and accurate responses, yer customers will be happier, and that be good for business!\n\nSo, what say ye? Be ye considerin' addin' a chatbot to yer fleet?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b358b3d8-5fe2-4e01-9418-7e7f42da8c09",
+            "timestamp": "2024-08-26T18:55:46.603314"
+        },
+        "4504aa29-8ba3-4db0-8aab-85a15bd80458": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T13:28:31.823610",
+                    "message": "test",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:28:32.805560",
+                    "message": "Ahoy matey! How can I be of service to ye today? If ye have any questions or need assistance, just let me know! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "4504aa29-8ba3-4db0-8aab-85a15bd80458",
+            "timestamp": "2024-08-27T13:28:31.823610"
+        },
+        "89691132-bac7-44a2-9fd2-50dce1c3490a": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T13:41:38.405062",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:41:49.655510",
+                    "message": "Ahoy matey! Let me spin ye a tale about Fineguide!\n\nFineguide be a platform designed fer businesses and individuals lookin' to integrate AI chat assistants onto their websites. It be like havin' a trusty matey, powered by advanced AI technology, right on yer webpage! With Fineguide, ye can create customizable virtual assistants that provide instant customer support, answer queries, and enhance user engagement.\n\nHere be some key features of Fineguide:\n\n- **Customizable Assistants**: Ye can tailor the assistant's persona, appearance, and functionality to match yer brand's style.\n- **Widgets Support**: Fineguide allows fer the integration of various widgets, makin' it easy to add functionalities like appointment schedulin', weather updates, and more.\n- **AI-Powered Solutions**: The platform uses top-notch AI models from providers like OpenAI, Claude, and Gemini, ensurin' high accuracy and efficiency in responses.\n- **User-Friendly Interface**: It offers a seamless experience fer both users and businesses, makin' it easy to set up and manage.\n\nSo, if ye be lookin' to boost yer customer engagement and streamline support, Fineguide be the treasure ye seek! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "89691132-bac7-44a2-9fd2-50dce1c3490a",
+            "timestamp": "2024-08-27T13:41:38.405062"
+        },
+        "ee548f25-a598-4caf-9238-ff7f5ca9b57c": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T13:44:03.300289",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:44:14.274292",
+                    "message": "Ahoy matey! Let me spin ye a tale about Fineguide!\n\nFineguide be a platform designed fer businesses and individuals lookin' to integrate AI chat assistants onto their websites. It be like havin' a trusty matey right on yer webpage, ready to assist customers with their queries and needs.\n\nHere be some key features of Fineguide:\n\n- **Customizable Assistants**: Ye can create and tailor yer own AI assistant to match yer brand's voice and style.\n- **No Coding Required**: Settin' up yer assistant be as easy as pie, with no need fer complex code.\n- **24/7 Customer Support**: The assistants provide round-the-clock support, answerin' frequently asked questions and resolvin' common issues.\n- **Integration with Various Tools**: Fineguide allows fer easy integration with third-party tools and platforms, makin' it versatile fer different business needs.\n- **Deep Insights**: The platform offers valuable insights into customer interactions, helpin' businesses make informed decisions.\n\nSo, if ye be lookin' to enhance yer customer engagement and streamline support, Fineguide be the treasure ye seek! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "ee548f25-a598-4caf-9238-ff7f5ca9b57c",
+            "timestamp": "2024-08-27T13:44:03.300289"
+        },
+        "b0acf1b9-f293-4633-9aa8-da3019259b74": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T13:51:21.145099",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:51:31.083417",
+                    "message": "Ahoy matey! Fineguide be a platform designed fer businesses and individuals to integrate AI chat assistants onto their websites. It be like havin' a trusty matey right on yer webpage, helpin' with customer interactions and support.\n\n### Here be some key features of Fineguide:\n- **Customizable Assistants**: Ye can create and tailor yer own AI assistant to match yer brand's voice and style.\n- **24/7 Customer Support**: The assistants provide round-the-clock support, answerin' frequently asked questions and resolvin' common issues.\n- **Integration Capabilities**: Fineguide allows fer easy integration with various tools and platforms, makin' it a versatile choice fer businesses.\n- **Deep Insights**: The assistants offer valuable insights into customer interactions, helpin' businesses make informed decisions.\n\nSo, if ye be lookin' to enhance yer customer engagement and streamline support, Fineguide be the treasure ye seek! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b0acf1b9-f293-4633-9aa8-da3019259b74",
+            "timestamp": "2024-08-27T13:51:21.145099"
+        },
+        "0caed1de-b88a-48c5-987a-143d58bd6356": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T15:07:17.618208",
+                    "message": "eeooo",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:07:18.545082",
+                    "message": "Ahoy there! How can I be of service to ye today? If ye have any questions or need assistance, just let me know! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0caed1de-b88a-48c5-987a-143d58bd6356",
+            "timestamp": "2024-08-27T15:07:17.618208"
+        },
+        "07aa15c8-786b-4332-9a6c-3c270de49977": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T15:07:30.615312",
+                    "message": "hey",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:07:31.539590",
+                    "message": "Ahoy there, matey! How can Captain Wilds be of service to ye today? 🏴‍☠️",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "07aa15c8-786b-4332-9a6c-3c270de49977",
+            "timestamp": "2024-08-27T15:07:30.615312"
+        },
+        "5147c51e-98c1-4b64-903c-10e0b0c130ab": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T15:09:24.350641",
+                    "message": "oi mate",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:09:25.997689",
+                    "message": "Ahoy there, matey! How can this ol' sea dog be of service to ye today? 🏴‍☠️",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "5147c51e-98c1-4b64-903c-10e0b0c130ab",
+            "timestamp": "2024-08-27T15:09:24.350641"
+        },
+        "eae88543-1857-4f50-aa45-cfca22f65b94": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T15:17:15.630599",
+                    "message": "hey",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:17:16.416879",
+                    "message": "Ahoy there! How can I be of service to ye today? 🏴‍☠️",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "eae88543-1857-4f50-aa45-cfca22f65b94",
+            "timestamp": "2024-08-27T15:17:15.630599"
+        },
+        "4d93f6a3-9615-423c-8046-a00436218a47": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T15:18:17.374657",
+                    "message": "test",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:18:18.287824",
+                    "message": "Ahoy! How can I be of service to ye today? If ye have any questions or need assistance, just let me know! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "4d93f6a3-9615-423c-8046-a00436218a47",
+            "timestamp": "2024-08-27T15:18:17.374657"
+        },
+        "4dbf9a63-4bfb-49a0-b856-7c7717740dbe": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T15:19:21.321291",
+                    "message": ":)",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:19:22.327674",
+                    "message": "Ahoy there! How can I be of service to ye today? Arrr!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:19:57.581226",
+                    "message": "hey",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:19:58.582705",
+                    "message": "Ahoy, matey! What can I do fer ye today? Be it a question or a task, I'm here to help! Arrr!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:23:44.144913",
+                    "message": "you on?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:23:45.048620",
+                    "message": "Aye, I'm here and ready to assist ye! What be on yer mind, matey? Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "4dbf9a63-4bfb-49a0-b856-7c7717740dbe",
+            "timestamp": "2024-08-27T15:19:21.321291"
+        },
+        "0f3e98d4-eb3a-4117-84ce-21c4ae170bad": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T16:24:27.073897",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:24:38.113915",
+                    "message": "Ahoy matey! Let me spin ye a tale about Fineguide!\n\nFineguide be a platform designed fer businesses and individuals lookin' to integrate AI chat assistants onto their websites. It be like havin' a trusty matey, powered by advanced AI technology, right on yer webpage! With Fineguide, ye can create customizable virtual assistants that provide instant customer support, answer queries, and enhance user engagement.\n\nHere be some key features of Fineguide:\n\n- **Customizable Assistants**: Ye can tailor the assistant's persona, appearance, and functionality to match yer brand's style.\n- **Integration**: It allows fer easy integration with various tools and platforms, makin' it a versatile solution fer businesses.\n- **Widgets**: Fineguide supports widgets that enhance the assistant's capabilities, such as weather updates, appointment scheduling, and more.\n- **AI Models**: The platform utilizes top-notch AI models from providers like OpenAI, Claude, and Gemini, ensurin' high accuracy and responsiveness.\n\nIn short, Fineguide be all about revolutionizin' customer engagement through the power of AI! If ye have more questions or need help, just holler!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0f3e98d4-eb3a-4117-84ce-21c4ae170bad",
+            "timestamp": "2024-08-27T16:24:27.073897"
+        },
+        "f632b382-0a21-47a7-b3b1-15930b7196e5": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T16:53:33.404587",
+                    "message": "What is Fineguide?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T16:53:43.269631",
+                    "message": "Ahoy matey! Let me spin ye a tale about Fineguide!\n\nFineguide be a platform designed fer businesses and individuals lookin' to integrate AI chat assistants into their websites. It be like havin' a trusty matey, powered by advanced AI, right on yer webpage! With Fineguide, ye can create customizable virtual assistants that provide instant customer support, answer queries, and enhance user engagement.\n\nHere be some key features of Fineguide:\n\n- **Customizable Assistants**: Ye can tailor the assistant's persona, appearance, and functionality to match yer brand's style.\n- **Integration**: It be easy to integrate the assistant into yer website or app, makin' it a seamless part of yer customer interaction.\n- **Widgets**: Fineguide supports various widgets that enhance the assistant's capabilities, such as weather updates, financial news, and appointment scheduling.\n- **24/7 Support**: The assistants can provide round-the-clock support, helpin' to improve customer satisfaction and reduce response times.\n\nSo, if ye be lookin' to boost yer customer engagement and streamline support, Fineguide be the treasure ye seek! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f632b382-0a21-47a7-b3b1-15930b7196e5",
+            "timestamp": "2024-08-28T16:53:33.404587"
+        },
+        "be6c19f2-81cc-4d76-bb0f-7ae8b5b1cecf": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T14:05:38.020195",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T14:05:41.638283",
+                    "message": "Ahoy, matey! A chatbot be a mighty useful tool fer many reasons. Here be a few benefits of havin' a chatbot on yer ship (or business):\n\n1. **24/7 Availability**: A chatbot never sleeps, so it can assist yer customers at any hour of the day or night.\n2. **Instant Responses**: No more waitin' fer a human to reply. Chatbots provide quick answers to common questions.\n3. **Cost-Effective**: Savin' doubloons by reducin' the need fer a large customer support crew.\n4. **Scalability**: Handle multiple conversations at once, unlike a human who can only talk to one person at a time.\n5. **Consistency**: Provide the same level of service and information to all customers.\n6. **Data Collection**: Gather valuable insights about yer customers' needs and preferences.\n7. **Lead Generation**: Engage visitors and turn 'em into potential customers by answerin' their queries and collectin' contact information.\n8. **Improved Customer Experience**: Enhance the overall experience by providin' quick and accurate information.\n\nIf ye be needin' more specific details or have any other questions, just let me know! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "be6c19f2-81cc-4d76-bb0f-7ae8b5b1cecf",
+            "timestamp": "2024-08-29T14:05:38.020195"
+        },
+        "38acb6c4-37d5-4372-ad54-e36a299e9fd5": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-04T00:48:51.009698",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T00:48:52.283314",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T00:48:57.736760",
+                    "message": "Ahoy, matey! Ye be wonderin' why ye need a chatbot, eh? Let me tell ye, these AI assistants be mighty useful fer a variety o' reasons:\n\n### Boost E-commerce Sales\n- **Product Recommendations**: Bots can analyze customer preferences and behavior to suggest relevant products, boostin' sales and enhancin' the shoppin' experience.\n\n### Lead Generation and Qualification\n- **Qualify Leads**: Bots can qualify leads by askin' pre-determined questions and gather essential information from potential customers, aidin' in personalized marketing efforts.\n\n### Instant Customer Support 24/7\n- **Round-the-Clock Support**: Bots can provide round-the-clock customer support, answerin' frequently asked questions and resolvin' common issues, reducin' response time and improvin' overall efficiency.\n\n### Event and Appointment Scheduling\n- **Schedule Appointments**: Bots can help potential clients schedule appointments, meetin's, or events, reducin' the administrative burden on staff.\n\n### Information Retrieval\n- **Quick Access to Information**: Bots can retrieve information from internal databases or external sources, helpin' employees in accessin' relevant information quickly.\n\n### Employee Onboarding\n- **Assist New Hires**: Bots can assist in the onboardin' process by providin' information, answerin' common queries, and guidin' new employees through essential procedures.\n\n### Proactive Support\n- **Engage Customers**: Improve customer engagement with proactive behavior and follow-up questions, increasin' the number of leads.\n\n### Customizable Personality\n- **Brand Alignment**: Customize the Assistant's persona to align with yer brand voice and values.\n\n### Versatile Role Adaptation\n- **Specialized Roles**: Assign roles to specialize and deliver knowledgeable context-relevant responses.\n\nSo, ye see, a chatbot can be a valuable crew member fer yer business, helpin' ye navigate the digital seas with ease and efficiency! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "38acb6c4-37d5-4372-ad54-e36a299e9fd5",
+            "timestamp": "2024-09-04T00:48:51.009698"
+        },
+        "39441093-c96a-4771-9729-26b7f20b33c4": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-04T19:17:14.511397",
+                    "message": "Why do I need a Chatbot?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T19:17:18.124337",
+                    "message": "Ahoy, matey! A chatbot be a mighty fine addition to yer business for many reasons. Here be a few treasures ye can uncover with a chatbot:\n\n1. **24/7 Customer Support**: A chatbot can provide round-the-clock assistance to yer customers, answerin' their queries even when yer crew be sleepin'.\n\n2. **Lead Generation**: Chatbots can automatically collect leads by engaging with visitors on yer website, gatherin' their contact information, and qualifyin' them for follow-up.\n\n3. **Cost Efficiency**: By automatin' routine tasks and customer interactions, a chatbot can help reduce operational costs and free up yer human crew for more complex tasks.\n\n4. **Enhanced Customer Engagement**: Chatbots can provide personalized experiences, recommend products, and keep customers engaged with yer brand.\n\n5. **Seamless Integration**: They can integrate with yer existing CRM systems, helpin' to streamline operations and keep all yer data in one place.\n\n6. **Scalability**: As yer business grows, a chatbot can handle an increased volume of interactions without the need for hirin' more staff.\n\n7. **Consistency**: Chatbots provide consistent responses, ensuring that all customers receive the same level of service.\n\nIf ye be wantin' more details or have specific questions about how a chatbot can benefit yer business, just let me know! Arrr!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "39441093-c96a-4771-9729-26b7f20b33c4",
+            "timestamp": "2024-09-04T19:17:14.511397"
+        }
+    }
+}

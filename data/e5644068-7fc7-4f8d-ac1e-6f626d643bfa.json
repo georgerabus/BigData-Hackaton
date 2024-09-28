@@ -1,0 +1,25 @@
+{
+    "client_id": "e5644068-7fc7-4f8d-ac1e-6f626d643bfa",
+    "user_id": "1d35c63a-97fc-4f55-b4aa-38418d6e5ae9",
+    "details": null,
+    "name": "Lloyd",
+    "context_summary": "The Fineguide platform, which enables businesses to create AI-powered virtual assistants for their websites. It enhances customer interaction and support through customizable assistants that reflect a brand's voice. The platform offers various pricing plans, including a free option, and supports multiple AI models. Additionally, it provides tools for instant customer support, information retrieval, and lead generation.",
+    "chat_sessions": {
+        "74a295ce-434e-46fb-ba32-6e034dd130ad": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-09T13:58:38.477263",
+                    "message": "hey",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-09T13:58:39.249436",
+                    "message": "Hello there! How can I assist you today? 😊",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "74a295ce-434e-46fb-ba32-6e034dd130ad",
+            "timestamp": "2024-07-09T13:58:38.477263"
+        }
+    }
+}

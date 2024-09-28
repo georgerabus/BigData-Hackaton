@@ -1,0 +1,19 @@
+1. what does "insight" from chatbot conversations mean?
+
+2. How to analyze performance 
+metrics? Whats the difference 
+between good and bad performance?
+
+3. How should I extract from the 
+datasets? With another llm?
+
+4. What are the keys.txt? And for 
+what use?
+
+5. Where to find the knowledge 
+database for chatbots? 
+
+6. How to improve the performance of 
+chatbot? Where to insert the 
+algorithm? where is the location of 
+the model training?

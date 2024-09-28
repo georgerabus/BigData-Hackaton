@@ -1,0 +1,297 @@
+{
+    "client_id": "3f3f7a59-7303-4908-8ff7-c1a6824396c5",
+    "user_id": "00bc845c-ea05-4a4a-84cc-88adf9d4c670",
+    "details": null,
+    "name": "Keana",
+    "context_summary": "Proposals aimed at generating leads and improving online presence for companies like MYACSA and Duralitte. Key strategies include developing mobile-friendly websites, leveraging Google Ads for targeted outreach, and automating prospecting through LinkedIn and email, while emphasizing professional branding, effective communication, and analytics for measuring success.",
+    "chat_sessions": {
+        "79ec1df6-e648-455e-af23-3e43bf7b5f96": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-04T15:34:23.365105",
+                    "message": "que se le ofrecio a myacsa?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T15:34:30.619554",
+                    "message": "A MYACSA se le ofreció una propuesta integral para mejorar la generación de prospectos y la presencia en línea. Los puntos clave de la propuesta incluyen:\n\n1. **Nueva Página Web**:\n   - Diseño de una página web informativa y sencilla con hasta cinco secciones.\n   - Adaptación para dispositivos móviles y computadoras.\n   - No incluye dominio, hosting ni certificado SSL.\n\n2. **Publicidad en Google Ads**:\n   - Anuncios en el buscador de Google dirigidos a quienes busquen servicios relacionados.\n   - Estrategia de remarketing para captar visitantes que no dejen sus datos inicialmente.\n\n3. **Automatización de la Prospección**:\n   - Automatización de la prospección en LinkedIn para reducir el tiempo dedicado a actividades repetitivas.\n   - Envío de mensajes y crecimiento de la red de contactos.\n   - Generación de leads interesados en la oferta comercial.\n\n4. **Prospección por Correo Electrónico**:\n   - Estrategia de envío de mensajes por correo electrónico al buyer persona.\n   - Calentamiento de cuentas de correo para evitar bloqueos.\n   - Reenvío de mensajes recibidos a una cuenta de correo del responsable de atender a los leads.\n\n5. **Inversión**:\n   - Elaboración de página web: $5,900 MXN.\n   - Configuración de Google Ads, Google Analytics y Google Tag Manager: $4,000 MXN.\n   - Campaña en Google Ads: $4,000 MXN mensuales + presupuesto recomendado de $5,000 MXN mensuales.\n   - Estrategia de prospección por correo y LinkedIn: $10,950 MXN mensuales.\n\nEsta propuesta busca mejorar la imagen profesional de MYACSA, aumentar la generación de prospectos y optimizar el tiempo dedicado a actividades de prospección.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T15:36:31.089460",
+                    "message": "que se le ofrecio a roca envases?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T15:36:38.919397",
+                    "message": "A Roca Envases se le ofreció una propuesta que incluye los siguientes servicios:\n\n1. **Automatización de la Prospección por Correo Electrónico**:\n   - **Generación de Base de Contactos**: Uso de una base de datos con información pública recolectada de LinkedIn, con correos validados.\n   - **Envío de Mensajes**: Contactar entre 1,600 y 2,000 personas por mes, con mensajes diseñados para captar la atención del buyer persona.\n   - **Calentamiento de Cuentas**: Las primeras dos semanas se dedican exclusivamente al calentamiento de las cuentas de correo.\n   - **Seguimiento de Leads**: Los mensajes recibidos se reenvían a una cuenta de correo del responsable de atender a los leads.\n\n2. **Publicidad en Google Ads**:\n   - **Anuncios en el Buscador de Google**: Dirigidos a quienes busquen vasos de papel/cartón en Monterrey.\n   - **Estrategia de Remarketing**: Para captar visitantes que no inicien contacto en su primera visita.\n\n3. **Automatización de la Prospección en LinkedIn**:\n   - **Envío de Invitaciones y Mensajes**: Automatización del envío de invitaciones y mensajes en LinkedIn para crecer la red de contactos y generar leads.\n   - **Sesiones de Revisión**: Sesiones periódicas para revisar y ajustar la estrategia.\n\n4. **Inversión**:\n   - **Prospección por Correo y LinkedIn**: $10,950 MXN mensuales.\n   - **Campaña en Google Ads**: $4,000 MXN mensuales + presupuesto recomendado de $5,000 MXN mensuales.\n\nEsta propuesta busca optimizar el tiempo dedicado a la prospección, mejorar la generación de leads y aumentar la visibilidad de Roca Envases en el mercado.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-04T15:45:41.433434",
+                    "message": "Que se le ofrecio a duralitte?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-04T15:45:51.090791",
+                    "message": "A Duralitte se le ofreció una propuesta integral para la generación de leads y la automatización de la prospección. Los puntos clave de la propuesta incluyen:\n\n1. **Automatización de la Prospección en LinkedIn**:\n   - **Envío de Invitaciones y Mensajes**: Automatización del envío de invitaciones y mensajes en LinkedIn para crecer la red de contactos y generar leads.\n   - **Sesiones de Revisión**: Sesiones periódicas para revisar y ajustar la estrategia.\n   - **Generación de Contenido**: Publicaciones en el perfil de LinkedIn para complementar la estrategia de prospección.\n\n2. **Automatización de la Prospección por Correo Electrónico**:\n   - **Generación de Base de Contactos**: Uso de una base de datos con información pública recolectada de LinkedIn, con correos validados.\n   - **Envío de Mensajes**: Contactar entre 1,600 y 2,000 personas por mes, con mensajes diseñados para captar la atención del buyer persona.\n   - **Calentamiento de Cuentas**: Las primeras dos semanas se dedican exclusivamente al calentamiento de las cuentas de correo.\n   - **Seguimiento de Leads**: Los mensajes recibidos se reenvían a una cuenta de correo del responsable de atender a los leads.\n\n3. **Publicidad en Google Ads**:\n   - **Anuncios en el Buscador de Google**: Dirigidos a quienes busquen productos relacionados con la oferta de Duralitte.\n   - **Estrategia de Remarketing**: Para captar visitantes que no inicien contacto en su primera visita.\n\n4. **Generación de Contenido Especializado**:\n   - **Publicaciones en LinkedIn y Facebook**: Basadas en la información proveída por Duralitte para complementar la estrategia de prospección y ganar presencia.\n\n5. **Inversión**:\n   - **Prospección por Correo y LinkedIn**: $10,950 MXN mensuales.\n   - **Campaña en Google Ads**: $4,000 MXN mensuales + presupuesto recomendado de $5,000 MXN mensuales.\n\nEsta propuesta busca optimizar el tiempo dedicado a la prospección, mejorar la generación de leads y aumentar la visibilidad de Duralitte en el mercado.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "79ec1df6-e648-455e-af23-3e43bf7b5f96",
+            "timestamp": "2024-09-04T15:34:23.365105"
+        },
+        "0459d4a8-98b3-4d9a-a64e-e17f3e036d1b": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T20:08:18.093743",
+                    "message": "que se le ofrecio a metrologia?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:08:28.458410",
+                    "message": "A Metrología se le ofreció la creación de una página web informativa y sencilla (one page) sobre los servicios del Instituto de Metrología Industrial, con hasta cinco secciones. La propuesta incluye:\n\n- Diseño de la página web con secciones como \"Nosotros\", \"Servicios\", \"¿Por qué contratarnos?\" y \"Contacto\".\n- Adaptación de la página para dispositivos móviles y computadoras.\n- El texto e imágenes serán proporcionadas por el Instituto o obtenidas de bancos de imágenes gratuitas.\n- No incluye dominio, hosting ni certificado SSL, que deben ser proporcionados por el Instituto.\n- Ejemplos de páginas similares: weaintplastic.com y salesautomation.pro.\n\nAdemás, se recomendó el proveedor Neubox.com para el servicio de hospedaje y la adquisición de dominios como institutodemetrologia.com, .com.mx y .mx. La inversión total incluye:\n\n- Elaboración de la página web: $5,900 MXN (un pago).\n- Hosting y dominios: $2,900 MXN (un pago).\n- Póliza de servicio anual para creación de correos y apoyo en la renovación de servicios: $2,000 MXN anual.\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:10:10.169512",
+                    "message": "y a duralitte?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:10:16.009529",
+                    "message": "A Duralitte se le ofreció una estrategia integral de generación de leads y automatización de prospección, que incluye:\n\n1. **Automatización de Prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados.\n   - Crecimiento de la red de contactos.\n   - Generación de leads interesados en la oferta comercial.\n   - Seguimiento de leads a través de videollamadas, reuniones, etc.\n\n2. **Generación de Contenido Especializado**:\n   - Publicaciones en LinkedIn y Facebook.\n   - Contenido basado en la información proporcionada por Duralitte.\n   - Complemento a la estrategia de prospección.\n\n3. **Remarketing/Retargeting**:\n   - Listas de correos segmentadas para Google y Facebook.\n   - Impacto múltiple a los prospectos para mantener la marca en su mente.\n\n4. **Infraestructura y Automatización**:\n   - Configuración de cuentas de correo y seguridad en DNS.\n   - Calentamiento de cuentas de correo para evitar bloqueos.\n   - Reportes mensuales de resultados.\n\n5. **Inversión**:\n   - Costo mensual de $26,000 MXN (incluye presupuesto de pauta).\n   - Tiempo de servicio comienza con el envío de mensajes.\n   - Precios más IVA.\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:10:37.212991",
+                    "message": "a caracol?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:10:45.106223",
+                    "message": "A Caracol se le ofreció una propuesta de automatización de prospección que incluye:\n\n1. **Automatización de Prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados.\n   - Crecimiento de la red de contactos.\n   - Generación de leads interesados en la oferta comercial.\n   - Seguimiento de leads a través de videollamadas, reuniones, etc.\n\n2. **Automatización de Prospección por Correo**:\n   - Contactar entre 1,600 y 2,000 personas por mes.\n   - Uso de una base de datos con información pública recolectada de LinkedIn.\n   - Generación de leads con un call to action (programar videollamada, solicitar más información, etc.).\n\n3. **Generación de Contenido Especializado**:\n   - Publicaciones en LinkedIn y Facebook.\n   - Contenido basado en la información proporcionada por Caracol.\n   - Complemento a la estrategia de prospección.\n\n4. **Remarketing/Retargeting**:\n   - Listas de correos segmentadas para Google y Facebook.\n   - Impacto múltiple a los prospectos para mantener la marca en su mente.\n\n5. **Infraestructura y Automatización**:\n   - Configuración de cuentas de correo y seguridad en DNS.\n   - Calentamiento de cuentas de correo para evitar bloqueos.\n   - Reportes mensuales de resultados.\n\n6. **Inversión**:\n   - Costo mensual de $10,950 MXN para la automatización de prospección.\n   - Generación de contenido en LinkedIn: $950 MXN mensual.\n   - No hay plazo forzoso del servicio.\n   - Precios más IVA.\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:12:09.553175",
+                    "message": "algun otro prospecto?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:12:14.962124",
+                    "message": "Además de Metrología, Duralitte y Caracol, también se le ofreció una propuesta a MYACSA. La oferta incluye:\n\n1. **Página Web Informativa**:\n   - Diseño de una página web sencilla (one page) con hasta cinco secciones: \"Nosotros\", \"Servicios\", \"¿Por qué contratarnos?\", \"Contacto\".\n   - Adaptación para dispositivos móviles y computadoras.\n   - Textos e imágenes proporcionados por MYACSA o de bancos de imágenes gratuitas.\n   - No incluye dominio, hosting ni certificado SSL.\n\n2. **Publicidad en Google Ads**:\n   - Anuncios en el buscador de Google dirigidos a quienes busquen servicios relacionados.\n   - Redirección a la página web para que los visitantes inicien contacto.\n   - Implementación de remarketing para impactar a los visitantes que no dejen sus datos inicialmente.\n\n3. **Inversión**:\n   - Elaboración de la página web: $5,900 MXN (un pago).\n   - Configuración de Google Ads, Google Analytics y Google Tag Manager: $4,000 MXN (un pago).\n   - Campaña en Google Ads: $4,000 MXN mensual + presupuesto recomendado de $5,000 MXN mensuales.\n   - No hay plazo forzoso del servicio.\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:13:08.177766",
+                    "message": "son todos?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:13:15.568456",
+                    "message": "Además de Metrología, Duralitte, Caracol y MYACSA, también se le ofreció una propuesta a Gonav. La oferta incluye:\n\n1. **Automatización de Prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados.\n   - Crecimiento de la red de contactos.\n   - Generación de leads interesados en la oferta comercial.\n   - Seguimiento de leads a través de videollamadas, reuniones, etc.\n\n2. **Automatización de Prospección por Correo**:\n   - Contactar entre 1,600 y 2,000 personas por mes.\n   - Uso de una base de datos con información pública recolectada de LinkedIn.\n   - Generación de leads con un call to action (programar videollamada, solicitar más información, etc.).\n\n3. **Generación de Contenido Especializado**:\n   - Publicaciones en LinkedIn y Facebook.\n   - Contenido basado en la información proporcionada por Gonav.\n   - Complemento a la estrategia de prospección.\n\n4. **Remarketing/Retargeting**:\n   - Listas de correos segmentadas para Google y Facebook.\n   - Impacto múltiple a los prospectos para mantener la marca en su mente.\n\n5. **Infraestructura y Automatización**:\n   - Configuración de cuentas de correo y seguridad en DNS.\n   - Calentamiento de cuentas de correo para evitar bloqueos.\n   - Reportes mensuales de resultados.\n\n6. **Inversión**:\n   - Costo mensual de $10,950 MXN para la automatización de prospección.\n   - Generación de contenido en LinkedIn: $950 MXN mensual.\n   - No hay plazo forzoso del servicio.\n   - Precios más IVA.\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:15:36.829949",
+                    "message": "seguro que la inversion ofrecida a gonav fue esa?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:15:41.890903",
+                    "message": "La inversión ofrecida a Gonav fue de $26,000 MXN mensuales, que incluye el presupuesto de pauta. Esta inversión cubre:\n\n- Desarrollo de estrategias de comunicación con hasta dos variantes para hasta tres Buyer personas distintos.\n- Infraestructura y automatización de estrategia en LinkedIn y por correo.\n- Reporte de resultados a final de mes.\n- Generación de contenido especializado.\n- Remarketing de listas del Buyer persona definido.\n\nAdemás, se requieren de dos a tres semanas para la generación de estrategias y configuración de herramientas antes de iniciar el servicio. Los precios son más IVA.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:16:04.653867",
+                    "message": "revisa de nuevo ¿cual fue el costo ofrecido a gonav?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:16:09.238163",
+                    "message": "La inversión ofrecida a Gonav fue de $10,950 MXN mensuales para la automatización de prospección por correo y LinkedIn. Además, se ofreció la generación de contenido en LinkedIn por $950 MXN mensuales. \n\n**Detalles de la inversión:**\n\n- **Automatización de Prospección por Correo y LinkedIn**: $10,950 MXN mensuales.\n- **Generación de Contenido en LinkedIn**: $950 MXN mensuales.\n\n**Total Mensual**: $11,900 MXN (más IVA).\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:16:40.775524",
+                    "message": "No, eso no es lo ofrecido a gonav",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:16:45.406299",
+                    "message": "La inversión ofrecida a Gonav fue de $26,000 MXN mensuales, que incluye el presupuesto de pauta. Esta inversión cubre:\n\n- Desarrollo de estrategias de comunicación con hasta dos variantes para hasta tres Buyer personas distintos.\n- Infraestructura y automatización de estrategia en LinkedIn y por correo.\n- Reporte de resultados a final de mes.\n- Generación de contenido especializado.\n- Remarketing de listas del Buyer persona definido.\n\nAdemás, se requieren de dos a tres semanas para la generación de estrategias y configuración de herramientas antes de iniciar el servicio. Los precios son más IVA.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:17:01.150954",
+                    "message": "Tampoco fueron 26,000",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:17:06.175929",
+                    "message": "La inversión ofrecida a Gonav fue de $10,950 MXN mensuales para la automatización de prospección por correo y LinkedIn. Además, se ofreció la generación de contenido en LinkedIn por $950 MXN mensuales.\n\n**Detalles de la inversión:**\n\n- **Automatización de Prospección por Correo y LinkedIn**: $10,950 MXN mensuales.\n- **Generación de Contenido en LinkedIn**: $950 MXN mensuales.\n\n**Total Mensual**: $11,900 MXN (más IVA).\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:17:19.550188",
+                    "message": "que se le ofrecio a duralitte?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:17:25.665676",
+                    "message": "La inversión ofrecida a Duralitte fue de $26,000 MXN mensuales, que incluye el presupuesto de pauta. Esta inversión cubre:\n\n- Desarrollo de estrategias de comunicación con hasta dos variantes para hasta tres Buyer personas distintos.\n- Infraestructura y automatización de estrategia en LinkedIn y por correo.\n- Reporte de resultados a final de mes.\n- Generación de contenido especializado.\n- Remarketing de listas del Buyer persona definido.\n\nAdemás, se requieren de dos a tres semanas para la generación de estrategias y configuración de herramientas antes de iniciar el servicio. Los precios son más IVA.\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:17:49.704619",
+                    "message": "se le ofrecio algo a apex?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:17:57.167358",
+                    "message": "Sí, a Apex se le ofreció una propuesta de automatización de prospección que incluye:\n\n1. **Automatización de Prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados.\n   - Crecimiento de la red de contactos.\n   - Generación de leads interesados en la oferta comercial.\n   - Seguimiento de leads a través de videollamadas, reuniones, etc.\n\n2. **Automatización de Prospección por Correo**:\n   - Contactar entre 1,600 y 2,000 personas por mes.\n   - Uso de una base de datos con información pública recolectada de LinkedIn.\n   - Generación de leads con un call to action (programar videollamada, solicitar más información, etc.).\n\n3. **Generación de Contenido Especializado**:\n   - Publicaciones en LinkedIn y Facebook.\n   - Contenido basado en la información proporcionada por Apex.\n   - Complemento a la estrategia de prospección.\n\n4. **Remarketing/Retargeting**:\n   - Listas de correos segmentadas para Google y Facebook.\n   - Impacto múltiple a los prospectos para mantener la marca en su mente.\n\n5. **Infraestructura y Automatización**:\n   - Configuración de cuentas de correo y seguridad en DNS.\n   - Calentamiento de cuentas de correo para evitar bloqueos.\n   - Reportes mensuales de resultados.\n\n6. **Inversión**:\n   - Costo mensual de $10,950 MXN para la automatización de prospección.\n   - Generación de contenido en LinkedIn: $950 MXN mensual.\n   - No hay plazo forzoso del servicio.\n   - Precios más IVA.\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:18:19.848150",
+                    "message": "y a cabfun?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:18:28.620718",
+                    "message": "A Cabfun se le ofreció una propuesta de automatización de prospección que incluye:\n\n1. **Automatización de Prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados.\n   - Crecimiento de la red de contactos.\n   - Generación de leads interesados en la oferta comercial.\n   - Seguimiento de leads a través de videollamadas, reuniones, etc.\n\n2. **Automatización de Prospección por Correo**:\n   - Contactar entre 1,600 y 2,000 personas por mes.\n   - Uso de una base de datos con información pública recolectada de LinkedIn.\n   - Generación de leads con un call to action (programar videollamada, solicitar más información, etc.).\n\n3. **Generación de Contenido Especializado**:\n   - Publicaciones en LinkedIn y Facebook.\n   - Contenido basado en la información proporcionada por Cabfun.\n   - Complemento a la estrategia de prospección.\n\n4. **Remarketing/Retargeting**:\n   - Listas de correos segmentadas para Google y Facebook.\n   - Impacto múltiple a los prospectos para mantener la marca en su mente.\n\n5. **Infraestructura y Automatización**:\n   - Configuración de cuentas de correo y seguridad en DNS.\n   - Calentamiento de cuentas de correo para evitar bloqueos.\n   - Reportes mensuales de resultados.\n\n6. **Inversión**:\n   - Costo mensual de $10,950 MXN para la automatización de prospección.\n   - Generación de contenido en LinkedIn: $950 MXN mensual.\n   - No hay plazo forzoso del servicio.\n   - Precios más IVA.\n\nContacto: Aldo Muñoz, CEO, aldom@salesautomation.pro, 812 075 2944.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0459d4a8-98b3-4d9a-a64e-e17f3e036d1b",
+            "timestamp": "2024-09-05T20:08:18.093743"
+        },
+        "edad70b6-185d-44d2-a39d-af9561521ff8": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T20:19:34.672191",
+                    "message": "que se le ofrecio a duralitte?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:19:42.438078",
+                    "message": "A Duralitte se le ofreció una estrategia integral de generación de leads y prospección automatizada, que incluye los siguientes componentes:\n\n1. **Estrategia de Comunicación y Prospección**:\n   - Desarrollo de estrategias de comunicación con hasta dos variantes para tres Buyer personas distintos.\n   - Automatización de la prospección en LinkedIn y por correo electrónico.\n   - Envío de mensajes y seguimiento a través de LinkedIn y correo electrónico.\n   - Generación de contenido especializado para LinkedIn y blog en el sitio web.\n   - Remarketing en Google Display Network y/o Facebook.\n\n2. **Infraestructura y Automatización**:\n   - Configuración de herramientas y cuentas de correo.\n   - Calentamiento de cuentas de correo para evitar bloqueos.\n   - Implementación de configuraciones de seguridad en los DNS (SPF, DKIM, DMARC y CNAME).\n\n3. **Generación de Contenido**:\n   - Publicaciones en LinkedIn y Facebook basadas en la información proporcionada por Duralitte.\n   - Contenido diseñado para atraer prospectos y fomentar la relación a largo plazo.\n\n4. **Remarketing/Retargeting**:\n   - Creación de listas de correos para Google y/o Facebook.\n   - Impacto repetido a los prospectos a través de anuncios y contenido.\n\n5. **Evaluación y Reportes**:\n   - Reporte de resultados al final de cada mes.\n   - Sesiones de revisión y ajuste de estrategias cada mes.\n\n6. **Presupuesto y Costos**:\n   - Presupuesto mensual de $5,000 MXN para pauta publicitaria.\n   - Costo mensual del servicio: $26,000 MXN (incluye presupuesto de pauta).\n\nEsta propuesta está diseñada para impactar de manera efectiva a los clientes potenciales de Duralitte, combinando estrategias de softselling y hardselling, y utilizando herramientas de automatización para optimizar el tiempo y los recursos.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:19:57.853834",
+                    "message": "y a gonav?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:20:18.632184",
+                    "message": "A Gonav se le ofreció una propuesta de automatización de prospección que incluye los siguientes componentes:\n\n1. **Automatización de la Prospección por Correo**:\n   - Contactar entre 1,600 y 2,000 personas por mes.\n   - Uso de una base de datos con información pública recolectada de LinkedIn, con correos no válidos removidos hasta en un 95%.\n   - Generación de leads con un call to action (usualmente programar una videollamada, solicitar más información, etc.).\n   - No se requiere una base de contactos previa por parte de Gonav.\n\n2. **Proceso de Envío de Correos**:\n   - Envío de mensajes a los contactos definidos.\n   - Programación de videollamadas o reuniones con los leads que respondan.\n   - Estrategia de comunicación y mensajes personalizados para atraer a los prospectos.\n\n3. **Requerimientos del Servicio**:\n   - Uso de un dominio alterno al principal para evitar riesgos.\n   - Generación de tres cuentas de correo similares para distribuir los envíos.\n   - Configuraciones de seguridad en los DNS del dominio a usar (SPF, DKIM, DMARC y CNAME).\n\n4. **Implementación del Servicio**:\n   - Generación de cuentas de correo y calentamiento de las mismas.\n   - Configuraciones de seguridad en los DNS.\n   - Sesión de arranque para recolectar información sobre el Buyer persona, valor/diferenciadores y ventajas competitivas.\n   - Redacción y aprobación de la estrategia de comunicación.\n   - Inicio del envío de mensajes y generación de leads.\n   - Sesiones mensuales para revisar resultados y ajustar la estrategia.\n\n5. **Generación de Contenido Especializado**:\n   - Publicaciones en LinkedIn y Facebook basadas en la información proporcionada por Gonav.\n   - Complemento a la estrategia de prospección para ganar presencia y atraer prospectos.\n\n6. **Remarketing/Retargeting**:\n   - Creación de listas de correos para Google y/o Facebook.\n   - Impacto repetido a los prospectos a través de anuncios y contenido.\n\n7. **Evaluación y Reportes**:\n   - Reporte de resultados al final de cada mes.\n   - Sesiones de revisión y ajuste de estrategias cada mes.\n\n8. **Presupuesto y Costos**:\n   - Presupuesto mensual de $5,000 MXN para pauta publicitaria.\n   - Costo mensual del servicio: $26,000 MXN (incluye presupuesto de pauta).\n\nEsta propuesta está diseñada para impactar de manera efectiva a los clientes potenciales de Gonav, combinando estrategias de softselling y hardselling, y utilizando herramientas de automatización para optimizar el tiempo y los recursos.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "edad70b6-185d-44d2-a39d-af9561521ff8",
+            "timestamp": "2024-09-05T20:19:34.672191"
+        },
+        "80a99923-cdbf-452d-8bda-964596beaf12": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T20:21:55.407636",
+                    "message": "que se le ofrecio a gonav?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:22:01.863672",
+                    "message": "A Gonav se le ofreció un servicio integral de automatización de prospección por correo electrónico y LinkedIn, que incluye:\n\n1. **Automatización de la Prospección por Correo**:\n   - Generación de una base de contactos.\n   - Envío de entre 1,600 y 2,000 correos por mes.\n   - Uso de una base de datos con información pública de LinkedIn.\n   - Generación de leads con un call to action (videollamada, reunión, etc.).\n   - Configuración de seguridad en los DNS del dominio usado (SPF, DKIM, DMARC y CNAME).\n   - Calentamiento de cuentas de correo para evitar bloqueos.\n\n2. **Automatización de la Prospección en LinkedIn**:\n   - Envío de entre 100 y 200 invitaciones por semana.\n   - Envío de hasta 150 mensajes por día.\n   - Uso de una extensión en Google Chrome para habilitar el servicio.\n   - Sesiones de revisión y ajuste de estrategia.\n\n3. **Generación de Contenido Especializado**:\n   - Publicaciones en LinkedIn y Facebook.\n   - Remarketing/retargeting en Google y Facebook.\n   - Impacto múltiple a los prospectos para generar videollamadas o reuniones.\n\n4. **Implementación del Servicio**:\n   - Creación de cuentas de correo y configuraciones de seguridad.\n   - Sesiones de arranque y revisión de estrategia.\n   - Reportes mensuales de resultados.\n\n5. **Inversión**:\n   - Costo mensual de $26,000 MXN (incluye presupuesto de pauta).\n   - No hay plazo forzoso del servicio.\n\nEste servicio está diseñado para optimizar la prospección y generación de leads, permitiendo a Gonav enfocarse en actividades de mayor valor.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "80a99923-cdbf-452d-8bda-964596beaf12",
+            "timestamp": "2024-09-05T20:21:55.407636"
+        },
+        "67010773-4fd2-45bb-b950-edf506bb2fa5": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T20:22:38.056848",
+                    "message": "que se le ofrecio a telmex?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:22:43.879584",
+                    "message": "A Telmex se le ofreció una propuesta de generación de prospectos y mejora de presencia en línea que incluye:\n\n1. **Automatización de la prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados para crecer la red de contactos.\n   - Generación de leads interesados en la oferta comercial.\n   - Estrategia de prospección con envío de hasta 150 mensajes por día.\n   - Sesiones de revisión y ajuste de estrategia.\n\n2. **Automatización de la prospección por correo**:\n   - Contacto directo con el Buyer Persona indicado.\n   - Uso de una base de datos con información pública de LinkedIn.\n   - Generación de leads con un call to action.\n   - Estrategia de envío de mensajes por correo electrónico.\n\n3. **Generación de contenido especializado**:\n   - Publicaciones en LinkedIn y Facebook para complementar la prospección.\n   - Remarketing de listas del Buyer Persona definido.\n\n4. **Publicidad en Google Ads**:\n   - Anuncios en el buscador de Google dirigidos a quienes busquen servicios relacionados.\n   - Configuración de medición de actividades (píxel de Google, Google Analytics, Google Tag Manager).\n\n5. **Desarrollo de una nueva página web**:\n   - Página web informativa y sencilla (one page) sobre la oferta comercial.\n   - Adaptación para dispositivos móviles y computadoras.\n\nLa inversión incluye costos mensuales y únicos para la elaboración de la página web, configuración de herramientas, y campañas publicitarias.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "67010773-4fd2-45bb-b950-edf506bb2fa5",
+            "timestamp": "2024-09-05T20:22:38.056848"
+        },
+        "975361c0-0372-40c9-b6f0-3927da497c24": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T20:23:17.181279",
+                    "message": "que se le ofrecio a telmex?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:23:33.174017",
+                    "message": "A Telmex se le ofreció una propuesta de automatización de la prospección en LinkedIn. La propuesta incluye:\n\n1. **Automatización de la prospección en LinkedIn**:\n   - Envío de invitaciones para agregar nuevos contactos.\n   - Revisión de aceptación de invitaciones y envío de mensajes.\n   - Generación de interesados en la oferta comercial (leads).\n   - Envío de datos de leads interesados al usuario por correo electrónico o WhatsApp.\n\n2. **Características del servicio**:\n   - Estrategia de prospección.\n   - Envío de entre 100 y 200 invitaciones por semana (sujeto a la limitación de LinkedIn).\n   - Envío de hasta 150 mensajes por día (sujeto al número de personas que aceptaron la invitación y a la estrategia definida).\n   - Instalación de una extensión en Google Chrome para habilitar el servicio.\n   - Horario de operación de lunes a viernes de 8 am a 7 pm.\n   - Sesiones de revisión y ajuste de estrategia dos semanas después del arranque y a fin de mes.\n\n3. **Precauciones**:\n   - Calentamiento de la cuenta al iniciar el servicio.\n   - Evitar conectarse a la cuenta desde diferentes navegadores o dispositivos para prevenir la detección por LinkedIn.\n   - Variación diaria en el número de acciones y el horario en que estas comienzan y terminan.\n\n4. **Automatización de la prospección por correo**:\n   - Contactar entre 1,600 y 2,000 personas por mes.\n   - Uso de una base de datos con información pública recolectada de LinkedIn.\n   - Generación de leads con un call to action (programar una videollamada, solicitar más información, etc.).\n\n5. **Requerimientos técnicos**:\n   - Uso de un dominio alterno para la prospección.\n   - Generación de tres cuentas de correo similares.\n   - Configuraciones de seguridad en los DNS del dominio a usar (SPF, DKIM, DMARC y CNAME).\n\nEsta propuesta busca optimizar el tiempo dedicado a la prospección y aumentar la generación de leads de manera eficiente.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "975361c0-0372-40c9-b6f0-3927da497c24",
+            "timestamp": "2024-09-05T20:23:17.181279"
+        },
+        "798c6f8e-7a12-42e7-a644-6e329b531be5": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T20:23:48.330146",
+                    "message": "what did we offer to telmex?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:23:59.187494",
+                    "message": "A Telmex se le ofreció una propuesta de automatización de la prospección en LinkedIn y por correo electrónico. Los puntos clave de la oferta incluyen:\n\n1. **Automatización de la Prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados para crecer la red de contactos.\n   - Reducción significativa del tiempo dedicado a actividades operativas repetitivas.\n   - Generación de leads interesados en la oferta comercial.\n   - Envío de datos de leads interesados al usuario para iniciar el proceso de venta.\n\n2. **Automatización de la Prospección por Correo Electrónico**:\n   - Contacto directo con el Buyer Persona indicado por Telmex.\n   - Uso de una base de datos con información pública recolectada de LinkedIn.\n   - Generación de leads con un call to action, como programar una videollamada o solicitar más información.\n   - Implementación de configuraciones de seguridad en los DNS del dominio usado para evitar bloqueos de mensajes.\n\n3. **Características del Servicio**:\n   - Colaboración para elaborar una estrategia de prospección.\n   - Envío de entre 100 y 200 invitaciones por semana en LinkedIn.\n   - Envío de hasta 150 mensajes por día, sujeto a la estrategia definida.\n   - Instalación de una extensión en Google Chrome para habilitar el servicio.\n   - Sesiones de revisión y ajuste de la estrategia dos semanas después del inicio y a fin de mes.\n   - Total confidencialidad sobre las personas que responden y el contenido de los mensajes.\n\n4. **Requerimientos Técnicos**:\n   - Uso de un dominio alterno para la prospección.\n   - Generación de cuentas de correo similares para distribuir los envíos.\n   - Configuraciones de seguridad en los DNS del dominio usado (SPF, DKIM, DMARC y CNAME).\n\nEsta oferta está diseñada para optimizar el tiempo y recursos de Telmex en la generación de leads y la prospección de nuevos clientes a través de LinkedIn y correo electrónico.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:24:05.213256",
+                    "message": "say it in english",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:24:15.759278",
+                    "message": "Telmex was offered a proposal for automating prospecting on LinkedIn and via email. The key points of the offer include:\n\n1. **LinkedIn Prospecting Automation**:\n   - Automated sending of invitations and messages to grow the network of contacts.\n   - Significant reduction in time spent on repetitive operational activities.\n   - Generation of leads interested in the commercial offer.\n   - Sending data of interested leads to the user to initiate the sales process.\n\n2. **Email Prospecting Automation**:\n   - Direct contact with the Buyer Persona indicated by Telmex.\n   - Use of a database with public information collected from LinkedIn.\n   - Generation of leads with a call to action, such as scheduling a video call or requesting more information.\n   - Implementation of security configurations in the DNS of the domain used to avoid message blocks.\n\n3. **Service Features**:\n   - Collaboration to develop a prospecting strategy.\n   - Sending between 100 and 200 invitations per week on LinkedIn.\n   - Sending up to 150 messages per day, subject to the defined strategy.\n   - Installation of a Google Chrome extension to enable the service.\n   - Review and adjustment sessions of the strategy two weeks after the start and at the end of the month.\n   - Total confidentiality about the people who respond and the content of the messages.\n\n4. **Technical Requirements**:\n   - Use of an alternate domain for prospecting.\n   - Generation of similar email accounts to distribute the sends.\n   - Security configurations in the DNS of the domain used (SPF, DKIM, DMARC, and CNAME).\n\nThis offer is designed to optimize Telmex's time and resources in generating leads and prospecting new clients through LinkedIn and email.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "798c6f8e-7a12-42e7-a644-6e329b531be5",
+            "timestamp": "2024-09-05T20:23:48.330146"
+        },
+        "defec01c-18a8-462e-97aa-762124e234a8": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T20:24:53.647615",
+                    "message": "que se le ofrecio a telmex?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:25:00.480789",
+                    "message": "A Telmex se le ofreció una propuesta de automatización de la prospección en LinkedIn y por correo electrónico. La oferta incluye:\n\n1. **Automatización de la prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados para crecer la red de contactos.\n   - Reducción del tiempo dedicado a actividades operativas repetitivas.\n   - Generación de leads interesados en la oferta comercial.\n   - Envío de datos de leads interesados al usuario para iniciar el proceso de venta.\n\n2. **Automatización de la prospección por correo**:\n   - Contacto directo con el Buyer Persona indicado por Telmex.\n   - Uso de una base de datos con información pública recolectada de LinkedIn.\n   - Generación de leads con un call to action (videollamada, reunión, llamada telefónica).\n   - Implementación de configuraciones de seguridad en los DNS del dominio usado.\n\n3. **Generación de contenido**:\n   - Publicaciones en LinkedIn y Facebook para complementar la estrategia de prospección.\n   - Remarketing/retargeting para impactar múltiples veces a los prospectos y llevarlos a una Landing Page para que dejen sus datos o agenden una videollamada.\n\n4. **Sesiones de revisión y ajuste de estrategia**:\n   - Sesiones de hasta 30 minutos para revisar y pulir la estrategia dos semanas después del inicio del servicio y a fin de mes para revisar resultados.\n\n5. **Inversión**:\n   - Costo mensual de $10,950 MXN para la infraestructura y desarrollo de la estrategia de prospección.\n   - Costo adicional de $950 MXN mensual para la generación de contenido en LinkedIn.\n\nEsta propuesta busca optimizar el tiempo y recursos de Telmex en la generación de leads y mejorar su presencia en LinkedIn y otros canales digitales.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T20:25:58.902182",
+                    "message": "que se le ofrecio a durango?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T20:26:05.622314",
+                    "message": "A Durango se le ofreció una propuesta de generación de leads y prospección automatizada que incluye:\n\n1. **Automatización de la prospección en LinkedIn**:\n   - Envío de invitaciones y mensajes automatizados para crecer la red de contactos.\n   - Reducción del tiempo dedicado a actividades operativas repetitivas.\n   - Generación de leads interesados en la oferta comercial.\n   - Envío de datos de leads interesados al usuario para iniciar el proceso de venta.\n\n2. **Automatización de la prospección por correo**:\n   - Contacto directo con el Buyer Persona indicado por Durango.\n   - Uso de una base de datos con información pública recolectada de LinkedIn.\n   - Generación de leads con un call to action (videollamada, reunión, llamada telefónica).\n   - Implementación de configuraciones de seguridad en los DNS del dominio usado.\n\n3. **Generación de contenido**:\n   - Publicaciones en LinkedIn y Facebook para complementar la estrategia de prospección.\n   - Remarketing/retargeting para impactar múltiples veces a los prospectos y llevarlos a una Landing Page para que dejen sus datos o agenden una videollamada.\n\n4. **Sesiones de revisión y ajuste de estrategia**:\n   - Sesiones de hasta 30 minutos para revisar y pulir la estrategia dos semanas después del inicio del servicio y a fin de mes para revisar resultados.\n\n5. **Inversión**:\n   - Costo mensual de $26,000 MXN para la infraestructura y desarrollo de la estrategia de prospección, incluyendo un presupuesto de pauta de $5,000 MXN.\n\nEsta propuesta busca optimizar el tiempo y recursos de Durango en la generación de leads y mejorar su presencia en LinkedIn y otros canales digitales.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "defec01c-18a8-462e-97aa-762124e234a8",
+            "timestamp": "2024-09-05T20:24:53.647615"
+        }
+    }
+}

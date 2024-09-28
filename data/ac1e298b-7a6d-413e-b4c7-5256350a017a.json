@@ -1,0 +1,55 @@
+{
+    "client_id": "ac1e298b-7a6d-413e-b4c7-5256350a017a",
+    "user_id": "52e80356-51da-42f2-940f-31252171b291",
+    "details": null,
+    "name": "Alycia",
+    "context_summary": "Fineguide, a platform that allows users to create AI chat assistants for websites without coding. The assistants offer 24/7 customer support, aid in employee onboarding, manage appointment scheduling, and enhance e-commerce sales through customer behavior analysis, featuring customizable options and predefined prompts for quick setup.",
+    "chat_sessions": {
+        "0a139f92-46cd-461e-a1d7-987a16078fc9": {
+            "messages": [
+                {
+                    "timestamp": "2024-07-21T16:23:49.923716",
+                    "message": "hey there",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T16:23:52.067912",
+                    "message": "Ahoy there, matey! How can I be of service to ye today? 🏴‍☠️",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-21T16:25:36.399018",
+                    "message": "hey I need something I don't know what",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T16:25:39.096991",
+                    "message": "Arrr, no worries, matey! Tell me a bit about what ye be lookin' for. Be it help with yer website, customer support, or somethin' else? Let's figure it out together! 🏴‍☠️",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-21T16:28:34.052270",
+                    "message": "please schedule an appointment",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T16:28:38.159236",
+                    "message": "Aye aye, captain! Here be the link to schedule an appointment:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgcalendly?code=fineguide\" width=\"100%\" height=\"400\"></iframe>]\n\nAnything else I can help ye with? 🏴‍☠️",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-07-21T16:29:52.511475",
+                    "message": "can I see EurUsd?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-07-21T16:29:56.879953",
+                    "message": "Aye, matey! Here be the EURUSD currency pair for ye:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgcurpair?pair=EURUSD\" width=\"360\" height=\"240\"></iframe>]\n\nAnything else ye be needin'? 🏴‍☠️",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "0a139f92-46cd-461e-a1d7-987a16078fc9",
+            "timestamp": "2024-07-21T16:23:49.923716"
+        }
+    }
+}

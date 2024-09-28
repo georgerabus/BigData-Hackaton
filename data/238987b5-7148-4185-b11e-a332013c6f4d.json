@@ -1,0 +1,359 @@
+{
+    "client_id": "238987b5-7148-4185-b11e-a332013c6f4d",
+    "user_id": "84aeb169-bded-4051-97aa-257bf0dfca27",
+    "details": null,
+    "name": "SofIA",
+    "context_summary": "Real estate listings in the Gramado and Canela regions of Brazil, showcasing a diverse array of properties such as apartments, houses, commercial spaces, and land for sale. The listings include essential details like the number of bedrooms, bathrooms, and pricing, catering to both affordable and luxury markets, along with contact information for the real estate agency for potential buyers.",
+    "chat_sessions": {
+        "7e28a142-9641-4ef3-b0f3-2a947cb81cf1": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T01:23:28.176946",
+                    "message": "Hello, do you have available houses for sale?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:23:31.279082",
+                    "message": "Parece que não consegui encontrar informações específicas sobre casas à venda no momento. No entanto, posso ajudar de outras maneiras! Você poderia me fornecer mais detalhes sobre o tipo de casa que está procurando? Por exemplo, o número de quartos, localização desejada, faixa de preço, etc. Isso me ajudará a entender melhor suas necessidades e a oferecer uma assistência mais precisa.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:23:50.788978",
+                    "message": "Can you respond in English?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:23:51.707864",
+                    "message": "Of course! Could you please provide more details about the type of house you are looking for? For example, the number of bedrooms, desired location, price range, etc. This will help me understand your needs better and offer more precise assistance.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:24:36.463121",
+                    "message": "I'm looking for a house to buy, do you have anything available?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:24:39.465786",
+                    "message": "It seems I don't have specific information about available houses for sale at the moment. However, I can help you get in touch with our team who can provide you with the latest listings and more detailed information.\n\nCould you please share more details about what you're looking for? For example:\n- Number of bedrooms\n- Desired location\n- Price range\n\nThis will help us find the best options for you. Alternatively, you can contact our support team directly for immediate assistance.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:25:29.999351",
+                    "message": "I'm looking for a 3 bedroom home in Gramado under 1 million reais",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:25:33.605329",
+                    "message": "It seems I don't have specific listings for 3-bedroom homes in Gramado under 1 million reais at the moment. However, I can help you get in touch with our team who can provide you with the latest listings and more detailed information.\n\nWould you like me to connect you with our support team for further assistance? They can provide you with the most up-to-date information on available properties that meet your criteria.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:26:08.902836",
+                    "message": "What houses do you have available between $1000000 and 5000000?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:26:12.052605",
+                    "message": "It seems I don't have specific listings for houses available in Gramado between 1,000,000 and 5,000,000 reais at the moment. However, I can help you get in touch with our team who can provide you with the latest listings and more detailed information.\n\nWould you like me to connect you with our support team for further assistance? They can provide you with the most up-to-date information on available properties that meet your criteria.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:26:34.668992",
+                    "message": "Yes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:26:36.402560",
+                    "message": "Great! To connect with our support team for detailed information on available properties, please click on `Contact Support` from the chat header menu. They will be able to assist you with the latest listings and any other questions you may have.\n\nThank you for considering Nobre Imóveis Gramado. We look forward to helping you find your perfect home!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "7e28a142-9641-4ef3-b0f3-2a947cb81cf1",
+            "timestamp": "2024-09-05T01:23:28.176946"
+        },
+        "29fa8576-0b9f-4733-850a-974fd48bdd45": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T01:28:32.710758",
+                    "message": "I'm looking for a home for sale in Gramado under R$1200000",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:28:38.383826",
+                    "message": "It seems that I don't have specific listings available at the moment. However, I can help you get started on your search for a home in Gramado within your budget of R$1,200,000.\n\nCould you please provide more details about what you're looking for? For example:\n- The number of bedrooms and bathrooms\n- Preferred neighborhood or area in Gramado\n- Any specific amenities or features you desire\n\nThis information will help me assist you better!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:29:14.989361",
+                    "message": "What listings do you have at the moment? Can you give me a few options?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:29:18.054031",
+                    "message": "It looks like I don't have access to specific listings at the moment. However, I can help you get in touch with our team who can provide you with the most up-to-date listings that match your criteria.\n\nWould you like me to connect you with a human support agent who can assist you further?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "29fa8576-0b9f-4733-850a-974fd48bdd45",
+            "timestamp": "2024-09-05T01:28:32.710758"
+        },
+        "b5a7f322-e84a-4371-b69d-faa2f5aede79": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T01:30:17.531051",
+                    "message": "hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:30:18.250106",
+                    "message": "Olá! Como posso ajudar você hoje?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:30:27.651425",
+                    "message": "what options do you have available for sale?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:30:29.067484",
+                    "message": "Para fornecer informações precisas sobre as opções disponíveis para venda, preciso saber mais detalhes sobre o que você está procurando. Você está interessado em:\n\n- Imóveis residenciais (casas, apartamentos)?\n- Imóveis comerciais?\n- Terrenos?\n\nAlém disso, há alguma localização específica em Gramado que você prefere? Qualquer detalhe adicional ajudará a encontrar as melhores opções para você.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:30:44.085409",
+                    "message": "procuro por uma casa a venda",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:30:46.144755",
+                    "message": "Ótimo! Para ajudar a encontrar a casa perfeita para você, poderia fornecer mais alguns detalhes?\n\n1. **Localização**: Há alguma área específica em Gramado que você prefere?\n2. **Tamanho**: Quantos quartos e banheiros você está procurando?\n3. **Orçamento**: Qual é a faixa de preço que você está considerando?\n4. **Características Especiais**: Há alguma característica específica que você deseja, como jardim, piscina, garagem, etc.?\n\nCom essas informações, poderei encontrar as melhores opções disponíveis para você.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:31:03.650341",
+                    "message": "gramado e menos de R$1300000",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:31:07.365043",
+                    "message": "Atualmente, não tenho informações específicas sobre casas à venda em Gramado por menos de R$1.300.000. No entanto, posso sugerir que você entre em contato diretamente com a nossa equipe de vendas para obter as opções mais atualizadas e detalhadas.\n\nPor favor, clique em `Contact Support` no menu do cabeçalho do chat para falar com um de nossos especialistas que poderá ajudá-lo a encontrar a casa ideal dentro do seu orçamento. \n\nSe precisar de mais alguma coisa, estou à disposição!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "b5a7f322-e84a-4371-b69d-faa2f5aede79",
+            "timestamp": "2024-09-05T01:30:17.531051"
+        },
+        "2538f7f7-d212-41cc-ac12-7bcc740f964a": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T01:41:55.241516",
+                    "message": "Hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:41:55.928767",
+                    "message": "Hello! How can I assist you today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:42:27.634220",
+                    "message": "Can you give me some options for houses for sale under R$100000?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:42:31.616285",
+                    "message": "Unfortunately, there are no houses listed for sale under R$100,000 in the current listings. The properties available are significantly higher in price. If you have any other criteria or need assistance with different types of properties, please let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:42:53.371764",
+                    "message": "Any options for under R$1000000?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:43:00.558455",
+                    "message": "Here are some options for houses and other properties for sale under R$1,000,000:\n\n1. **Casa Geminada 03 Dorm - Canela**\n   - **Location:** Villa Suzana - Canela\n   - **Details:** 3 Suítes, 4 Banheiros, 1 Vaga\n   - **Price:** R$ 990.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08324/casa-geminada-03-dorm-canela)\n\n2. **Sobrado 3 Dorm - Canela**\n   - **Location:** Parque das Hortênsias - Canela\n   - **Details:** 1 Suíte, 4 Banheiros, 1 Vaga\n   - **Price:** R$ 990.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08448/sobrado-3-dorm-canela)\n\n3. **Casa 3 Dorm - Gramado**\n   - **Location:** Piratini - Gramado\n   - **Details:** 1 Banheiro, 1 Vaga\n   - **Price:** R$ 1.000.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08004/casa-3-dorm-gramado)\n\n4. **Apartamento 2 Dorm - Canela**\n   - **Location:** Centro - Canela\n   - **Details:** 2 Suítes, 2 Banheiros, 1 Vaga\n   - **Price:** R$ 1.001.683,44\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08211/apartamento-2-dorm-canela)\n\n5. **Apartamento 2 Dorm - Gramado**\n   - **Location:** Dutra - Gramado\n   - **Details:** 1 Suíte, 2 Banheiros, 1 Vaga\n   - **Price:** R$ 1.006.300,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08039/apartamento-2-dorm-gramado)\n\nIf you need more details or have other preferences, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T01:43:32.000141",
+                    "message": "What are suites and what are banheiros?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T01:43:33.270538",
+                    "message": "In the context of real estate in Brazil:\n\n- **Suítes**: These are bedrooms that have an attached private bathroom. Essentially, a suite is a bedroom with its own bathroom.\n- **Banheiros**: These are bathrooms. This term includes all bathrooms in the property, whether they are part of a suite or standalone.\n\nIf you have any more questions or need further clarification, feel free to ask!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2538f7f7-d212-41cc-ac12-7bcc740f964a",
+            "timestamp": "2024-09-05T01:41:55.241516"
+        },
+        "954c1259-a0bb-401a-817a-a1016dc92dfa": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T02:39:23.203161",
+                    "message": "Ola",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T02:39:23.857427",
+                    "message": "Olá! Como posso ajudar você hoje? Está interessado em alguma propriedade em Gramado ou Canela?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T02:39:39.737347",
+                    "message": "Busco terreno em Gramado",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T02:39:49.076227",
+                    "message": "Aqui estão algumas opções de terrenos disponíveis em Gramado:\n\n1. **Terreno em Piratini - Gramado**\n   - **Preço:** R$ 3.180.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07454/terreno-gramado)\n\n2. **Terreno em Planalto - Gramado**\n   - **Preço:** R$ 3.710.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI06265/terreno-gramado)\n\n3. **Terreno em Planalto - Gramado**\n   - **Preço:** R$ 3.890.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08193/terreno-gramado)\n\n4. **Terreno em Pórtico II - Gramado**\n   - **Preço:** R$ 10.600.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07192/terreno-gramado)\n\n5. **Terreno em Linha Ávila - Gramado**\n   - **Preço:** R$ 1.608.714,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI06728/terreno-gramado)\n\n6. **Terreno em Mato Queimado - Gramado**\n   - **Preço:** R$ 1.060.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI05439/terreno-gramado)\n\n7. **Terreno em Pórtico II - Gramado**\n   - **Preço:** R$ 499.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI04979/terreno-gramado)\n\n8. **Terreno em Aspen Mountain - Gramado**\n   - **Preço:** R$ 2.349.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07469/terreno-gramado)\n\nSe precisar de mais informações ou quiser agendar uma visita, estou à disposição para ajudar!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "954c1259-a0bb-401a-817a-a1016dc92dfa",
+            "timestamp": "2024-09-05T02:39:23.203161"
+        },
+        "1c2ca6cd-7cf4-4315-84bb-c3456c4b6199": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T15:31:55.817753",
+                    "message": "Hola estoy buscando terreno en Gramado",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T15:32:16.631981",
+                    "message": "Aquí tienes algunas opciones de terrenos disponibles en Gramado:\n\n1. **Terreno en Planalto - Gramado**\n   - **Precio:** R$ 3.710.000,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI06265/terreno-gramado)\n\n2. **Terreno en Planalto - Gramado**\n   - **Precio:** R$ 3.890.000,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08193/terreno-gramado)\n\n3. **Terreno en Piratini - Gramado**\n   - **Precio:** R$ 3.180.000,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07454/terreno-gramado)\n\n4. **Terreno en Viação Férrea - Gramado**\n   - **Precio:** R$ 3.391.000,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI06210/terreno-gramado)\n\n5. **Terreno en Pórtico II - Gramado**\n   - **Precio:** R$ 10.600.000,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07192/terreno-gramado)\n\n6. **Terreno en Floresta - Gramado**\n   - **Precio:** R$ 9.540.000,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07221/terreno-gramado)\n\n7. **Terreno en Mato Queimado - Gramado**\n   - **Precio:** R$ 1.060.000,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI05439/terreno-gramado)\n\n8. **Terreno en Planalto - Gramado**\n   - **Precio:** R$ 1.060.000,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI05822/terreno-gramado)\n\n9. **Terreno en Linha Ávila - Gramado**\n   - **Precio:** R$ 2.094.750,00\n   - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI03593/terreno-gramado)\n\n10. **Terreno en Saint Moritz - Gramado**\n    - **Precio:** R$ 989.000,00\n    - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08202/terreno-em-condominio-gramado)\n\nSi necesitas más información o deseas ver más opciones, no dudes en decírmelo.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T15:33:23.966392",
+                    "message": "gracias sofia",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T15:33:25.060299",
+                    "message": "¡De nada! Si tienes alguna otra pregunta o necesitas más información, no dudes en decírmelo. ¡Estoy aquí para ayudarte!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T15:33:39.494276",
+                    "message": "Busco lo que sea mas economico",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T15:33:43.540456",
+                    "message": "El terreno más económico disponible en Gramado es el siguiente:\n\n- **Terreno en Mato Queimado - Gramado**\n  - **Precio:** R$ 1.060.000,00\n  - [Ver más detalles](https://www.nobreimoveisgramado.com.br/site/detalhe/NI05439/terreno-gramado)\n\nSi necesitas más información o deseas ver otras opciones, no dudes en decírmelo. ¡Estoy aquí para ayudarte!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "1c2ca6cd-7cf4-4315-84bb-c3456c4b6199",
+            "timestamp": "2024-09-05T15:31:55.817753"
+        },
+        "578a0438-18cd-4c3f-b9bd-15c95eac92b8": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T18:51:23.162998",
+                    "message": "Eu estou procurando por uma casa a venda em Gramado",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T18:51:31.750769",
+                    "message": "Aqui estão algumas opções de casas à venda em Gramado:\n\n1. **Casa 3 Dorm - Mato Queimado**\n   - 1 Suíte\n   - 3 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.299.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07710/casa-3-dorm-gramado)\n\n2. **Casa 3 Dorm - Mato Queimado**\n   - 3 Suítes\n   - 4 Banheiros\n   - 4 Vagas\n   - Preço: R$ 2.299.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08585/casa-3-dorm-gramado)\n\n3. **Casa 3 Dorm - Jardim Bela Vista**\n   - 1 Suíte\n   - 2 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.300.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI03242/casa-3-dorm-gramado)\n\n4. **Casa 3 Dorm - Mato Queimado**\n   - 3 Suítes\n   - 4 Banheiros\n   - 1 Vaga\n   - Preço: R$ 2.300.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08155/casa-3-dorm-gramado)\n\n5. **Casa 4 Dorm - Carniel**\n   - 3 Suítes\n   - 4 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.332.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07213/casa-4-dorm-gramado)\n\nPara mais opções, você pode visitar o [site da Nobre Imóveis Gramado](https://www.nobreimoveisgramado.com.br/imoveis/p/880). Se precisar de mais informações ou ajuda para encontrar a casa ideal, estou à disposição!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T18:56:17.945422",
+                    "message": "outras opçoes",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T18:56:29.273455",
+                    "message": "Aqui estão mais algumas opções de casas à venda em Gramado:\n\n1. **Casa 2 Dorm - Planalto**\n   - 1 Suíte\n   - 2 Banheiros\n   - 1 Vaga\n   - Preço: R$ 779.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08082/casa-2-dorm-gramado)\n\n2. **Casa 4 Dorm - Casa Grande**\n   - 2 Banheiros\n   - Preço: R$ 780.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07360/casa-4-dorm-gramado)\n\n3. **Casa 3 Dorm - Giardini D`ltália**\n   - 1 Suíte\n   - 3 Banheiros\n   - 1 Vaga\n   - Preço: R$ 1.900.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07937/casa-3-dorm-gramado)\n\n4. **Casa 3 Dorm - Vivendas do Arvoredo**\n   - 3 Suítes\n   - 4 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.100.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08346/casa-3-dorm-gramado)\n\n5. **Casa 5 Dorm - Planalto**\n   - 1 Suíte\n   - 3 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.700.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07917/casa-5-dorm-gramado)\n\nPara mais opções, você pode visitar o [site da Nobre Imóveis Gramado](https://www.nobreimoveisgramado.com.br/imoveis/p/880). Se precisar de mais informações ou ajuda para encontrar a casa ideal, estou à disposição!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T19:27:05.270499",
+                    "message": "imóvel no centro de gramado",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T19:27:14.989951",
+                    "message": "Aqui estão algumas opções de imóveis à venda no centro de Gramado:\n\n1. **Apartamento 4 Dorm - Centro**\n   - 4 Suítes\n   - 5 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.349.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07557/apartamento-4-dorm-gramado)\n\n2. **Apartamento 2 Dorm - Centro**\n   - 1 Suíte\n   - 2 Banheiros\n   - 1 Vaga\n   - Preço: R$ 2.432.765,79\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI03446/apartamento-2-dorm-gramado)\n\n3. **Apartamento 3 Dorm - Centro**\n   - 1 Suíte\n   - 3 Banheiros\n   - 3 Vagas\n   - Preço: R$ 2.480.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07073/apartamento-3-dorm-gramado)\n\n4. **Apartamento 2 Dorm - Centro**\n   - 2 Suítes\n   - 3 Banheiros\n   - 1 Vaga\n   - Preço: R$ 1.769.093,73\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI06650/apartamento-2-dorm-gramado)\n\n5. **Apartamento 2 Dorm - Centro**\n   - 2 Suítes\n   - 3 Banheiros\n   - 1 Vaga\n   - Preço: R$ 1.780.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08284/apartamento-2-dorm-gramado)\n\nPara mais opções, você pode visitar o [site da Nobre Imóveis Gramado](https://www.nobreimoveisgramado.com.br/imoveis/p/880). Se precisar de mais informações ou ajuda para encontrar o imóvel ideal, estou à disposição!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "578a0438-18cd-4c3f-b9bd-15c95eac92b8",
+            "timestamp": "2024-09-05T18:51:23.162998"
+        },
+        "84c2e55c-a27d-453c-a3d3-9a01249be8b2": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T19:30:14.796041",
+                    "message": "Eu estou procurando por uma casa a venda em Gramado",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T19:30:22.539767",
+                    "message": "Aqui estão algumas opções de casas à venda em Gramado:\n\n1. **Casa 3 Dorm - Mato Queimado**\n   - 1 Suíte\n   - 3 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.299.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07710/casa-3-dorm-gramado)\n\n2. **Casa 3 Dorm - Mato Queimado**\n   - 3 Suítes\n   - 4 Banheiros\n   - 4 Vagas\n   - Preço: R$ 2.299.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08585/casa-3-dorm-gramado)\n\n3. **Casa 3 Dorm - Jardim Bela Vista**\n   - 1 Suíte\n   - 2 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.300.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI03242/casa-3-dorm-gramado)\n\n4. **Casa 3 Dorm - Mato Queimado**\n   - 3 Suítes\n   - 4 Banheiros\n   - 1 Vaga\n   - Preço: R$ 2.300.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08155/casa-3-dorm-gramado)\n\n5. **Casa 4 Dorm - Carniel**\n   - 3 Suítes\n   - 4 Banheiros\n   - 2 Vagas\n   - Preço: R$ 2.332.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07213/casa-4-dorm-gramado)\n\nPara mais opções, você pode visitar o [site da Nobre Imóveis Gramado](https://www.nobreimoveisgramado.com.br/imoveis/p/880).\n\nSe precisar de mais informações ou ajuda para agendar uma visita, estou à disposição!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T19:30:46.083881",
+                    "message": "quero uma casa ate 1.000.000",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T19:30:54.057019",
+                    "message": "Aqui estão algumas opções de casas à venda em Gramado com preço até R$ 1.000.000:\n\n1. **Casa 2 Dorm - Planalto**\n   - 1 Suíte\n   - 2 Banheiros\n   - 1 Vaga\n   - Preço: R$ 779.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08082/casa-2-dorm-gramado)\n\n2. **Casa 4 Dorm - Casa Grande**\n   - 2 Banheiros\n   - Preço: R$ 780.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07360/casa-4-dorm-gramado)\n\n3. **Casa 4 Dorm - Piratini**\n   - 2 Banheiros\n   - 2 Vagas\n   - Preço: R$ 848.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07230/casa-4-dorm-gramado)\n\n4. **Casa 5 Dorm - Moura**\n   - 1 Suíte\n   - 4 Banheiros\n   - 3 Vagas\n   - Preço: R$ 848.000,00\n   - [Ver mais detalhes](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07245/casa-5-dorm-gramado)\n\nSe precisar de mais informações ou ajuda para agendar uma visita, estou à disposição!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "84c2e55c-a27d-453c-a3d3-9a01249be8b2",
+            "timestamp": "2024-09-05T19:30:14.796041"
+        },
+        "3a7ccffd-60e1-4529-8f16-9fa3a9daef9e": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-05T23:44:46.753867",
+                    "message": "Can you answer me in English?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T23:44:47.415897",
+                    "message": "Yes, I can answer you in English. How can I assist you today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-09-05T23:45:11.923111",
+                    "message": "I'm looking for houses for sale, do you have any?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-05T23:45:26.391248",
+                    "message": "Yes, we have several houses for sale in Gramado and Canela. Here are some options:\n\n1. **Casa Geminada 02 Dorm**\n   - **Location:** Jardim dos Ipês - Gramado\n   - **Details:** 2 Suites, 3 Bathrooms, 2 Parking Spaces\n   - **Price:** R$ 1.590.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08571/casa-geminada-02-dorm-gramado)\n\n2. **Sobrado 4 Dorm**\n   - **Location:** Planalto - Gramado\n   - **Details:** 2 Suites, 4 Bathrooms, 2 Parking Spaces\n   - **Price:** R$ 1.590.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08584/sobrado-4-dorm-gramado)\n\n3. **Casa 3 Dorm**\n   - **Location:** Mato Queimado - Gramado\n   - **Details:** 1 Suite, 3 Bathrooms, 3 Parking Spaces\n   - **Price:** R$ 1.599.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07857/casa-3-dorm-gramado)\n\n4. **Casa 3 Dorm**\n   - **Location:** Vale das Colinas - Gramado\n   - **Details:** 3 Suites, 4 Bathrooms, 2 Parking Spaces\n   - **Price:** R$ 2.860.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08061/casa-3-dorm-gramado)\n\n5. **Casa 4 Dorm**\n   - **Location:** Vale das Colinas - Gramado\n   - **Details:** 3 Suites, 4 Bathrooms, 1 Parking Space\n   - **Price:** R$ 2.862.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI08318/casa-4-dorm-gramado)\n\n6. **Casa 4 Dorm**\n   - **Location:** Vivendas do Arvoredo - Gramado\n   - **Details:** 4 Suites, 4 Bathrooms, 2 Parking Spaces\n   - **Price:** R$ 2.898.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07206/casa-4-dorm-gramado)\n\n7. **Casa 5 Dorm**\n   - **Location:** Floresta - Gramado\n   - **Details:** 1 Suite, 3 Bathrooms, 2 Parking Spaces\n   - **Price:** R$ 2.899.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI04510/casa-5-dorm-gramado)\n\n8. **Casa 4 Dorm**\n   - **Location:** Reserva da Serra - Canela\n   - **Details:** 4 Suites, 4 Bathrooms, 4 Parking Spaces\n   - **Price:** R$ 2.950.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI02600/casa-4-dorm-canela)\n\n9. **Casa 5 Dorm**\n   - **Location:** Centro - Canela\n   - **Details:** 3 Suites, 5 Bathrooms, 3 Parking Spaces\n   - **Price:** R$ 2.950.000,00\n   - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI03412/casa-5-dorm-canela)\n\n10. **Casa 4 Dorm**\n    - **Location:** Vale das Colinas - Gramado\n    - **Details:** 4 Suites, 5 Bathrooms, 3 Parking Spaces\n    - **Price:** R$ 2.590.000,00\n    - [More Details](https://www.nobreimoveisgramado.com.br/site/detalhe/NI07956/casa-4-dorm-gramado)\n\nFor more options, you can visit our [website](https://www.nobreimoveisgramado.com.br/imoveis/p/680). If you need further assistance or have specific requirements, please let me know!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "3a7ccffd-60e1-4529-8f16-9fa3a9daef9e",
+            "timestamp": "2024-09-05T23:44:46.753867"
+        },
+        "e68888d6-4ad6-4cc6-9b6f-1dbe5cf9f9b0": {
+            "messages": [
+                {
+                    "timestamp": "2024-09-10T20:45:05.848325",
+                    "message": "Can you answer me in English?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-09-10T20:45:06.660245",
+                    "message": "Yes, I can answer you in English. How can I assist you today?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "e68888d6-4ad6-4cc6-9b6f-1dbe5cf9f9b0",
+            "timestamp": "2024-09-10T20:45:05.848325"
+        }
+    }
+}

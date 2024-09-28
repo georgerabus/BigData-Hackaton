@@ -1,0 +1,207 @@
+{
+    "client_id": "2d6fc25e-fd06-4080-89a0-fc2cb823f904",
+    "user_id": "8743d0d8-051f-4e4f-8226-9238ecbdd456",
+    "details": "",
+    "name": "Poquito",
+    "context_summary": "Statistical abbreviations, APA style guidelines for academic writing, and usability engineering principles. It covers essential topics such as the structure of manuscripts, citation formats, user-centered design, and the importance of user feedback in system design, emphasizing clarity, consistency, and ethical standards in research and publication.",
+    "chat_sessions": {
+        "fdce9c60-7206-4327-b050-74ffa5d5741d": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T22:20:50.666826",
+                    "message": "No sé.",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:20:50.669390",
+                    "message": "No sé.",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:20:51.489177",
+                    "message": "Parece que no hay información disponible en la base de datos para ayudarte en este momento. ¿Hay algo específico con lo que te gustaría que te ayudara?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T22:20:59.691795",
+                    "message": "¿Qué son las normas APA?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:20:59.694505",
+                    "message": "¿Qué son las normas APA?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:21:04.008299",
+                    "message": "Las normas APA son un conjunto de reglas y directrices para la redacción y citación de trabajos académicos, desarrolladas por la American Psychological Association (APA). Estas normas son ampliamente utilizadas en las ciencias sociales y del comportamiento. Aquí hay algunos aspectos clave de las normas APA:\n\n1. **Formato del Documento**:\n   - **Márgenes**: 1 pulgada en todos los lados.\n   - **Fuente**: Times New Roman, 12 puntos.\n   - **Interlineado**: Doble espacio en todo el documento.\n   - **Sangría**: Primera línea de cada párrafo con sangría de 0.5 pulgadas.\n\n2. **Estructura del Trabajo**:\n   - **Página de Título**: Incluye el título del trabajo, el nombre del autor y la afiliación institucional.\n   - **Resumen**: Un breve resumen del trabajo, generalmente de 150-250 palabras.\n   - **Cuerpo del Trabajo**: Dividido en secciones como Introducción, Método, Resultados y Discusión.\n   - **Referencias**: Lista de todas las fuentes citadas en el trabajo.\n\n3. **Citas en el Texto**:\n   - **Cita de Autor-Fecha**: (Apellido del autor, año).\n   - **Cita Directa**: Incluir el número de página (Apellido del autor, año, p. número de página).\n\n4. **Lista de Referencias**:\n   - **Libros**: Apellido, Iniciales. (Año). Título del libro en cursiva. Editorial.\n   - **Artículos de Revistas**: Apellido, Iniciales. (Año). Título del artículo. Título de la Revista en cursiva, volumen(número), páginas. DOI (si está disponible).\n\nEstas son solo algunas de las directrices básicas. Las normas APA son bastante detalladas y cubren una amplia gama de situaciones y tipos de fuentes.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T22:21:24.549363",
+                    "message": "Puedes dar la respuesta en 80 palabras y que lo humanices para que no sea detectable por IA",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:21:24.552136",
+                    "message": "Puedes dar la respuesta en 80 palabras y que lo humanices para que no sea detectable por IA",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:21:25.988669",
+                    "message": "Las normas APA son un conjunto de directrices para la redacción y citación de trabajos académicos, creadas por la American Psychological Association. Se utilizan principalmente en ciencias sociales. Incluyen reglas sobre el formato del documento, como márgenes, tipo de letra e interlineado, así como la estructura del trabajo, que abarca desde la página de título hasta la lista de referencias. También especifican cómo citar fuentes en el texto y cómo elaborar la lista de referencias.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T22:22:41.033869",
+                    "message": "Cómo está el clima en Bogotá",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:22:41.036039",
+                    "message": "Cómo está el clima en Bogotá",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:22:42.115174",
+                    "message": "Lo siento, pero no tengo acceso a información en tiempo real sobre el clima. Te recomendaría que consultes una aplicación de clima o un sitio web de pronósticos meteorológicos para obtener la información más actualizada sobre el clima en Bogotá.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T22:23:47.246573",
+                    "message": "Cómo está el clima en Bogotá",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:23:47.249182",
+                    "message": "Cómo está el clima en Bogotá",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:23:48.106305",
+                    "message": "Para saber el clima actual en Bogotá, puedes consultar el siguiente widget de clima:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T22:24:15.032239",
+                    "message": "pero en Bogotá, no Villavicencio",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:24:15.035403",
+                    "message": "pero en Bogotá, no Villavicencio",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:24:16.004079",
+                    "message": "Para obtener el clima actual en Bogotá, puedes consultar el siguiente widget de clima:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T22:24:41.359815",
+                    "message": "Busca en Google Maps el barrio El Batán en Bogotá, Colombia",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:24:41.362632",
+                    "message": "Busca en Google Maps el barrio El Batán en Bogotá, Colombia",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T22:24:42.172195",
+                    "message": "Aquí tienes el widget de Google Maps para buscar el barrio El Batán en Bogotá, Colombia:\n\n:tpx[<iframe src=\"maps.google.com\" width=\"100%\" height=\"480\"></iframe>]",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "fdce9c60-7206-4327-b050-74ffa5d5741d",
+            "timestamp": "2024-08-27T22:20:50.666826"
+        },
+        "3deb3a9c-37e0-41b4-9521-2a900f4857a4": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T19:58:14.105447",
+                    "message": "Puedes preguntarme todo lo relacionado con el mundo del Estilo de la American Psychological Association (APA), séptima edición. Por ejemplo, ¿qué es una cita, ¿qué es una referencia?, ¿por qué es importante el estilo APA?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T19:58:14.108700",
+                    "message": "Puedes preguntarme todo lo relacionado con el mundo del Estilo de la American Psychological Association (APA), séptima edición. Por ejemplo, ¿qué es una cita, ¿qué es una referencia?, ¿por qué es importante el estilo APA?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T19:58:18.226151",
+                    "message": "¡Claro! Puedo ayudarte con preguntas relacionadas con el estilo APA, séptima edición. Aquí tienes algunas respuestas a tus ejemplos:\n\n1. **¿Qué es una cita?**\n   Una cita en el estilo APA es una mención dentro del texto de una fuente de información que se ha utilizado para apoyar una afirmación o argumento. Las citas pueden ser directas (palabras exactas del autor) o indirectas (paráfrasis de las ideas del autor). Las citas en el texto deben incluir el apellido del autor y el año de publicación, y en el caso de citas directas, también el número de página.\n\n2. **¿Qué es una referencia?**\n   Una referencia en el estilo APA es una entrada completa en la lista de referencias al final de un documento que proporciona todos los detalles necesarios para que los lectores puedan localizar la fuente original. Las referencias deben incluir información como el nombre del autor, el año de publicación, el título del trabajo, y los datos de publicación (editorial, revista, URL, etc.).\n\n3. **¿Por qué es importante el estilo APA?**\n   El estilo APA es importante porque proporciona un formato estandarizado para la presentación de trabajos académicos y científicos. Esto facilita la lectura y comprensión de los documentos, asegura la consistencia en la presentación de la información, y ayuda a evitar el plagio al dar el crédito adecuado a las fuentes originales. Además, el uso de un estilo común permite a los lectores localizar y verificar las fuentes citadas de manera eficiente.\n\nSi tienes alguna otra pregunta específica sobre el estilo APA, estaré encantado de ayudarte.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T20:12:52.370733",
+                    "message": "Qué es la usabilidad según Jakob Nielsen",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T20:13:00.912362",
+                    "message": "Según Jakob Nielsen, la usabilidad no es una propiedad única y unidimensional de una interfaz de usuario, sino que tiene múltiples componentes. Tradicionalmente, se asocia con cinco atributos de usabilidad:\n\n1. **Aprendibilidad (Learnability)**: El sistema debe ser fácil de aprender para que el usuario pueda comenzar a trabajar rápidamente con él.\n2. **Eficiencia (Efficiency)**: El sistema debe ser eficiente de usar, de modo que una vez que el usuario ha aprendido a usarlo, pueda alcanzar un alto nivel de productividad.\n3. **Memorabilidad (Memorability)**: El sistema debe ser fácil de recordar, de modo que el usuario ocasional pueda volver a usarlo después de un tiempo sin tener que aprender todo de nuevo.\n4. **Errores (Errors)**: El sistema debe tener una baja tasa de errores, de modo que los usuarios cometan pocos errores durante su uso y, si los cometen, puedan recuperarse fácilmente. Además, no deben ocurrir errores catastróficos.\n5. **Satisfacción (Satisfaction)**: El sistema debe ser agradable de usar, de modo que los usuarios estén subjetivamente satisfechos cuando lo usen y les guste.\n\nNielsen enfatiza que la usabilidad debe ser medida en relación con ciertos usuarios y tareas específicas, y que es importante definir un conjunto representativo de tareas de prueba para medir los diferentes atributos de usabilidad.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "3deb3a9c-37e0-41b4-9521-2a900f4857a4",
+            "timestamp": "2024-08-28T19:58:14.105447"
+        },
+        "2970cd1b-225a-424b-b715-daf5aabb7beb": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-28T20:15:10.778152",
+                    "message": "Cómo citar una comunicación personal en APA 7",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T20:15:17.559176",
+                    "message": "Para citar una comunicación personal en el formato APA 7, debes seguir estas directrices:\n\n1. **No se incluye en la lista de referencias**: Las comunicaciones personales no se incluyen en la lista de referencias porque no son recuperables por los lectores.\n\n2. **Citación en el texto**: Debes citar la comunicación personal solo en el texto. Proporciona las iniciales y el apellido del comunicador, y una fecha lo más exacta posible.\n\n### Formatos de citación en el texto:\n\n- **Citación narrativa**: \n  ```markdown\n  E.-M. Paradis (comunicación personal, 8 de agosto de 2019)\n  ```\n\n- **Citación parentética**: \n  ```markdown\n  (T. Nguyen, comunicación personal, 24 de febrero de 2020)\n  ```\n\n### Ejemplos:\n\n- **Ejemplo de citación narrativa**:\n  ```markdown\n  Según E.-M. Paradis (comunicación personal, 8 de agosto de 2019), ...\n  ```\n\n- **Ejemplo de citación parentética**:\n  ```markdown\n  ... (T. Nguyen, comunicación personal, 24 de febrero de 2020).\n  ```\n\nRecuerda que las comunicaciones personales incluyen correos electrónicos, mensajes de texto, chats en línea, entrevistas personales, conversaciones telefónicas, discursos en vivo, clases no grabadas, memorandos, cartas, mensajes de grupos de discusión no archivados o tablones de anuncios en línea, entre otros.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T20:15:32.689937",
+                    "message": "¿De dónde tomaste la información?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T20:15:34.794714",
+                    "message": "La información proporcionada sobre cómo citar una comunicación personal en el formato APA 7 se basa en las directrices oficiales del Manual de Publicación de la American Psychological Association (APA), 7ª edición. Estas directrices son ampliamente reconocidas y utilizadas en el ámbito académico para la redacción y citación de trabajos de investigación.\n\nSi necesitas más detalles o ejemplos adicionales, te recomendaría consultar directamente el manual de la APA 7ª edición o visitar el sitio web oficial de la APA, donde se ofrecen recursos y guías sobre cómo citar diferentes tipos de fuentes.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T20:16:02.464326",
+                    "message": "¿Cuáles son los 5 componentes de la usabilidad según Nielsen?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T20:16:09.025303",
+                    "message": "Según Jakob Nielsen, los cinco componentes de la usabilidad son:\n\n1. **Learnability (Aprendizaje)**: El sistema debe ser fácil de aprender para que el usuario pueda comenzar a trabajar rápidamente con él.\n2. **Efficiency (Eficiencia)**: Una vez que el usuario ha aprendido el sistema, debe ser eficiente de usar, permitiendo un alto nivel de productividad.\n3. **Memorability (Memorabilidad)**: El sistema debe ser fácil de recordar, de modo que el usuario ocasional pueda volver a usarlo después de un tiempo sin tener que aprender todo de nuevo.\n4. **Errors (Errores)**: El sistema debe tener una baja tasa de errores, permitiendo que los usuarios cometan pocos errores y se recuperen fácilmente de ellos. Además, no deben ocurrir errores catastróficos.\n5. **Satisfaction (Satisfacción)**: El sistema debe ser agradable de usar, de modo que los usuarios estén subjetivamente satisfechos al usarlo.\n\nEstos componentes ayudan a definir y medir la usabilidad de un sistema de manera sistemática y precisa.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T20:16:19.355459",
+                    "message": "¿De dónde tomaste la información?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T20:16:25.924330",
+                    "message": "La información sobre los cinco componentes de la usabilidad según Jakob Nielsen proviene de su libro \"Usability Engineering\". Aquí están los componentes detallados:\n\n1. **Learnability (Aprendizaje)**: El sistema debe ser fácil de aprender para que el usuario pueda comenzar a trabajar rápidamente con él.\n2. **Efficiency (Eficiencia)**: Una vez que el usuario ha aprendido el sistema, debe ser eficiente de usar, permitiendo un alto nivel de productividad.\n3. **Memorability (Memorabilidad)**: El sistema debe ser fácil de recordar, de modo que el usuario ocasional pueda volver a usarlo después de un tiempo sin tener que aprender todo de nuevo.\n4. **Errors (Errores)**: El sistema debe tener una baja tasa de errores, permitiendo que los usuarios cometan pocos errores y se recuperen fácilmente de ellos. Además, no deben ocurrir errores catastróficos.\n5. **Satisfaction (Satisfacción)**: El sistema debe ser agradable de usar, de modo que los usuarios estén subjetivamente satisfechos al usarlo.\n\nEstos componentes ayudan a definir y medir la usabilidad de un sistema de manera sistemática y precisa.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-28T20:16:45.994332",
+                    "message": "Dame la referencia de ese libro en estilo APA 7",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-28T20:16:51.056072",
+                    "message": "Aquí tienes la referencia del libro \"Usability Engineering\" de Jakob Nielsen en formato APA 7:\n\nNielsen, J. (1993). *Usability engineering*. Academic Press.\n\nEsta referencia incluye el autor, el año de publicación, el título del libro en cursiva y la editorial.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "2970cd1b-225a-424b-b715-daf5aabb7beb",
+            "timestamp": "2024-08-28T20:15:10.778152"
+        }
+    }
+}

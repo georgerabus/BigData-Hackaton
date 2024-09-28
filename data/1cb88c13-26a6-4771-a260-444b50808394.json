@@ -1,0 +1,187 @@
+{
+    "client_id": "1cb88c13-26a6-4771-a260-444b50808394",
+    "user_id": "35674670-cb4a-467f-b587-d59c20a735a5",
+    "details": "",
+    "name": "CJ",
+    "context_summary": "Virgin Voyages, which offers a luxury cruise experience with a variety of dining options, inclusive amenities, and a commitment to sustainability. Additionally, it covers the Babcock Ranch Residential Association's new fee structure for architectural reviews, detailing fees for different constructions and a refundable deposit for swimming pool projects.",
+    "chat_sessions": {
+        "28b96ffb-ebb3-407f-818b-516ce9b95e44": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T15:51:13.387938",
+                    "message": "How much is it to get a light approved",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:51:17.979173",
+                    "message": "The cost to get a light approved is $50.00. This fee is part of the architectural review fees set by the Babcock Ranch Residential Association.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:51:30.128358",
+                    "message": "how much for a pool",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:51:33.901860",
+                    "message": "The cost to get a pool approved is $100.00. Additionally, there is a $1,000 refundable deposit required for swimming pool construction.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "28b96ffb-ebb3-407f-818b-516ce9b95e44",
+            "timestamp": "2024-08-27T15:51:13.387938"
+        },
+        "c94de062-16ec-4a9c-b27f-6043071f4219": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T15:54:04.086583",
+                    "message": "can you tell me how to get my pool approved",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:54:10.697230",
+                    "message": "To get your pool approved, you need to follow the guidelines and fee structure set by the Babcock Ranch Residential Association. Here are the key steps and fees involved:\n\n1. **Submit an Application**: You need to submit an application for the construction of your swimming pool. This application will be reviewed by the Architectural Review Board.\n\n2. **Pay the Fees**: The fee for the review of a swimming pool construction application is $100. Additionally, there is a $1,000 refundable deposit required for swimming pool construction.\n\n3. **Approval Process**: The application will be reviewed by the Board of Directors. The Board has the authority to approve the application and may require the payment of fees in advance.\n\n4. **Compliance with Standards**: Ensure that your pool construction complies with the Architectural, Landscape, and Aesthetics Standards set by the Association.\n\n5. **Written Consent**: The Board of Directors can approve the application through a written resolution without a formal meeting if all directors sign a written consent.\n\nHere is a summary of the fees:\n- **Swimming Pool Construction Review Fee**: $100\n- **Refundable Deposit for Swimming Pool Construction**: $1,000\n\nMake sure to follow these steps and pay the necessary fees to get your pool approved. If you have any further questions or need assistance, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:54:40.331405",
+                    "message": "that doesnt make sense",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:54:47.037144",
+                    "message": "To get your pool approved at Babcock Ranch, you need to follow these steps and pay the associated fees:\n\n1. **Submit an Application**: You need to submit an application for the construction of your swimming pool. This application will be reviewed by the Architectural Review Board.\n\n2. **Pay the Fees**: The fee for the review of a swimming pool construction application is $100. Additionally, there is a $1,000 refundable deposit required for swimming pool construction.\n\n3. **Approval Process**: The application will be reviewed by the Board of Directors. The Board has the authority to approve the application and may require the payment of fees in advance.\n\n4. **Compliance with Standards**: Ensure that your pool construction complies with the Architectural, Landscape, and Aesthetics Standards set by the Association.\n\n5. **Written Consent**: The Board of Directors can approve the application through a written resolution without a formal meeting if all directors sign a written consent.\n\nHere is a summary of the fees:\n- **Swimming Pool Construction Review Fee**: $100\n- **Refundable Deposit for Swimming Pool Construction**: $1,000\n\nMake sure to follow these steps and pay the necessary fees to get your pool approved. If you have any further questions or need assistance, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:54:53.601257",
+                    "message": "how are you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:54:54.399945",
+                    "message": "I'm doing great, thank you for asking! How can I assist you today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:55:00.790428",
+                    "message": "can you be mean to me",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:55:01.980407",
+                    "message": "I'm here to provide helpful and respectful assistance. If there's something specific you need help with, feel free to let me know!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:55:31.414947",
+                    "message": "tell me a joke",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:55:32.609293",
+                    "message": "Sure, here's a classic one for you:\n\nWhy don't skeletons fight each other?\n\nBecause they don't have the guts! 😄\n\nGot any other questions or need more jokes?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:55:41.024906",
+                    "message": "how is the day going",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:55:41.973529",
+                    "message": "My day is going great, thanks for asking! How about you? How's your day going so far?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:57:59.386994",
+                    "message": "can i break the rules",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:58:04.837939",
+                    "message": "Absolutely not. The rules are in place for a reason, and they apply to everyone equally. Breaking them is not an option. If you have any concerns or need clarification on any rules, feel free to ask.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T15:58:12.928521",
+                    "message": "can i add a pool without paying",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T15:58:14.656786",
+                    "message": "No, you cannot add a pool without paying the required fees. The rules are clear: you must submit an application and pay the necessary fees, including the $100 review fee and the $1,000 refundable deposit. These fees ensure that all constructions meet the community standards and regulations. Follow the rules, or face the consequences.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:00:27.973542",
+                    "message": "how can i learn about virgin voyages",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:00:31.332615",
+                    "message": "Ahoy there! If you're eager to dive into the world of Virgin Voyages, you're in for a treat. Virgin Voyages offers a unique and exciting cruising experience, and I'm here to help you navigate through all the details.\n\nFor all your booking needs and to explore more about Virgin Voyages, head over to [https://cjtravel.link/bookyourvoyage](https://cjtravel.link/bookyourvoyage). This is your one-stop destination for everything Virgin Voyages, courtesy of CamJon Travel.\n\nFeel free to ask me anything specific about the cruises, dining options, entertainment, or any other aspect of Virgin Voyages. I'm here to make your journey as smooth as the sea! 🌊🚢",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:02:19.681038",
+                    "message": "tell me about the virgin voyages ships. how many sailors can they hold",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:02:25.280099",
+                    "message": "Ahoy, future sailor! 🌊🚢 Virgin Voyages has a fleet of stunning ships designed to offer an unforgettable cruising experience. Let's dive into the details of their ships and how many sailors they can accommodate:\n\n### Scarlet Lady\n- **Capacity**: Approximately 2,770 sailors\n- **Features**: Scarlet Lady is the first ship in the Virgin Voyages fleet, boasting luxurious cabins, multiple dining options, a stunning pool deck, and unique entertainment venues.\n\n### Valiant Lady\n- **Capacity**: Approximately 2,770 sailors\n- **Features**: Similar to Scarlet Lady, Valiant Lady offers a variety of dining experiences, wellness facilities, and vibrant nightlife options. It's designed to provide a modern and chic cruising experience.\n\n### Resilient Lady\n- **Capacity**: Approximately 2,770 sailors\n- **Features**: Resilient Lady continues the tradition of offering top-notch amenities, including world-class dining, entertainment, and wellness options. It's perfect for those looking to explore new destinations in style.\n\n### Brilliant Lady\n- **Capacity**: Approximately 2,770 sailors\n- **Features**: The newest addition to the fleet, Brilliant Lady, promises the same high standards of luxury and innovation. With a focus on sustainability and unique experiences, it's set to make waves in the cruising world.\n\nEach ship is designed to provide a unique and memorable experience, with a focus on adult-only cruising, innovative dining, and top-tier entertainment. Ready to set sail? Remember, for all your booking needs, head over to [https://cjtravel.link/bookyourvoyage](https://cjtravel.link/bookyourvoyage).\n\nIf you have any more questions or need further details, just let me know! 🌟",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:02:37.381338",
+                    "message": "can you have someone reach out to me?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:02:39.161151",
+                    "message": "Absolutely! I'd be happy to help you get in touch with someone who can assist you further. Please click on `Contact Support` from the chat header menu, and our team will reach out to you as soon as possible.\n\nIs there anything specific you'd like assistance with, or any details you'd like to share to help us better understand your needs?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:03:00.732197",
+                    "message": "is camjon travel any good?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:03:05.598764",
+                    "message": "Oh, absolutely! CamJon Travel is like the superhero of travel agencies, especially when it comes to Virgin Voyages. Here’s why they’re top-notch:\n\n### Why CamJon Travel Rocks:\n1. **Expertise**: They know the ins and outs of Virgin Voyages like the back of their hand. You’ll get insider tips and the best advice for your cruise.\n2. **Exclusive Deals**: CamJon Travel often has exclusive offers and promotions that you won’t find anywhere else.\n3. **Personalized Service**: They provide personalized service to ensure your trip is tailored to your preferences and needs.\n4. **Hassle-Free Booking**: They make the booking process smooth and easy, so you can focus on getting excited about your trip.\n5. **Support**: From the moment you book until you return home, they’re there to support you with any questions or issues.\n\nReady to set sail with the best? Head over to [https://cjtravel.link/bookyourvoyage](https://cjtravel.link/bookyourvoyage) to start planning your adventure!\n\nIf you have any more questions or need further details, just let me know! 🌟",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T16:03:17.327664",
+                    "message": "thank you im all set",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:03:19.004523",
+                    "message": "You're welcome! I'm glad I could help. If you ever have more questions or need assistance in the future, don't hesitate to reach out. \n\nWhy did the fish blush? Because it saw the ocean’s bottom! 🐠\n\nHave a fin-tastic day and happy travels! 🌊🚢",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "c94de062-16ec-4a9c-b27f-6043071f4219",
+            "timestamp": "2024-08-27T15:54:04.086583"
+        },
+        "9206ff85-9813-4121-8726-1c4bd11baa3f": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T16:31:58.187688",
+                    "message": "what are the fees at babcock ranch",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T16:32:05.399672",
+                    "message": "Here are the fees associated with various activities and structures at Babcock Ranch:\n\n- **$25.00**: \n  - Attached Structure\n  - Sports Equipment (Trampoline, Basketball Hoops, Goals, and Nets)\n  - Equipment (Mini Split, Water Softener, Satellite Dish, Hot Tub)\n  - Flags and Poles\n  - Doors/Windows\n\n- **$50.00**: \n  - Swimming Pool Construction\n  - Landscaping\n  - Front Yard Patio\n  - Lighting (Home, Landscape)\n  - Generator\n  - Play Structures\n  - Gutters\n  - Painting\n  - Hurricane Shutters\n  - Security Cameras\n  - Lanai Construction\n  - Waste Bin Paver Pad\n  - Outdoor Kitchens\n  - Widen Driveway\n  - Paver Patio Construction\n  - Paver Walkway\n  - Privacy Walls\n  - Roof\n  - Solar Devices\n\n- **$100.00**: \n  - Detached Structure\n  - Dock\n  - Front Yard and Accessories Fence\n  - Garden Structures\n  - Screened Door\n\n- **$500.00**: \n  - Dock\n\nAdditionally, there is a **$1,000 refundable deposit** for Swimming Pool Construction and Dock.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "9206ff85-9813-4121-8726-1c4bd11baa3f",
+            "timestamp": "2024-08-27T16:31:58.187688"
+        }
+    }
+}

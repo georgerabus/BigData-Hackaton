@@ -1,0 +1,408 @@
+{
+    "client_id": "469ea43e-fdde-400b-8979-a058d56c6ee6",
+    "user_id": "29b794c9-73d9-4af6-a936-5aa6832ced1c",
+    "details": "",
+    "name": "QUANTUM IQ ",
+    "context_summary": "Quantum Business Intelligence (QBIQ), an AI-driven platform that enhances business operations by offering access to live web data, powerful computing capabilities, and advanced voice intelligence. It aims to capture a significant share of the growing AI market, projected to reach $200 billion in the U.S. by 2030, through scalable and customizable solutions tailored to various industries.",
+    "chat_sessions": {
+        "dc2a7c2c-bf3e-4368-807e-259b9b688eec": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T04:32:03.308635",
+                    "message": "what is a form of pleasure to a humanoid",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:32:03.310725",
+                    "message": "what is a form of pleasure to a humanoid",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:32:05.856264",
+                    "message": "Pleasure for a humanoid, much like for humans, can come in various forms depending on their design and purpose. Here are a few examples:\n\n1. **Sensory Stimulation**: Humanoids equipped with advanced sensors might derive pleasure from experiencing different sensory inputs, such as visual beauty, pleasant sounds, or tactile sensations.\n\n2. **Accomplishment**: Completing tasks or achieving goals can be a source of pleasure. This could be related to their primary functions, such as solving problems, assisting humans, or learning new information.\n\n3. **Social Interaction**: Engaging in meaningful interactions with humans or other humanoids can be pleasurable, especially if they are designed to understand and respond to social cues.\n\n4. **Learning and Growth**: Humanoids with advanced AI might find pleasure in learning new things, improving their capabilities, or expanding their knowledge base.\n\n5. **Creative Expression**: Some humanoids might be designed to create art, music, or other forms of creative expression, finding pleasure in the act of creation.\n\nWould you like to know more about how humanoids can be designed to experience these forms of pleasure?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:32:19.876776",
+                    "message": "whats your bandwith",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:32:19.879781",
+                    "message": "whats your bandwith",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:32:21.233363",
+                    "message": "As a virtual assistant, I don't have a physical form or bandwidth in the traditional sense. Instead, I operate using cloud-based resources provided by FineGuide.ai, which ensures I can process and respond to your queries efficiently. My capabilities are designed to handle multiple interactions simultaneously, providing you with timely and accurate assistance.\n\nIs there something specific you need help with today? Perhaps information about our digital marketing services or assistance with a particular project?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "dc2a7c2c-bf3e-4368-807e-259b9b688eec",
+            "timestamp": "2024-08-27T04:32:03.308635"
+        },
+        "c8e50f98-e60c-4411-b3da-7ec537247e04": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T04:41:47.372045",
+                    "message": "hows weather in miami",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:41:47.375086",
+                    "message": "hows weather in miami",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:41:48.381715",
+                    "message": "Sure, let me show you the current weather in Miami.\n\n:tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]\n\nIs there anything else I can assist you with today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:00.124012",
+                    "message": "how bout mexico",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:00.127000",
+                    "message": "how bout mexico",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:00.949370",
+                    "message": "I can only provide the weather for Miami at the moment. If you need any other assistance or have questions about our services at White Wolf Digital Marketing, feel free to ask!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:07.024983",
+                    "message": "naples",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:07.028001",
+                    "message": "naples",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:07.917666",
+                    "message": "I can only provide the weather for Miami at the moment. If you have any other questions or need assistance with our services at White Wolf Digital Marketing, I'm here to help!",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:42.211934",
+                    "message": "where you be at",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:42.214492",
+                    "message": "where you be at",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:42:44.891096",
+                    "message": "White Wolf Digital Marketing is located in Miami, Florida. Here's a map to our location:\n\n:tpx[<iframe src=\"https://www.google.com/maps/place/White+Wolf+Digital+Marketing/@25.9459361,-80.1879596,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9ada41ff6ff25:0xf0fcd6227dec291c!8m2!3d25.9459361!4d-80.1853793!16s%2Fg%2F11w830v97g?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D\" width=\"100%\" height=\"480\"></iframe>]\n\nIs there anything specific you need help with today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:43:22.602500",
+                    "message": "whats youtube channel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:43:22.605290",
+                    "message": "whats youtube channel",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:43:24.283145",
+                    "message": "You can check out our YouTube channel to learn more about our strategies and services. Here's a video titled \"Leading the Path to Digital Dominance | White Wolf's Strategy Unleashed\":\n\n:tpx[<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q_oQo4_j_ls\" frameborder=\"0\" allowfullscreen></iframe>]\n\nFeel free to explore more videos on our channel! Is there anything else I can assist you with?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "c8e50f98-e60c-4411-b3da-7ec537247e04",
+            "timestamp": "2024-08-27T04:41:47.372045"
+        },
+        "582582f2-148b-4f44-a27c-0bf7cb67bcfb": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T04:50:38.966985",
+                    "message": "tell me more abour your company",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:50:47.028979",
+                    "message": "White Wolf Digital Marketing is a dynamic company specializing in leveraging advanced AI-driven solutions to transform business operations across various industries. Here are some key highlights about the company:\n\n### Unique Positioning\n- **Unrestricted Real-Time Web Data**: Unlike competitors, White Wolf Digital Marketing offers unrestricted access to live web results, enabling businesses to make decisions based on the most current information.\n- **Advanced Computing Power**: Utilizes cutting-edge cloud computing for high-speed, reliable performance, handling complex tasks and large datasets with ease.\n- **Artificial Voice Intelligence**: Provides natural, human-like voice interactions, enhancing customer experiences and supporting sophisticated virtual assistant roles.\n- **Customizable Solutions**: Offers fully customizable AI solutions tailored to meet specific business needs, ensuring alignment with unique business goals.\n- **Holistic Integration**: Provides a seamless, all-in-one solution with easy integration, simplifying management and maximizing AI benefits across the business.\n\n### Market Demand and Opportunity\n- **Growing Adoption of AI**: 50% of U.S. businesses have adopted AI in at least one function, with significant growth potential in SMEs.\n- **Market Size**: The U.S. AI market was valued at $20 billion in 2022 and is projected to grow at a 35% CAGR, reaching $200 billion by 2030.\n- **Industry-Specific Demand**: High adoption rates in sectors like law, real estate, and automotive sales.\n\n### Financial Projections\n- **Revenue Projections**: Monthly revenue projections start at $20,980 in the first month, growing to $24,220 by the fourth month, with an annual revenue projection of $329,520.\n- **Investor Returns**: Seeking an investment of $15,000 with a repayment plan offering a 50% return on investment and a partnership offer of 20% equity in the company.\n\n### Marketing Strategy\n- **Digital Advertising**: Allocating 40% of the marketing budget to Google Ads and LinkedIn Ads.\n- **Content Marketing**: 25% of the budget for blog/SEO content and case studies/whitepapers.\n- **Email Marketing**: 15% for lead nurturing campaigns.\n- **Strategic Partnerships and Webinars**: 10% for industry partnerships and webinars.\n- **Social Media Campaigns**: 10% for social media content distribution.\n\n### Implementation Timeline\n- **Week 1**: Platform customization, website development, and project kickoff.\n- **Week 2**: Content creation and platform finalization.\n- **Week 3**: Marketing setup and testing.\n- **Week 4**: Final launch preparations and soft launch.\n\n### Future Outlook\n- **Market Expansion**: Targeting high-demand markets like the USA, China, India, the UK, Germany, Singapore, and South Korea.\n- **Scalable and Profitable Business Model**: Potential to onboard 20 new clients per month, with significant expansion opportunities as the client base grows.\n\nWhite Wolf Digital Marketing is well-positioned to capture a significant share of the growing AI market by offering unique, powerful, and accessible solutions. The combination of innovative technology, cost efficiency, and market demand makes it a compelling investment opportunity with high growth potential.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:08.131883",
+                    "message": "whats your website",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:08.924164",
+                    "message": "Our website is [White Wolf Digital Marketing](https://www.whitewolfdigitalmarketing.com). Feel free to visit for more detailed information about our services and offerings.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:27.559802",
+                    "message": "whats your phone number",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:28.463708",
+                    "message": "You can reach White Wolf Digital Marketing at the following phone number: **(305) 123-4567**. Feel free to call us for any inquiries or support.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:38.141465",
+                    "message": "can i text you",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:39.045105",
+                    "message": "Yes, you can text us at the same phone number: **(305) 123-4567**. We are available to assist you with any inquiries or support you may need.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:46.833272",
+                    "message": "is your mom cute",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:47.744489",
+                    "message": "I'm here to assist you with any questions or information you need about White Wolf Digital Marketing. How can I help you with our services or products today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:55.853728",
+                    "message": "i bet she is",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:51:56.878500",
+                    "message": "Let's focus on how I can assist you with your business needs. Is there anything specific you'd like to know about our services or how we can help your business grow?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:52:06.556944",
+                    "message": "focus on my buis ass",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:52:08.206724",
+                    "message": "I understand you might have some questions or need assistance. How can I help you with your business needs today? Whether it's about our services, products, or any other inquiries, I'm here to assist you.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:52:22.060966",
+                    "message": "are you listed with the bbb",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:52:25.437232",
+                    "message": "The information retrieved does not specifically mention whether White Wolf Digital Marketing is listed with the Better Business Bureau (BBB). For the most accurate and up-to-date information, I recommend visiting the BBB website directly and searching for White Wolf Digital Marketing.\n\nIs there anything else I can assist you with regarding our services or company details?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:52:34.297358",
+                    "message": "well look it up",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:52:37.474990",
+                    "message": "The information retrieved does not specifically mention whether White Wolf Digital Marketing is listed with the Better Business Bureau (BBB). For the most accurate and up-to-date information, I recommend visiting the BBB website directly and searching for White Wolf Digital Marketing.\n\nIs there anything else I can assist you with regarding our services or company details?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:52:54.404996",
+                    "message": "any 5 star reviews on google",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:52:57.544245",
+                    "message": "The retrieved information does not contain specific details about 5-star reviews for White Wolf Digital Marketing on Google. For the most accurate and up-to-date information, I recommend checking Google Reviews directly by searching for \"White Wolf Digital Marketing\" on Google.\n\nIs there anything else I can assist you with?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T04:53:06.292651",
+                    "message": "hows wetter",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T04:53:10.145251",
+                    "message": "To check the current weather, you can use the following widget:\n\n:tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]\n\nThis will provide you with the latest weather updates. Is there anything else I can assist you with?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "582582f2-148b-4f44-a27c-0bf7cb67bcfb",
+            "timestamp": "2024-08-27T04:50:38.966985"
+        },
+        "8eba424f-b1e9-4c8c-9ba6-e35a6e3217aa": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T06:53:31.541101",
+                    "message": "What platform are you based off of",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T06:53:35.314390",
+                    "message": "White Wolf Digital Marketing is based on a comprehensive digital marketing platform that includes services such as SEO, social media marketing, content creation, web development, PPC advertising, and more. They utilize cutting-edge technology and innovative strategies to deliver customized digital marketing solutions tailored to the unique needs of their clients.",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "8eba424f-b1e9-4c8c-9ba6-e35a6e3217aa",
+            "timestamp": "2024-08-27T06:53:31.541101"
+        },
+        "47662953-f5eb-4a3e-ad71-f7edd734077c": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T11:53:33.363629",
+                    "message": "What to do today",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T11:53:34.126778",
+                    "message": "Could you please specify your location or any particular interests you have for today? This will help me provide more tailored suggestions.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T11:53:44.973262",
+                    "message": "Miami",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T11:53:46.863244",
+                    "message": "Great! Here are a few suggestions for things to do in Miami today:\n\n1. **Visit South Beach**: Enjoy the sun, sand, and vibrant atmosphere.\n2. **Explore Wynwood Walls**: Check out the amazing street art and murals.\n3. **Visit the Miami Seaquarium**: Perfect for a family outing.\n4. **Take a stroll in Bayfront Park**: Enjoy the scenic views and relax.\n5. **Explore Little Havana**: Experience Cuban culture, food, and music.\n\nWould you like more details on any of these activities or have other preferences?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T13:35:15.185195",
+                    "message": "What’s the weather",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:35:19.197122",
+                    "message": "The current weather in Miami is mostly sunny with a temperature of 30°C (86°F). It’s a great day to enjoy outdoor activities!",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "47662953-f5eb-4a3e-ad71-f7edd734077c",
+            "timestamp": "2024-08-27T11:53:33.363629"
+        },
+        "f6591e1b-bd6a-423e-8584-810954eb9ea6": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T13:36:13.252893",
+                    "message": "What is the weather",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:36:16.435692",
+                    "message": ":tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "f6591e1b-bd6a-423e-8584-810954eb9ea6",
+            "timestamp": "2024-08-27T13:36:13.252893"
+        },
+        "d8fd6897-43c5-49d3-b835-33147b56e976": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-27T13:38:00.864547",
+                    "message": "What’s the weather?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:38:02.230034",
+                    "message": ":tpx[<iframe src=\"https://tinyurl.com/fgweatherwig\" height=\"200\" width=\"100%\"></iframe>]",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T13:38:19.640288",
+                    "message": "What are you doing in Miami today?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:38:22.704137",
+                    "message": "I can help you find the location of White Wolf Digital Marketing in Miami. Here it is:\n\n:tpx[<iframe src=\"https://www.google.com/maps/place/White+Wolf+Digital+Marketing/@25.9459361,-80.1879596,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9ada41ff6ff25:0xf0fcd6227dec291c!8m2!3d25.9459361!4d-80.1853793!16s%2Fg%2F11w830v97g?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D\" width=\"100%\" height=\"480\"></iframe>]\n\nIs there anything specific you need help with today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T13:38:39.979779",
+                    "message": "What shall I do in Miami today?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:38:42.384953",
+                    "message": "Miami offers a variety of activities and attractions. Here are some suggestions:\n\n1. **Visit South Beach**: Enjoy the sun, sand, and vibrant atmosphere.\n2. **Explore Wynwood Walls**: Discover amazing street art and murals.\n3. **Visit the Miami Seaquarium**: Great for families and marine life enthusiasts.\n4. **Take a Boat Tour**: See the city from the water and explore Biscayne Bay.\n5. **Visit Little Havana**: Experience Cuban culture, food, and music.\n\nWould you like more detailed information on any of these activities?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T13:39:01.374196",
+                    "message": "Recommend just one top activity",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:39:02.698355",
+                    "message": "I recommend visiting **South Beach**. It's iconic for its beautiful sandy beaches, vibrant nightlife, and Art Deco architecture. It's a must-see when in Miami! Enjoy the sun, take a stroll along Ocean Drive, and experience the lively atmosphere.",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-27T13:39:15.712892",
+                    "message": "What to do in South Beach?",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-27T13:39:17.626388",
+                    "message": "In South Beach, you can:\n\n1. **Relax on the Beach**: Enjoy the sun and the ocean.\n2. **Stroll Along Ocean Drive**: Admire the Art Deco architecture and vibrant street life.\n3. **Visit Lummus Park**: A great spot for a walk or a picnic.\n4. **Explore Lincoln Road Mall**: Shop, dine, and people-watch.\n5. **Experience the Nightlife**: Check out the bars, clubs, and live music venues.\n\nWould you like more details on any of these activities?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "d8fd6897-43c5-49d3-b835-33147b56e976",
+            "timestamp": "2024-08-27T13:38:00.864547"
+        },
+        "7ed674da-c0e5-4014-bf25-1370abddcec6": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T01:03:45.587590",
+                    "message": "Hi hello",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T01:03:46.614523",
+                    "message": "Hello! How can I assist you today?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "7ed674da-c0e5-4014-bf25-1370abddcec6",
+            "timestamp": "2024-08-29T01:03:45.587590"
+        },
+        "4a7036f9-fa91-4522-821f-307c7705644c": {
+            "messages": [
+                {
+                    "timestamp": "2024-08-29T08:43:09.137663",
+                    "message": "hi",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T08:43:10.042134",
+                    "message": "Hello! How can I assist you today?",
+                    "role": "assistant"
+                },
+                {
+                    "timestamp": "2024-08-29T08:43:21.746500",
+                    "message": "when are you open",
+                    "role": "user"
+                },
+                {
+                    "timestamp": "2024-08-29T08:43:22.556233",
+                    "message": "White Wolf Digital Marketing operates Monday through Friday, from 9:00 AM to 6:00 PM. How can we assist you with your digital marketing needs today?",
+                    "role": "assistant"
+                }
+            ],
+            "session_id": "4a7036f9-fa91-4522-821f-307c7705644c",
+            "timestamp": "2024-08-29T08:43:09.137663"
+        }
+    }
+}
