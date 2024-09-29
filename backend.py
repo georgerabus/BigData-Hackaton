@@ -56,28 +56,31 @@ def read_files():
     selected_files = data.get('files', [])
     selected_options = data.get('options', [])
 
-    combined_content = []
+    combined_content = []  # To hold content from all selected files
 
     for filename in selected_files:
         try:
             file_path = os.path.join('data', filename)
-            content = read_json_file(file_path)
+            content = read_json_file(file_path)  # Read the JSON content from each file
             if content is not None:
-                combined_content.append(content)
+                combined_content.append({
+                    "filename": filename,
+                    "content": content
+                })  # Add content along with the filename for context
             else:
                 print(f"Failed to read content from: {filename}")
         except Exception as e:
             print(f"Error processing file {filename}: {str(e)}")
 
     if combined_content:
-        # Combine all content into a string and chunk it
-        json_content = json.dumps(combined_content)
+        # Combine all content into a single string (JSON serialized) and chunk it
+        json_content = json.dumps([item['content'] for item in combined_content])
         chunks = chunk_data(json_content, chunk_size=20000)
 
-        responses = []
+        responses = []  # To hold OpenAI responses
         threads = []
 
-        # Build OpenAI prompt based on selected options
+        # Build the OpenAI prompt based on the selected options
         prompt = build_prompt(selected_options)
 
         # Process each chunk in a separate thread
@@ -86,24 +89,56 @@ def read_files():
             threads.append(thread)
             thread.start()
 
+        # Wait for all threads to finish
         for thread in threads:
-            thread.join()  # Wait for all threads to finish
+            thread.join()
 
-        # Aggregate responses
+        # Combine all the OpenAI responses into a final aggregated result
         final_statistics = process_data_with_openai(" ".join(responses), prompt, is_final_call=True)
-        
-        # Generate and save the report
-        report_filename = 'report.json'
+
+        # Now let's format the report in a human-readable way
+        formatted_report = generate_human_readable_report(combined_content, final_statistics, selected_options)
+
+        # Save the formatted report as a text file or PDF
+        report_filename = 'combined_report.txt'
         report_path = os.path.join('reports', report_filename)
         os.makedirs('reports', exist_ok=True)
 
         with open(report_path, 'w') as report_file:
-            json.dump({"response": final_statistics}, report_file)
+            report_file.write(formatted_report)
 
+        # Return the report URL to the frontend for download
         report_url = f"/api/download_report/{report_filename}"
-        return jsonify({"response": final_statistics, "reportUrl": report_url})
-    
+        return jsonify({"response": formatted_report, "reportUrl": report_url})
+
     return jsonify({"response": "No valid files selected."})
+
+def generate_human_readable_report(files_data, statistics, options):
+    """Generate a human-readable report, stacking multiple reports in a clear format."""
+    report = []
+
+    # Loop through each file's data and append the report for it
+    for idx, file_data in enumerate(files_data):
+        filename = file_data['filename']
+        content = file_data['content']
+
+        report.append(f"==== Report for {filename} ====")
+        report.append("\nFile Content Summary:\n")
+        report.append(json.dumps(content, indent=4))  # You can customize the content summary if needed
+
+        report.append("\n\nSelected Options:")
+        for option in options:
+            report.append(f"- {option}")
+
+        report.append("\n\n--- Analysis Results ---")
+        report.append("\n")  # Add a gap before results
+        report.append(statistics[idx])  # Insert the corresponding OpenAI response for this file
+
+        # Add a separator between reports
+        report.append("\n\n==================================================\n\n")
+
+    # Return the final stacked and formatted report
+    return "\n".join(report)
 
 def read_json_file(filepath):
     if os.path.exists(filepath):
@@ -116,7 +151,7 @@ def read_json_file(filepath):
 def process_data_with_openai(data_content, prompt, is_final_call=False):
     try:
         if is_final_call:
-            prompt = "Generate a final summary based on the following responses: "
+            prompt = "Generate a full raport based on statistics, emotional patterns, Topic and Trends of Interest and Hallucination Detection"
         
         message_chunks = chunk_messages(data_content)
 
