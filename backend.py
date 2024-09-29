@@ -12,10 +12,6 @@ client = OpenAI()
 def index():
     return render_template('index.html')  # Serve the HTML file
 
-@app.route('/api/generate', methods=['POST'])
-def generate():
-    return jsonify({"message": "Image generation not needed."})
-
 @app.route('/api/files', methods=['GET'])
 def get_files():
     # List files in the 'data' directory
@@ -27,7 +23,7 @@ def read_files():
     data = request.get_json()
     selected_files = data.get('files', [])
     
-    responses = {}
+    combined_content = []
     
     for filename in selected_files:
         try:
@@ -35,16 +31,21 @@ def read_files():
             file_path = os.path.join('data', filename)  # Adjust the path as necessary
             content = read_json_file(file_path)
             if content is not None:
-                json_content = json.dumps(content)  # Convert dict to string if needed
-                print(f"Sending to OpenAI: {json_content}")  # Debug log
-                response_content = process_data_with_openai(json_content)
-                responses[filename] = response_content if response_content else "No response from OpenAI."
+                combined_content.append(content)  # Append content to the list
             else:
-                responses[filename] = "Failed to read content."
+                print(f"Failed to read content from: {filename}")  # Debug log
         except Exception as e:
-            responses[filename] = f"Error processing file: {str(e)}"  # Capture any errors
+            print(f"Error processing file {filename}: {str(e)}")  # Capture any errors
     
-    return jsonify(responses)
+    # Send the combined content to OpenAI
+    if combined_content:
+        json_content = json.dumps(combined_content)  # Convert list of dicts to JSON string
+        print(f"Sending the following JSON to OpenAI: {json_content}")  # Debug log
+        response_content = process_data_with_openai(json_content)
+        return jsonify({"response": response_content if response_content else "No response from OpenAI."})
+    
+    return jsonify({"response": "No valid files selected."})
+
 
 # Function to read JSON file and return its content
 def read_json_file(filepath):
@@ -62,7 +63,7 @@ def process_data_with_openai(data_content):
             model="gpt-4o",  # Specify your desired model
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": f"Please describe what you see: {data_content}"}
+                {"role": "user", "content": f"Generate a general statistics about user hapiness: {data_content}"}
             ]
         )
         response_message = completion.choices[0].message.content  # Corrected line
