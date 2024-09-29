@@ -140,6 +140,62 @@
             margin-right: 5px; /* Adjust spacing between checkbox and label */
         }
 
+
+        #loading {
+            display: none; /* Hidden by default */
+            margin-top: 20px; /* Space between loading and canvas */
+        }
+
+        #loadingCircle {
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-left-color: #007bff;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite; /* Add spinning animation */
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        #downloadButton {
+            display: none; /* Hidden by default */
+            margin-top: 20px; /* Space between loading and canvas */
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: background-color 0.3s;
+        }
+
+        #downloadButton:hover {
+            background-color: #218838;
+        }
+
+        #fileSection {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start; /* Align items to the start */
+        }
+
+        #generateButton, #downloadButton {
+            display: inline-block; /* Make buttons inline */
+            margin-top: 15px; /* Add some spacing on top */
+            margin-left: 10px; /* Space between buttons */
+        }
+
+        #loading {
+            display: inline-block; /* Keep loading indicator inline with buttons */
+            margin-left: 10px; /* Space between loading and buttons */
+        }
+
+
     </style>
 </head>
 <body>
@@ -185,25 +241,30 @@
         <div id="fileSection">
             <h3 style="padding-left: 65px;">Select Files:</h3>
             
-            <!-- Move checkbox-container inside fileSection -->
             <div class="checkbox-container" style="padding-left: 65px; margin-bottom: 10px;">
                 <input type="checkbox" id="selectAllFiles">
                 <label for="selectAllFiles">Select all files</label>
             </div>
             
-            <!-- File list container remains below the "Select all files" checkbox -->
             <div id="fileListContainer">
                 <div id="fileList">
                     <!-- Placeholder for dynamically generated checkboxes -->
                 </div>
             </div>
-    
-            <button id="generateButton" style="margin-left: 70px; margin-top: 15px;">
-                <i class="fas fa-sync-alt"></i> Generate
-            </button>
+        
+            <div id="buttonContainer" style="display: flex; align-items: center; padding-left: 65px; margin-top: 15px;">
+                <button id="generateButton">
+                    <i class="fas fa-sync-alt"></i> Generate
+                </button>
+                <button id="downloadButton" style="margin-left: 10px; display: none;">
+                    <i class="fas fa-download"></i> Download Report
+                </button>
+                <div id="loading" style="display: none; margin-left: 60px;">
+                    <i class="fas fa-spinner fa-spin"></i> Loading...
+                </div>
+            </div>
         </div>
-    </div>
-    
+        
 
     </div>
 
@@ -255,25 +316,45 @@
         });
     
         // Event listener for the Generate button
-        document.getElementById('generateButton').addEventListener('click', function() {
-    const selectedFiles = Array.from(document.querySelectorAll('#fileList input:checked')).map(checkbox => checkbox.value);
-    
-    fetch('/api/read_files', {
-        method: 'POST',
-        body: JSON.stringify({ files: selectedFiles }), // Send selected files to the backend
-        headers: {
-            'Content-Type': 'application/json'
-        }
-    })
-    .then(response => response.json())
-    .then(data => {
-        console.log('OpenAI Responses:', data); // Handle OpenAI responses here
-        // You can display the responses in your UI as needed
-    })
-    .catch(error => {
-        console.error('Error fetching OpenAI response:', error);
-    });
-});
+// Event listener for the Generate button
+            document.getElementById('generateButton').addEventListener('click', function() {
+            const selectedFiles = Array.from(document.querySelectorAll('#fileList input:checked')).map(checkbox => checkbox.value);
+
+            if (selectedFiles.length === 0) {
+        alert('Please select at least one file before generating.');
+        return; // Don't proceed if no files are selected
+    }
+
+            // Show loading indicator
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('downloadButton').style.display = 'none'; // Hide download button
+
+            fetch('/api/read_files', {
+                method: 'POST',
+                body: JSON.stringify({ files: selectedFiles }), // Send selected files to the backend
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('OpenAI Responses:', data); // Handle OpenAI responses here
+                
+                // Hide loading indicator
+                document.getElementById('loading').style.display = 'none';
+                
+                // Show download button
+                document.getElementById('downloadButton').style.display = 'block';
+                document.getElementById('downloadButton').onclick = function() {
+                    window.location.href = data.reportUrl; // Use the reportUrl returned from the backend
+                };
+            })
+            .catch(error => {
+                console.error('Error fetching OpenAI response:', error);
+                // Hide loading indicator
+                document.getElementById('loading').style.display = 'none';
+            });
+        });
 
     </script>
     

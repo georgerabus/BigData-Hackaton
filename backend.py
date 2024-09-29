@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, send_from_directory
 import os
 import json
 from openai import OpenAI
@@ -76,10 +76,19 @@ def read_files():
 
         # Aggregate responses
         final_statistics = process_data_with_openai(" ".join(responses), is_final_call=True)
-        return jsonify({"response": final_statistics})
+        
+        # Generate and save the report
+        report_filename = 'report.json'  # You can change this to .txt or any format
+        report_path = os.path.join('reports', report_filename)
+        os.makedirs('reports', exist_ok=True)  # Create reports directory if it doesn't exist
+
+        with open(report_path, 'w') as report_file:
+            json.dump({"response": final_statistics}, report_file)
+
+        report_url = f"/api/download_report/{report_filename}"  # URL for the report download
+        return jsonify({"response": final_statistics, "reportUrl": report_url})
     
     return jsonify({"response": "No valid files selected."})
-
 
 def read_json_file(filepath):
     if os.path.exists(filepath):
@@ -113,6 +122,10 @@ def process_data_with_openai(data_content, is_final_call=False):
     except Exception as e:
         print(f"Error while calling OpenAI API: {e}")
         return None
+
+@app.route('/api/download_report/<filename>', methods=['GET'])
+def download_report(filename):
+    return send_from_directory('reports', filename, as_attachment=True)
 
 if __name__ == '__main__':
     app.run(debug=True)
