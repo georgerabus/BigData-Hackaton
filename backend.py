@@ -19,33 +19,45 @@ def get_files():
     return jsonify(files)
 
 def chunk_data(data, chunk_size=20000):
-    """Divide data into chunks of specified size."""
     return [data[i:i + chunk_size] for i in range(0, len(data), chunk_size)]
 
-def chunk_messages(content, max_length=4000):  # Adjust max_length as per API limits
-    """Split messages into smaller parts based on length."""
+def chunk_messages(content, max_length=4000):
     chunks = []
     current_chunk = ""
 
-    for message in content.split(" "):  # Split by space for better chunking
+    for message in content.split(" "):
         if len(current_chunk) + len(message) + 1 > max_length:  # +1 for space
             chunks.append(current_chunk)
             current_chunk = message
         else:
             current_chunk += " " + message if current_chunk else message
     
-    if current_chunk:  # Append any remaining content
+    if current_chunk:
         chunks.append(current_chunk)
 
     return chunks
+
+def build_prompt(options):
+    # Default to basic statistics if no options are selected
+    if "Basic Statistics" in options:
+        return "Extract useful statistics like number of conversations, lengths, frequency nothing else. Keep it basic"
+    elif "Emotional Patterns" in options:
+        return "User Sentiment, Satisfaction, Frustration and other emotional patterns Identify from the conversation user sentiment, if the user was happy with the answer, frustrated, or other emotional patterns. ONLY THIS, NOTHING ELSE"
+    elif "Trends of Interest" in options:
+        return "Extract types of questions, topics, identify trends and other hidden patterns.Identify the most frequently asked questions or discussed topics. ONLY THIS, NOTHING ELSE"
+    elif "Hallucination Detection" in options:
+        return "Identify instances where a chatbot has hallucinated, i.e., provided responses that are either factually incorrect or not relevant to the question based on its knowledge database. Compare chatbot responses with context_summary. SHOW ONLY ABOUT THIS, NOTHING ELSE"
+    else:
+        return "Generate a basic summary of the data."
 
 @app.route('/api/read_files', methods=['POST'])
 def read_files():
     data = request.get_json()
     selected_files = data.get('files', [])
-    
+    selected_options = data.get('options', [])
+
     combined_content = []
-    
+
     for filename in selected_files:
         try:
             file_path = os.path.join('data', filename)
@@ -56,18 +68,21 @@ def read_files():
                 print(f"Failed to read content from: {filename}")
         except Exception as e:
             print(f"Error processing file {filename}: {str(e)}")
-    
+
     if combined_content:
         # Combine all content into a string and chunk it
         json_content = json.dumps(combined_content)
-        chunks = chunk_data(json_content, chunk_size=20000)  # Adjust size as needed
+        chunks = chunk_data(json_content, chunk_size=20000)
 
         responses = []
         threads = []
 
+        # Build OpenAI prompt based on selected options
+        prompt = build_prompt(selected_options)
+
         # Process each chunk in a separate thread
         for chunk in chunks:
-            thread = threading.Thread(target=lambda c=chunk: responses.append(process_data_with_openai(c)))
+            thread = threading.Thread(target=lambda c=chunk: responses.append(process_data_with_openai(c, prompt)))
             threads.append(thread)
             thread.start()
 
@@ -75,17 +90,17 @@ def read_files():
             thread.join()  # Wait for all threads to finish
 
         # Aggregate responses
-        final_statistics = process_data_with_openai(" ".join(responses), is_final_call=True)
+        final_statistics = process_data_with_openai(" ".join(responses), prompt, is_final_call=True)
         
         # Generate and save the report
-        report_filename = 'report.json'  # You can change this to .txt or any format
+        report_filename = 'report.json'
         report_path = os.path.join('reports', report_filename)
-        os.makedirs('reports', exist_ok=True)  # Create reports directory if it doesn't exist
+        os.makedirs('reports', exist_ok=True)
 
         with open(report_path, 'w') as report_file:
             json.dump({"response": final_statistics}, report_file)
 
-        report_url = f"/api/download_report/{report_filename}"  # URL for the report download
+        report_url = f"/api/download_report/{report_filename}"
         return jsonify({"response": final_statistics, "reportUrl": report_url})
     
     return jsonify({"response": "No valid files selected."})
@@ -98,9 +113,11 @@ def read_json_file(filepath):
         print(f"File not found: {filepath}")
         return None
 
-def process_data_with_openai(data_content, is_final_call=False):
+def process_data_with_openai(data_content, prompt, is_final_call=False):
     try:
-        prompt = "Generate a general statistics about user happiness: " if not is_final_call else "Generate a general summary based on the following responses: "
+        if is_final_call:
+            prompt = "Generate a final summary based on the following responses: "
+        
         message_chunks = chunk_messages(data_content)
 
         responses = []
@@ -109,14 +126,13 @@ def process_data_with_openai(data_content, is_final_call=False):
                 model="gpt-4o",
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant."},
-                    {"role": "user", "content": f"{prompt}{message_chunk}"}
+                    {"role": "user", "content": f"{prompt} {message_chunk}"}
                 ]
             )
             response_message = completion.choices[0].message.content
             responses.append(response_message)
 
         final_response = " ".join(responses)
-        print(f"OpenAI Response: {final_response}")  # Log response for debugging
         return final_response
 
     except Exception as e:

@@ -30,7 +30,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             /* top: 50px; */
             position: relative;
-            transform: translateY(-40px);
+            transform: translateY(-30px);
 
         }
 
@@ -49,7 +49,8 @@
             border-radius: 8px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             width: 100%;
-            max-width: 100%; /* Set a max-width for better layout */
+            max-width: 1200px;
+
         }
 
         #mainCanvas {
@@ -202,37 +203,27 @@
     <header>
         <h1>Data Visualization</h1>
     </header>
-    <div style="transform: translateY(-40px);">
+    <div style="transform: translateY(-15px);">
 
-    <div id="options" style="padding-left: 120px; margin-bottom: 20px;">
-        <div class="checkbox-container">
-            <input type="checkbox" id="option1">
-            <label for="option1">Option 1</label>
+        <div id="options" style="padding-left: 50px; margin-bottom: 0px;">
+            <div class="checkbox-container">
+                <input type="radio" id="basicStatistics" name="option">
+                <label for="basicStatistics">Basic Statistics</label>
+            </div>
+            <div class="checkbox-container">
+                <input type="radio" id="emotionalPatterns" name="option">
+                <label for="emotionalPatterns">Emotional Patterns</label>
+            </div>
+            <div class="checkbox-container">
+                <input type="radio" id="trendsOfInterest" name="option">
+                <label for="trendsOfInterest">Trends of Interest</label>
+            </div>
+            <div class="checkbox-container">
+                <input type="radio" id="hallucinationDetection" name="option">
+                <label for="hallucinationDetection">Hallucination Detection</label>
+            </div>
         </div>
-        <div class="checkbox-container">
-            <input type="checkbox" id="option2">
-            <label for="option2">Option 2</label>
-        </div>
-        <div class="checkbox-container">
-            <input type="checkbox" id="option3">
-            <label for="option3">Option 3</label>
-        </div>
-        <div class="checkbox-container">
-            <input type="checkbox" id="option3">
-            <label for="option3">Option 3</label>
-        </div>
-        <div class="checkbox-container">
-            <input type="checkbox" id="option3">
-            <label for="option3">Option 3</label>
-        </div>
-        <div class="checkbox-container">
-            <input type="checkbox" id="option3">
-            <label for="option3">Option 3</label>
-        </div>
-        <div class="checkbox-container">
-            <input type="checkbox" id="option3">
-            <label for="option3">Option 3</label>
-        </div>
+        
     </div>
     
     <div id="canvasContainer">
@@ -317,44 +308,60 @@
     
         // Event listener for the Generate button
 // Event listener for the Generate button
-            document.getElementById('generateButton').addEventListener('click', function() {
-            const selectedFiles = Array.from(document.querySelectorAll('#fileList input:checked')).map(checkbox => checkbox.value);
+document.getElementById('generateButton').addEventListener('click', function() {
+    const selectedFiles = Array.from(document.querySelectorAll('#fileList input:checked')).map(checkbox => checkbox.value);
+    
+    // Collect selected options by checking if each checkbox is checked
+    const selectedOptions = [];
+    if (document.getElementById('basicStatistics').checked) selectedOptions.push('Basic Statistics');
+    if (document.getElementById('emotionalPatterns').checked) selectedOptions.push('Emotional Patterns');
+    if (document.getElementById('trendsOfInterest').checked) selectedOptions.push('Trends of Interest');
+    if (document.getElementById('hallucinationDetection').checked) selectedOptions.push('Hallucination Detection');
 
-            if (selectedFiles.length === 0) {
+    // Ensure that at least one file is selected
+    if (selectedFiles.length === 0) {
         alert('Please select at least one file before generating.');
         return; // Don't proceed if no files are selected
     }
 
-            // Show loading indicator
-            document.getElementById('loading').style.display = 'block';
-            document.getElementById('downloadButton').style.display = 'none'; // Hide download button
+    // Show loading indicator and hide the download button
+    document.getElementById('loading').style.display = 'block';
+    document.getElementById('downloadButton').style.display = 'none';
 
-            fetch('/api/read_files', {
-                method: 'POST',
-                body: JSON.stringify({ files: selectedFiles }), // Send selected files to the backend
-                headers: {
-                    'Content-Type': 'application/json'
-                }
-            })
-            .then(response => response.json())
-            .then(data => {
-                console.log('OpenAI Responses:', data); // Handle OpenAI responses here
-                
-                // Hide loading indicator
-                document.getElementById('loading').style.display = 'none';
-                
-                // Show download button
-                document.getElementById('downloadButton').style.display = 'block';
-                document.getElementById('downloadButton').onclick = function() {
-                    window.location.href = data.reportUrl; // Use the reportUrl returned from the backend
-                };
-            })
-            .catch(error => {
-                console.error('Error fetching OpenAI response:', error);
-                // Hide loading indicator
-                document.getElementById('loading').style.display = 'none';
-            });
-        });
+    // Send the selected files and options to the backend
+    fetch('/api/read_files', {
+        method: 'POST',
+        body: JSON.stringify({ 
+            files: selectedFiles, 
+            options: selectedOptions  // Include selected options in the request
+        }),
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    })
+    .then(response => response.json())
+    .then(data => {
+        console.log('OpenAI Responses:', data); // Handle OpenAI responses here
+
+        // Hide the loading indicator
+        document.getElementById('loading').style.display = 'none';
+
+        // If a report URL is provided (i.e., the backend processed files and options), show the download button
+        if (data.reportUrl) {
+            document.getElementById('downloadButton').style.display = 'block';
+            document.getElementById('downloadButton').onclick = function() {
+                window.location.href = data.reportUrl; // Trigger the download using the report URL from the backend
+            };
+        }
+    })
+    .catch(error => {
+        console.error('Error fetching OpenAI response:', error);
+
+        // Hide loading indicator on error
+        document.getElementById('loading').style.display = 'none';
+    });
+});
+
 
     </script>
     
