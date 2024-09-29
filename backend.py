@@ -40,10 +40,11 @@ def chunk_messages(content, max_length=4000):
 def build_prompt(options):
     # Use a simple prompt for initial analysis
     prompts = {
-        "Basic Statistics": "Please extract basic statistics from the conversation.",
+        "Basic Statistics": "Please extract basic statistics from the conversation like number of conversations, lengths, frequency, etc.",
         "Emotional Patterns": "Identify emotional patterns such as user sentiment, satisfaction, and frustration from the conversation.",
         "Trends of Interest": "Identify trends and frequently asked questions from the conversation.",
-        "Hallucination Detection": "Detect instances of hallucination in chatbot responses."
+        "Hallucination Detection": "Detect instances of hallucination in chatbot responses.",
+        "all": "Please extract basic statistics from the conversation like number of conversations, lengths, frequency, etc, Identify emotional patterns such as user sentiment, satisfaction, and frustration from the conversation, Identify trends and frequently asked questions from the conversation and see if there are any hallucinations."
     }
 
     selected_prompts = [prompts[option] for option in options if option in prompts]

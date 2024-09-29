@@ -205,7 +205,7 @@
     </header>
     <div style="transform: translateY(-15px);">
 
-        <div id="options" style="padding-left: 50px; margin-bottom: 0px;">
+        <div id="options" style="padding-left: 40px; margin-bottom: 0px;">
             <div class="checkbox-container">
                 <input type="radio" id="basicStatistics" name="option">
                 <label for="basicStatistics">Basic Statistics</label>
@@ -221,6 +221,10 @@
             <div class="checkbox-container">
                 <input type="radio" id="hallucinationDetection" name="option">
                 <label for="hallucinationDetection">Hallucination Detection</label>
+            </div>
+            <div class="checkbox-container">
+                <input type="radio" id="all" name="option">
+                <label for="all">All Options</label>
             </div>
         </div>
         
@@ -317,6 +321,8 @@ document.getElementById('generateButton').addEventListener('click', function() {
     if (document.getElementById('emotionalPatterns').checked) selectedOptions.push('Emotional Patterns');
     if (document.getElementById('trendsOfInterest').checked) selectedOptions.push('Trends of Interest');
     if (document.getElementById('hallucinationDetection').checked) selectedOptions.push('Hallucination Detection');
+    if (document.getElementById('all').checked) selectedOptions.push('all');
+
 
     // Ensure that at least one file is selected
     if (selectedFiles.length === 0) {
