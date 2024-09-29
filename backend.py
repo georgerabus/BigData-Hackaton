@@ -17,5 +17,13 @@ def generate():
 def serve_image(filename):
     return send_file(filename, mimetype='image/png')
 
+@app.route('/api/files', methods=['GET'])
+def get_files():
+    # Assuming you have a directory with files
+    files = os.listdir('data')
+    # Return files as a JSON response
+    return jsonify(files)
+
+
 if __name__ == '__main__':
     app.run(debug=True)
