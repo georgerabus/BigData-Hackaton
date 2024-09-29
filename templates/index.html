@@ -144,7 +144,7 @@
 </head>
 <body>
     <header>
-        <h1>Image Canvas Visualization</h1>
+        <h1>Data Visualization</h1>
     </header>
     <div style="transform: translateY(-40px);">
 
@@ -179,72 +179,94 @@
         </div>
     </div>
     
-
     <div id="canvasContainer">
         <canvas id="mainCanvas"></canvas>
         
         <div id="fileSection">
             <h3 style="padding-left: 65px;">Select Files:</h3>
-            <div id="fileListContainer" >
+            
+            <!-- Move checkbox-container inside fileSection -->
+            <div class="checkbox-container" style="padding-left: 65px; margin-bottom: 10px;">
+                <input type="checkbox" id="selectAllFiles">
+                <label for="selectAllFiles">Select all files</label>
+            </div>
+            
+            <!-- File list container remains below the "Select all files" checkbox -->
+            <div id="fileListContainer">
                 <div id="fileList">
                     <!-- Placeholder for dynamically generated checkboxes -->
                 </div>
             </div>
-            <button id="generateButton" style="margin-left:30px; margin-top: 15px;"><i class="fas fa-sync-alt"></i> Generate</button>
+    
+            <button id="generateButton" style="margin-left: 30px; margin-top: 15px;">
+                <i class="fas fa-sync-alt"></i> Generate
+            </button>
         </div>
     </div>
-</div>
+    
 
-    <script>
-        // Function to populate the file list with checkboxes
-        function populateFileList(files) {
-            const fileListDiv = document.getElementById('fileList');
-            files.forEach(file => {
-                const label = document.createElement('label');
-                label.className = 'file-checkbox-container';
-                
-                const checkbox = document.createElement('input');
-                checkbox.type = 'checkbox';
-                checkbox.value = file; // Set the file value
-                checkbox.id = file; // Use the file name as the id
-                
-                label.appendChild(checkbox);
-                label.appendChild(document.createTextNode(file));
-                fileListDiv.appendChild(label);
-            });
-        }
+    </div>
 
-        // Example of dynamically populating file list (in practice, this would be done via an API)
-        // Replace this example array with a fetch call to your API to get the actual file names.
-        const exampleFiles = ['file1.json', 'file2.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json', 'file3.json'];
-        populateFileList(exampleFiles);
-
-        document.getElementById('generateButton').addEventListener('click', function() {
-            const selectedFiles = Array.from(document.querySelectorAll('#fileList input:checked')).map(checkbox => checkbox.value);
-            console.log('Selected Files:', selectedFiles);
-
-            fetch('/api/generate', {
-                method: 'POST',
-                body: JSON.stringify({ files: selectedFiles }), // Send selected files to the Flask backend
-                headers: {
-                    'Content-Type': 'application/json'
-                }
-            })
-            .then(response => response.json())
-            .then(data => {
-                const img = new Image();
-                img.src = data.image_url; // Use the URL returned from the Flask endpoint
-                img.onload = function() {
-                    const canvas = document.getElementById('mainCanvas');
-                    const ctx = canvas.getContext('2d');
-                    ctx.clearRect(0, 0, canvas.width, canvas.height); // Clear the canvas
-                    ctx.drawImage(img, 0, 0, canvas.width, canvas.height); // Draw the image on the canvas
-                };
-            })
-            .catch(error => {
-                console.error('Error fetching image:', error);
-            });
+<script>
+    // Function to populate the file list with checkboxes
+    function populateFileList(files) {
+        const fileListDiv = document.getElementById('fileList');
+        files.forEach(file => {
+            const label = document.createElement('label');
+            label.className = 'file-checkbox-container';
+            
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.value = file; // Set the file value
+            checkbox.id = file; // Use the file name as the id
+            
+            label.appendChild(checkbox);
+            label.appendChild(document.createTextNode(file));
+            fileListDiv.appendChild(label);
         });
-    </script>
+    }
+
+    // Example of dynamically populating file list (in practice, this would be done via an API)
+    const exampleFiles = ['file1.json', 'file2.json', 'file3.json', 'file4.json', 'file5.json'];
+    populateFileList(exampleFiles);
+
+    // Event listener for "Select All" checkbox
+    const selectAllCheckbox = document.getElementById('selectAllFiles');
+    selectAllCheckbox.addEventListener('change', function() {
+        const fileCheckboxes = document.querySelectorAll('#fileList input[type="checkbox"]');
+        fileCheckboxes.forEach(checkbox => {
+            checkbox.checked = selectAllCheckbox.checked;
+        });
+    });
+
+    // Event listener for the Generate button
+    document.getElementById('generateButton').addEventListener('click', function() {
+        const selectedFiles = Array.from(document.querySelectorAll('#fileList input:checked')).map(checkbox => checkbox.value);
+        console.log('Selected Files:', selectedFiles);
+
+        fetch('/api/generate', {
+            method: 'POST',
+            body: JSON.stringify({ files: selectedFiles }), // Send selected files to the Flask backend
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        })
+        .then(response => response.json())
+        .then(data => {
+            const img = new Image();
+            img.src = data.image_url; // Use the URL returned from the Flask endpoint
+            img.onload = function() {
+                const canvas = document.getElementById('mainCanvas');
+                const ctx = canvas.getContext('2d');
+                ctx.clearRect(0, 0, canvas.width, canvas.height); // Clear the canvas
+                ctx.drawImage(img, 0, 0, canvas.width, canvas.height); // Draw the image on the canvas
+            };
+        })
+        .catch(error => {
+            console.error('Error fetching image:', error);
+        });
+    });
+</script>
+
 </body>
 </html>
