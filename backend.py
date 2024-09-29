@@ -31,7 +31,7 @@ def chunk_messages(content, max_length=4000):
             current_chunk = message
         else:
             current_chunk += " " + message if current_chunk else message
-    
+            
     if current_chunk:
         chunks.append(current_chunk)
 
@@ -43,7 +43,8 @@ def build_prompt(options):
         "Basic Statistics": "Please extract basic statistics from the conversation like number of conversations, lengths, frequency, etc.",
         "Emotional Patterns": "Identify emotional patterns such as user sentiment, satisfaction, and frustration from the conversation.",
         "Trends of Interest": "Identify trends and frequently asked questions from the conversation.",
-        "Hallucination Detection": "Detect instances of hallucination in chatbot responses.",
+        # "Hallucination Detection": "Detect instances of hallucination in chatbot responses.",
+        "Hallucination Detection": "Detect hallucination and present the number, amount",
         "all": "Please extract basic statistics from the conversation like number of conversations, lengths, frequency, etc, Identify emotional patterns such as user sentiment, satisfaction, and frustration from the conversation, Identify trends and frequently asked questions from the conversation and see if there are any hallucinations."
     }
 
@@ -83,22 +84,18 @@ def read_files():
         # Build the OpenAI prompt based on the selected options
         prompt = build_prompt(selected_options)
 
-        # Process each chunk in a separate thread
-        for chunk in chunks:
-            thread = threading.Thread(target=lambda c=chunk: responses.append(process_data_with_openai(c, prompt)))
-            threads.append(thread)
-            thread.start()
+        report_thread = threading.Thread(target=generate_report, args=(chunks, prompt, responses, combined_content, selected_options))
+        statistics_thread = threading.Thread(target=generate_statistics, args=(chunks, prompt, selected_files, selected_options))
 
-        # Wait for all threads to finish
-        for thread in threads:
-            thread.join()
+        report_thread.start()
+        statistics_thread.start()
 
-        # Combine all the OpenAI responses into a final aggregated result
-        final_statistics = process_data_with_openai(" ".join(responses), prompt, is_final_call=True)
-
+        report_thread.join()  # Wait for the report to finish
         # Generate a human-readable report without JSON content
-        formatted_report = generate_human_readable_report(combined_content, final_statistics, selected_options)
+        # formatted_report = generate_human_readable_report(combined_content, " ".join(responses), selected_options)
+        formatted_report = generate_human_readable_report(combined_content, " ".join(responses), selected_options)
 
+        
         # Save the formatted report as a text file or PDF
         report_filename = 'combined_report.txt'
         report_path = os.path.join('reports', report_filename)
@@ -114,7 +111,6 @@ def read_files():
     return jsonify({"response": "No valid files selected."})
 
 def generate_human_readable_report(files_data, statistics, options):
-    """Generate a human-readable report in plain text format without JSON content."""
     report = []
 
     report.append("=== Combined Report ===\n\n")
@@ -151,6 +147,45 @@ def read_json_file(filepath):
         print(f"File not found: {filepath}")
         return None
 
+def generate_report(chunks, prompt, responses, combined_content, selected_options):
+    threads = []
+
+    # Process each chunk in a separate thread
+    for chunk in chunks:
+        thread = threading.Thread(target=lambda c=chunk: responses.append(process_data_with_openai(c, prompt)))
+        threads.append(thread)
+        thread.start()
+
+    # Wait for all threads to finish
+    for thread in threads:
+        thread.join()
+
+    # Combine all the OpenAI responses into a final aggregated result
+    final_statistics = process_data_with_openai(" ".join(responses), prompt, is_final_call=True)
+    responses.append(final_statistics)  # Append final statistics to responses for the report
+
+def generate_statistics(chunks, prompt, selected_files, selected_options):
+    threads = []
+    responses = []
+
+    # Process each chunk in a separate thread
+    for chunk in chunks:
+        thread = threading.Thread(target=lambda c=chunk: responses.append(process_data_with_openai(c, prompt)))
+        threads.append(thread)
+        thread.start()
+
+    # Wait for all threads to finish
+    for thread in threads:
+        thread.join()
+
+    # Assume the statistics are in responses
+    statistics_data = " ".join(responses)  # Combine responses for visualization
+
+    # Here you would need to send the statistics data back to the frontend for visualization
+    # For demonstration purposes, let's print the statistics. In your actual implementation,
+    # you might want to integrate a websocket or other mechanism to send the data back.
+    send_statistics_to_frontend(statistics_data)  # This function needs to be implemented
+
 def process_data_with_openai(data_content, prompt, is_final_call=False):
     try:
         # Check if we are generating the final report
@@ -177,6 +212,11 @@ def process_data_with_openai(data_content, prompt, is_final_call=False):
     except Exception as e:
         print(f"Error while calling OpenAI API: {e}")
         return None
+
+def send_statistics_to_frontend(statistics_data):
+    # Placeholder function to send statistics data back to the frontend
+    # You will need to implement the actual delivery mechanism (e.g., WebSocket, polling.)
+    return statistics_data
 
 @app.route('/api/download_report/<filename>', methods=['GET'])
 def download_report(filename):

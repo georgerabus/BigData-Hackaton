@@ -8,7 +8,6 @@
     <style>
         html, body {
             overflow: hidden; /* Prevent scrolling on the entire page */
-
         }
 
         body {
@@ -28,10 +27,8 @@
             text-align: center;
             padding: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            /* top: 50px; */
             position: relative;
             transform: translateY(-30px);
-
         }
 
         h1 {
@@ -50,7 +47,6 @@
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             width: 100%;
             max-width: 1200px;
-
         }
 
         #mainCanvas {
@@ -130,18 +126,6 @@
             margin-right: 8px; /* Space between checkbox and its label */
         }
 
-        .checkbox-container {
-            display: flex;
-            align-items: center;
-            margin-right: 20px; /* Adjust this to control space between options */
-
-        }
-
-        .checkbox-container input[type="checkbox"] {
-            margin-right: 5px; /* Adjust spacing between checkbox and label */
-        }
-
-
         #loading {
             display: none; /* Hidden by default */
             margin-top: 20px; /* Space between loading and canvas */
@@ -196,7 +180,7 @@
             margin-left: 10px; /* Space between loading and buttons */
         }
 
-
+        
     </style>
 </head>
 <body>
@@ -207,23 +191,23 @@
 
         <div id="options" style="padding-left: 40px; margin-bottom: 0px;">
             <div class="checkbox-container">
-                <input type="radio" id="basicStatistics" name="option">
+                <input type="radio" id="basicStatistics" name="option" value="Basic Statistics">
                 <label for="basicStatistics">Basic Statistics</label>
             </div>
             <div class="checkbox-container">
-                <input type="radio" id="emotionalPatterns" name="option">
+                <input type="radio" id="emotionalPatterns" name="option" value="Emotional Patterns">
                 <label for="emotionalPatterns">Emotional Patterns</label>
             </div>
             <div class="checkbox-container">
-                <input type="radio" id="trendsOfInterest" name="option">
+                <input type="radio" id="trendsOfInterest" name="option" value="Trends of Interest">
                 <label for="trendsOfInterest">Trends of Interest</label>
             </div>
             <div class="checkbox-container">
-                <input type="radio" id="hallucinationDetection" name="option">
+                <input type="radio" id="hallucinationDetection" name="option" value="Hallucination Detection">
                 <label for="hallucinationDetection">Hallucination Detection</label>
             </div>
             <div class="checkbox-container">
-                <input type="radio" id="all" name="option">
+                <input type="radio" id="all" name="option" value="All Options">
                 <label for="all">All Options</label>
             </div>
         </div>
@@ -259,11 +243,31 @@
                 </div>
             </div>
         </div>
-        
-
     </div>
 
     <script>
+
+function drawImagesOnCanvas(imageData) {
+    const canvas = document.getElementById('mainCanvas');
+    const ctx = canvas.getContext('2d');
+    
+    // Clear the canvas before drawing new images
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    
+    // Load and draw each image
+    imageData.forEach(imageUrl => {
+        const img = new Image();
+        img.src = imageUrl; // URL or base64 data
+
+        img.onload = function() {
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height); // Draw the image at (0,0) filling the canvas
+        };
+
+        img.onerror = function() {
+            console.error('Error loading image:', imageUrl);
+        };
+    });
+}
         // Function to populate the file list with checkboxes
         function populateFileList(files) {
             const fileListDiv = document.getElementById('fileList');
@@ -272,12 +276,12 @@
             files.forEach(file => {
                 const label = document.createElement('label');
                 label.className = 'file-checkbox-container';
-                
+    
                 const checkbox = document.createElement('input');
                 checkbox.type = 'checkbox';
                 checkbox.value = file; // Set the file value
                 checkbox.id = file; // Use the file name as the id
-                
+    
                 label.appendChild(checkbox);
                 label.appendChild(document.createTextNode(file));
                 fileListDiv.appendChild(label);
@@ -296,38 +300,23 @@
                 });
         }
     
-        // Call the function to fetch the file list on page load
-        window.onload = function() {
-            fetchFileList();
-        };
+        // Load the file list on page load
+        window.onload = fetchFileList;
     
-        // Event listener for "Select All" checkbox
-        const selectAllCheckbox = document.getElementById('selectAllFiles');
-        selectAllCheckbox.addEventListener('change', function() {
-            const fileCheckboxes = document.querySelectorAll('#fileList input[type="checkbox"]');
-            fileCheckboxes.forEach(checkbox => {
-                checkbox.checked = selectAllCheckbox.checked;
-            });
-        });
-    
-        // Event listener for the Generate button
-// Event listener for the Generate button
-document.getElementById('generateButton').addEventListener('click', function() {
-    const selectedFiles = Array.from(document.querySelectorAll('#fileList input:checked')).map(checkbox => checkbox.value);
-    
-    // Collect selected options by checking if each checkbox is checked
+        document.getElementById('generateButton').onclick = () => {
+    const selectedFiles = Array.from(document.querySelectorAll('#fileList input[type="checkbox"]:checked')).map(cb => cb.value);
     const selectedOptions = [];
+
+    // Collect selected options
     if (document.getElementById('basicStatistics').checked) selectedOptions.push('Basic Statistics');
     if (document.getElementById('emotionalPatterns').checked) selectedOptions.push('Emotional Patterns');
     if (document.getElementById('trendsOfInterest').checked) selectedOptions.push('Trends of Interest');
     if (document.getElementById('hallucinationDetection').checked) selectedOptions.push('Hallucination Detection');
-    if (document.getElementById('all').checked) selectedOptions.push('all');
+    if (document.getElementById('all').checked) selectedOptions.push('All Options');
 
-
-    // Ensure that at least one file is selected
-    if (selectedFiles.length === 0) {
-        alert('Please select at least one file before generating.');
-        return; // Don't proceed if no files are selected
+    if (selectedFiles.length === 0 || selectedOptions.length === 0) {
+        alert('Please select at least one file and one option.');
+        return;
     }
 
     // Show loading indicator and hide the download button
@@ -359,6 +348,11 @@ document.getElementById('generateButton').addEventListener('click', function() {
                 window.location.href = data.reportUrl; // Trigger the download using the report URL from the backend
             };
         }
+
+        // Check if image URLs are returned
+        if (data.imageUrls) {
+            drawImagesOnCanvas(data.imageUrls); // Pass image URLs to the drawing function
+        }
     })
     .catch(error => {
         console.error('Error fetching OpenAI response:', error);
@@ -366,9 +360,7 @@ document.getElementById('generateButton').addEventListener('click', function() {
         // Hide loading indicator on error
         document.getElementById('loading').style.display = 'none';
     });
-});
-
-
+}
     </script>
     
 
