@@ -38,17 +38,16 @@ def chunk_messages(content, max_length=4000):
     return chunks
 
 def build_prompt(options):
-    # Default to basic statistics if no options are selected
-    if "Basic Statistics" in options:
-        return "Extract useful statistics like number of conversations, lengths, frequency nothing else. Keep it basic"
-    elif "Emotional Patterns" in options:
-        return "User Sentiment, Satisfaction, Frustration and other emotional patterns Identify from the conversation user sentiment, if the user was happy with the answer, frustrated, or other emotional patterns. ONLY THIS, NOTHING ELSE"
-    elif "Trends of Interest" in options:
-        return "Extract types of questions, topics, identify trends and other hidden patterns.Identify the most frequently asked questions or discussed topics. ONLY THIS, NOTHING ELSE"
-    elif "Hallucination Detection" in options:
-        return "Identify instances where a chatbot has hallucinated, i.e., provided responses that are either factually incorrect or not relevant to the question based on its knowledge database. Compare chatbot responses with context_summary. SHOW ONLY ABOUT THIS, NOTHING ELSE"
-    else:
-        return "Generate a basic summary of the data."
+    # Use a simple prompt for initial analysis
+    prompts = {
+        "Basic Statistics": "Please extract basic statistics from the conversation.",
+        "Emotional Patterns": "Identify emotional patterns such as user sentiment, satisfaction, and frustration from the conversation.",
+        "Trends of Interest": "Identify trends and frequently asked questions from the conversation.",
+        "Hallucination Detection": "Detect instances of hallucination in chatbot responses."
+    }
+
+    selected_prompts = [prompts[option] for option in options if option in prompts]
+    return " ".join(selected_prompts) if selected_prompts else "Generate a basic summary of the data."
 
 @app.route('/api/read_files', methods=['POST'])
 def read_files():
@@ -96,7 +95,7 @@ def read_files():
         # Combine all the OpenAI responses into a final aggregated result
         final_statistics = process_data_with_openai(" ".join(responses), prompt, is_final_call=True)
 
-        # Now let's format the report in a human-readable way
+        # Generate a human-readable report without JSON content
         formatted_report = generate_human_readable_report(combined_content, final_statistics, selected_options)
 
         # Save the formatted report as a text file or PDF
@@ -114,31 +113,34 @@ def read_files():
     return jsonify({"response": "No valid files selected."})
 
 def generate_human_readable_report(files_data, statistics, options):
-    """Generate a human-readable report, stacking multiple reports in a clear format."""
+    """Generate a human-readable report in plain text format without JSON content."""
     report = []
+
+    report.append("=== Combined Report ===\n\n")
 
     # Loop through each file's data and append the report for it
     for idx, file_data in enumerate(files_data):
         filename = file_data['filename']
-        content = file_data['content']
+        
+        report.append(f"==== Report for {filename} ====\n")
+        report.append("File Content Summary:\n")
 
-        report.append(f"==== Report for {filename} ====")
-        report.append("\nFile Content Summary:\n")
-        report.append(json.dumps(content, indent=4))  # You can customize the content summary if needed
+        # Create a descriptive summary of the content without showing JSON
+        content_summary = f"The file contains {len(file_data['content'])} entries with various topics discussed."
+        report.append(content_summary + "\n")
 
-        report.append("\n\nSelected Options:")
+        report.append("\nSelected Options:\n")
         for option in options:
-            report.append(f"- {option}")
+            report.append(f"- {option}\n")
 
-        report.append("\n\n--- Analysis Results ---")
-        report.append("\n")  # Add a gap before results
-        report.append(statistics[idx])  # Insert the corresponding OpenAI response for this file
+        report.append("--- Analysis Results ---\n")
+        report.append(f"{statistics}\n")  # Use the aggregated statistics directly
 
         # Add a separator between reports
-        report.append("\n\n==================================================\n\n")
+        report.append("\n==================================================\n\n")
 
     # Return the final stacked and formatted report
-    return "\n".join(report)
+    return "".join(report)
 
 def read_json_file(filepath):
     if os.path.exists(filepath):
@@ -150,21 +152,22 @@ def read_json_file(filepath):
 
 def process_data_with_openai(data_content, prompt, is_final_call=False):
     try:
+        # Check if we are generating the final report
         if is_final_call:
-            prompt = "Generate a full raport based on statistics, emotional patterns, Topic and Trends of Interest and Hallucination Detection"
-        
+            prompt = "Create a detailed, plain text report based on the following data:"
+
         message_chunks = chunk_messages(data_content)
 
         responses = []
         for message_chunk in message_chunks:
             completion = client.chat.completions.create(
-                model="gpt-4o",
+                model="gpt-4",
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant."},
                     {"role": "user", "content": f"{prompt} {message_chunk}"}
                 ]
             )
-            response_message = completion.choices[0].message.content
+            response_message = completion.choices[0].message.content.strip()
             responses.append(response_message)
 
         final_response = " ".join(responses)
