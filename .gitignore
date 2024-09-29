@@ -1,2 +1,3 @@
 /.venv
 .bashrc
+__pycache__
